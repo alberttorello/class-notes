@@ -1,0 +1,28 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Apunts BAC.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Apunts BAC.tex")
+
+(toc "toc" "Part I Introducció" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Apunts BAC.tex" nil 0 "Part I" "\\part{Introducció}" 8689)
+
+(file-error "Temes/Tema1")
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Apunts BAC.tex")
+))
+

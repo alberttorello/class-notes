@@ -1,0 +1,305 @@
+%====================================================================
+%Encapçalament
+%====================================================================
+\documentclass[a4paper,oneside,12pt]{article}
+\usepackage[left=2.5cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage[catalan]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage{graphicx} % Required for including pictures
+\usepackage{subfigure} % subfiguras
+\usepackage{float} % Allows putting an [H] in \begin{figure} to specify the exact location of the figure
+\usepackage{wrapfig} % Allows in-line images
+\linespread{1.2}
+\graphicspath{{Pictures/}}
+
+\usepackage{subscript} %superíndexs i subíndexs
+\setcounter{secnumdepth}{5} %Numerar fins a subparàgrafs
+\usepackage{pdfpages} %posar arxius pdf (com articles...)
+
+\usepackage{amssymb, amsmath, amsbsy} % librerias ams
+\usepackage{stackrel} %Escriure a sobre o sota de qualsevol fletxa
+\usepackage{color}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage[full]{textcomp}
+\usepackage{multirow}
+
+% Enumeracions
+\usepackage[shortlabels]{enumitem}
+\usepackage{pstricks}
+
+\usepackage{tikz}
+\newcommand*{\itembolasazules}[1]{% bolas 3D 
+	\footnotesize\protect\tikz[baseline=-3pt]% 
+	\protect\node[scale=.7, circle, shade, ball
+	color=blue]{\color{white}\Large\bf#1};}
+
+\newcommand*{\itembolasverdes}[1]{% bolas 3D 
+	\footnotesize\protect\tikz[baseline=-3pt]% 
+	\protect\node[scale=.7, circle, shade, ball
+	color=green]{\color{white}\Large\bf#1};}
+
+\newcommand*{\itembolasrojas}[1]{% bolas 3D 
+	\footnotesize\protect\tikz[baseline=-3pt]% 
+	\protect\node[scale=.7, circle, shade, ball
+	color=red]{\color{white}\Large\bf#1};}
+
+% Lletres gregues
+\DeclareRobustCommand{\greektext}{%
+  \fontencoding{LGR}\selectfont\def\encodingdefault{LGR}}
+\DeclareRobustCommand{\textgreek}[1]{\leavevmode{\greektext #1}}
+\DeclareFontEncoding{LGR}{}{}
+\DeclareTextSymbol{\~}{LGR}{126}
+
+%Bibliografia
+\usepackage[square]{natbib}
+
+% Instruccions especials
+\newcommand{\seny}{senyalització}
+\newcommand{\aas}{aminoàcids}
+\newcommand{\TF}{factor de transcripció}
+\newcommand{\TFs}{factors de transcripció}
+\newcommand{\tgfb}{TGF\textgreek{b}}
+\newcommand{\pparg}{PPAR\textgreek{g}}
+\newcommand{\betaadren}{\textgreek{b}-adrenèrgic}
+\newcommand{\Rbeta}{R\textsubscript{\textgreek{b}}}
+\newcommand{\iso}{isoproterenol}
+\newcommand{\aden}{adenilat ciclasa}
+\newcommand{\ca}{Ca\textsuperscript{2+}}
+\newcommand{\betacat}{\textgreek{b}-catenina}
+\newcommand{\fletsup}{$\uparrow$}
+\newcommand{\fletinf}{$\downarrow$}
+\newcommand{\gng}{gluconeogènesi}
+\newcommand{\tnfa}{TNF-\textgreek{a}}
+\newcommand{\ikb}{I\textgreek{k}B\textgreek{a}}
+\newcommand{\nfkb}{NF-\textgreek{k}B}
+\newcommand{\pgc}{PGC-1\textgreek{a}}
+\newcommand{\na}{Na\textsuperscript{+}}
+\newcommand{\pot}{K\textsuperscript{+}}
+\newcommand{\ags}{àcids grassos}
+\newcommand{\ck}{cicle de Krebs}
+\newcommand{\ag}{àcid gras}
+\newcommand{\ppara}{PPAR\textgreek{a}}
+\newcommand{\ppard}{PPAR\textgreek{d}}
+\newcommand{\ifng}{IFN-\textgreek{g}}
+
+% Fórmules químiques
+\usepackage{chemformula}
+%\usepackage[version=4,arrows=pgf]{mhchem}
+\usepackage{texshade}
+\usepackage{textopo}
+
+%\newcommand{\powd}[1]{$10^{#1}$}
+%\newenvironment{?}{?}{?}
+
+\setcounter{tocdepth}{2} % numerar fins subseccions a TOC
+
+% Encapçalament i peu de pàgina
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+%\renewcommand{\sectionmark}[1]{\markright{\textsc{\thesection. #1}}}
+\lhead{}
+\rhead{}
+\lfoot{\sc Teràpia Cel·lular i Gènica}
+%\rfoot{\thepage}
+\cfoot{}
+
+\fancyfoot[R]{\thepage}
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\raggedbottom
+\providecommand{\tabularnewline}{\\}
+
+
+% Format seccions
+%\usepackage{sectsty}
+%\sectionfont{\centering\nohang\LARGE\bfseries}
+%\partfont{\centering\huge\red}
+\usepackage{titlesec}
+
+\titleformat{\section}[block]{\centering}{\bfseries\LARGE\thesection  . }{0em}{\LARGE\bfseries}{}
+
+\titleformat{\subsection}[hang]{\flushleft}{\bfseries\Large\thesubsection }{0.2cm}{\Large\bfseries}
+
+\titleformat{\subsubsection}[hang]{\flushleft}{\bfseries\large\thesubsubsection }{0.2cm}{\large\bfseries}
+
+% Format parts
+%\titleformat{\part}[hang]{\centering\vspace{-1.75cm}}{\bfseries\huge\thepart . }{0em}{\huge \bfseries}{}
+\newcommand{\titline}{\titlerule[2pt]}
+\titleformat{\part}[hang]
+  {\vspace{-2cm}\sc\bfseries\huge\red}{\centering\huge\sc\bfseries
+  	}
+  {0ex}
+  {\titline \\
+   \vspace{1pt}%
+   \centering\huge\sc\bfseries\red\thepart . }
+   [%
+ \titline]
+
+\usepackage[hyperindex,linktocpage]{hyperref}
+
+% Format Índex
+\usepackage{kpfonts}
+\usepackage{titletoc}
+\contentsmargin{0cm}
+\titlecontents{part}[0pc]
+{\addvspace{30pt}%
+	\\\color{red}\large\sc\bfseries}%
+{}
+{}
+{\;\titlerule\;\large\bfseries \thecontentspage}%
+\titlecontents{section}[2.4pc]
+{\addvspace{1pt}}
+{\bfseries\contentslabel[\thecontentslabel]{2.4pc}}
+{}
+{\hfill\small\bfseries\thecontentspage}
+[]
+\titlecontents*{subsection}[4pc]
+{\addvspace{-1pt}\small}
+{}
+{}
+{\ --- \small\thecontentspage}
+[ \textbullet\ ][]
+%%--
+
+
+% ====================ENTORNS ====================
+\usepackage{tikz,tkz-tab}
+\usepackage{tcolorbox, empheq}%
+
+% Entorn per dades
+\definecolor{colordadesfons}{RGB}{255,255,255}
+\definecolor{colordadesmarc}{RGB}{108, 217, 0}
+
+%\definecolor{colorrecfons}{RGB}{203,216,227}
+\definecolor{colorrecfons}{RGB}{255,255,255}
+\definecolor{colorrecmarc}{RGB}{128,177,221}
+
+\tcbuselibrary{theorems}
+\newtcbtheorem[number within=section]{dades}{Anàlisi de dades} {colback=colordadesfons,colframe=colordadesmarc,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
+
+\newtcbtheorem[number within=section]{rec}{Recordatori} {before=\begin{center},after=\end{center},colback=colorrecfons,colframe=colorrecmarc,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
+
+\newtcbtheorem[number within=section]{metodes}{Mètodes} {colback=red!5!white,colframe=red!75!black,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
+
+% Equacions
+\tcbuselibrary{skins,breakable}
+\newcounter{example}
+\colorlet{colexam}{red!75!black}
+
+\newtcolorbox[]{myexample}[2][]{%
+	empty,title={#1 \thetcbcounter},attach boxed title to top left,
+	boxed title style={empty,size=minimal,toprule=2pt,top=4pt,
+		overlay={\draw[colexam,line width=2pt]
+			([yshift=-1pt]frame.north west)--([yshift=-1pt]frame.north east);}},
+	coltitle=colexam,fonttitle=\Large\bfseries,
+	before=\par\medskip\noindent,parbox=false,boxsep=0pt,left=0pt,right=3mm,top=4pt,
+	breakable,pad at break*=0mm,vfill before first,
+	overlay unbroken={\draw[colexam,line width=1pt]
+		([yshift=-1pt]title.north east)--([xshift=-0.5pt,yshift=-1pt]title.north-|frame.east)
+		--([xshift=-0.5pt]frame.south east)--(frame.south west); },
+	overlay first={\draw[colexam,line width=1pt]
+		([yshift=-1pt]title.north east)--([xshift=-0.5pt,yshift=-1pt]title.north-|frame.east)
+		--([xshift=-0.5pt]frame.south east); },
+	overlay middle={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north east)
+		--([xshift=-0.5pt]frame.south east); },
+	overlay last={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north east)
+		--([xshift=-0.5pt]frame.south east)--(frame.south west);},% 
+}
+
+\begin{document}
+
+%----------------------------------------------------------
+%Portada
+%----------------------------------------------------------
+\begin{titlepage}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
+
+\center % Center everything on the page
+\HRule \\[0.4cm]
+{\Huge\bfseries\textsc{Teràpia Cel·lular i Gènica}} \\[0.4cm] % Title of your document
+\HRule \\[04cm]
+\includegraphics[width=1\textwidth]{Logo} %Include a department/university logo
+
+\vspace{1cm}
+\textsc{\Large Ciències Biomèdiques UB - Primavera 2017}\\[0.5cm] % Minor heading such as course title
+\vspace{0.5cm}
+\textsc{\large Albert Torelló Pérez}
+\vfill % Fill the rest of the page with whitespace
+\end{titlepage}
+
+%===================================
+\renewcommand{\figurename}{\textsc{{Figura}}}
+\renewcommand{\tablename}{\textsc{{Taula}}}
+\renewcommand{\thefootnote}{\alph{footnote}}
+
+%------------------------------------------------------------------------------
+%Cos dels apunts 
+%------------------------------------------------------------------------------
+\pagenumbering{Roman} % para comenzar la numeración de paginas en números romanos
+
+%----------------------------
+% Taula de continguts
+%----------------------------
+\tableofcontents
+
+%--------------------------------------------------------------------------------------------------
+%BLOC 1. TERÀPIA CEL·LULAR
+%--------------------------------------------------------------------------------------------------
+\newpage
+\pagenumbering{arabic}
+\part{Teràpia Cel·lular}
+
+%------------------------------------------------------------------------------
+% Tema 1. 
+%------------------------------------------------------------------------------
+\input{Temes/Tema1}
+
+%--------------------------------------------------------------------------------------------------
+%BLOC 2. TERÀPIA GÈNICA
+%--------------------------------------------------------------------------------------------------
+\newpage
+\part{Teràpia Gènica}
+
+%------------------------------------------------------------------------------
+% Tema 
+%------------------------------------------------------------------------------
+%\input{Temes/Tema3}
+
+%=================================================================
+%=================================================================
+\newpage
+\phantomsection
+\addcontentsline{toc}{part}{Referències}
+\begin{multicols}{2}
+\bibliography{bibterapia} 
+\bibliographystyle{authordate3}
+\end{multicols}
+
+\end{document}
+
+Avaluació continuada: Hi ha 2 exàmens (el 15 de març de Teràpia
+Cel·lular i un altre de Genètica i Bioquímica). Cada part val el
+mateix.
+Examen tipus test + 1 pregunta curta.
+Un 15\% restant són seminaris/treballs.
+A l'examen de juny sortirà una pregunta de cada bloc de seminaris.
+===================================================
+Agencia Española del Medicamento y Protocolos Sanitarios
+ Les ESC s'han d'obtenir per CRO, previ informe positiu del CEIC
+ (Consell Ètic d'Investigació Clínica); que serà aprovat per AEMPS.
+Després s'ha de preparar un document CRD amb les persones que
+treballaran en el projecte, pacients... Ara es poden recollir
+cèl·lules.
+
+En els processos de fecundació in vitro, es demana a la pacient què
+fer amb els embrions no implantats; si destruir-los, donar-los.
+
+L'emmagatzematge de cèl·lules mare es duu a terme en bancs
+especialitzats.
+
+No es permet la utilització pròpia de cèl·lules.
