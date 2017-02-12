@@ -1,5 +1,5 @@
 %====================================================================
-%EncapÃƒÂ§alament
+%Encapçalament
 %====================================================================
 \documentclass[a4paper,oneside,12pt]{article}
 \usepackage[left=2.5cm,right=2cm,top=2cm,bottom=2cm]{geometry}
@@ -13,8 +13,8 @@
 \linespread{1.2}
 \graphicspath{{Pictures/}}
 
-\usepackage{subscript} %superÃƒÂ­ndexs i subÃƒÂ­ndexs
-\setcounter{secnumdepth}{5} %Numerar fins a subparÃƒÂ grafs
+\usepackage{subscript} %superíndexs i subíndexs
+\setcounter{secnumdepth}{5} %Numerar fins a subparàgrafs
 \usepackage{pdfpages} %posar arxius pdf (com articles...)
 
 \usepackage{amssymb, amsmath, amsbsy} % librerias ams
@@ -56,13 +56,13 @@
 \usepackage[square]{natbib}
 
 % Instruccions especials
-\newcommand{\seny}{senyalitzaciÃƒÂ³}
-\newcommand{\aas}{aminoÃƒÂ cids}
-\newcommand{\TF}{factor de transcripciÃƒÂ³}
-\newcommand{\TFs}{factors de transcripciÃƒÂ³}
+\newcommand{\seny}{senyalització}
+\newcommand{\aas}{aminoàcids}
+\newcommand{\TF}{factor de transcripció}
+\newcommand{\TFs}{factors de transcripció}
 \newcommand{\tgfb}{TGF\textgreek{b}}
 \newcommand{\pparg}{PPAR\textgreek{g}}
-\newcommand{\betaadren}{\textgreek{b}-adrenÃƒÅ¡rgic}
+\newcommand{\betaadren}{\textgreek{b}-adrenèrgic}
 \newcommand{\Rbeta}{R\textsubscript{\textgreek{b}}}
 \newcommand{\iso}{isoproterenol}
 \newcommand{\aden}{adenilat ciclasa}
@@ -70,21 +70,21 @@
 \newcommand{\betacat}{\textgreek{b}-catenina}
 \newcommand{\fletsup}{$\uparrow$}
 \newcommand{\fletinf}{$\downarrow$}
-\newcommand{\gng}{gluconeogÃƒÅ¡nesi}
+\newcommand{\gng}{gluconeogènesi}
 \newcommand{\tnfa}{TNF-\textgreek{a}}
 \newcommand{\ikb}{I\textgreek{k}B\textgreek{a}}
 \newcommand{\nfkb}{NF-\textgreek{k}B}
 \newcommand{\pgc}{PGC-1\textgreek{a}}
 \newcommand{\na}{Na\textsuperscript{+}}
 \newcommand{\pot}{K\textsuperscript{+}}
-\newcommand{\ags}{ÃƒÂ cids grassos}
+\newcommand{\ags}{àcids grassos}
 \newcommand{\ck}{cicle de Krebs}
-\newcommand{\ag}{ÃƒÂ cid gras}
+\newcommand{\ag}{àcid gras}
 \newcommand{\ppara}{PPAR\textgreek{a}}
 \newcommand{\ppard}{PPAR\textgreek{d}}
 \newcommand{\ifng}{IFN-\textgreek{g}}
 
-% FÃƒÂ³rmules quÃƒÂ­miques
+% Fórmules químiques
 \usepackage{chemformula}
 %\usepackage[version=4,arrows=pgf]{mhchem}
 \usepackage{texshade}
@@ -95,13 +95,13 @@
 
 \setcounter{tocdepth}{2} % numerar fins subseccions a TOC
 
-% EncapÃƒÂ§alament i peu de pÃƒÂ gina
+% Encapçalament i peu de pàgina
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 %\renewcommand{\sectionmark}[1]{\markright{\textsc{\thesection. #1}}}
 \lhead{}
 \rhead{}
-\lfoot{\sc Enginyeria GenÃƒÅ¡tica}
+\lfoot{\sc Teràpia Cel·lular i Gènica}
 %\rfoot{\thepage}
 \cfoot{}
 
@@ -141,7 +141,7 @@
 
 \usepackage[hyperindex,linktocpage]{hyperref}
 
-% Format ÃƒÂndex
+% Format Índex
 \usepackage{kpfonts}
 \usepackage{titletoc}
 \contentsmargin{0cm}
@@ -179,11 +179,11 @@
 \definecolor{colorrecmarc}{RGB}{128,177,221}
 
 \tcbuselibrary{theorems}
-\newtcbtheorem[number within=section]{dades}{AnÃƒÂ lisi de dades} {colback=colordadesfons,colframe=colordadesmarc,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
+\newtcbtheorem[number within=section]{dades}{Anàlisi de dades} {colback=colordadesfons,colframe=colordadesmarc,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
 
 \newtcbtheorem[number within=section]{rec}{Recordatori} {before=\begin{center},after=\end{center},colback=colorrecfons,colframe=colorrecmarc,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
 
-\newtcbtheorem[number within=section]{metodes}{MÃƒÅ¡todes} {colback=red!5!white,colframe=red!75!black,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
+\newtcbtheorem[number within=section]{metodes}{Mètodes} {colback=red!5!white,colframe=red!75!black,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
 
 % Equacions
 \tcbuselibrary{skins,breakable}
@@ -221,14 +221,14 @@
 
 \center % Center everything on the page
 \HRule \\[0.4cm]
-{\Huge\bfseries\textsc{Enginyeria GenÃƒÅ¡tica}} \\[0.4cm] % Title of your document
+{\Huge\bfseries\textsc{Teràpia Cel·lular i Gènica}} \\[0.4cm] % Title of your document
 \HRule \\[04cm]
 \includegraphics[width=1\textwidth]{Logo} %Include a department/university logo
 
 \vspace{1cm}
-\textsc{\Large CiÃƒÅ¡ncies BiomÃƒÅ¡diques UB - Primavera 2017}\\[0.5cm] % Minor heading such as course title
+\textsc{\Large Ciències Biomèdiques UB - Primavera 2017}\\[0.5cm] % Minor heading such as course title
 \vspace{0.5cm}
-\textsc{\large Albert TorellÃƒÂ³ PÃƒÂ©rez}
+\textsc{\large Albert Torelló Pérez}
 \vfill % Fill the rest of the page with whitespace
 \end{titlepage}
 
@@ -240,7 +240,7 @@
 %------------------------------------------------------------------------------
 %Cos dels apunts 
 %------------------------------------------------------------------------------
-\pagenumbering{Roman} % para comenzar la numeraciÃƒÂ³n de paginas en nÃƒÂºmeros romanos
+\pagenumbering{Roman} % para comenzar la numeración de paginas en números romanos
 
 %----------------------------
 % Taula de continguts
@@ -248,49 +248,58 @@
 \tableofcontents
 
 %--------------------------------------------------------------------------------------------------
-%BLOC 1. MANEIG D'ÃƒÂ€CIDS NUCLEICS
+%BLOC 1. TERÀPIA CEL·LULAR
 %--------------------------------------------------------------------------------------------------
 \newpage
 \pagenumbering{arabic}
-\part{Maneig d'àcids nucleics}
+\part{Teràpia Cel·lular}
 
-%--------------------------------------------------------
-% Tema 1. PreparacioÃŒÂ i anaÃŒÂ€lisi dels aÃŒÂ€cids nucleics
-%--------------------------------------------------------
-\input{Temes/Tema1.tex}
-
-%--------------------------------------------------------------------------------------------------
-%BLOC 2. CLONATGE
-%--------------------------------------------------------------------------------------------------
-\newpage
-\pagenumbering{arabic}
-\part{Clonatge}
-
+%------------------------------------------------------------------------------
+% Tema 1. 
+%------------------------------------------------------------------------------
+\input{Temes/Tema1}
 
 %--------------------------------------------------------------------------------------------------
-%BLOC 3. CARACTERITZACIÃƒÂ“ DELS PRODUCTES D'EXPRESSIÃƒÂ“
+%BLOC 2. TERÀPIA GÈNICA
 %--------------------------------------------------------------------------------------------------
 \newpage
-\pagenumbering{arabic}
-\part{CaracteritzaciÃƒÂ³ d'ÃƒÂ cids nucleics}
+\part{Teràpia Gènica}
 
-
-%--------------------------------------------------------------------------------------------------
-%BLOC 4. APLICACIONS DE L'ENGINYERIA GENÃƒÂˆTICA 
-%--------------------------------------------------------------------------------------------------
-\newpage
-\pagenumbering{arabic}
-\part{Aplicacions de l'enginyeria genÃƒÅ¡tica}
-
+%------------------------------------------------------------------------------
+% Tema 
+%------------------------------------------------------------------------------
+%\input{Temes/Tema3}
 
 %=================================================================
 %=================================================================
 \newpage
 \phantomsection
-\addcontentsline{toc}{part}{ReferÃƒÅ¡ncies}
+\addcontentsline{toc}{part}{Referències}
 \begin{multicols}{2}
-\bibliography{bibregumeta} 
+\bibliography{bibterapia} 
 \bibliographystyle{authordate3}
 \end{multicols}
 
 \end{document}
+
+Avaluació continuada: Hi ha 2 exàmens (el 15 de març de Teràpia
+Cel·lular i un altre de Genètica i Bioquímica). Cada part val el
+mateix.
+Examen tipus test + 1 pregunta curta.
+Un 15\% restant són seminaris/treballs.
+A l'examen de juny sortirà una pregunta de cada bloc de seminaris.
+===================================================
+Agencia Española del Medicamento y Protocolos Sanitarios
+ Les ESC s'han d'obtenir per CRO, previ informe positiu del CEIC
+ (Consell Ètic d'Investigació Clínica); que serà aprovat per AEMPS.
+Després s'ha de preparar un document CRD amb les persones que
+treballaran en el projecte, pacients... Ara es poden recollir
+cèl·lules.
+
+En els processos de fecundació in vitro, es demana a la pacient què
+fer amb els embrions no implantats; si destruir-los, donar-los.
+
+L'emmagatzematge de cèl·lules mare es duu a terme en bancs
+especialitzats.
+
+No es permet la utilització pròpia de cèl·lules.
