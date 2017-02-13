@@ -3,11 +3,72 @@
 %------------------------------------------------------------------------------
 \section{Semiologia}
 
-\subsection{Valors de referÃ¨ncia}
-La poblaciÃ³ de referÃ¨ncia Ã©s la poblaciÃ³ individus sans (normals). Per estudiar-ho, s'agafa una mostra de referÃ¨ncia, que Ã©s un nombre assequible i representatiu de la poblaciÃ³ de referÃ¨ncia.
+\subsection{Valors de referència}
+La població de referència és la població individus sans (normals). Per estudiar-ho, s'agafa una mostra de referència, que és un nombre assequible i representatiu de la població de referència.
 
 \begin{description}
-\item[Valors de referÃ¨ncia] Rang de resultat analÃ­tic de la determinaciÃ³ d'un parÃ metre bioquÃ­mic en espÃ¨cimens d'individus de referÃ¨ncia.
+\item[Valors de referència] Rang de resultat analític de la determinació d'un paràmetre bioquímic en espècimens d'individus de referència.
 
-\item[Capacitat discriminant] Propietat de donar valors diferents en individus d'una poblaciÃ³ normal ($\hat{E}$) respecte els d'una poblaciÃ³ patolÃ²gica (E).
+\item[Capacitat discriminant] Propietat de donar valors diferents en individus d'una població normal ($\hat{E}$) respecte els d'una població patològica ($E$).
 \end{description}
+
+\subsection{Determinació de la capacitat discriminant}
+La capacitat discriminant es mesura amb:
+\begin{itemize}
+\item \textbf{Sensibilitat:} Probabilitat d'obtenir un resultat positiu en un
+  individu de E (malalt).
+  \begin{equation}
+    \label{eq:1}
+    \frac{PC}{PC+NF}
+  \end{equation}
+On $PC$ són els positius certs i $NF$ els negatius falsos. Seria el nombre de malalts detectats entre els malalts totals.
+
+\item \textbf{Especificitat:} Probabilitat d'obtenir un resultat
+  negatiu en un individu de $\hat{E}$ (encertar amb un sa).
+  \begin{equation}
+    \label{eq:2}
+    \frac{NC}{NC+PF}
+  \end{equation}
+
+On $NC$ són els negatius certs i $PF$ els positius falsos. Seria el
+nombre de sans detectats entre els sans totals.
+
+\item \textbf{Eficàcia diagnòstica} És el quocient d'individus
+  classificats correctament en la població de malalts ($E$) o de sans
+  ($\hat{E}$) respecte el total de la mostra:
+  \begin{equation}
+    \label{eq:3}
+    \frac{PC+NC}{PC+NF+NC+PF}
+  \end{equation}
+
+\item \textbf{Valor predictiu} És la probabilitat de patir la malaltia
+  quan el resultat e??s positiu i de no patir-la quan el resultat e??s
+  negatiu.
+  \begin{itemize}
+  \item Positiu: Probabilitat de patir-la si el diagno??stic és positiu:
+    \begin{equation}
+      \label{eq:4}
+      \frac{PC}{PC+NF}
+    \end{equation}
+  \item Negatiu: Probabilitat de patir-la si el diagno??stic és negatiu:
+    \begin{equation}
+      \label{eq:5}
+      \frac{NC}{NC+NF}
+    \end{equation}
+  \end{itemize}
+\end{itemize}
+
+\subsubsection*{Exemple}
+\begin{figure}[H]
+  \centering
+\includegraphics[width=0.9\textwidth]{fig1}  
+\end{figure}
+
+\begin{itemize}
+\item En A la sensibilitat e??s ma??xima (1) i l???especificitat e??s mi??nima
+  (0)
+\item En B la sensibilitat és màxima (0.95) i l'especificitat és 0.5.
+\item En C la sensibilitat és 0.76 i l'especificitat és 0.75.
+\item En D la sensibilitat és 0.5 i l'especificitat és 0.95.
+\item En E la sensibilitat e??s mi??nima (0) i l???especificitat e??s ma??xima (1)
+\end{itemize}
