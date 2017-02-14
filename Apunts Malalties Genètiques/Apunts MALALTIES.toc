@@ -1,0 +1,6 @@
+\select@language {catalan}
+\contentsline {part}{I\hspace {1em}Introducci\'o}{1}{part.1}
+\contentsline {section}{\numberline {1}Introducci\'o}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Hist\`oria}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Mutacions}{1}{subsection.1.2}
+\contentsfinish 
