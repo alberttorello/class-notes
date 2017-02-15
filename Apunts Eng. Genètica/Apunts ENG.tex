@@ -1,5 +1,5 @@
 %====================================================================
-%Encap�alament
+%Encap?alament
 %====================================================================
 \documentclass[a4paper,oneside,12pt]{article}
 \usepackage[left=2.5cm,right=2cm,top=2cm,bottom=2cm]{geometry}
@@ -13,8 +13,8 @@
 \linespread{1.2}
 \graphicspath{{Pictures/}}
 
-\usepackage{subscript} %superÃ­ndexs i subÃ­ndexs
-\setcounter{secnumdepth}{5} %Numerar fins a subparÃ grafs
+\usepackage{subscript} %superíndexs i subíndexs
+\setcounter{secnumdepth}{5} %Numerar fins a subparàgrafs
 \usepackage{pdfpages} %posar arxius pdf (com articles...)
 
 \usepackage{amssymb, amsmath, amsbsy} % librerias ams
@@ -56,13 +56,13 @@
 \usepackage[square]{natbib}
 
 % Instruccions especials
-\newcommand{\seny}{senyalitzaciÃ³}
-\newcommand{\aas}{aminoÃ cids}
-\newcommand{\TF}{factor de transcripciÃ³}
-\newcommand{\TFs}{factors de transcripciÃ³}
+\newcommand{\seny}{senyalització}
+\newcommand{\aas}{aminoàcids}
+\newcommand{\TF}{factor de transcripció}
+\newcommand{\TFs}{factors de transcripció}
 \newcommand{\tgfb}{TGF\textgreek{b}}
 \newcommand{\pparg}{PPAR\textgreek{g}}
-\newcommand{\betaadren}{\textgreek{b}-adrenÃšrgic}
+\newcommand{\betaadren}{\textgreek{b}-adren�??rgic}
 \newcommand{\Rbeta}{R\textsubscript{\textgreek{b}}}
 \newcommand{\iso}{isoproterenol}
 \newcommand{\aden}{adenilat ciclasa}
@@ -70,21 +70,21 @@
 \newcommand{\betacat}{\textgreek{b}-catenina}
 \newcommand{\fletsup}{$\uparrow$}
 \newcommand{\fletinf}{$\downarrow$}
-\newcommand{\gng}{gluconeogÃšnesi}
+\newcommand{\gng}{gluconeog�??nesi}
 \newcommand{\tnfa}{TNF-\textgreek{a}}
 \newcommand{\ikb}{I\textgreek{k}B\textgreek{a}}
 \newcommand{\nfkb}{NF-\textgreek{k}B}
 \newcommand{\pgc}{PGC-1\textgreek{a}}
 \newcommand{\na}{Na\textsuperscript{+}}
 \newcommand{\pot}{K\textsuperscript{+}}
-\newcommand{\ags}{Ã cids grassos}
+\newcommand{\ags}{àcids grassos}
 \newcommand{\ck}{cicle de Krebs}
-\newcommand{\ag}{Ã cid gras}
+\newcommand{\ag}{àcid gras}
 \newcommand{\ppara}{PPAR\textgreek{a}}
 \newcommand{\ppard}{PPAR\textgreek{d}}
 \newcommand{\ifng}{IFN-\textgreek{g}}
 
-% FÃ³rmules quÃ­miques
+% Fórmules químiques
 \usepackage{chemformula}
 %\usepackage[version=4,arrows=pgf]{mhchem}
 \usepackage{texshade}
@@ -95,13 +95,13 @@
 
 \setcounter{tocdepth}{2} % numerar fins subseccions a TOC
 
-% EncapÃ§alament i peu de pÃ gina
+% Encapçalament i peu de pàgina
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 %\renewcommand{\sectionmark}[1]{\markright{\textsc{\thesection. #1}}}
 \lhead{}
 \rhead{}
-\lfoot{\sc Enginyeria Gen?tica}
+\lfoot{\sc Enginyeria Gen�tica}
 %\rfoot{\thepage}
 \cfoot{}
 
@@ -141,7 +141,7 @@
 
 \usepackage[hyperindex,linktocpage]{hyperref}
 
-% Format Ãndex
+% Format Índex
 \usepackage{kpfonts}
 \usepackage{titletoc}
 \contentsmargin{0cm}
@@ -179,11 +179,11 @@
 \definecolor{colorrecmarc}{RGB}{128,177,221}
 
 \tcbuselibrary{theorems}
-\newtcbtheorem[number within=section]{dades}{AnÃ lisi de dades} {colback=colordadesfons,colframe=colordadesmarc,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
+\newtcbtheorem[number within=section]{dades}{Anàlisi de dades} {colback=colordadesfons,colframe=colordadesmarc,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
 
 \newtcbtheorem[number within=section]{rec}{Recordatori} {before=\begin{center},after=\end{center},colback=colorrecfons,colframe=colorrecmarc,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
 
-\newtcbtheorem[number within=section]{metodes}{MÃštodes} {colback=red!5!white,colframe=red!75!black,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
+\newtcbtheorem[number within=section]{metodes}{M�??todes} {colback=red!5!white,colframe=red!75!black,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
 
 % Equacions
 \tcbuselibrary{skins,breakable}
@@ -240,7 +240,7 @@
 %------------------------------------------------------------------------------
 %Cos dels apunts 
 %------------------------------------------------------------------------------
-\pagenumbering{Roman} % para comenzar la numeraciÃ³n de paginas en nÃºmeros romanos
+\pagenumbering{Roman} % para comenzar la numeración de paginas en números romanos
 
 %----------------------------
 % Taula de continguts
@@ -255,11 +255,15 @@
 \part{Maneig d'�cids nucleics}
 
 %--------------------------------------------------------
-% Tema 1. PreparacioÌ i anaÌlisi dels aÌcids nucleics
+% Tema 1. Preparaci? i an?lisi dels ?cids nucleics
 %--------------------------------------------------------
 \input{Temes/Tema1.tex}
 
-
+%--------------------------------------------------------
+% Tema 2. Enzims per la manipulaci? dels ?cids nucleics
+%--------------------------------------------------------
+\newpage
+\input{Temes/Tema2.tex}
 
 %--------------------------------------------------------------------------------------------------
 %BLOC 2. CLONATGE
@@ -269,17 +273,16 @@
 
 
 %--------------------------------------------------------------------------------------------------
-%BLOC 3. CARACTERITZACIÃ DELS PRODUCTES D'EXPRESSIÃ
+%BLOC 3. CARACTERITZACI? DELS PRODUCTES D'EXPRESSI?
 %--------------------------------------------------------------------------------------------------
 \newpage
 \part{Caracteritzaci� d'�cids nucleics}
 
 
 %--------------------------------------------------------------------------------------------------
-%BLOC 4. APLICACIONS DE L'ENGINYERIA GENÃTICA 
+%BLOC 4. APLICACIONS DE L'ENGINYERIA GEN?TICA 
 %--------------------------------------------------------------------------------------------------
 \newpage
-\pagenumbering{arabic}
 \part{Aplicacions de l'enginyeria gen�tica}
 
 
@@ -287,7 +290,7 @@
 %=================================================================
 \newpage
 \phantomsection
-\addcontentsline{toc}{part}{ReferÃšncies}
+\addcontentsline{toc}{part}{Refer�??ncies}
 \begin{multicols}{2}
 \bibliography{bibregumeta} 
 \bibliographystyle{authordate3}

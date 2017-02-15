@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.1)  13 FEB 2017 16:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.1)  16 FEB 2017 00:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2051,7 +2051,7 @@ LaTeX Info: Redefining \nameref on input line 213.
 \openout9 = `"Apunts ENG.out"'.
 
 
-<Logo.jpg, id=43, 632.3625pt x 438.63875pt>
+<Logo.jpg, id=59, 632.3625pt x 438.63875pt>
 File: Logo.jpg Graphic file (type jpg)
  <use Logo.jpg>
 Package pdftex.def Info: Logo.jpg used on input line 226.
@@ -2076,10 +2076,7 @@ Type  H <return>  for immediate help.
                                                   
 l.2 ... {1em}Maneig d'\`acids nucleics}{1}{part.1}
                                                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 LaTeX Font Info:    Try loading font information for TS1+jkp on input line 8.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
 File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
@@ -2091,12 +2088,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 ...{part}{II\hspace {1em}Clonatge}{1}{part.2}
+l.23 ...part}{II\hspace {1em}Clonatge}{12}{part.2}
                                                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2104,12 +2098,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 ...eritzaci\'o d'\`acids nucleics}{1}{part.3}
+l.24 ...ritzaci\'o d'\`acids nucleics}{13}{part.3}
                                                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2117,12 +2108,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...ons de l'enginyeria gen\`etica}{1}{part.4}
+l.25 ...ns de l'enginyeria gen\`etica}{14}{part.4}
                                                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 )
 \tf@toc=\write10
 \openout10 = `"Apunts ENG.toc"'.
@@ -2133,52 +2121,96 @@ ier (name{page.1}) has been already used, duplicate ignored
                    \relax 
 l.34 \item E
             lecció del vector: Si el volem propagar en procariotes o eucario...
-[1] [2] [3] [4] [5]) [6]pdfTeX warning (ext4): destination with the same identi
-fier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.275 \newpage
-               [1]pdfTeX warning (ext4): destination with the same identifier (
-name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.283 \newpage
-               [1]pdfTeX warning (ext4): destination with the same identifier (
-name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.290 \newpage
-               [1]
+[1] [2] [3] [4] [5]
+LaTeX Font Info:    Try loading font information for OT1+jkp on input line 220.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
+File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
+)
+LaTeX Font Info:    Try loading font information for U+jkpsya on input line 220
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsya.fd
+File: ujkpsya.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 220
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyb.fd
+File: ujkpsyb.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpmia on input line 220
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpmia.fd
+File: ujkpmia.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 220
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
+File: ujkpsyc.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for LGR+jkp on input line 232.
+
+LaTeX Font Info:    No file LGRjkp.fd. on input line 232.
+
+
+LaTeX Font Warning: Font shape `LGR/jkp/m/n' undefined
+(Font)              using `LGR/cmr/m/n' instead on input line 232.
+
+[6] <Pictures/fig1.png, id=139, 306.14375pt x 435.6275pt>
+File: Pictures/fig1.png Graphic file (type png)
+
+<use Pictures/fig1.png>
+Package pdftex.def Info: Pictures/fig1.png used on input line 320.
+(pdftex.def)             Requested size: 234.73524pt x 334.01837pt.
+ [7]
+<Pictures/fig2.png, id=146, 643.40375pt x 774.895pt>
+File: Pictures/fig2.png Graphic file (type png)
+ <use Pictures/fig2.png>
+Package pdftex.def Info: Pictures/fig2.png used on input line 354.
+(pdftex.def)             Requested size: 328.6279pt x 395.79425pt.
+
+[8 <./Pictures/fig1.png>] [9 <./Pictures/fig2.png>]) [10] (./Temes/Tema2.tex)
+[11] [12] [13] [14]
 No file "Apunts ENG".bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 299.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 299.
 (./Apunts ENG.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 299.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 299.
 Package rerunfilecheck Info: File `"Apunts ENG".out' has not changed.
-(rerunfilecheck)             Checksum: CB0CFD8FF45FDD2FD490C9C060132F05;669.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 298.
+(rerunfilecheck)             Checksum: F52B1E00FC135CEA191F12B20D9D771C;1003.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 299.
  ) 
 Here is how much of TeX's memory you used:
- 40781 strings out of 493013
- 749788 string characters out of 6133344
- 1047103 words of memory out of 5000000
- 43682 multiletter control sequences out of 15000+600000
- 123699 words of font info for 68 fonts, out of 8000000 for 9000
+ 40973 strings out of 493013
+ 752765 string characters out of 6133344
+ 1047251 words of memory out of 5000000
+ 43818 multiletter control sequences out of 15000+600000
+ 136629 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,12n,83p,10378b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,12n,83p,10378b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2016/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}</usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/public/kpfonts/jkpmsc8a.pfb>
-Output written on "Apunts ENG.pdf" (11 pages, 168125 bytes).
+exlive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/kpfonts/jkpmsc8a.pfb>
+Output written on "Apunts ENG.pdf" (16 pages, 435399 bytes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 199 compressed objects within 2 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 

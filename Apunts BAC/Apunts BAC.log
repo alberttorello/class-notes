@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.1)  13 FEB 2017 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.1)  16 FEB 2017 00:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2054,7 +2054,7 @@ LaTeX Info: Redefining \nameref on input line 213.
 \openout9 = `"Apunts BAC.out"'.
 
 
-<Logo.jpg, id=39, 639.38875pt x 426.59375pt>
+<Logo.jpg, id=63, 639.38875pt x 426.59375pt>
 File: Logo.jpg Graphic file (type jpg)
  <use Logo.jpg>
 Package pdftex.def Info: Logo.jpg used on input line 226.
@@ -2083,12 +2083,26 @@ l.2 ...rt}{I\hspace {1em}Introducci\'o}{1}{part.1}
 LaTeX Font Info:    Try loading font information for TS1+jkp on input line 13.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
 File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
-))
+)
+Overfull \hbox (1.4616pt too wide) in paragraph at lines 15--25
+ []|\T1/jkp/m/n/10.95 Proteïnes plas-mà-ti-ques de transport| --- []7[] \TS1/jk
+p/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Proteïnes de fa-se aguda| --- []8[] \TS1/jkp/m
+/n/10.95 ˆ |\T1/jkp/m/n/10.95 Altres proteïnes|
+ []
+
+
+Overfull \hbox (11.60136pt too wide) in paragraph at lines 15--25
+ \T1/jkp/m/n/10.95 --- []9[]   \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Determin
+ació de la pro-te-ï-na total| --- []10[] \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.9
+5 Interpretació clínica| --- []12[] \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Fra
+ccionament
+ []
+
+)
 \tf@toc=\write10
 \openout10 = `"Apunts BAC.toc"'.
 
- [1]
-(./Temes/Tema1.tex
+ [1] (./Temes/Tema1.tex
 LaTeX Font Info:    Try loading font information for OT1+jkp on input line 50.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
@@ -2123,13 +2137,45 @@ File: ujkpsyc.fd 2006/08/15 v1.0
                    \relax 
 l.51 
       [1] [2] [3]) [4] (./Temes/Tema2.tex
-<Pictures/fig1.png, id=82, 672.5125pt x 376.40625pt>
+<Pictures/fig1.png, id=112, 672.5125pt x 376.40625pt>
 File: Pictures/fig1.png Graphic file (type png)
  <use Pictures/fig1.png>
 Package pdftex.def Info: Pictures/fig1.png used on input line 64.
 (pdftex.def)             Requested size: 422.52057pt x 236.48817pt.
 
-[5]) [6 <./Pictures/fig1.png>] (./Temes/Tema4.tex) [7]
+[5]) [6 <./Pictures/fig1.png>] (./Temes/Tema4.tex [7]
+LaTeX Font Info:    Try loading font information for LGR+jkp on input line 72.
+LaTeX Font Info:    No file LGRjkp.fd. on input line 72.
+
+
+LaTeX Font Warning: Font shape `LGR/jkp/m/n' undefined
+(Font)              using `LGR/cmr/m/n' instead on input line 72.
+
+
+LaTeX Font Warning: Font shape `LGR/jkp/b/n' undefined
+(Font)              using `LGR/jkp/m/n' instead on input line 86.
+
+[8] [9] <Pictures/fig2.png, id=148, 653.44125pt x 675.52374pt>
+File: Pictures/fig2.png Graphic file (type png)
+
+<use Pictures/fig2.png>
+Package pdftex.def Info: Pictures/fig2.png used on input line 203.
+(pdftex.def)             Requested size: 328.6279pt x 339.7298pt.
+ [10]
+<Pictures/fig3.png, id=153, 666.49pt x 537.00626pt>
+File: Pictures/fig3.png Graphic file (type png)
+ <use Pictures/fig3.png>
+Package pdftex.def Info: Pictures/fig3.png used on input line 213.
+(pdftex.def)             Requested size: 328.6279pt x 264.79056pt.
+
+[11 <./Pictures/fig2.png>] [12 <./Pictures/fig3.png>]
+<Pictures/fig4.png, id=167, 424.58624pt x 460.72125pt>
+File: Pictures/fig4.png Graphic file (type png)
+ <use Pictures/fig4.png>
+Package pdftex.def Info: Pictures/fig4.png used on input line 259.
+(pdftex.def)             Requested size: 164.31754pt x 178.30267pt.
+
+[13 <./Pictures/fig4.png>]) [14]
 No file "Apunts BAC".bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 284.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 284.
@@ -2137,7 +2183,10 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 284.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 284.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 284.
 Package rerunfilecheck Info: File `"Apunts BAC".out' has not changed.
-(rerunfilecheck)             Checksum: 6FF878117C1C0F145D9B28622F88456D;560.
+(rerunfilecheck)             Checksum: E17F11A8A438721982DF5A8E3A423D89;1060.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2145,24 +2194,25 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 284.
  ) 
 Here is how much of TeX's memory you used:
- 40911 strings out of 493013
- 752061 string characters out of 6133344
- 1047467 words of memory out of 5000000
- 43796 multiletter control sequences out of 15000+600000
- 139927 words of font info for 96 fonts, out of 8000000 for 9000
+ 40972 strings out of 493013
+ 752900 string characters out of 6133344
+ 1048801 words of memory out of 5000000
+ 43831 multiletter control sequences out of 15000+600000
+ 140615 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,11n,83p,10378b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,11n,83p,10378b,553s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/kpfonts/jkpsy.pfb>
-Output written on "Apunts BAC.pdf" (9 pages, 299080 bytes).
+exlive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/kpfonts/jkpsy.pfb>
+Output written on "Apunts BAC.pdf" (16 pages, 679057 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 219 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
+ 49 named destinations out of 1000 (max. 500000)
+ 150 words of extra memory for PDF output out of 10000 (max. 10000000)
 

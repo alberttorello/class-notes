@@ -41,7 +41,7 @@ Si no tots els teixits presenten coloració, vol dir que la potència d'aquestes
 
 En ESC, el control de la divisió cel·lular és molt complicat.
 
-\subsection{Obtenció de cèl·lules mare}
+\subsection{Obtenció de cèl·lules mare embrionàries}
 Es poden obtenir per 3 procediments:
 \begin{enumerate}
 \item Aïllament de la massa cel·lular interna
@@ -53,6 +53,57 @@ Aquestes tècniques han evolucionat en paral·lel a FIV.
 
 Un teratoma és un tumor sòlid que conté cèl·lules proliferatives de les 3 capes embrionaries. Per generar els teratomes, s'injectaven les cèl·lules a escrot de ratolí o subdèrmic. Les iPSC tenen la capacitat de produir teratomes.
 
+\subsubsection{Cultiu de ESC}
 Quan s'aïlla la massa interna, no s'obté de manera pura. El cultiu pretén recrear les condicions del blastocist. Si són humanes, es plaquegen sobre una capa de fibroblasts irradiats que donen suport físic i biològic (factors de creixement, citocines). El fibroblasts són de prepuci de ratolí, són línies establertes que aguanten molt bé la irradiació. Passats uns dies, es forma un cos embrioide. S'agafen cèl·lules de la perifèria, les cèl·lules del centre estan en hipòxia i les cèl·lules del voltant es diferencien per l'acció del ROS. Aquestes cèl·lules de la perifèria es passen a una altra placa i així successivament fins que s'obtenen clons de ESC.
 
-En el ratolí, hi ha un punt que no es requereix la capa de fibroblasts.
+Les neurosferes també poden presentar hipòxia al centre de la massa cel·lular. Per caracteritzar cèl·lules dopaminèrgiques s'utilitza la tirosina hidroxilasa com a marcador. Baixant la pO2 (al 15-20\%) s'aconseguia una diferenciació a cèl·lules tirosina hidroxilasa.
+
+En el ratolí, hi ha un punt que no es requereix la capa de fibroblasts. Per inhibir la proliferació dels fibroblasts es posa un antimitòtic (algo derivat de l'arabinosa).
+
+Les cèl·lules de ratolí no fa falta que es cultivin sobre una capa de fibroblasts. El LIF es va utilitzar en el cultiu d'hibridomes per la obtenció d'anticossos monoclonals. El LIF també serveix per proliferar i mantenir mESC. El LIF activa la via de JAK/STAT, l'activació d'STAT3 indueix la formació de TF que afavoreixen l'auto-renovació de les cèl·lules. El LIF s'uneix a l'heterodímer LIFR-gp130. A vegades, s'activen vies que indueixen diferenciació com la via de les MAPK.
+
+\subsection{Marcadors}
+Els marcadors s'han de demostrar per 2 vies:
+\begin{itemize}
+\item RT-PCR
+\item IHC
+\end{itemize}
+
+Les ESC tenen activitat fosfatasa alcalina, pel que es pot revelar fàclment la seva activitat. Es forma un precipitat de color blau. Els clons de ESC són circulars i els de iPSC són poligonals. Els fibroblasts no tenen activitat fosfatasa alcalina; pel que es pot confirmar si el cultiu és pur.
+
+El SSEA-1 (CD15) és un proteoglucà de membrana participa en adhesió a la membrana, etc. 
+
+El TRA és un antigen associat a tumors. 
+
+Oct-4 (dímer de 3-4) és un factor de transcripció que s'expressa en cèl·lules que estan en auto-renovació.
+
+En funció del tipus cel·lular, hi haurà diferències entre marcadors.
+
+\subsubsection{Oct-4}
+Oct-4 és essencial lper la primera especificació de llinatge embrionari, mentre que Nanog prevé la diferenciació d'endoderma a la massa interna. Sox2 i FoxD3 són essencials en el manteniment de la pulripotència de l'epiblast.
+
+Oct-4 s'expressa a la mòrula, a la massa interna del blastocist, i després a l'epiblast (en el procés d'implantació). Oct-4 manté la capacitat proliferativa.
+
+Nanog és un TF sota el control de Oct4. S'expressa al trofoectoderma i evita la formació d'endoderma. Quan Nanog baixa l'expressió es forma endoderma.
+
+El LIF regula la concentració d'Oct-4 per la via de les JAK/STAT.
+
+% Dissecting self-renewal in stem cells with RNA interference.
+
+S'ha identificat un circuit central que regula la potència (Sox2, Oct-4, Nanog); amb vies positives i negatives:
+\begin{itemize}
+\item Les vies positives són LIF, PI3K-Akt. 
+
+\item Les vies negatives (indueixen diferenciació) són FGF, MAPK, ERK1/2. ERK1/2 bloqueja TBX3, que de forma natural activa Nanog. Wnt és una via negativa, el factor armadillo es trobava per formar estructures dorsals, per generar adhesió la cèl·lula s'ha de diferenciar. Wnt controla l'adhesió cel·lular en estructures dorsals. Wnt inhibeix GSK3b i GSK3 inhibeix STAT3. Quan Wnt s'activa, STAT3 funciona millor.
+\end{itemize}
+ 
+La sobreexpressió de Sox2, Oct-4 i Nanog provoca un canvi de patró d'expressió genètic molt semblant al de les ESC. El problema principal és el manteniment de l'auto-renovació en el temps. Per mantenir la proliferació, es sobreexpressava \textit{myc}.
+
+
+\begin{itemize}
+\item IHC de marcadors
+\item RT-PCR de marcadors
+\item Formació de teratomes
+\item Experiments quimera
+\item 
+\end{itemize}

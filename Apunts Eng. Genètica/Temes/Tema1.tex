@@ -50,7 +50,7 @@ L'enginyeria genètica pretén produir una proteïna en concret per múltiples final
 
 \begin{itemize}
 \item Biofarmacèutic: Producció d'antibiòtics, proteïnes heteròlogues, generació de proteïnes amb noves funcions (més solubilitat, proteïnes quimera), generació de vacunes.
-\item Agrícola i ramader: modificació genètica de plantes, animals transgèncics.
+\item Agrícola i ramader: modificació genètica de plantes, animals transgènics.
 \item Clínic: Diagnòstic, Teràpia gènica
 \item Forense
 \end{itemize}
@@ -79,7 +79,7 @@ Les etapes més generals són:
 \paragraph{Creixement i concentració del culiu bacterià} \hfill \\
 Els bacteris creixen en un medi ric.
 
-L'estimació del creixment es fa per la lectura de la densitat
+L'estimació del creixement es fa per la lectura de la densitat
 òptica a 600 nm. En la fase exponencial hi ha una relació directa entre DO i
 nombre de cèl·lules; sempre i quan siguin el mateix medi de cultiu,
 mateixa quantitat d'inòcul i temperatura de cultiu.
@@ -217,6 +217,8 @@ S'ha de créixer un cultiu de bacteris per permetre la multiplicació
 del fag. Es necessiten volums grans de cultiu per obtenir prou DNA del
 fag.
 
+$10^{10}$ fags representen 500 ng de DNA.
+
 En un fag amb cicle lític:
 \begin{itemize}
 \item Si la quantitat de bacteris inicials és molt baixa, la taxa d'infecció
@@ -227,7 +229,7 @@ major part d ela població i no hi haurà un lisat generalitzat del cultiu.
 \end{itemize}
 
 Si els fags són lisogènics, el genoma està integrat en el cromosoma
-bacterià. El fag lambda salvatge presenta dificultats per entrar en
+bacterià. El fag \textgreek{l} salvatge presenta dificultats per entrar en
 cicle lític. En aquest cas, s'ha introduït una modificació al genoma
 del fag per poder induir lisi en funció de la temperatura. 
 
@@ -246,14 +248,14 @@ purificar les partícules fàgiques es pot fer per 2 procediments:
 \item \textbf{Precipitació amb polietilenglicol:} El PEG és un polímer
   que en presència de NaCl aglutina macromolècules. La suspensió de
   fag es tracta amb PEG i NaCl i s'incuba. Es centrifuga i al pellet
-  quedaran els fags amb restes cel·lulars. Es resuspèn el pellet i es
+  quedaran els fags amb restes cel·lulars. Es re-suspèn el pellet i es
   fa una desproteïnització i una extracció fenol-cloroform.
 \end{itemize}
 
 \subsubsection{Purificació del genoma del fag M13}
 És un fag lisogènic però que allibera fags al medi sense lisar els
 bacteris. Quan al fag es troba dins el bacteri, queda en forma de
-plàmid. Quan es generen les partícules fàgiques, el material genètic
+plàsmid. Quan es generen les partícules fàgiques, el material genètic
 és dsDNA lineal. Per tant:
 \begin{itemize}
 \item Si es vol el DNA lineal: S'aïllen les partícules fàgiques.
@@ -263,3 +265,132 @@ plàmid. Quan es generen les partícules fàgiques, el material genètic
 \end{itemize}
 
 % si el bacteri té un plàsmid previ, com es diferencien???
+
+
+\subsection{Aïllament de RNA}
+Es pot fer per:
+\begin{itemize}
+\item Gradients de CsCl: El RNA queda flotant a la part inferior del
+  tub i es pot aïllar per mètodes ja coneguts.
+\item Tractament amb proteases/DNases i fenol
+\end{itemize}
+
+El RNA té algunes característiques que compliquen la seva manipulació:
+\begin{itemize}
+\item Inestabilitat
+\item Facilitat de degradació per la ubiqüitat de RNases. Els
+  procediments incorporen inhibidors de RNases. El procediment es fa
+  en fred i s'utilitza: 
+  \begin{itemize}
+  \item El dietlpirocarbonat (DEPC) en qualsevol solució que entri en contacte amb el RNA. 
+  \item El tiocianat de guanidina desnaturalitza les RNases. 
+  \item El \textgreek{b}-mercaptoetanol redueix les RNases.
+  \end{itemize}
+El RNA s'ha de mantenir a temperatures baixes (ideal a -80ºC).
+\end{itemize}
+
+Com que el mRNA eucariota presenta la poliadenilació a 3', es pot aïllar
+mitjançant una cromatografia d'afinitat. La resina de la columna
+conté una cel·lulosa unida a oligo-T, i així poder generar la
+llibreria de cDNA.
+
+En el cas del mRNA procariota no es pot aïllar específicament. S'aïlla
+el RNA total.
+
+\subsection{Electroforesi d'àcids nucleics}
+Es basa en separar els àcids nucleics en un suport segons la seva
+mida. El suport genera uns porus pels quals passa el material
+genètic. La migració serà proporcional a la mida de l'àcid nucleic.
+
+S'usen generalment 2 suports:
+\begin{itemize}
+\item \textbf{Poliacrilamida:} Genera porus molt petits. Gran resolució per
+  fragments curts. Inferiors a 100 bp.
+
+\item \textbf{Agarosa:} Es poden preparar suports a diferents concentracions.
+\end{itemize}
+
+En concentracions petites, el gel separa bé els
+fragments curts però també els de més bp. Quan es va augmentant la
+concentració, augmenta la resolució dels fragments petits però no es
+distingeixen els més grans.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.5\textwidth]{fig1}
+  \caption{Marcador de DNA corregut en gels d'agarosa a diferents
+    concentracions}
+  \label{fig:gels_agarosa}
+\end{figure}
+
+Per fragments de RNA, es fa un gel d'agarosa amb un agent
+desnaturalitzant com el formaldehid.
+
+\subsubsection{Visualització de les bandes de DNA}
+\begin{enumerate}[\bf 1.]
+\item Tinció amb agents intercalants com el EtBr o el SYBRsafe i
+  s'irradia amb llum UV. L'agent intercalant es pot afegir al gel
+  abans de solidificar o tenyir-lo després de córrer. La sensibilitat
+  és de 25 ng.
+  
+\item Autoradiografia: Es detecten marques radioactives al material
+  genètic. L'inconvenient és que s'ha de marcar el DNA/RNA. S'aplica
+  un film fotogràfic per tal que impacti la radioactivitat i es revela
+  la pel·lícula fotogràfica. Aquest sistema és més sensible. La
+  sensibilitat és de 2 ng.
+\end{enumerate}
+
+El marcador és el genoma del fag \textgreek{l} digerit amb HindIII. A
+l'esquerra el cromosoma bacterià no digerit és massa gran i no
+migra. A la dreta, es genera un smear quan s'analitza el cromosoma
+bacterià digerit amb una endonucleasa.
+
+A baix, es visualitza un plàsmid no digerit i digerit. Al carril del
+plàsmid no digerit, hi ha diferents bandes que corresponen a les
+diferents conformacions espacials que pot adoptar el plàsmid.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{fig2}
+  \caption{Visualització d'un cromosoma bacterià en un gel d'agarosa}
+  \label{fig:gel_cromosoma_bacteri}
+\end{figure}
+
+\subsubsection{Electroforesi de camp pulsant (PFGE)}
+Quan el material és molt gran (superior a 100 kb) no es pot aplicar a
+un gel d'agarosa normal. El que es fa és variar el sentit del corrent
+elèctric. Durant un temps va de positiu a negatiu, i després de
+negatiu a positiu i en diferents direccions; de manera que es genera una migració amb una
+trajectòria sinuosa i permet resoldre fragments de DNA de mida gran.
+
+\subsection{Quantificació de material genètic}
+Hi ha 2 mètodes:
+\begin{enumerate}[\bf 1.]
+\item \textbf{Mitjançant espectrofotometria.} El sistema de Nanodrop requereix
+  1 \textgreek{m}L de mostra sense diluir i així la detecció és precisa i
+  no es perd mostra. Es basen en determinar l'absorbància a 260 nm
+  (espectre UV). Hi ha una relació entre DO i \textgreek{m}g de DNA:
+  \begin{itemize}
+  \item 1 unitat d'absorbància a 260 nm= 50\textgreek{m}g/ml de dsDNA.
+  \item 1 unitat de absorbancia a 260 nm= 40\textgreek{m}g/ml de dsDNA.
+  \end{itemize}
+
+També es mesura l'absorbància a 280 nm (per determinar si hi ha proteïnes) i a 230
+nm. 
+
+La relació $\dfrac{A_{260}}{A_{280}}$ ha d'estar entre 1.8-2. Si és
+inferior, vol dir que la mostra està contaminada amb proteïnes i s'ha
+de tornar a purificar.
+
+\item \textbf{Comparació amb marcador de quantitats conegudes.} Comparant la
+  mostra amb un marcador es pot conèixer la quantitat de cada
+  fragment. Si el fragment té una mida i intensitat de fluorescència
+  similar a alguna banda del marcador, podem assumir que la
+  concentració de la mostra és igual a la concentració del fragment
+  homòleg del marcador.
+
+Es pot fer una altra estimació. Es mesura la longitud migrada per cada
+fragment en relació a una línia de referència i es construeix una
+gràfica distància-mida del DNA.
+\end{enumerate}
+
