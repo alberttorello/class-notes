@@ -3,4 +3,10 @@
 \contentsline {section}{\numberline {1}Introducci\'o}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}Hist\`oria}{1}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Mutacions}{1}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Malalties monog\`eniques}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Diagn\`ostic}{3}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Malalties monog\`eniques per p\`erdua de funci\'o}{4}{subsection.1.5}
+\contentsline {section}{\numberline {2}Malalties autos\`omiques recessives}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Intoler\`ancia a la galactosa}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Intoler\`ancia a la lactosa}{5}{subsection.2.2}
 \contentsfinish 
