@@ -183,7 +183,12 @@
 
 \newtcbtheorem[number within=section]{rec}{Recordatori} {before=\begin{center},after=\end{center},colback=colorrecfons,colframe=colorrecmarc,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
 
-\newtcbtheorem[number within=section]{metodes}{Mètodes} {colback=red!5!white,colframe=red!75!black,fonttitle=\bfseries,separator sign={\ $\blacktriangleright$}}{theo}
+\newtcbtheorem[number within=section]{metodes}{Mètodes}
+{colback=red!5!white,colframe=red!75!black,fonttitle=\bfseries,separator
+  sign={\ $\blacktriangleright$}}{theo}
+
+\newtcolorbox{mybox}[1]{colback=blue!5!white, colframe=blue!75!black,
+  fonttitle=\bfseries, title=#1}
 
 % Equacions
 \tcbuselibrary{skins,breakable}
@@ -258,6 +263,12 @@
 % Tema 1. Embrionic Stem Cells
 %------------------------------------------------------------------------------
 \input{Temes/Tema1}
+
+%------------------------------------------------------------------------------
+% Tema 2. Adults Stem Cells
+%------------------------------------------------------------------------------
+%\newpage
+%\input{Temes/Tema2.tex}
 
 %--------------------------------------------------------------------------------------------------
 %BLOC 2. TERÀPIA GÈNICA

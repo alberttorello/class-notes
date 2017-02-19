@@ -1,0 +1,46 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex")
+
+(toc "toc" "    1 Hemoglobina i ferro" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 2 "1" "\\section{Hemoglobina i ferro}" 191)
+
+(toc "toc" "      1.1 La hemoglobina" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 3 "1.1" "\\subsection{La hemoglobina}" 222)
+
+(toc "toc" "        1.1.1 Estructura" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 4 "1.1.1" "\\subsubsection{Estructura}" 1989)
+
+(toc "toc" "      1.2 Trastorns deguts a reaccions de l'hemoglobina" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 3 "1.2" "\\subsection{Trastorns deguts a reaccions de l'hemoglobina}" 3102)
+
+(toc "toc" "      1.3 Trastorns a la síntesi de la globina" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 3 "1.3" "\\subsection{Trastorns a la síntesi de la globina}" 3841)
+
+(toc "toc" "        1.3.1 Hemoglobinopaties estructurals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 4 "1.3.1" "\\subsubsection{Hemoglobinopaties estructurals}" 3891)
+
+(toc "toc" "          1.3.1.1 Hemoglobina S. Anèmia drepanocítica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 5 "1.3.1.1" "\\paragraph{Hemoglobina S. Anèmia drepanocítica}" 4099)
+
+(toc "toc" "          1.3.1.2 Hemoglobinopaties inestables" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 5 "1.3.1.2" "\\paragraph{Hemoglobinopaties inestables}" 5507)
+
+("fig:fig7" "f" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil "")
+
+(toc "toc" "          1.3.1.3 Eritrocitosis" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 5 "1.3.1.3" "\\paragraph{Eritrocitosis}" 6156)
+
+(toc "toc" "        1.3.2 Talassèmies" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex" nil 4 "1.3.2" "\\subsubsection{Talassèmies}" 6406)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema6.tex")
+))
+

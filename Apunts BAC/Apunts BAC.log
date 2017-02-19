@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.1)  16 FEB 2017 00:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.1)  19 FEB 2017 13:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2054,7 +2054,7 @@ LaTeX Info: Redefining \nameref on input line 213.
 \openout9 = `"Apunts BAC.out"'.
 
 
-<Logo.jpg, id=63, 639.38875pt x 426.59375pt>
+<Logo.jpg, id=75, 639.38875pt x 426.59375pt>
 File: Logo.jpg Graphic file (type jpg)
  <use Logo.jpg>
 Package pdftex.def Info: Logo.jpg used on input line 226.
@@ -2070,39 +2070,35 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map} <./Logo.jpg>] (./Apunts BAC.toc
+LaTeX Font Info:    Try loading font information for TS1+jkp on input line 12.
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...rt}{I\hspace {1em}Introducci\'o}{1}{part.1}
-                                                  
-? 
-LaTeX Font Info:    Try loading font information for TS1+jkp on input line 13.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
 File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
 )
-Overfull \hbox (1.4616pt too wide) in paragraph at lines 15--25
- []|\T1/jkp/m/n/10.95 Proteïnes plas-mà-ti-ques de transport| --- []7[] \TS1/jk
-p/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Proteïnes de fa-se aguda| --- []8[] \TS1/jkp/m
+Overfull \hbox (1.4616pt too wide) in paragraph at lines 14--24
+ []|\T1/jkp/m/n/10.95 Proteïnes plas-mà-ti-ques de transport| --- []8[] \TS1/jk
+p/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Proteïnes de fa-se aguda| --- []9[] \TS1/jkp/m
 /n/10.95 ˆ |\T1/jkp/m/n/10.95 Altres proteïnes|
  []
 
 
-Overfull \hbox (11.60136pt too wide) in paragraph at lines 15--25
- \T1/jkp/m/n/10.95 --- []9[]   \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Determin
-ació de la pro-te-ï-na total| --- []10[] \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.9
-5 Interpretació clínica| --- []12[] \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Fra
-ccionament
+Overfull \hbox (17.5691pt too wide) in paragraph at lines 14--24
+ \T1/jkp/m/n/10.95 --- []10[]   \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Determi
+nació de la pro-te-ï-na total| --- []11[] \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.
+95 Interpretació clínica| --- []13[] \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Fr
+accionament
  []
 
 )
 \tf@toc=\write10
 \openout10 = `"Apunts BAC.toc"'.
 
- [1] (./Temes/Tema1.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.254 \newpage
+               [1] (./Temes/Tema1.tex
 LaTeX Font Info:    Try loading font information for OT1+jkp on input line 50.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
@@ -2131,19 +2127,15 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 50.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
-)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.51 
-      [1] [2] [3]) [4] (./Temes/Tema2.tex
-<Pictures/fig1.png, id=112, 672.5125pt x 376.40625pt>
+) [2] [3]
+[4]) [5] (./Temes/Tema2.tex
+<Pictures/fig1.png, id=127, 672.5125pt x 376.40625pt>
 File: Pictures/fig1.png Graphic file (type png)
  <use Pictures/fig1.png>
 Package pdftex.def Info: Pictures/fig1.png used on input line 64.
 (pdftex.def)             Requested size: 422.52057pt x 236.48817pt.
 
-[5]) [6 <./Pictures/fig1.png>] (./Temes/Tema4.tex [7]
+[6]) [7 <./Pictures/fig1.png>] (./Temes/Tema4.tex [8]
 LaTeX Font Info:    Try loading font information for LGR+jkp on input line 72.
 LaTeX Font Info:    No file LGRjkp.fd. on input line 72.
 
@@ -2155,35 +2147,55 @@ LaTeX Font Warning: Font shape `LGR/jkp/m/n' undefined
 LaTeX Font Warning: Font shape `LGR/jkp/b/n' undefined
 (Font)              using `LGR/jkp/m/n' instead on input line 86.
 
-[8] [9] <Pictures/fig2.png, id=148, 653.44125pt x 675.52374pt>
+[9] [10] <Pictures/fig2.png, id=163, 653.44125pt x 675.52374pt>
 File: Pictures/fig2.png Graphic file (type png)
 
 <use Pictures/fig2.png>
 Package pdftex.def Info: Pictures/fig2.png used on input line 203.
 (pdftex.def)             Requested size: 328.6279pt x 339.7298pt.
- [10]
-<Pictures/fig3.png, id=153, 666.49pt x 537.00626pt>
+ [11]
+<Pictures/fig3.png, id=168, 666.49pt x 537.00626pt>
 File: Pictures/fig3.png Graphic file (type png)
  <use Pictures/fig3.png>
 Package pdftex.def Info: Pictures/fig3.png used on input line 213.
 (pdftex.def)             Requested size: 328.6279pt x 264.79056pt.
 
-[11 <./Pictures/fig2.png>] [12 <./Pictures/fig3.png>]
-<Pictures/fig4.png, id=167, 424.58624pt x 460.72125pt>
+[12 <./Pictures/fig2.png>] [13 <./Pictures/fig3.png>]
+<Pictures/fig4.png, id=182, 424.58624pt x 460.72125pt>
 File: Pictures/fig4.png Graphic file (type png)
  <use Pictures/fig4.png>
 Package pdftex.def Info: Pictures/fig4.png used on input line 259.
 (pdftex.def)             Requested size: 164.31754pt x 178.30267pt.
 
-[13 <./Pictures/fig4.png>]) [14]
+[14 <./Pictures/fig4.png>]) [15] (./Temes/Tema6.tex [16]
+<Pictures/fig5.png, id=200, 469.755pt x 179.67125pt>
+File: Pictures/fig5.png Graphic file (type png)
+ <use Pictures/fig5.png>
+Package pdftex.def Info: Pictures/fig5.png used on input line 106.
+(pdftex.def)             Requested size: 234.73524pt x 89.78056pt.
+
+<Pictures/fig6.png, id=201, 566.115pt x 144.54pt>
+File: Pictures/fig6.png Graphic file (type png)
+ <use Pictures/fig6.png>
+Package pdftex.def Info: Pictures/fig6.png used on input line 115.
+(pdftex.def)             Requested size: 234.73524pt x 59.93224pt.
+
+[17 <./Pictures/fig5.png> <./Pictures/fig6.png>]
+<Pictures/fig7.png, id=209, 676.5275pt x 323.2075pt>
+File: Pictures/fig7.png Graphic file (type png)
+ <use Pictures/fig7.png>
+Package pdftex.def Info: Pictures/fig7.png used on input line 169.
+(pdftex.def)             Requested size: 375.57782pt x 179.43652pt.
+
+[18]) [19 <./Pictures/fig7.png>]
 No file "Apunts BAC".bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 284.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 284.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
 (./Apunts BAC.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 284.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 284.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
 Package rerunfilecheck Info: File `"Apunts BAC".out' has not changed.
-(rerunfilecheck)             Checksum: E17F11A8A438721982DF5A8E3A423D89;1060.
+(rerunfilecheck)             Checksum: 1A6FD398BE20DBE532BCB3EEAC00C434;1296.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2191,28 +2203,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 284.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 297.
  ) 
 Here is how much of TeX's memory you used:
- 40972 strings out of 493013
- 752900 string characters out of 6133344
- 1048801 words of memory out of 5000000
- 43831 multiletter control sequences out of 15000+600000
- 140615 words of font info for 97 fonts, out of 8000000 for 9000
+ 41011 strings out of 493013
+ 753565 string characters out of 6133344
+ 1048986 words of memory out of 5000000
+ 43852 multiletter control sequences out of 15000+600000
+ 122288 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,11n,83p,10378b,553s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,12n,83p,10378b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/201
 6/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/kpfonts/jkpsy.pfb>
-Output written on "Apunts BAC.pdf" (16 pages, 679057 bytes).
+st/fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/kpfonts/jkpsy.pfb>
+Output written on "Apunts BAC.pdf" (20 pages, 747966 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 183 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 271 PDF objects out of 1000 (max. 8388607)
+ 223 compressed objects within 3 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -11,16 +11,27 @@
 \contentsline {paragraph}{\numberline {1.2.1.2}Ruptura de les c\`el\IeC {\textperiodcentered }lules}{3}{paragraph.1.2.1.2}
 \contentsline {paragraph}{\numberline {1.2.1.3}Purificaci\'o del DNA}{4}{paragraph.1.2.1.3}
 \contentsline {paragraph}{\numberline {1.2.1.4}Precipitaci\'o del DNA}{4}{paragraph.1.2.1.4}
-\contentsline {subsection}{\numberline {1.3}Purificaci\'o del DNA plasm\IeC {\'\i }dic}{5}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Purificaci\'o del genoma de bacteri\`ofags}{6}{subsection.1.4}
-\contentsline {subsubsection}{\numberline {1.4.1}Purificaci\'o del genoma del fag M13}{6}{subsubsection.1.4.1}
-\contentsline {subsection}{\numberline {1.5}A\IeC {\@umlaut \i }llament de RNA}{6}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}Electroforesi d'\`acids nucleics}{7}{subsection.1.6}
-\contentsline {subsubsection}{\numberline {1.6.1}Visualitzaci\'o de les bandes de DNA}{8}{subsubsection.1.6.1}
-\contentsline {subsubsection}{\numberline {1.6.2}Electroforesi de camp pulsant (PFGE)}{9}{subsubsection.1.6.2}
-\contentsline {subsection}{\numberline {1.7}Quantificaci\'o de material gen\`etic}{9}{subsection.1.7}
-\contentsline {section}{\numberline {2}Enzims per la manipulaci\'o dels \`acids nucleics}{11}{section.2}
-\contentsline {part}{II\hspace {1em}Clonatge}{12}{part.2}
-\contentsline {part}{III\hspace {1em}Caracteritzaci\'o d'\`acids nucleics}{13}{part.3}
-\contentsline {part}{IV\hspace {1em}Aplicacions de l'enginyeria gen\`etica}{14}{part.4}
+\contentsline {subsection}{\numberline {1.3}Purificaci\'o del DNA plasm\IeC {\'\i }dic}{6}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Purificaci\'o del genoma de bacteri\`ofags}{8}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Purificaci\'o del genoma del fag M13}{9}{subsubsection.1.4.1}
+\contentsline {subsection}{\numberline {1.5}A\IeC {\@umlaut \i }llament de RNA}{9}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Electroforesi d'\`acids nucleics}{10}{subsection.1.6}
+\contentsline {subsubsection}{\numberline {1.6.1}Visualitzaci\'o de les bandes de DNA}{11}{subsubsection.1.6.1}
+\contentsline {subsubsection}{\numberline {1.6.2}Electroforesi de camp pulsant (PFGE)}{12}{subsubsection.1.6.2}
+\contentsline {subsection}{\numberline {1.7}Quantificaci\'o de material gen\`etic}{12}{subsection.1.7}
+\contentsline {section}{\numberline {2}Enzims per la manipulaci\'o dels \`acids nucleics}{14}{section.2}
+\contentsline {subsection}{\numberline {2.1}Fragmentaci\'o d'acids nucleics}{14}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Exonucleases}{14}{subsubsection.2.1.1}
+\contentsline {paragraph}{\numberline {2.1.1.1}RNasa H}{14}{paragraph.2.1.1.1}
+\contentsline {paragraph}{\numberline {2.1.1.2}Exonucleasa III}{15}{paragraph.2.1.1.2}
+\contentsline {paragraph}{\numberline {2.1.1.3}Nucleasa BAL31}{15}{paragraph.2.1.1.3}
+\contentsline {subsubsection}{\numberline {2.1.2}Endonucleases}{15}{subsubsection.2.1.2}
+\contentsline {paragraph}{\numberline {2.1.2.1}RNasa A}{15}{paragraph.2.1.2.1}
+\contentsline {paragraph}{\numberline {2.1.2.2}RNasa T1}{15}{paragraph.2.1.2.2}
+\contentsline {paragraph}{\numberline {2.1.2.3}Nucleasa S1}{15}{paragraph.2.1.2.3}
+\contentsline {paragraph}{\numberline {2.1.2.4}DNasa I}{15}{paragraph.2.1.2.4}
+\contentsline {subsubsection}{\numberline {2.1.3}Endonucleases de restricci\'o}{15}{subsubsection.2.1.3}
+\contentsline {part}{II\hspace {1em}Clonatge}{18}{part.2}
+\contentsline {part}{III\hspace {1em}Caracteritzaci\'o d'\`acids nucleics}{19}{part.3}
+\contentsline {part}{IV\hspace {1em}Aplicacions de l'enginyeria gen\`etica}{20}{part.4}
 \contentsfinish 

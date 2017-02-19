@@ -1,25 +1,34 @@
 \select@language {catalan}
-\contentsline {part}{I\hspace {1em}Introducci\'o}{1}{part.1}
-\contentsline {section}{\numberline {1}Variabilitat Cl\IeC {\'\i }nica}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}Mesura o determinaci\'o}{1}{subsection.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1}Variabilitat premetrol\`ogica}{1}{subsubsection.1.1.1}
-\contentsline {subsubsection}{\numberline {1.1.2}Variabilitat iatrog\`enica}{3}{subsubsection.1.1.2}
-\contentsline {subsubsection}{\numberline {1.1.3}Variabilitat biol\`ogica intraindividual}{3}{subsubsection.1.1.3}
-\contentsline {subsubsection}{\numberline {1.1.4}Variabilitat metrol\`ogica}{4}{subsubsection.1.1.4}
-\contentsline {subsubsection}{\numberline {1.1.5}Variabilitat post metrol\`ogica}{4}{subsubsection.1.1.5}
-\contentsline {subsubsection}{\numberline {1.1.6}Variabilitat patol\`ogica}{4}{subsubsection.1.1.6}
-\contentsline {section}{\numberline {2}Semiologia}{5}{section.2}
-\contentsline {subsection}{\numberline {2.1}Valors de refer\`encia}{5}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Determinaci\'o de la capacitat discriminant}{5}{subsection.2.2}
-\contentsline {section}{\numberline {3}Prote\IeC {\@umlaut \i }nes plasm\`atiques}{7}{section.3}
-\contentsline {subsection}{\numberline {3.1}Prote\IeC {\@umlaut \i }nes plasm\`atiques de transport}{7}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Prote\IeC {\@umlaut \i }nes de fase aguda}{8}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Altres prote\IeC {\@umlaut \i }nes}{9}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}Immunoglobulines}{9}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Prote\IeC {\@umlaut \i }nes del complement}{9}{subsubsection.3.3.2}
-\contentsline {subsection}{\numberline {3.4}Determinaci\'o de la prote\IeC {\@umlaut \i }na total}{10}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Interpretaci\'o cl\IeC {\'\i }nica}{12}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Fraccionament de prote\IeC {\@umlaut \i }nes}{12}{subsection.3.6}
-\contentsline {subsubsection}{\numberline {3.6.1}Patrons electrofor\`etics an\`omals}{13}{subsubsection.3.6.1}
-\contentsline {subsection}{\numberline {3.7}M\`etodes immunol\`ogics per la detecci\'o de prote\IeC {\@umlaut \i }nes}{14}{subsection.3.7}
+\contentsline {section}{\numberline {1}Variabilitat Cl\IeC {\'\i }nica}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Mesura o determinaci\'o}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Variabilitat premetrol\`ogica}{2}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Variabilitat iatrog\`enica}{4}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}Variabilitat biol\`ogica intraindividual}{4}{subsubsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.4}Variabilitat metrol\`ogica}{5}{subsubsection.1.1.4}
+\contentsline {subsubsection}{\numberline {1.1.5}Variabilitat post metrol\`ogica}{5}{subsubsection.1.1.5}
+\contentsline {subsubsection}{\numberline {1.1.6}Variabilitat patol\`ogica}{5}{subsubsection.1.1.6}
+\contentsline {section}{\numberline {2}Semiologia}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Valors de refer\`encia}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Determinaci\'o de la capacitat discriminant}{6}{subsection.2.2}
+\contentsline {section}{\numberline {3}Prote\IeC {\@umlaut \i }nes plasm\`atiques}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Prote\IeC {\@umlaut \i }nes plasm\`atiques de transport}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Prote\IeC {\@umlaut \i }nes de fase aguda}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Altres prote\IeC {\@umlaut \i }nes}{10}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Immunoglobulines}{10}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Prote\IeC {\@umlaut \i }nes del complement}{10}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Determinaci\'o de la prote\IeC {\@umlaut \i }na total}{11}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Interpretaci\'o cl\IeC {\'\i }nica}{13}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Fraccionament de prote\IeC {\@umlaut \i }nes}{13}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}Patrons electrofor\`etics an\`omals}{14}{subsubsection.3.6.1}
+\contentsline {subsection}{\numberline {3.7}M\`etodes immunol\`ogics per la detecci\'o de prote\IeC {\@umlaut \i }nes}{15}{subsection.3.7}
+\contentsline {section}{\numberline {4}Hemoglobina i ferro}{16}{section.4}
+\contentsline {subsection}{\numberline {4.1}La hemoglobina}{16}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Estructura}{17}{subsubsection.4.1.1}
+\contentsline {subsection}{\numberline {4.2}Trastorns deguts a reaccions de l'hemoglobina}{17}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Trastorns a la s\IeC {\'\i }ntesi de la globina}{18}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Hemoglobinopaties estructurals}{18}{subsubsection.4.3.1}
+\contentsline {paragraph}{\numberline {4.3.1.1}Hemoglobina S. An\`emia drepanoc\IeC {\'\i }tica}{18}{paragraph.4.3.1.1}
+\contentsline {paragraph}{\numberline {4.3.1.2}Hemoglobinopaties inestables}{18}{paragraph.4.3.1.2}
+\contentsline {paragraph}{\numberline {4.3.1.3}Eritrocitosis}{19}{paragraph.4.3.1.3}
+\contentsline {subsubsection}{\numberline {4.3.2}Talass\`emies}{19}{subsubsection.4.3.2}
 \contentsfinish 

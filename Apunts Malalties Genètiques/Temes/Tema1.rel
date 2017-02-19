@@ -1,0 +1,40 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex")
+
+(toc "toc" "    1 Introducció" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex" nil 2 "1" "\\section{Introducció}" 183)
+
+(toc "toc" "      1.1 Història" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex" nil 3 "1.1" "\\subsection{Història}" 205)
+
+(toc "toc" "      1.2 Mutacions" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex" nil 3 "1.2" "\\subsection{Mutacions}" 1192)
+
+(toc "toc" "      1.3 Malalties monogèniques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex" nil 3 "1.3" "\\subsection{Malalties monogèniques}" 5038)
+
+(toc "toc" "      1.4 Diagnòstic" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex" nil 3 "1.4" "\\subsection{Diagnòstic}" 5894)
+
+(toc "toc" "      1.5 Malalties monogèniques per pèrdua de funció" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex" nil 3 "1.5" "\\subsection{Malalties monogèniques per pèrdua de funció}" 7222)
+
+("fig:fig1" "f" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex" nil "")
+
+("fig:fig2" "f" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex" nil "")
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema1.tex")
+))
+

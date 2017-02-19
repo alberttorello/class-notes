@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.1)  19 FEB 2017 17:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.1)  19 FEB 2017 13:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"Apunts MALALTIES.tex"
-(./Apunts MALALTIES.tex
+**"Apunts TERAPIA.tex"
+(./Apunts TERAPIA.tex
 LaTeX2e <2017/01/01> patch level 1
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
@@ -83,8 +83,8 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latin1.def
-File: latin1.def 2015/03/17 v1.2c Input encoding file
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2015/03/17 v1.2c Input encoding file
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
@@ -1893,64 +1893,64 @@ Library (tcolorbox): 'tcbbreakable.code.tex' version '3.96'
 \tcb@totallowerbox=\box112
 )
 \c@example=\count354
- (./Apunts MALALTIES.aux)
-\openout1 = `"Apunts MALALTIES.aux"'.
+ (./Apunts TERAPIA.aux)
+\openout1 = `"Apunts TERAPIA.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 213.
-LaTeX Font Info:    Try loading font information for OML+jkp on input line 213.
+LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 218.
+LaTeX Font Info:    Try loading font information for OML+jkp on input line 218.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/omljkp.fd
 File: omljkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 213.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 213.
-LaTeX Font Info:    ... okay on input line 213.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 213.
-LaTeX Font Info:    ... okay on input line 213.
-LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 213.
-LaTeX Font Info:    Try loading font information for OMS+jkp on input line 213.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 218.
+LaTeX Font Info:    Try loading font information for OMS+jkp on input line 218.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/omsjkp.fd
 File: omsjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 213.
-LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 213.
-LaTeX Font Info:    Try loading font information for OMX+jkp on input line 213.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 218.
+LaTeX Font Info:    Try loading font information for OMX+jkp on input line 218.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/omxjkp.fd
 File: omxjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 213.
-LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 213.
-LaTeX Font Info:    Try loading font information for U+jkpexa on input line 213
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 218.
+LaTeX Font Info:    Try loading font information for U+jkpexa on input line 218
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpexa.fd
 File: ujkpexa.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 213.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 213.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 213.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 218.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 218.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 213.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 213.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 213.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 218.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 218.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2016/03/04 v1.1 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 213.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 213.
-LaTeX Font Info:    ... okay on input line 213.
-LaTeX Font Info:    Try loading font information for T1+jkp on input line 213.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Try loading font information for T1+jkp on input line 218.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/t1jkp.fd
 File: t1jkp.fd 2007/01/24 Fontinst v1.928 font definitions for T1/jkp.
@@ -1989,8 +1989,8 @@ File: t1jkp.fd 2007/01/24 Fontinst v1.928 font definitions for T1/jkp.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \l on input line 213.
-LaTeX Info: Redefining \L on input line 213.
+LaTeX Info: Redefining \l on input line 218.
+LaTeX Info: Redefining \L on input line 218.
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count355
@@ -2032,7 +2032,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 ABD: EveryShipout initializing macros
-Package hyperref Info: Link coloring OFF on input line 213.
+Package hyperref Info: Link coloring OFF on input line 218.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -2042,20 +2042,25 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count361
 )
-LaTeX Info: Redefining \ref on input line 213.
-LaTeX Info: Redefining \pageref on input line 213.
-LaTeX Info: Redefining \nameref on input line 213.
+LaTeX Info: Redefining \ref on input line 218.
+LaTeX Info: Redefining \pageref on input line 218.
+LaTeX Info: Redefining \nameref on input line 218.
 
-(./Apunts MALALTIES.out) (./Apunts MALALTIES.out)
+(./Apunts TERAPIA.out) (./Apunts TERAPIA.out)
 \@outlinefile=\write9
-\openout9 = `"Apunts MALALTIES.out"'.
+\openout9 = `"Apunts TERAPIA.out"'.
+
+LaTeX Font Info:    Try loading font information for TS1+jkp on input line 229.
 
 
-<Logo.jpg, id=47, 980.91469pt x 883.80188pt>
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
+File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
+)
+<Logo.jpg, id=35, 602.25pt x 439.6425pt>
 File: Logo.jpg Graphic file (type jpg)
  <use Logo.jpg>
-Package pdftex.def Info: Logo.jpg used on input line 226.
-(pdftex.def)             Requested size: 469.47049pt x 422.99289pt.
+Package pdftex.def Info: Logo.jpg used on input line 231.
+(pdftex.def)             Requested size: 469.47049pt x 342.72522pt.
  [1
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -2066,7 +2071,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map} <./Logo.jpg>] (./Apunts MALALTIES.toc
+map/pdftex.map} <./Logo.jpg>] (./Apunts TERAPIA.toc
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2074,69 +2079,147 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 ...rt}{I\hspace {1em}Introducci\'o}{1}{part.1}
+l.2 ...IeC {\textperiodcentered }lular}{1}{part.1}
                                                   
 ? 
-LaTeX Font Info:    Try loading font information for TS1+jkp on input line 5.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
-File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
-))
-\tf@toc=\write10
-\openout10 = `"Apunts MALALTIES.toc"'.
 
- [1]
-(./Temes/Tema1.texpdfTeX warning (ext4): destination with the same identifier (
-name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.36 \end{itemize}
-                   [1] [2]
-Overfull \hbox (18.01698pt too wide) in paragraph at lines 70--72
-\T1/jkp/m/n/12 Les malal-ti-es mo-no-gè-ni-ques pre-sen-ten lo-cus afec-tats am
-b re-la-ció de do-mi-nàn-cia/recessivitat,
+Overfull \hbox (20.79921pt too wide) in paragraph at lines 4--13
+ []|\T1/jkp/m/it/10.95 Stem Cells| \T1/jkp/m/n/10.95 --- []1[] \TS1/jkp/m/n/10.
+95 ˆ |\T1/jkp/m/n/10.95 Blastocist pre-implantacional| --- []2[] \TS1/jkp/m/n/1
+0.95 ˆ |\T1/jkp/m/n/10.95 Obtenció de cèl\TS1/jkp/m/n/10.95 ·\T1/jkp/m/n/10.95 
+lules ma-re embrionàries|
  []
 
-[3] <Pictures/fig1.jpg, id=85, 345.29pt x 358.33875pt>
-File: Pictures/fig1.jpg Graphic file (type jpg)
- <use Pictures/fig1.jpg>
-Package pdftex.def Info: Pictures/fig1.jpg used on input line 108.
-(pdftex.def)             Requested size: 328.6279pt x 341.05414pt.
 
-[4 <./Pictures/fig1.jpg>] <Pictures/fig2.jpg, id=91, 554.07pt x 483.8075pt>
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...space {1em}Ter\`apia G\`enica}{10}{part.2}
+                                                  
+? 
+)
+\tf@toc=\write10
+\openout10 = `"Apunts TERAPIA.toc"'.
+
+ [1] (./Temes/Tema1.texpdfTeX warning (ext4): destination with the same identif
+ier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 
+      [1] <Pictures/fig3.png, id=63, 626.34pt x 363.3575pt>
+File: Pictures/fig3.png Graphic file (type png)
+
+<use Pictures/fig3.png>
+Package pdftex.def Info: Pictures/fig3.png used on input line 47.
+(pdftex.def)             Requested size: 375.57782pt x 217.88864pt.
+LaTeX Font Info:    Try loading font information for OT1+jkp on input line 53.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
+File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
+)
+LaTeX Font Info:    Try loading font information for U+jkpsya on input line 53.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsya.fd
+File: ujkpsya.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 53.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyb.fd
+File: ujkpsyb.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpmia on input line 53.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpmia.fd
+File: ujkpmia.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 53.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
+File: ujkpsyc.fd 2006/08/15 v1.0
+)
+<Pictures/fig5.png, id=65, 352.31625pt x 284.06125pt>
+File: Pictures/fig5.png Graphic file (type png)
+ <use Pictures/fig5.png>
+Package pdftex.def Info: Pictures/fig5.png used on input line 58.
+(pdftex.def)             Requested size: 350.53937pt x 282.63017pt.
+
+[2 <./Pictures/fig3.png>] <Pictures/fig6.png, id=75, 650.43pt x 386.44376pt>
+File: Pictures/fig6.png Graphic file (type png)
+
+<use Pictures/fig6.png>
+Package pdftex.def Info: Pictures/fig6.png used on input line 69.
+(pdftex.def)             Requested size: 375.57782pt x 223.1469pt.
+ [3 <./Pictures/fig5.png>]
+<Pictures/fig7.png, id=83, 270.00874pt x 265.99374pt>
+File: Pictures/fig7.png Graphic file (type png)
+ <use Pictures/fig7.png>
+Package pdftex.def Info: Pictures/fig7.png used on input line 78.
+(pdftex.def)             Requested size: 281.68515pt x 277.50365pt.
+
+[4 <./Pictures/fig6.png> <./Pictures/fig7.png>]
+<Pictures/fig4.png, id=92, 608.2725pt x 433.62pt>
+File: Pictures/fig4.png Graphic file (type png)
+ <use Pictures/fig4.png>
+Package pdftex.def Info: Pictures/fig4.png used on input line 117.
+(pdftex.def)             Requested size: 375.57782pt x 267.74329pt.
+
+[5] <Pictures/fig8.png, id=102, 636.3775pt x 616.3025pt>
+File: Pictures/fig8.png Graphic file (type png)
+
+<use Pictures/fig8.png>
+Package pdftex.def Info: Pictures/fig8.png used on input line 148.
+(pdftex.def)             Requested size: 375.57782pt x 363.72816pt.
+ [6 <./Pictures/fig4.png>]
+<Pictures/fig1.png, id=110, 567.11874pt x 336.25626pt>
+File: Pictures/fig1.png Graphic file (type png)
+ <use Pictures/fig1.png>
+Package pdftex.def Info: Pictures/fig1.png used on input line 164.
+(pdftex.def)             Requested size: 375.57782pt x 222.6943pt.
+
+[7 <./Pictures/fig8.png>]
+<Pictures/fig2.jpg, id=118, 693.59125pt x 556.0775pt>
 File: Pictures/fig2.jpg Graphic file (type jpg)
+ <use Pictures/fig2.jpg>
+Package pdftex.def Info: Pictures/fig2.jpg used on input line 194.
+(pdftex.def)             Requested size: 375.57782pt x 301.12589pt.
 
-<use Pictures/fig2.jpg>
-Package pdftex.def Info: Pictures/fig2.jpg used on input line 129.
-(pdftex.def)             Requested size: 328.6279pt x 286.94994pt.
-) (./Temes/Tema2.tex [5 <./Pictures/fig2.jpg>] [6])
-[7]
-No file "Apunts MALALTIES".bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 277.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 277.
-(./Apunts MALALTIES.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 277.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 277.
-Package rerunfilecheck Info: File `"Apunts MALALTIES".out' has not changed.
-(rerunfilecheck)             Checksum: 2A5A4BB4F8E5C53C9BF7DCE74832ACEB;707.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 277.
+[8 <./Pictures/fig1.png>]) [9 <./Pictures/fig2.jpg>] [10]
+No file "Apunts TERAPIA".bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 294.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
+(./Apunts TERAPIA.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 294.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 294.
+Package rerunfilecheck Info: File `"Apunts TERAPIA".out' has not changed.
+(rerunfilecheck)             Checksum: C1302561D166F61AEEE2B19B51FC4760;468.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 294.
  ) 
 Here is how much of TeX's memory you used:
- 40763 strings out of 493013
- 749788 string characters out of 6133344
- 1047221 words of memory out of 5000000
- 43685 multiletter control sequences out of 15000+600000
- 111631 words of font info for 60 fonts, out of 8000000 for 9000
+ 41007 strings out of 493013
+ 753731 string characters out of 6133344
+ 1046751 words of memory out of 5000000
+ 43862 multiletter control sequences out of 15000+600000
+ 169016 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,11n,83p,10384b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,11n,83p,10382b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/kpfonts/jkpmsc8a.pfb>
-Output written on "Apunts MALALTIES.pdf" (9 pages, 319604 bytes).
+exlive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbit8a.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/kpfonts/jkpmsc8a.pfb>
+Output written on "Apunts TERAPIA.pdf" (12 pages, 1961987 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
 

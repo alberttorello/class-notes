@@ -2,3 +2,177 @@
 % Tema 2. Enzims per la manipulació dels àcids nucleics
 %--------------------------------------------------------
 \section{Enzims per la manipulació dels àcids nucleics}
+
+Hi ha 4 grups d'enzims, que són els més utilitzats:
+\begin{itemize}
+\item Nucleases tant de DNA com de RNA. Les més importants són les
+  endonucleases de restricció.
+
+\item Enzims de modificació: Afegeixen o eliminen grups químics a les
+  cadenes de DNA. Són la fosfatasa alcalina i la polinucleotidil
+  quinasa.
+
+\item Lligasa: Unió de fragments de DNA.
+
+\item Polimerases: Síntesi de DNA o RNA a partir d'un motlle.
+\end{itemize}
+
+\subsection{Fragmentació d'acids nucleics}
+Els àcids nucleics són polinucleòtids; polímers resultants de la unió
+mitjançant un enllaç fosfodièster d'un nombre variable d'unitats
+monomèriques bàsiques, anomenades nucleòtids. 
+
+Es poden fragmentar els àcids nucleics per mètodes físics com
+l'aplicació de pressió o sonicació per ultrasons.
+
+Es poden tractar els àcids nucleics amb solucions àcids, p.e amb
+l'inconvenient de trencar enllaços pentosa-base nitrogenasa. Amb una
+solució alcalina, es desnaturalitza la molècula i es fragmenten les
+molècules de RNA.
+
+Les nucleases es poden agrupar en 2 grups:
+\begin{itemize}
+\item \textbf{Exonucleases:} Tallen la molècula per l'extrem i alliberen
+  nucleòtids d'1 en 1.
+
+\item \textbf{Endonucleases:} Talls en posicions internes dels àcids nucleics.
+\end{itemize}
+
+En funció del tipis dàcid nucleic sobre el que actuen:
+\begin{itemize}
+\item \textbf{Desoxiribonucleases:} Tallen DNA.
+\item \textbf{Ribonucleases:} Tallen RNA.
+\end{itemize}
+
+\subsubsection{Exonucleases}
+
+\paragraph{RNasa H} \hfill \\
+Actua en híbrids DNA-RNA tallant la molècula de RNA. Presenta
+activitat exonucleasa 5'->3' i 3'->5'. Permet eliminar el RNA dels
+híbrids RNA-DNA. 
+
+Aquest enzim és útil per preparar llibreries de cDNA, és a dir per
+eliminar el RNA restant.
+
+\paragraph{Exonucleasa III} \hfill \\
+Presenta activitat exonucleasa a extrems 3'-OH, que han de ser roms
+(és a dir d'igual longitud). Actua sobre
+dsDNA. Necessita cations \ch{Mg^2+}. Genera extrems protuberants en
+5'. No pot actuar sobre extrems 3' protuberants ja que hi ha una zona
+de DNA lineal. Sí que pot actuar en extrems 5' protuberants.
+
+\paragraph{Nucleasa BAL31} \hfill \\
+Té activitat 3'-OH exonucleasa i endonucleasa. Té com a substrat ssDNA
+i dsDNA. L'activitat endonucleasa predomina quan hi ha
+ssDNA. Requereix de \ch{Ca^2+}. Genera fragments amb extrems roms i
+alguns amb extrems protuberants.
+
+\subsubsection{Endonucleases}
+
+\paragraph{RNasa A} \hfill \\
+Presenta activitat endonucleasa en extrems 3' de pirimidines (C,
+U, T). Té com a substrat ssRNA. S'usa per degradar RNA en l'extracció de
+DNA genòmic.
+
+\paragraph{RNasa T1} \hfill \\
+Presenta activitat endonucleasa en extrems 3' de G, prenent com a
+substrat ssRNA.
+
+\paragraph{Nucleasa S1} \hfill \\
+Té activitat endonucleasa però té una certa activitat exonucleasa. Té
+com a substrat ssDNA i RNA. Requereix \ch{Zn^2+} i pH àcid (4,5). Pot
+actuar sobre dsDNA amb zones lineals (amb gaps).
+
+Serveix per eliminar extrems protuberants i genera dsDNA amb extrems
+roms.
+
+\paragraph{DNasa I} \hfill \\
+És una endonucleasa que té com a substrat ssDNA i dsDNA. Requereix
+\ch{Mg2+} si actua sobre ssDNA.
+
+En una molècula de dsDNA amb \ch{Mg^2+} genera extrems amb
+protuberància amb 5' o 3'. Si actua amb \ch{Mn^2+} genera extrems roms.
+
+Si s'utilitza amb \ch{Mg^2+} genera extrems protuberants sobre els quals pot
+actuar una polimerasa.
+
+\subsubsection{Endonucleases de restricció}
+Tallen dsDNA i són específiques en una seqüència concreta. La utilitat
+és que si es tracta DNA genòmic i plasmídic amb un mateix enzim de
+restricció es generen extrems compatibles en ambdues molècules, els
+quals es poden lligar.
+
+Es van descobrir en bacteris que eren resistents a la infecció per
+bacteriòfags. Van veure que hi havia enzims que degradaven DNA del fag
+però no del bacteri. Això era degut perquè el genoma bacterià estava
+metilat en determinades seqüències i això feia que aquest enzim no
+pogués tallar en aquestes zones.
+
+Per tant, els bacteris que expressen un determinat enzim de restricció
+expressen també una metilasa que reconeix la mateixa zona que l'enzim
+de restricció que metila aquesta seqüència i protegeix el genoma
+bacterià de la degradació per aquest enzim de restricció.
+
+Hi ha 3 tipus d'endonucleases de restricció:
+
+% taula
+
+\begin{table}[H]
+  \centering
+\begin{tabular}{c>{\centering}p{4cm}>{\centering}p{4cm}>{\centering}p{4cm}}
+\cline{2-4} 
+ & \textbf{Tipus I} & \textbf{Tipus II} & \textbf{Tipus III}\tabularnewline
+\hline 
+\textbf{Estructura/Funció} & Únic, enzim multifuncional amb 3 subunitats diferents per unió, metilació
+i tall & Enzims separats per activitat endonucleasa i activitat de metilació & Enzim oligomèric amb activitat endonucleasa i metilasa que comparteixen
+una subunitat comú\tabularnewline
+\hline 
+\textbf{Lloc de reconeixement} & Asimètric & Palindròmic & Asimètric\tabularnewline
+\hline 
+\textbf{Lloc de tall} & Inespecífic & En el lloc de reconeixement & 5-20 bp fora del lloc de reconeixement\tabularnewline
+\hline 
+\textbf{Cofactor requerit} & Mg2+, ATP, S-adenosilmetionina & Mg2+ & Mg2+, ATP, S-adenosilmetionina\tabularnewline
+\hline 
+\end{tabular}
+  \caption{Tipus d'endonucleases de restricció}
+\end{table}
+
+Com que les endonucleases de restricció de tipus II són independents a
+nivell estructural són independents de la metilasa. Reconeixen una
+seqüència específica o diana que pot ser de 4,6 o 8 nucleòtids.
+
+Els enzims de restricció poden generar 2 tipus d'extrems a les cadenes
+de DNA:
+\begin{itemize}
+\item \textbf{Extrems roms:} Genera talls simètrics, sense
+  protuberàncies. Això s'anomena extrems roms, és a dir les dues
+  cadenes complementàries tenen la mateixa longitud.
+
+  \begin{figure}[H]
+    \centering
+    		\includegraphics[width=0.7\textwidth]{fig12}
+  \end{figure}
+
+\item \textbf{Extrems cohesius o protuberants:}
+  \begin{itemize}
+  \item Extrems 5' protuberants
+  \begin{figure}[H]
+    \centering
+    		\includegraphics[width=0.7\textwidth]{fig13}
+  \end{figure}
+
+  \item Extrems 3' protuberants
+
+  \begin{figure}[H]
+    \centering
+    		\includegraphics[width=0.7\textwidth]{fig14}
+  \end{figure}
+
+  \end{itemize}
+\end{itemize}
+
+Diferents enzims de restricció que reconeguin dianes diferents poden
+generar els mateixos extrems protuberants, de manera que siguin
+extrems compatibles.
+
+Quan l'enzim produeix extrems roms, sempre són compatibles.
