@@ -266,6 +266,59 @@ compte si la molècula és de DNA lineal o circular ja que
 l'endonucleasa en un DNA lineal genera 2 fragments i en un DNA
 circular genera 1 fragment lineal.
 
+\subparagraph*{Problema 1} \hfill \\
+Un fragment de DNA de 10 kb és digerit per l'E2 i genera dos fragments de 1 i 9 kb. En ser digerit per l'E1 genera 2 fragments de 4 i 6 kb. En quina posició es troben les dianes corresponents a aquests enzims?
 
+
+El DNA és lineal i cada enzim té 1 diana. Per establir la posició correcta s'ha de fer una doble digestió. Si la doble digestió dóna com a resultat una diana idèntica a una sola digestió, vol dir que el fragment no presenta la diana de l'altre enzim.
+
+\subparagraph{Problema 2} \hfill \\
+El DNA del fag lambda s'ha tallat amb diferents nucleases. % posar taula.
+
+Tenir en compte que el DNA del fag lambda és lineal.
+
+S'escull primer la endonucleasa que té un únic punt de tall.
+
+A vegades, l'ordre dels fragments es pot determinar amb digestions parcials; és a dir que l'endonucleasa no talli en totes les seves dianes. La digestió es pot limitar amb menys unitats d'enzim o menys temps de reacció.
 
 \subsection{Enzims modificadors d'àcids nucleics}
+Són enzims que introdueixen o treuen grups químics als àcids nucleics.
+
+\begin{itemize}
+\item \textbf{Fosfatasa alcalina:} Treu el grup fosfat a 5' de DNA o RNA. Deixa les molècules amb un extrem 5'-OH i així els enllaços fosfodièster no es poden regenerar.
+
+\item \textbf{Polinucleotidil quinasa:} Afegeixen fosfats a extrem 5'-OH a RNA i DNA.
+\end{itemize}
+
+La \textbf{deoxinucleoitdil transferasa terminal} afegeix dNTP sense copiar cap motlle a un extrem 3'-OH. Actua en ssDNA i dsDNA. No es pot controlar la longitud. És dependent de Mn o Mg.
+
+\subsection{Unió de molècules de DNA. Lligases}
+Permeten unir 2 fragments de DNA amb extrems compatibles (roms o protuberants) o reparar ruptures dels enllaços fosfodièster entre nucleòtids adjacents. Si falta algun nucleòtid la lligasa no pot actuar.
+
+La unió de fragments amb extrems protuberants és més senzill per la presència de complementarietat de bases.
+
+\subsubsection{Mecanisme d'acció de la lligasa}
+\begin{enumerate}
+\item Adenilació de la DNA lligasa: La reacció ha de contenir ATP.
+  
+\item Activació del 5'-fosfat.
+  
+\item Desplaçament del AMP i connexió de les cadnes.
+\end{enumerate}
+
+% posar fotos del procés
+
+Els productes resultants d'una lligació poden ser:
+\begin{itemize}
+\item El vector es pot tornar a tancar sobre si mateix, o amb altres vectors. El vector es multiplicarà i es perd eficiència en el clonatge.
+  
+\item Unió de diversos inserts: Quan es transformin bacteris, els inserts es perdran perquè no tenen punt de replicació...
+  
+\item Unió de diversos inserts al vector
+
+\item Unió de l'insert al vector
+\end{itemize}
+
+Per evitar la recircularització del vector, es pot tractar el vector amb fosfatasa alcalina i l'insert es tracta amb polinucleotidil quinasa i així la lligació és específica. S'introdueix l'insert dins el vector. Es restableix l'enllaç fosfodièster en 2 punts i els punts on no hi ha enllaç es reparen a la cèl·lula hoste.
+
+Lligació de fragments amb extrems idèntics: L'insert es pot col·locar en 2 direccions. Això és interessant per dirigir l'expressió en funció de cadena + o -.
