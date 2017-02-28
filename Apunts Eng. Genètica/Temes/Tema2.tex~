@@ -267,15 +267,10 @@ l'endonucleasa en un DNA lineal genera 2 fragments i en un DNA
 circular genera 1 fragment lineal.
 
 \subparagraph*{Problema 1} \hfill \\
-Un fragment de DNA de 10 kb és digerit per l'E2 i genera dos fragments
-de 1 i 9 kb. En ser digerit per l'E1 genera 2 fragments de 4 i 6
-kb. En quina posició es troben les dianes corresponents a aquests enzims?
+Un fragment de DNA de 10 kb és digerit per l'E2 i genera dos fragments de 1 i 9 kb. En ser digerit per l'E1 genera 2 fragments de 4 i 6 kb. En quina posició es troben les dianes corresponents a aquests enzims?
 
 
-El DNA és lineal i cada enzim té 1 diana. Per establir la posició
-correcta s'ha de fer una doble digestió. Si la doble digestió dóna com
-a resultat una diana idèntica a una sola digestió, vol dir que el
-fragment no presenta la diana de l'altre enzim.
+El DNA és lineal i cada enzim té 1 diana. Per establir la posició correcta s'ha de fer una doble digestió. Si la doble digestió dóna com a resultat una diana idèntica a una sola digestió, vol dir que el fragment no presenta la diana de l'altre enzim.
 
 \subparagraph{Problema 2} \hfill \\
 El DNA del fag lambda s'ha tallat amb diferents nucleases. % posar taula.
@@ -284,32 +279,23 @@ Tenir en compte que el DNA del fag lambda és lineal.
 
 S'escull primer la endonucleasa que té un únic punt de tall.
 
-A vegades, l'ordre dels fragments es pot determinar amb digestions
-parcials; és a dir que l'endonucleasa no talli en totes les seves
-dianes. La digestió es pot limitar amb menys unitats d'enzim o menys temps de reacció.
+A vegades, l'ordre dels fragments es pot determinar amb digestions parcials; és a dir que l'endonucleasa no talli en totes les seves dianes. La digestió es pot limitar amb menys unitats d'enzim o menys temps de reacció.
 
 \subsection{Enzims modificadors d'àcids nucleics}
 Són enzims que introdueixen o treuen grups químics als àcids nucleics.
 
 \begin{itemize}
-\item \textbf{Fosfatasa alcalina:} Treu el grup fosfat a 5' de DNA o
-  RNA. Deixa les molècules amb un extrem 5'-OH i així els enllaços
-  fosfodièster no es poden regenerar.
+\item \textbf{Fosfatasa alcalina:} Treu el grup fosfat a 5' de DNA o RNA. Deixa les molècules amb un extrem 5'-OH i així els enllaços fosfodièster no es poden regenerar.
 
 \item \textbf{Polinucleotidil quinasa:} Afegeixen fosfats a extrem 5'-OH a RNA i DNA.
 \end{itemize}
 
-La \textbf{deoxinucleoitdil transferasa terminal} afegeix dNTP sense
-copiar cap motlle a un extrem 3'-OH. Actua en ssDNA i dsDNA. No es pot
-controlar la longitud. És dependent de Mn o Mg.
+La \textbf{deoxinucleoitdil transferasa terminal} afegeix dNTP sense copiar cap motlle a un extrem 3'-OH. Actua en ssDNA i dsDNA. No es pot controlar la longitud. És dependent de Mn o Mg.
 
 \subsection{Unió de molècules de DNA. Lligases}
-Permeten unir 2 fragments de DNA amb extrems compatibles (roms o
-protuberants) o reparar ruptures dels enllaços fosfodièster entre
-nucleòtids adjacents. Si falta algun nucleòtid la lligasa no pot actuar.
+Permeten unir 2 fragments de DNA amb extrems compatibles (roms o protuberants) o reparar ruptures dels enllaços fosfodièster entre nucleòtids adjacents. Si falta algun nucleòtid la lligasa no pot actuar.
 
-La unió de fragments amb extrems protuberants és més senzillper la
-presència de complementarietat de bases.
+La unió de fragments amb extrems protuberants és més senzill per la presència de complementarietat de bases.
 
 \subsubsection{Mecanisme d'acció de la lligasa}
 \begin{enumerate}
@@ -324,166 +310,15 @@ presència de complementarietat de bases.
 
 Els productes resultants d'una lligació poden ser:
 \begin{itemize}
-\item El vector es pot tornar a tancar sobre si mateix, o amb altres
-  vectors. El vector es multiplicarà i es perd eficiència en el clonatge.
+\item El vector es pot tornar a tancar sobre si mateix, o amb altres vectors. El vector es multiplicarà i es perd eficiència en el clonatge.
   
-\item Unió de diversos inserts: Quan es transformin bacteris, els
-  inserts es perdran perquè no tenen punt de replicació...
+\item Unió de diversos inserts: Quan es transformin bacteris, els inserts es perdran perquè no tenen punt de replicació...
   
 \item Unió de diversos inserts al vector
 
 \item Unió de l'insert al vector
 \end{itemize}
 
-Per evitar la recircularització del vector, es pot tractar el vector
-amb fosfatasa alcalina i l'insert es tracta amb polinucleotidil
-quinasa i així la lligació és específica. S'introdueix l'insert dins
-el vector. Es restableix l'enllaç fosfodièster en 2 punts i els punts
-on no hi ha enllaç es reparen a la cèl·lula hoste.
+Per evitar la recircularització del vector, es pot tractar el vector amb fosfatasa alcalina i l'insert es tracta amb polinucleotidil quinasa i així la lligació és específica. S'introdueix l'insert dins el vector. Es restableix l'enllaç fosfodièster en 2 punts i els punts on no hi ha enllaç es reparen a la cèl·lula hoste.
 
-\begin{itemize}
-\item \textbf{Lligació de fragments amb extrems idèntics:} L'insert es
-  pot col·locar en 2 direccions. Això és interessant per dirigir
-  l'expressió en funció de cadena + o -. Pot ser que el vector es
-  tanqui sobre si mateix quan es tracta amb la lligasa, que es pot
-  evitar utilitzant una fosfatasa alcalina.
-
-\item \textbf{Lligació de fragments idèntics amb extrems diferents:}
-  Per forçar que l'insert es col·loqui en una direcció determinada es
-  fan servir enzims de restricció diferents per generar els extrems
-  cohesius, de manera que el vector no es tancarà sobre si
-  mateix. L'insert s'ha de generar de la mateixa manera.
-\end{itemize}
-
-Els extrems es poden alterar:
-\begin{itemize}
-\item \textbf{Transformació d'extrems cohesius en roms:} Amb la
-  utilització de polimerases o de nucleases com la S1. Només es poden
-  utilitzar polimerases quan hi ha un extrem protuberant 5' (que tingui un 3'-OH lliure).
-  
-\item \textbf{Transformació d'extrems roms en cohesius:}
-  \begin{itemize}
-  \item Connectors: oligos de dsDNA que tenen la diana que per l'enzim
-    que interessi. Un cop es generi el fragment d'interès, es lligen
-    els connectors al fragment i es digereix la construcció amb
-    l'enzim que ens interessi.
-    
-  \item Adaptadors: Són fragments amb el un extrem rom i un altre
-    protuberant. Es tracta el fragment i l'adaptador amb lligasa i es
-    posa polinucleotid quinasa per generar un 5'-fosfat.
-    
-  \item Generació d'homopolímers: S'afegeix un dNTP concret i la
-    deoxinucleotid transferasa terminal i afegeix una cua de poliN. El
-    vector ha de tenir cues complementàries a les del nostre
-    fragment. Es posa una polimerasa per reparar els nicks i finalment
-    amb lligasa per clonar el fragment.
-  \end{itemize}
-\end{itemize}
-
-
-\subsection{Polimerases}
-Hi ha 2 grups de polimerases:
-\begin{itemize}
-\item DNA polimerases
-  \begin{itemize}
-  \item DNA dependents
-  \item RNA dependents
-  \end{itemize}
-\item RNA polimerases
-  \begin{itemize}
-  \item DNA dependents
-  \item RNA dependents
-  \end{itemize}
-\end{itemize}
-
-Les polimerases són enzims que generen material genètic de nou a
-partir d'un motlle de RNA o DNA. La polimerasa necessita dNTP o NTP,
-que es col·loquen a l'extrem 3'-OH. De manera natural, el 3'-OH d'una
-cadena motlle no té extrems 3'-OH lliures. Per suplir això, es
-necessiten una parella de primers.
-
-\subsubsection{DNA polimerases}
-\paragraph{DNA polimerasa I}
-L'activitat primària és l'activitat polimerasa 5'->3' i requereix Mg2+
-i dNTP. Una altra activitat primària és l'activitat exonucleasa
-5'->3'.  Actua sobre dsDNA amb primer o amb dsDNA amb gaps. Quan omple
-un gap, després actua com a exonucleasa i allibera la cadena de
-nucleòtids fins al final de 3'. La utilitat d'això és incloure nucleòtids marcats, p.e. 
-
-Com a activitat secundària és una exonucleasa 3'->5', pel que pot fer
-perillar la integritat dels primers. Aquesta activitat és
-\textit{proofreading} i serveix per corregir errors.
-
-Té activitat RNasaH, però és molt baixa.
-
-S'han generat formes de la DNA polimerasa I sense activitat
-exonucleasa 5'->3' i amb activitat exonucleasa 3'->5' molt reduïda, i
-s'anomena Klenow. Amb aquest enzim modificat, es poden
-transformar extrems protuberants en roms. Un fragment de DNA amb
-5'-protuberant, la cadena complementària fa de primer.
-
-\paragraph{DNA polimerasa del bacteriòfag T4}
-Té activitat polimerasa 5'->3' i requereix Mg2+ i dNTP. Té activitat
-exonucleasa 3'->5' molt activa. Serveix per eliminar extrems 3'
-protuberants i transformar-los en roms.
-
-\paragraph{DNA polimerasa del bacteriòfag T7}
-Té un temps d'inactivació molt alt, el que permet la síntesi de
-fragments llargs. Té activitat polimerasa 5'->3' i
-requereix Mg2+ i dNTP. Té activitat exonucleasa 3'->5' molt activa.
-
-\paragraph{Secuenasa}
-Modificació de la DNA polimerasa del bacteriòfag T7; sense activitat
-exonucleasa 3'->5'. S'usa en reaccions de seqüenciació.
-
-Aquestes polimerases tenen una temperatura òptima de 37ºC.
-
-
-\paragraph{DNA polimerases termoestables}
-Actuen a temperatures elevades (60ºC), pel que s'evita la inactivació
-quan es desnaturalitza el DNA. S'han aïllat de termòfils.
-
-Tenen activitat polimerasa 5'->3' termoestable. No totes tenen
-activitat \textit{proofreading}. La Taq tendeix a fer errors de
-síntesi ja que no té aquesta activitat.
-
-
-% Taula amb característiques de les polimerases termoestables
-
-\paragraph*{PCR}
-S'ha de conèixer o bé la seqüència diana o les zones flanquejants per
-poder dissenyar els encebadors. Hi ha 3 etapes:
-
-\begin{enumerate}
-\item Desnaturalització del DNA a 95ºC
-\item Hibridació (\textit{annealing}) dels primers a una temperatura
-  d'hibridació correcta.
-\item Extensió
-\end{enumerate}
-
-Si això es fa $n$ vegades, s'aconsegueixen fragments de la mateixa
-mida. Això permet la obtenció d'una gran quantitat d'un fragment de
-DNA d'interès.
-
-\paragraph{Transcriptasa inversa}
-Té activitat polimerasa 5`->3' i requereix Mg2+ i dNTP. El substrat és
-RNA. Necessita un encebador. Algunes tenen activitat RNasaH.
-
-La transcripció inversa de mRNA és una reacció per obtenir una lliberia de
-cDNA. Es mescla mRNA amb transcriptasa inversa i oligos de dT que
-actuaran com a primers. Això generarà una 1ra cadena de DNA. Amb una
-RNasaH s'elimina el RNA i una DNA polimerasa DNA dependent per
-sintetitzar la 2na cadena. La nucleasa S1 elimina els loops de DNA
-simple i així es pot lligar el cDNA a un vector.
-
-\subsubsection{RNA polimerases}
-Tenen activitat RNA polimerasa 5'->3' a partir de dsDNA amb
-promotors. Requereix Mg2+ i rNTP. Es genera mRNA.
-
-Hi ha promotors usats en enginyeria genètica que reconeixen
-polimerases per millorar l'expressió. Si en un vector d'expressió, es
-clona un gen \textit{downstream} d'un d'aquests promotors i es
-transfecta en un organisme que tingui polimerases que reconeguin
-aquests promotors i aconseguir una elevada expressió d'aquest gen. Els
-vectors poden acceptar gens en ambdues direccions o promotors que
-duguin gens en diferents direccions.
+Lligació de fragments amb extrems idèntics: L'insert es pot col·locar en 2 direccions. Això és interessant per dirigir l'expressió en funció de cadena + o -.

@@ -1,0 +1,36 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex")
+
+(toc "toc" "    1 Enzimologia clínica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 2 "1" "\\section{Enzimologia clínica}" 191)
+
+(toc "toc" "      1.1 Enzims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 3 "1.1" "\\subsection{Enzims}" 222)
+
+(toc "toc" "        1.1.1 Lesió cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.1" "\\subsubsection{Lesió cel·lular}" 2207)
+
+(toc "toc" "        1.1.2 Mesura de la concentració dels enzims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.2" "\\subsubsection{Mesura de la concentració dels enzims}" 2610)
+
+(toc "toc" "        1.1.3 Distribució cel·lular dels enzims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.3" "\\subsubsection{Distribució cel·lular dels enzims}" 3468)
+
+("tab:enzims" "t" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil "")
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex")
+))
+
