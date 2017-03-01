@@ -23,13 +23,35 @@
 
 (toc "toc" "      1.1 Enzims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 3 "1.1" "\\subsection{Enzims}" 222)
 
-(toc "toc" "        1.1.1 Lesió cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.1" "\\subsubsection{Lesió cel·lular}" 2207)
+(toc "toc" "        1.1.1 Lesió cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.1" "\\subsubsection{Lesió cel·lular}" 2211)
 
-(toc "toc" "        1.1.2 Mesura de la concentració dels enzims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.2" "\\subsubsection{Mesura de la concentració dels enzims}" 2610)
+(toc "toc" "        1.1.2 Mesura de la concentració dels enzims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.2" "\\subsubsection{Mesura de la concentració dels enzims}" 2614)
 
-(toc "toc" "        1.1.3 Distribució cel·lular dels enzims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.3" "\\subsubsection{Distribució cel·lular dels enzims}" 3468)
+(toc "toc" "        1.1.3 Distribució cel·lular dels enzims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.3" "\\subsubsection{Distribució cel·lular dels enzims}" 3482)
 
-("tab:enzims" "t" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil "")
+("tab:enzims" "t" "Localització subcel·lular d'enzims amb importància clínica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil)
+
+(toc "toc" "        1.1.4 Interès diagnòstic dels enzims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.1.4" "\\subsubsection{Interès diagnòstic dels enzims}" 4543)
+
+(toc "toc" "      1.2 Estratègies bioquímiques per l'estudi clínic del metabolisme" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 3 "1.2" "\\subsection{Estratègies bioquímiques per l'estudi clínic del
+  metabolisme}" 5128)
+
+(toc "toc" "        1.2.1 Cinètica de les reaccions enzimàtiques monosubstrat" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.2.1" "\\subsubsection{Cinètica de les reaccions enzimàtiques monosubstrat}" 5589)
+
+(toc "toc" "        1.2.2 Procediments per a mesurar la velocitat de transformació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.2.2" "\\subsubsection{Procediments per a mesurar la velocitat de
+  transformació}" 5985)
+
+("eq:1" "e" "v = \\frac{A_t-A_{Blanc}}{t} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil)
+
+("eq:2" "e" "v = \\frac{A_2-A_1}{t_2-t_1} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil)
+
+("eq:3" "e" "v = \\frac{\\Delta A}{\\Delta t} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil)
+
+("eq:4" "e" "v = \\frac{d A}{d t} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil)
+
+(toc "toc" "        1.2.3 Aplicació de tècniques enzimàtiques combinades" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil 4 "1.2.3" "\\subsubsection{Aplicació de tècniques enzimàtiques combinades}" 6971)
+
+("eq:5" "e" " " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex" nil)
 
 (eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema7.tex")
 ))

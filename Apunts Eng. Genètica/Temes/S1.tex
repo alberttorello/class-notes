@@ -1,0 +1,75 @@
+%--------------------------------------------------------
+% Seminari. Aplicacions de la PCR
+%--------------------------------------------------------
+\section{Seminari. Aplicacions de la PCR}
+
+\subsection{Bases de la PCR}
+La reacció es basa en l'amplificació d'un fragment de DNA a partint d'uns primers perquè la polimerasa copiï la cadena motlle.
+
+Per a què els primers s'hibridin, fa falta que el DNA estigui desnaturalitzat.
+
+3 fites de la biologia molecular:
+\begin{enumerate}
+\item Descobriment dels enzims de restricció
+\item Desenvolupament de la PCR
+\item CRISPR/Cas9
+\end{enumerate}
+
+La idea de la PCR és repetir diverses vegades el cicle. Així, el DNA s'amplifica de manera exponencial. El problema de la PCR era l'ús de polimerases termoestables que resisteixin les temperatures de desnaturalització.
+
+Programa típic de PCR:
+\begin{itemize}
+\item 1 min 90ºC desnaturalització
+\item 1 min 50-60ºC hibridació
+\item 70ºC extensió
+\end{itemize}
+
+\subsubsection{Temperatura d'hibridació}
+La situació ideal és que els primers només hibridin en les dianes esperades. Pot passar que els primers no hibridin enlloc o que hibridin en llocs no esperats. Aquests fenòmens es controlen amb la temperatura d'hibridació.
+
+La Tm es calcula com 4 graus per cada G o C i 2 per A i T. La temperatura d'hibridació es calcula com a 10ºC per sota la Tm. Aquesta fórmula només s'utilitza per primers de PCR, no per sondes de Southern Blot, p.e.
+
+La longitud dels primers és d'uns 20 nt.
+
+Les claus pel desenvolupament de la PCR han estat:
+\begin{itemize}
+\item Polimerases termoestables
+\item Termocicladors
+\end{itemize}
+
+Els pros i contres de la PCR són:
+\begin{itemize}
+\item Capacitat d'amplificació exponencial
+\item Contaminacions creuades freqüents
+\item Disseny a mida de seqüències de DNA
+\item Baixa fidelitat de la Taq DNA polimerasa (no té activitat \textit{proofreading})
+\item No amplifica RNA
+\end{itemize}
+
+Per amplificar el RNA es fa una reacció amb una retrotranscriptasa per obtenir un cDNA. La retrotranscriptasa és un enzim molt sensible i s'inhibeix molt fàcilment.
+
+\subsection{Aplicacions de la PCR i RT-PCR}
+
+\subsubsection{Clonatge}
+La via clàssica del clonatge és l'ús d'enzims de restricció i lligases per introduir un gen en un vector. Moltes vegades, per aïllar el gen no es poden fer servir els enzims de restricció per obrir el vector.
+
+Per solucionar això, es fa una PCR amb primers homòlegs al gen de 15nt i que incorporin les dianes de restricció que ens interessin. Per faclitar que la regió no homòloga hibridi, es baixa la temperatura d'hibridació al primer cicle. Després del primer cicle, es pot tornar a una temperatura d'hibridació restrictiva.
+
+Pel clonatge s'usen polimerases termoestables d'alta fidelitat.
+
+\subsubsection{Mutagènesi dirigida}
+Els primers contenen una mutació puntual, de manera que quan s'amplifiqui el gen s'introdueixi aquesta mutació.
+
+% Complementar
+
+\subsubsection{Diagnòstic}
+Per confirmar els productes de PCR i evitar falsos positius i falsos negatius:
+\begin{itemize}
+\item Hibridació d'una sonda interna: Southern Blot
+\item nested PCR i semi-nested PCR: en la nPCR s'amplifiquen els productes de la primera PCR amb primers interns.
+\item Seqüenciació
+\end{itemize}
+
+La RT-qPCR (RealTime PCR) permet quantificar el RNA/DNA. Es va desenvolupar per controlar l'eficàcia dels antivirals en pacients amb hepatitis C. Es basa en l'addició de fluoròfors a la reacció de PCR. Moltes vegades es fa servir una sonda interna amb un fluoròfor per confirmar l'especificitat de la fluorescència. La quantificació es fa per comparació amb un estàndard. Més alt Ct, menys càrrega viral.
+
+Els controls són:
