@@ -4,32 +4,50 @@
 \section{Seminari. Aplicacions de la PCR}
 
 \subsection{Bases de la PCR}
-La reacciÃ³ es basa en l'amplificaciÃ³ d'un fragment de DNA a partint d'uns primers perquÃ¨ la polimerasa copiÃ¯ la cadena motlle.
-
-Per a quÃ¨ els primers s'hibridin, fa falta que el DNA estigui desnaturalitzat.
-
-3 fites de la biologia molecular:
+Hi ha 3 fites històriques de la biologia molecular:
 \begin{enumerate}
-\item Descobriment dels enzims de restricciÃ³
+\item Descobriment dels enzims de restricció
 \item Desenvolupament de la PCR
 \item CRISPR/Cas9
 \end{enumerate}
 
-La idea de la PCR Ã©s repetir diverses vegades el cicle. AixÃ­, el DNA s'amplifica de manera exponencial. El problema de la PCR era l'Ãºs de polimerases termoestables que resisteixin les temperatures de desnaturalitzaciÃ³.
+La PCR es basa en l'amplificació d'un fragment de DNA a partint
+d'uns primers perquè la polimerasa copiï la cadena motlle. Per a què
+els primers s'hibridin, fa falta que el DNA estigui desnaturalitzat.
 
-Programa tÃ­pic de PCR:
+La idea de la PCR és repetir diverses vegades el cicle. Així, el DNA
+s'amplifica de manera exponencial. El problema de la PCR era l'ús de
+polimerases termoestables que resisteixin les temperatures de desnaturalització.
+
+Programa típic de PCR:
 \begin{itemize}
-\item 1 min 90ÂºC desnaturalitzaciÃ³
-\item 1 min 50-60ÂºC hibridaciÃ³
-\item 70ÂºC extensiÃ³
+\item 1 min 90ºC desnaturalització
+\item 1 min 50-60ºC hibridació
+\item 70ºC extensió
 \end{itemize}
 
-\subsubsection{Temperatura d'hibridaciÃ³}
-La situaciÃ³ ideal Ã©s que els primers nomÃ©s hibridin en les dianes esperades. Pot passar que els primers no hibridin enlloc o que hibridin en llocs no esperats. Aquests fenÃ²mens es controlen amb la temperatura d'hibridaciÃ³.
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.85\textwidth]{fig15}
+  \caption{Esquema d'un cicle bàsic de PCR}
+  \label{fig:fig15}
+\end{figure}
 
-La Tm es calcula com 4 graus per cada G o C i 2 per A i T. La temperatura d'hibridaciÃ³ es calcula com a 10ÂºC per sota la Tm. Aquesta fÃ³rmula nomÃ©s s'utilitza per primers de PCR, no per sondes de Southern Blot, p.e.
+\subsubsection{Temperatura d'hibridació}
+La situació ideal és que els primers només hibridin en les dianes
+esperades. Pot passar que els primers no hibridin enlloc o que
+hibridin en llocs no esperats. Aquests fenòmens es controlen amb la
+temperatura d'hibridació.
 
-La longitud dels primers Ã©s d'uns 20 nt.
+La Tm es calcula com:
+\begin{equation}
+  \label{eq:1}
+  T_m = 4 \cdot (G/C) + 2 \cdot (A/T)
+\end{equation}
+
+La temperatura d'hibridació es calcula com a 10ºC per sota la
+Tm. Aquesta fórmula només s'utilitza per primers de PCR, no per sondes
+de Southern Blot, p.e. La longitud dels primers és d'uns 20 nt.
 
 Les claus pel desenvolupament de la PCR han estat:
 \begin{itemize}
@@ -37,39 +55,151 @@ Les claus pel desenvolupament de la PCR han estat:
 \item Termocicladors
 \end{itemize}
 
-Els pros i contres de la PCR sÃ³n:
+Els pros i contres de la PCR són:
 \begin{itemize}
-\item Capacitat d'amplificaciÃ³ exponencial
-\item Contaminacions creuades freqÃ¼ents
-\item Disseny a mida de seqÃ¼Ã¨ncies de DNA
-\item Baixa fidelitat de la Taq DNA polimerasa (no tÃ© activitat \textit{proofreading})
+\item Capacitat d'amplificació exponencial
+\item Contaminacions creuades freqüents
+\item Disseny a mida de seqüències de DNA
+\item Baixa fidelitat de la Taq DNA polimerasa (no té activitat \textit{proofreading})
 \item No amplifica RNA
 \end{itemize}
 
-Per amplificar el RNA es fa una reacciÃ³ amb una retrotranscriptasa per obtenir un cDNA. La retrotranscriptasa Ã©s un enzim molt sensible i s'inhibeix molt fÃ cilment.
+Per compensar la baixa fidelitat de la Taq polimerasa, es poden fer
+servir polimerases d'alta fidelitat (que tenen activitat exonucleasa 3'->5').
+
+Per amplificar el RNA es fa una reacció amb una retrotranscriptasa per
+obtenir un cDNA. La retrotranscriptasa és un enzim molt sensible i
+s'inhibeix molt fàcilment.
 
 \subsection{Aplicacions de la PCR i RT-PCR}
 
 \subsubsection{Clonatge}
-La via clÃ ssica del clonatge Ã©s l'Ãºs d'enzims de restricciÃ³ i lligases per introduir un gen en un vector. Moltes vegades, per aÃ¯llar el gen no es poden fer servir els enzims de restricciÃ³ per obrir el vector.
+La via clàssica del clonatge és l'ús d'enzims de restricció i lligases
+per introduir un gen en un vector. Moltes vegades, per aïllar el gen
+no es poden fer servir els enzims de restricció per obrir el vector.
 
-Per solucionar aixÃ², es fa una PCR amb primers homÃ²legs al gen de 15nt i que incorporin les dianes de restricciÃ³ que ens interessin. Per faclitar que la regiÃ³ no homÃ²loga hibridi, es baixa la temperatura d'hibridaciÃ³ al primer cicle. DesprÃ©s del primer cicle, es pot tornar a una temperatura d'hibridaciÃ³ restrictiva.
+Per solucionar això, es fa una PCR amb primers homòlegs al gen de 15nt
+i que incorporin les dianes de restricció que ens interessin. Per
+faclitar que la regió no homòloga hibridi, es baixa la temperatura
+d'hibridació al primer cicle. Després del primer cicle, es pot tornar
+a una temperatura d'hibridació restrictiva.
 
 Pel clonatge s'usen polimerases termoestables d'alta fidelitat.
 
-\subsubsection{MutagÃ¨nesi dirigida}
-Els primers contenen una mutaciÃ³ puntual, de manera que quan s'amplifiqui el gen s'introdueixi aquesta mutaciÃ³.
+\subsubsection{Mutagènesi dirigida}
+El procés, en primer lloc, requereix un primer que contingui la
+mutació. El primer ha d'hibridar amb la molècula simple (unicatenaria)
+de DNA que conté el gen d'interès. La DNA polimerasa elonga la cadena
+incorporant la mutació al DNA. 
 
-% Complementar
+Aquesta tècnica no només fa possible crear mutacions puntuals en una
+molècula de DNA, sinó que també es poden produir delecions i
+insercions. S'aconsegueix controlar el tipus de mutació que es pretén
+realitzar en el DNA modificant el primer. Per a les delecions
+s'utilitzen primers que continguin la deleció però que tinguin la
+capacitat d'hibridació en la cadena de DNA en el lloc correcte; per
+contra, per a una inserció el primer haurà de portar el fragment extra
+de DNA a més d'hibridar correctament amb la cadena motlle.
 
-\subsubsection{DiagnÃ²stic}
+Per realitzar mutagènesi dirigida, es pot utilitzar la
+PCR. Generalment, se solen utilitzar 4 primers: dos d'ells presenten
+la mutació; i els altres dos únicament s'utilitzen per amplificar la
+cadena. Ja que amb la PCR obtindrem una amplificació exponencial, el
+fragment mutat s'amplificarà de tal manera que superarà
+majoritàriament al nombre de cadenes normals sense la mutació. Després
+de la PCR, podem menysprear el nombre de cadenes de DNA normals en
+comparació amb les que han estat mutadas.
+
+\subsubsection{Diagnòstic}
 Per confirmar els productes de PCR i evitar falsos positius i falsos negatius:
 \begin{itemize}
-\item HibridaciÃ³ d'una sonda interna: Southern Blot
-\item nested PCR i semi-nested PCR: en la nPCR s'amplifiquen els productes de la primera PCR amb primers interns.
-\item SeqÃ¼enciaciÃ³
+\item \textbf{Hibridació d'una sonda interna:} Southern Blot
+
+\item \textbf{nested PCR i semi-nested PCR:} Procés d'amplificació
+  complementari a la PCR convencional. No és més que un segon procés
+  d'amplificació partint del producte d'una PCR inicial. Incrementa la
+  sensibilitat del procés global (detecció de fins a un genoma per
+  reacció). Actua com a confirmació del resultat de la PCR inicial
+  Requereix el producte d'una PCR inicial i nous reactius. Els
+  iniciadors són seqüències internes al fragment amplificat en la PCR
+  inicial. Les condicions poden variar respecte a la PCR inicial. Una
+  variant utilitza un iniciador nou i un utilitzat també en la primera
+  PCR (PCR semianiuada).
+
+\item \textbf{Seqüenciació}
 \end{itemize}
 
-La RT-qPCR (RealTime PCR) permet quantificar el RNA/DNA. Es va desenvolupar per controlar l'eficÃ cia dels antivirals en pacients amb hepatitis C. Es basa en l'addiciÃ³ de fluorÃ²fors a la reacciÃ³ de PCR. Moltes vegades es fa servir una sonda interna amb un fluorÃ²for per confirmar l'especificitat de la fluorescÃ¨ncia. La quantificaciÃ³ es fa per comparaciÃ³ amb un estÃ ndard. MÃ©s alt Ct, menys cÃ rrega viral.
+La RT-qPCR (RealTime PCR) permet quantificar el RNA/DNA. Es va
+desenvolupar per controlar l'eficàcia dels antivirals en pacients amb
+hepatitis C. Sistema per detectar a temps real els productes de PCR a
+mesura que es van acumulant. Així, quan més alt és el nombre inicial
+de còpies de l'àcid nucleic diana, abans es produeix un increment
+significatiu en la fluorescència observada. 
 
-Els controls sÃ³n:
+El paràmetre CQ o CT (threshold cycle o cicle llindar) és el cicle en
+el qual la fluorescència emesa supera un nivell establert de
+fluorescència base. 
+
+La detecció del amplificat es fa per diversos mecanismes de
+fluorescència. Els sistemes mes comunament utilitzats es basen en
+l'acumulació de fluorescència que pot relacionar-se amb la quantitat
+de producte de PCR generat. 
+
+Els mètodes poden ser:
+\begin{itemize}
+	\item \textbf{No específics:} molècules de fluoròfor que
+          s'uneixen a l'ADN, com el SYBR green I, i que emeten
+          fluorescència quan s'intercalen a l'ADN de doble cadena
+          exposat a una determinada longitud d'ona. 
+	
+	Associació d'aquests compostos amb dímers de iniciadors o amb
+        altres productes d'amplificació no específics donant lloc a
+        confusions en la interpretació dels resultats. Aquest problema
+        pot solucionar-se afegint un període curt d'incubació a alta
+        temperatura després de la fase d'elongació. 
+	
+	\item \textbf{Específics:} com el basat en l'activitat 5'-
+          exonucleasa de la Taq polimerasa (sondes TaqManTM). 
+	
+	Utilitza els components clàssics d'una reacció de PCR, i una
+        sonda amb un fluoròfor a l'extrem 5 'i un compost bloquejador
+        de fluorescència en l'extrem 3' (quencher). 
+	
+	L'ús d'una sonda complementària a la seqüència buscada
+        incrementa l'especificitat del procés. 
+\end{itemize}
+
+Si la sonda aquesta intacta, la proximitat del compost bloquejador
+redueix la fluorescència emesa pel fluoròfor mitjançant un procés de
+transmissió d'energia de ressonància.
+
+Quan la seqüència diana aquesta present, la sonda se li uneix en
+posició 3 'respecte al lloc d'unió d'un dels iniciadors i és tallada
+per l'activitat 5' nucleasa de la Taq ADN polimerasa quan es dóna
+l'extensió de l'iniciador. Aquest tall en la sonda separa el fluoròfor
+del compost bloquejador de manera que augmenta la senyal de
+fluorescència. A cada cicle es repeteix el procés, fet que augmenta la
+fluorescència de forma proporcional a la quantitat de amplicó produït.
+
+
+\paragraph*{Control de qualitat de PCR} \hfill \\
+Els controls positius i negatius apropiats són una part integral de
+qualsevol prova de laboratori. L'ús d'assajos de PCR (RT) ha augmentat
+ràpidament en els últims anys i els laboratoris s'han adaptat a
+l'aplicació d'aquestes tècniques d'organització ubicacions separades
+per a les diverses etapes en el procés de l'anàlisi. 
+
+En general, el major risc és per resultats falsos positius en els
+assajos de PCR, més comunament resulten de la contaminació amb
+productes d'ADN amplificats. Les mesures utilitzades per prevenir la
+contaminació i al seguiment acurat de la seva ocurrència mitjançant
+l'ús de múltiples controls negatius s'accentuen en la majoria dels
+papers. Així mateix, els resultats falsos negatius poden presentar un
+problema en una tècnica altament sensible com RT-PCR i això sembla ser
+reconegut en menor mesura. 
+
+\begin{itemize}
+	\item \textbf{Controls negatius:} Evita falsos positius.
+	\item \textbf{Controls positius:} Control de l'extracció
+          d'àcids nucleics i de la retrotranscriptasa-Taq Polimerasa.
+\end{itemize}

@@ -1,0 +1,42 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/")
+
+(label-numbers ("eq:" . 1))
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex")
+
+(toc "toc" "    1 Seminari. Aplicacions de la PCR" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex" nil 2 "1" "\\section{Seminari. Aplicacions de la PCR}" 151)
+
+(toc "toc" "      1.1 Bases de la PCR" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex" nil 3 "1.1" "\\subsection{Bases de la PCR}" 194)
+
+("fig:fig14" "f" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex" nil "")
+
+(toc "toc" "        1.1.1 Temperatura d'hibridació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex" nil 4 "1.1.1" "\\subsubsection{Temperatura d'hibridació}" 1125)
+
+("eq:1" "e" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex" nil "")
+
+(toc "toc" "      1.2 Aplicacions de la PCR i RT-PCR" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex" nil 3 "1.2" "\\subsection{Aplicacions de la PCR i RT-PCR}" 2444)
+
+(toc "toc" "        1.2.1 Clonatge" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex" nil 4 "1.2.1" "\\subsubsection{Clonatge}" 2489)
+
+(toc "toc" "        1.2.2 Mutagènesi dirigida" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex" nil 4 "1.2.2" "\\subsubsection{Mutagènesi dirigida}" 3108)
+
+(toc "toc" "        1.2.3 Diagnòstic" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex" nil 4 "1.2.3" "\\subsubsection{Diagnòstic}" 4408)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S1.tex")
+))
+
