@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  2 MAR 2017 22:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  5 MAR 2017 21:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1909,6 +1909,18 @@ Library (tcolorbox): 'tcbbreakable.code.tex' version '4.02'
 
 LaTeX Warning: Label `eq:1' multiply defined.
 
+
+LaTeX Warning: Label `eq:1' multiply defined.
+
+
+LaTeX Warning: Label `eq:2' multiply defined.
+
+
+LaTeX Warning: Label `eq:3' multiply defined.
+
+
+LaTeX Warning: Label `eq:4' multiply defined.
+
 )
 \openout1 = `"Apunts BAC.aux"'.
 
@@ -2066,7 +2078,7 @@ LaTeX Info: Redefining \nameref on input line 213.
 \openout9 = `"Apunts BAC.out"'.
 
 
-<Logo.jpg, id=75, 639.38875pt x 426.59375pt>
+<Logo.jpg, id=103, 639.38875pt x 426.59375pt>
 File: Logo.jpg Graphic file (type jpg)
  <use Logo.jpg>
 Package pdftex.def Info: Logo.jpg used on input line 226.
@@ -2141,7 +2153,7 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 50.
 File: ujkpsyc.fd 2006/08/15 v1.0
 ) [2] [3]
 [4]) [5] (./Temes/Tema2.tex
-<Pictures/fig1.png, id=127, 672.5125pt x 376.40625pt>
+<Pictures/fig1.png, id=162, 672.5125pt x 376.40625pt>
 File: Pictures/fig1.png Graphic file (type png)
  <use Pictures/fig1.png>
 Package pdftex.def Info: Pictures/fig1.png used on input line 64.
@@ -2159,295 +2171,101 @@ LaTeX Font Warning: Font shape `LGR/jkp/m/n' undefined
 LaTeX Font Warning: Font shape `LGR/jkp/b/n' undefined
 (Font)              using `LGR/jkp/m/n' instead on input line 86.
 
-[9] [10] <Pictures/fig2.png, id=163, 653.44125pt x 675.52374pt>
+[9] [10] <Pictures/fig2.png, id=198, 653.44125pt x 675.52374pt>
 File: Pictures/fig2.png Graphic file (type png)
 
 <use Pictures/fig2.png>
 Package pdftex.def Info: Pictures/fig2.png used on input line 203.
 (pdftex.def)             Requested size: 328.6279pt x 339.7298pt.
  [11]
-<Pictures/fig3.png, id=168, 666.49pt x 537.00626pt>
+<Pictures/fig3.png, id=203, 666.49pt x 537.00626pt>
 File: Pictures/fig3.png Graphic file (type png)
  <use Pictures/fig3.png>
 Package pdftex.def Info: Pictures/fig3.png used on input line 213.
 (pdftex.def)             Requested size: 328.6279pt x 264.79056pt.
 
 [12 <./Pictures/fig2.png>] [13 <./Pictures/fig3.png>]
-<Pictures/fig4.png, id=182, 424.58624pt x 460.72125pt>
+<Pictures/fig4.png, id=217, 424.58624pt x 460.72125pt>
 File: Pictures/fig4.png Graphic file (type png)
  <use Pictures/fig4.png>
 Package pdftex.def Info: Pictures/fig4.png used on input line 259.
 (pdftex.def)             Requested size: 164.31754pt x 178.30267pt.
 
 [14 <./Pictures/fig4.png>]) [15] (./Temes/Tema6.tex [16]
-<Pictures/fig5.png, id=200, 469.755pt x 179.67125pt>
+<Pictures/fig5.png, id=235, 469.755pt x 179.67125pt>
 File: Pictures/fig5.png Graphic file (type png)
  <use Pictures/fig5.png>
-Package pdftex.def Info: Pictures/fig5.png used on input line 106.
+Package pdftex.def Info: Pictures/fig5.png used on input line 95.
 (pdftex.def)             Requested size: 234.73524pt x 89.78056pt.
 
-<Pictures/fig6.png, id=201, 566.115pt x 144.54pt>
+<Pictures/fig6.png, id=236, 566.115pt x 144.54pt>
 File: Pictures/fig6.png Graphic file (type png)
  <use Pictures/fig6.png>
-Package pdftex.def Info: Pictures/fig6.png used on input line 115.
+Package pdftex.def Info: Pictures/fig6.png used on input line 102.
 (pdftex.def)             Requested size: 234.73524pt x 59.93224pt.
 
 [17 <./Pictures/fig5.png> <./Pictures/fig6.png>]
-<Pictures/fig7.png, id=209, 676.5275pt x 323.2075pt>
+<Pictures/fig7.png, id=244, 676.5275pt x 323.2075pt>
 File: Pictures/fig7.png Graphic file (type png)
  <use Pictures/fig7.png>
-Package pdftex.def Info: Pictures/fig7.png used on input line 169.
+Package pdftex.def Info: Pictures/fig7.png used on input line 131.
 (pdftex.def)             Requested size: 375.57782pt x 179.43652pt.
 
-[18] [19 <./Pictures/fig7.png>]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.251 \item alpha^
-                  0-Talassèmia: No hi ha síntesi de la cadena alfa de
-? 
+[18] [19 <./Pictures/fig7.png>] [20]
+<Pictures/fig8.png, id=268, 604.2575pt x 700.6175pt>
+File: Pictures/fig8.png Graphic file (type png)
+ <use Pictures/fig8.png>
+Package pdftex.def Info: Pictures/fig8.png used on input line 236.
+(pdftex.def)             Requested size: 305.15294pt x 353.81438pt.
 
-LaTeX Warning: Command \` invalid in math mode on input line 251.
+[21] <Pictures/fig9.png, id=273, 590.205pt x 628.3475pt>
+File: Pictures/fig9.png Graphic file (type png)
 
+<use Pictures/fig9.png>
+Package pdftex.def Info: Pictures/fig9.png used on input line 257.
+(pdftex.def)             Requested size: 305.15294pt x 324.87296pt.
+ [22 <./Pictures/fig8.png>] [23 <./Pictures/fig9.png>]
+[24] <Pictures/fig10.png, id=311, 994.71625pt x 591.20876pt>
+File: Pictures/fig10.png Graphic file (type png)
 
-LaTeX Warning: Command \' invalid in math mode on input line 251.
+<use Pictures/fig10.png>
+Package pdftex.def Info: Pictures/fig10.png used on input line 354.
+(pdftex.def)             Requested size: 445.99553pt x 265.07622pt.
+ [25]
+<Pictures/fig11.png, id=319, 660.4675pt x 459.7175pt>
+File: Pictures/fig11.png Graphic file (type png)
+ <use Pictures/fig11.png>
+Package pdftex.def Info: Pictures/fig11.png used on input line 360.
+(pdftex.def)             Requested size: 445.99553pt x 310.44322pt.
 
+[26 <./Pictures/fig10.png> <./Pictures/fig11.png>]
+File: Pictures/fig11.png Graphic file (type png)
+ <use Pictures/fig11.png>
+Package pdftex.def Info: Pictures/fig11.png used on input line 382.
+(pdftex.def)             Requested size: 445.99553pt x 310.44322pt.
 
-LaTeX Warning: Command \` invalid in math mode on input line 252.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 253.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.255 
-      
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.255 
-      
-? 
-Missing character: There is no è in font jkpmn7t!
-Missing character: There is no í in font jkpmn7t!
-Missing character: There is no à in font jkpmn7t!
-Missing character: There is no É in font jkpmn7t!
-
-Overfull \hbox (525.82974pt too wide) in paragraph at lines 251--255
-[]\T1/jkp/m/n/12 alpha$[] \OMS/jkp/m/n/12 ^^@ \OML/jkp/m/it/12 Talassmia \OT1/j
-kp/m/n/12 : \OML/jkp/m/it/12 Nohihasntesidelacadenaalfadeglobina:Lahemoglobinad
-eBart\OT1/jkp/m/n/12 (\OML/jkp/m/it/12 tetrmerdedelta\OT1/jkp/m/n/12 )\OML/jkp/
-m/it/12 representael\OT1/jkp/m/n/12 8090%\OML/jkp/m/it/12 delahemoglobinatotal:
-smortaljaquelaHbBartnopottransportarO\OT1/jkp/m/n/12 2\OML/jkp/m/it/12 :[]$ 
+[27] [28]
+Overfull \hbox (1.9037pt too wide) in paragraph at lines 421--422
+[]\T1/jkp/m/n/12 Anomalies de la mem-bra-na (es-fe-ro-ci-to-sis, elip-to-ci-to-
+sis, xe-ro-ci-to-sis, etc.) 
  []
 
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.255 
-      
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.256   \item alpha^
-                    +-Talassèmia:
-? 
-
-LaTeX Warning: Command \` invalid in math mode on input line 256.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.257 
-      
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.257 
-      
-? 
-Missing character: There is no è in font jkpmn7t!
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.257 
-      
-? 
-[20] [21]
-File: Pictures/fig5.png Graphic file (type png)
- <use Pictures/fig5.png>
-Package pdftex.def Info: Pictures/fig5.png used on input line 387.
-(pdftex.def)             Requested size: 234.73524pt x 89.78056pt.
- [22]
-File: Pictures/fig6.png Graphic file (type png)
- <use Pictures/fig6.png>
-Package pdftex.def Info: Pictures/fig6.png used on input line 396.
-(pdftex.def)             Requested size: 234.73524pt x 59.93224pt.
-
-Overfull \hbox (1.09586pt too wide) in paragraph at lines 399--404
-[]\T1/jkp/m/n/12 La me-ta-he-mo-glo-bi-nè-mia he-re-di-tà-ria és una de-fi-ci-è
-n-cia en NADH-metahemoglobina
+[29]) [30] (./Temes/Tema7.tex [31] [32] [33]
+Overfull \hbox (6.15369pt too wide) in paragraph at lines 178--180
+[]\T1/jkp/b/n/12 Procediments con-ti-nus: \T1/jkp/m/n/12 Es me-su-ra l???absorb
+a??ncia con-ti-nu-a-ment du-rant un temps
  []
 
-[23]
-File: Pictures/fig7.png Graphic file (type png)
- <use Pictures/fig7.png>
-Package pdftex.def Info: Pictures/fig7.png used on input line 450.
-(pdftex.def)             Requested size: 375.57782pt x 179.43652pt.
- [24] [25]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.532 \item alpha^
-                  0-Talassèmia: No hi ha síntesi de la cadena alfa de
-? 
-
-LaTeX Warning: Command \` invalid in math mode on input line 532.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 532.
-
-
-LaTeX Warning: Command \` invalid in math mode on input line 533.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 534.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.536 
-      
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.536 
-      
-? 
-Missing character: There is no è in font jkpmn7t!
-Missing character: There is no í in font jkpmn7t!
-Missing character: There is no à in font jkpmn7t!
-Missing character: There is no É in font jkpmn7t!
-
-Overfull \hbox (551.67943pt too wide) in paragraph at lines 532--536
-[]\T1/jkp/m/n/12 alpha$[] \OMS/jkp/m/n/12 ^^@ \OML/jkp/m/it/12 Talassmia \OT1/j
-kp/m/n/12 : \OML/jkp/m/it/12 Nohihasntesidelacadenaalfadeglobina:Lahemoglobinad
-eBart\OT1/jkp/m/n/12 (\OML/jkp/m/it/12 tetrmerdedelta\OT1/jkp/m/n/12 )\OML/jkp/
-m/it/12 representael\OT1/jkp/m/n/12 8090%\OML/jkp/m/it/12 delahemoglobinatotal:
-smortaljaquelaHbBartnopottransportarO\OT1/jkp/m/n/12 2\OML/jkp/m/it/12 :[]$ 
- []
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.536 
-      
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.537   \item alpha^
-                    +-Talassèmia:
-? 
-
-LaTeX Warning: Command \` invalid in math mode on input line 537.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.538 
-      
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.538 
-      
-? 
-Missing character: There is no è in font jkpmn7t!
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.538 
-      
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 586--587
-
- []
-
-[26]
-Overfull \hbox (42.52777pt too wide) in paragraph at lines 596--599
-\T1/jkp/m/n/12 S'hereta amb ca-ra??cter au-to-so??mic do-mi-nant. És una de-fi-
-cie??ncia en coproporfirino??gen-
- []
-
-
-Overfull \hbox (18.74371pt too wide) in paragraph at lines 596--599
-\T1/jkp/m/n/12 oxidasa (E.C. 1.3.3.3.). Els pa-ci-ents són as-simp-to-ma??tics 
-o pre-sen-ten lleus si??mptomes
- []
-
-
-Overfull \hbox (3.90018pt too wide) in paragraph at lines 607--608
-[]\T1/jkp/m/n/12 Si??mptomes: si-mi-lars als de la por-fi??ria agu-da in-ter-mi
--tent, amb les-si-ons cu-ta??nies. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 609--610
-
- []
-
-[27]
-! Extra }, or forgotten \endgroup.
-l.659 ...ch{CO2}. Es transporta el 20\% del \{CO2}
-                                                   produit als teixits   con...
-
-? 
-[28] [29]
-Overfull \hbox (4.30765pt too wide) in paragraph at lines 737--738
-[]\T1/jkp/m/n/12 Augment de les ne-ces-si-tats: Em-ba-ràs o aug-ment de la pro-
-o-li-fe-ra-ció cel\TS1/jkp/m/n/12 ·\T1/jkp/m/n/12 lular. 
- []
-
-[30]) [31] (./Temes/Tema7.tex [32] [33] [34]
-Overfull \hbox (6.51352pt too wide) in paragraph at lines 193--195
-[]\T1/jkp/m/n/12 Estat es-ta-ci-o-na-ri. La ve-lo-ci-tat e??s pro-por-ci-o-nal 
-a la con-cen-tra-cio?? de l???enzim. 
- []
-
-[35]) [36]
+) [34]
 No file "Apunts BAC".bbl.
-
-! LaTeX Error: \begin{itemize} on input line 292 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.303 \end{document}
-                    
-? 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 303.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
 (./Apunts BAC.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
+Package rerunfilecheck Info: File `"Apunts BAC".out' has not changed.
+(rerunfilecheck)             Checksum: A3C1A615892DB7DA33E06619DC90E83B;1874.
 
-
-Package rerunfilecheck Warning: File `"Apunts BAC".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Apunts BAC".out':
-(rerunfilecheck)             Before: 1A6FD398BE20DBE532BCB3EEAC00C434;1296
-(rerunfilecheck)             After:  BB0E0662CAD405239A9A401D30E8CA1C;2148.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2455,33 +2273,30 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 303.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 292 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 41420 strings out of 493013
- 762173 string characters out of 6133343
- 1055397 words of memory out of 5000000
- 44148 multiletter control sequences out of 15000+600000
- 123019 words of font info for 94 fonts, out of 8000000 for 9000
+ 41427 strings out of 493013
+ 762394 string characters out of 6133343
+ 1055551 words of memory out of 5000000
+ 44169 multiletter control sequences out of 15000+600000
+ 128410 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,12n,83p,10378b,1031s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc
-}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/kpfonts/jkpmia.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texm
-f-dist/fonts/type1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/public/kpfonts/jkpsy.pfb>
-Output written on "Apunts BAC.pdf" (37 pages, 792524 bytes).
+ 54i,12n,83p,10378b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/kpfonts/jkpmia.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/kpfonts/jkpsy.pfb>
+Output written on "Apunts BAC.pdf" (35 pages, 1288885 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 394 compressed objects within 4 object streams
- 171 named destinations out of 1000 (max. 500000)
- 189 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 467 PDF objects out of 1000 (max. 8388607)
+ 393 compressed objects within 4 object streams
+ 150 named destinations out of 1000 (max. 500000)
+ 265 words of extra memory for PDF output out of 10000 (max. 10000000)
 

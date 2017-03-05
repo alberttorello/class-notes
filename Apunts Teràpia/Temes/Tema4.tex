@@ -3,14 +3,96 @@
 %------------------------------------------------------------------------------
 \section{\textit{induced Pluripotent Stem Cells}}
 
-La primera reprogramaciÃ³ completa es va fer amb humans. El primer experiment de Yamanaka no va aconseguir una reprogramaciÃ³ completa.
+\subsection{Cèl·lules somàtiques vs ESC}
+La primera reprogramació completa es va fer amb humans. El primer
+experiment de Yamanaka no va aconseguir una reprogramació completa
+\citep{Takahashi2016}.
 
-Als anys 90 s'intentava fer transdiferenciaciÃ³ celÂ·lular, transferÃ¨ncia somÃ tica, etc.
+Als anys 90 s'intentava fer transdiferenciació cel·lular,
+transferència somàtica, etc.
 
-% Experiments de Mitsui
+Per tal de determinar els gens implicats en la pluripotència, es van
+fer experiments d'hibridació substractiva \citep{Mitsui2003}. Van
+obtenir cèl·lules somàtiques adultes i ESC i van construir llibreries
+de cDNA. El pool  de cDNA de les cèl·lules somàtiques es va marcar amb
+32-P i el pool de mRNA de ESC es va marcar amb biotina. Es van incubar
+els 2 pools per deixar-los hibridar. Es va aïllar la fracció de cDNA
+que no s'ha hibridat i es va purificar per
+biotina-estreptovidina. Així van obtenir una llibreria de cDNA amb
+gens expressats en ESC. La llista era de 24 gens.
 
-Abans de la hibridaciÃ³, es pot fer una amplificaciÃ³ RT-PCR amb primers oligo-dT.
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.5\textwidth]{fig9}
+  \caption{Llista dels 24 gens identificats en l'screening inicial}
+  \label{fig:fig9}
+\end{figure}
 
-Fbxo15 Ã©s un factor downstream d'Oct4. Oct4 i Sox2 activa Fbxo15. Va construir un cassette amb la beta-galactosidasa i geo i ho transfectava conjuntament amb els 24 factors descoberts per hibridaciÃ³ substractiva per veure quins gens activaven Fbxo15.
+Abans de la hibridació, es pot fer una amplificació RT-PCR amb primers
+oligo-dT.
 
-La metilaciÃ³ de promotos (CpG, que inactiva promotors) Ã©s un marcador de reprogramaciÃ³.
+\subsection{Selecció per G418}
+Fbxo15 és un factor downstream d'Oct4. Oct4 i Sox2 activa Fbxo15. Va
+construir un cassette amb la beta-galactosidasa i geo i ho
+transfectava conjuntament amb els 24 factors descoberts per hibridació
+substractiva per veure quins gens activaven Fbxo15.
+
+Per avaluar aquests 24 gens candidats, van desenvolupar un sistema en
+què la inducció de l'estat pluripotent es podia detectar com la
+resistpencia a la G418. Van insertar un cassette $\beta$-geo, una
+fusió de $\beta$-galactosidasa i un gen de resistència a la neomicina,
+al gen Fbx15 de ratolí per recombinació homòloga (A). Encara que
+s'expressa específicament en mESC i embrions primerencs, Fbx15 és
+imprescindible pel manteniment de la pluripotència i el
+desenvolupament en ratolins \citep{Takahashi2006}.
+
+Les ESC homozigotes per la construcció $\beta$-geo ($Fbx15^{\beta geo/
+  \beta geo}$) eren resistents a altes concentracions de G418 (més de
+12 mg/mL), mentre que les cèl·lules somàtiques derivades de ratolins $Fbx15^{\beta geo/
+  \beta geo}$ eren sensibles a una concentració normal de G418 (0.3
+mg/mL). Esperaven que inclús l'activació parcial del locus Fbx15
+resultaria en la resistència a concentracions normals de G418.
+
+Van introduir cadascun dels 24 gens candidats per transducció
+retroviral (\citep{Mitsui2003}) en MEF (fibroblasts embrionaris de
+ratolí) derivats d'embrions $Fbx15^{\beta geo/ \beta geo}$. Les
+cèl·lules transduïdes es can cultivar sobre una monocapa de cèl·lules
+STO (\textit{feeder cells}) en medi per ESC amb 0.3 mg/mL de G418. No
+van obtenir, però, no van obtenir colònies resistents amb únic factir;
+per tant no hi havia cap gen candidat que fos suficient per activar el
+locus Fbx15. D'altra banda, la transducció dels 24 gens candidats
+junts generaven 22 colònies resistents a la G418 (B). Dels 12 clons
+que es van continuar cultivant sota condicions selectives, 5 clons
+exhibien una morfologia similar a ESC; com ara una forma rodona, un
+nuclèol gran i un citoplasma escàs (C).
+
+\begin{figure}[H]
+  \centering\includegraphics[width=0.85\textwidth]{fig13}
+  \caption{Generació d'iPSC a partir de cultius de fibroblasts
+    embrionaris I}
+  \label{fig:13}
+\end{figure}
+
+Van repetir els experiments i van observar 29 colònies a la G418, de
+les quals van seleccionar 6. 4 d'aquests clons mostraven una
+morfologia similar i unes propietats proliferatives similars a ESC
+(D). El temps de duplicació d'aquestes cèl·lules (19.4, 17.5, 18.7,
+and 18.6 hores) era equivalent a les ESC (17h). Van anomenar aquestes
+cèl·lules ``iPS-MEF24'' per cèl·lules mare pluripotents induïdes a
+partir de MEF per 24 factors. Anàlisis per RT-PCR van revelar que els
+clons iPS-MEF24 expressaven marcadors d'ESC; com Oct3/4, Nanog, E-Ras,
+Cripto, Dax1, ZFP296 i FGF4 (E). El \textit{bisulfite genomic
+  sequencing} va demostrar que els promotors de Fbx15 i Nanoh no
+estaven metilats en iPS-MEF (F). Per contra, el promotor d'Oct4 sí que
+estava metilat en aquestes cèl·lules.
+
+\begin{figure}[H]
+  \centering
+    \centering\includegraphics[width=0.85\textwidth]{fig14}
+  \caption{Generació d'iPSC a partir de cultius de fibroblasts
+    embrionaris II}
+  \label{fig:14}
+\end{figure}
+
+La metilació de promotors (CpG, que inactiva promotors) és un marcador
+de reprogramació.

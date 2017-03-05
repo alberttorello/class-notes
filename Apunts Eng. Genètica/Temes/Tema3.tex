@@ -1,0 +1,55 @@
+%--------------------------------------------------------
+% Tema 3. Estudi de la seqüència d'àcids nucleics
+%--------------------------------------------------------
+\section{Estudi de la seqüència d'àcids nucleics. Marcatge}
+
+Hi ha 2 mètodes principals:
+\begin{enumerate}
+\item Marcatge uniforme: La marca és uniforme al llarg de la seqüència d'àcids nucleics.
+\item Marcatge d'extrems
+\end{enumerate}
+
+\subsection{Marcatge uniforme}
+
+Es pot fer:
+\begin{itemize}
+\item \textbf{Radioactivitat:} amb 32-P. Els NTP tenen 3 grups fosfat (gamma, beta, alfa). Quan el NTP s'incorpora en una cadena d'àcids nucleics només queda l'alfa. Per tant, la marca s'ha de situa en alfa.
+
+\item \textbf{Sense radioactivitat:} La marca s'introdueix a un C de les bases nitrogenades. El més utilitzat és UTP. Una marca habitual és la biotina (amb afinitat per l'estreptovidina), la digoxigenina (detecció amb anticossos) i Alexa (fluorescent).
+\end{itemize}
+
+\subsubsection{Introducció de marques}
+\begin{enumerate}
+\item \textbf{Nick translation:} Marcar DNA de doble cadena. Es tracta el DNA amb DNasa I. S'usa una polimerasa que tingui activitat exonucleasa 5'->3, com la DNA polimerasa I en forma d'holoenzim (completa).
+
+\item \textbf{Primer extension:} Es pot marcar tant DNA doble com simple. Es desnaturalitza el DNA (si és doble). S'utilitzen primers a l'atzar, que són seqüències aleatòries de 6-8 nt que s'uniran a diferents punts de la cadena de DNA
+\end{enumerate}
+
+Es pot fer per PCR de manera que s'obté gran quantitat de DNA marcat. El mix de dNTP té un d'ells marcat.
+
+En la RT-PCR, es poden usar primers específics o no per retrotranscriure el RNA. Es degrada el RNA amb RNasa H. S'afegeix una DNA polimerasa i dNTP marcats i es fa una PCR normal.
+
+Per fer una \textbf{sonda RNA}, s'usa un vector d'expressió on hi ha clonat el gen del qual volem el mRNA. Es clona el gen d'interès en un plàsmid amb promotors forts en la direcció que interessi. Es linearitza el plàsmid sense malmetre ni el gen ni el promotor. Després es fa una reacció amb una RNA polimerasa i rNTP marcats. Per purificar els productes d'expressió, es fa una reacció amb DNasa I i eliminar el DNA.
+
+\subsection{Marcatge d'extrems}
+\subsubsection{Marcatge a l'extrem 3'}
+En funció de si hi ha:
+\begin{itemize}
+\item Si hi ha un \textbf{extrem protuberant en 5'}, s'amplifica amb el fragment Klenow i dNTP marcats.
+\item Si hi ha un \textbf{extrem rom o protuberant en 3'}, es fa servir una polimerasa amb activitat 3'->5', com la polimerasa T4.
+  \begin{itemize}
+  \item Extrems roms: S'introdueix la polimerasa T4 i NTP que es trobin a l'extrem del fragment que es trobin marcats. La polimerasa actua com a exonucleasa fins que trobi un NTP que pugui col·locar.
+  \item Extrem 3' protuberant: La polimerasa T4 elimina l'extrem 3' protuberant fins que trobi un nucleòtid que pugui col·locar (que serà el marcat).
+  \end{itemize}
+\end{itemize}
+
+\subsubsection{Marcatge a l'extrem 5'}
+S'ha d'usar ATP marcat a gamma. Es fa amb la polinucleotidil quinasa.
+
+\begin{itemize}
+\item Forward reaction: La fosfatasa alcalina treu el fosfat a 5', i la polinucleotidil quinasa restableix el fosfat, aquest ja marcat.
+
+\item Exchange reaction: La polinucleotidil quinasa genera ATP treient el fosfat de 5' i després es posa l'ATP ja marcat amb la polinucleotidil quinasa.
+\end{itemize}
+
+\subsection{Sondes}
