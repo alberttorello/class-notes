@@ -2,3 +2,143 @@
 % Seminari. Seqüenciació
 %--------------------------------------------------------
 \section{Seminari. Seqüenciació}
+
+La seqüenciació permet determinar la ordenació precisa dels nucleòtids
+en un un fragment de DNA o en tot el genoma. Això permet detectar les
+pautes de lectura (n'hi ha 3 per sentit). Pot indicar regions
+promotores, seqüències reguladores...
+
+\subsection{Mètodes de seqüenciació}
+Es basa en què molècules de DNA de cadena simple que presenten
+diferències d'un únic nucleòtid poden separar-se mitjançant
+electroforesi en gels de poliacrilamida.
+
+Hi ha 2 mètodes:
+\begin{enumerate}
+\item Maxam-Gilbert: Es basa en mètodes químics de degradació de
+  DNA. El material genètic ha d'estar marcat, p.e amb radioactivitat.
+
+\item Sanger: Es basa en un mètode biosintètic per la generació de
+  fragments de DNA. Es necessita un DNA motlle, un primer i dNTP (dels
+  quals un provocarà la parada de la síntesi).
+\end{enumerate}
+
+\subsubsection{Mètode de Maxam-Gilbert}
+Necessita el DNA marcat en una cadena només a 5', endonucleases i
+desnaturalitzra el DNA. S'aplicaven tractaments que eliminaven
+selectivament diferents nucleòtids. Els resultats es corrien en un
+PAGE.
+
+Presenta molts inconvenients:
+\begin{itemize}
+\item El material genètic ha d'estar marcat.
+\item Requereix gran quantitat de DNA purificat.
+\item Requereix molts passos intermedis
+\item Lectures de fragments curts.
+\item És un mètode difícil d'automatitzar.
+\item Protecció parcial del DNA en ser degradat quan hi ha proteïnes
+  unides a regions específiques, produitn buits en la seqüència.
+\end{itemize}
+
+\subsubsection{Mètode de Sanger}
+Requereix menys DNA inicial i aquest no ha d'estar
+marcat. S'introdueixen el DNA motlle, cebadors, una polimerasa, dNTP i
+ddNTP. Els resultats es corren en PAGE i es revelen per
+autoradiografia. Tot i això, hi ha un punt en què els resultats ja no
+són fiables. La seqüenciació s'ha de fer amb múltiples primers. Cada
+ddNTP va a un tub diferent.
+
+Molts vectors incorporen primers universals per seqüenciar.
+
+Els requeriments generals d'aquest mètode són:
+\begin{itemize}
+\item Motlle de DNA
+\item Primers, ja siguin universals o específics.
+\item dNTP
+\item ddNTP
+\item Polimerasa (actualment s'usa la sequenasa)
+\end{itemize}
+
+Les avantatges són:
+\begin{itemize}
+\item Requereix poca purificació del material genètic
+\item No requereix tractament amb endonucleases
+\item No requereix un marcatge previ del DNA motlle
+\item Es pot automatitzar
+\end{itemize}
+
+Aquest mètode s'automatitza usant ddNTP marcats amb flurocroms
+diferents. Un làser excita les bandes del PAGE i un detector
+transformarà les senyals en un ordinador on es veurà el cromatograma.
+
+\subsection{Seqüenciació de genomes}
+Hi ha 2 mètodes de seqüenciació genòmica:
+\begin{enumerate}
+\item Seqüenciació a l'atzar (\textit{shotgun sequencing}):
+  fragmentació del genoma en fragments molt petits, clonar-los en un
+  vector i seqüenciar-les. Després s'ensemblen els fragments.
+
+
+\item Seqüenciació jeràrquica (\textit{clone contig sequencing}): Poca
+  fragmentació, i així necessitar pocs clons per tenir representat el genoma.
+\end{enumerate}
+
+\subsubsection{Seqüenciació a l'atzar}
+Fragmentació a l'atzar i size select en un gel d'agarosa. Es va
+construir una llibreria amb els fragments clonats en vectors amb
+primers universals. A partir dels reads es generen contigs. El
+problema és la unió dels contigs. El que es fa és generar sondes pels
+extrems de cada contig per provar quins clons comparteixen aquesta
+zona.
+
+Els principals problemes són:
+\begin{itemize}
+\item Lectures curtes (de 550 bp)
+\item Seqüències repetides, sobretot en eucariotes
+\end{itemize}
+
+\subsubsection{Seqüenciació jeràrquica}
+S'usen vectors especials com els BAC per clonar fragments
+grans. Després es seqüencien els BAC i es determina el mapa de
+contigs. 
+
+Per determinar els clons contigs:
+\begin{enumerate}
+\item Es seqüencien els extrems dels clons
+\item \textit{Clone fingerprinting}: 2 clons contigs generaran un mateix
+  fragment de restricció. Després s'usa un d'aquests fragments com a
+  sonda en Southern Blot després d'haver-la marcat.
+\item \textit{Intersperced repeat element PCR} (IRE-PCR): Es fa una
+  PCR usant primers específics pels extrems, de manera que
+  amplifiquin la seqüència intermèdia.
+\item \textit{Sequence tagget site} 
+\end{enumerate}
+
+El procés de seqüenciació pot ser seqüencial, fragment a fragment del
+BAC. També es pot fer un \textit{shotgun sequencing} del BAC.
+
+\subsection{Nous sistemes de seqüenciació}
+Els nous mètodes no requereixen clonar els fragments en vectors. Es
+fragmenta el DNA i es col·loquen uns adaptadors a ambdós
+extrems. L'amplificació del fragment i la detecció del nucleòtid és
+simultani.
+\begin{itemize}
+\item emulsion PCR
+  \begin{itemize}
+  \item Piroseqüenciació
+  \item Seqüenciació per lligació
+  \end{itemize}
+\item bridge PCR (Illumina)
+\end{itemize}
+
+\subsubsection{Piroseqüenciació}
+El DNA es fragmenta i es llguen adaptadors, un dels quals té biotina
+unida. Es separen els fragments i es posen en tubs on hi ha uns beads
+en gotes d'aigua emulsionades en oli. Les beads tenen esptreptovidina
+i els reactius per amplificar el fragment. Això es trasllada a una
+placa amb cel·les, que cada cel·la donarà la informació per un
+fragment. El primer s'uneix a l'adaptador no marcat amb
+biotina. S'afegeix APS, ATP, luciferina i polimerasa, luciferasa i
+sulfurilasa. La sulfurilasa agafarà APS i PPi per fer ATP. Llavors la
+luciferasa captarà aquest ATP i farà llum. Entre cicle i cicle
+s'afegeix apirasa per eliminar dNTP i ATP.

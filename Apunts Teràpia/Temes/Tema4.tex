@@ -31,18 +31,20 @@ gens expressats en ESC. La llista era de 24 gens.
 Abans de la hibridació, es pot fer una amplificació RT-PCR amb primers
 oligo-dT.
 
-\subsection{Selecció per G418}
-Fbxo15 és un factor downstream d'Oct4. Oct4 i Sox2 activa Fbxo15. Va
-construir un cassette amb la beta-galactosidasa i geo i ho
-transfectava conjuntament amb els 24 factors descoberts per hibridació
-substractiva per veure quins gens activaven Fbxo15.
+\subsection{Reprogramació cel·lular}
+\subsubsection{Selecció per G418}
+Fbxo15 és un factor downstream d'Oct4. Oct4 i Sox2 activa Fbxo15. Van
+construir un cassette amb la $\beta$-galactosidasa i un gen de
+resistència a la geneticina i ho transfectava conjuntament amb els 24
+factors descoberts per hibridació substractiva per veure quins gens
+activaven Fbxo15.
 
 Per avaluar aquests 24 gens candidats, van desenvolupar un sistema en
 què la inducció de l'estat pluripotent es podia detectar com la
 resistpencia a la G418. Van insertar un cassette $\beta$-geo, una
-fusió de $\beta$-galactosidasa i un gen de resistència a la neomicina,
+fusió de $\beta$-galactosidasa i un gen de resistència a la geneticina,
 al gen Fbx15 de ratolí per recombinació homòloga (A). Encara que
-s'expressa específicament en mESC i embrions primerencs, Fbx15 és
+s'expressa específicament en mESC i embrions primerencs, Fbxo15 és
 imprescindible pel manteniment de la pluripotència i el
 desenvolupament en ratolins \citep{Takahashi2006}.
 
@@ -58,13 +60,14 @@ retroviral (\citep{Mitsui2003}) en MEF (fibroblasts embrionaris de
 ratolí) derivats d'embrions $Fbx15^{\beta geo/ \beta geo}$. Les
 cèl·lules transduïdes es can cultivar sobre una monocapa de cèl·lules
 STO (\textit{feeder cells}) en medi per ESC amb 0.3 mg/mL de G418. No
-van obtenir, però, no van obtenir colònies resistents amb únic factir;
+van obtenir, però, colònies resistents amb únic factor;
 per tant no hi havia cap gen candidat que fos suficient per activar el
 locus Fbx15. D'altra banda, la transducció dels 24 gens candidats
 junts generaven 22 colònies resistents a la G418 (B). Dels 12 clons
 que es van continuar cultivant sota condicions selectives, 5 clons
 exhibien una morfologia similar a ESC; com ara una forma rodona, un
-nuclèol gran i un citoplasma escàs (C).
+nuclèol gran i un citoplasma escàs (C). Si la vora de la colònia està
+molt ben definit, la reprogramació ha anat relativament bé.
 
 \begin{figure}[H]
   \centering\includegraphics[width=0.85\textwidth]{fig13}
@@ -82,9 +85,9 @@ cèl·lules ``iPS-MEF24'' per cèl·lules mare pluripotents induïdes a
 partir de MEF per 24 factors. Anàlisis per RT-PCR van revelar que els
 clons iPS-MEF24 expressaven marcadors d'ESC; com Oct3/4, Nanog, E-Ras,
 Cripto, Dax1, ZFP296 i FGF4 (E). El \textit{bisulfite genomic
-  sequencing} va demostrar que els promotors de Fbx15 i Nanoh no
+  sequencing} va demostrar que els promotors de Fbx15 i Nanog no
 estaven metilats en iPS-MEF (F). Per contra, el promotor d'Oct4 sí que
-estava metilat en aquestes cèl·lules.
+estava metilat en aquestes cèl·lules. 
 
 \begin{figure}[H]
   \centering
@@ -94,5 +97,60 @@ estava metilat en aquestes cèl·lules.
   \label{fig:14}
 \end{figure}
 
-La metilació de promotors (CpG, que inactiva promotors) és un marcador
-de reprogramació.
+La metilació de promotors (en illes CpG, que inactiva promotors) és un marcador
+de reprogramació. Yamanaka usava promotors de CMV, que eren metilats
+molt ràpidament.
+
+\subsubsection{Reprogramació parcial}
+% Directly Reprogrammed Fibroblasts Show Global Epigenetic Remodeling
+% and Widespread Tissue Contribution
+Amb el mateix sistema, introduïen Sox2, Oct4, c-Myc i Klf4 i
+aconseguien una reprogramació parcial.
+
+Van repetir el mateix sistema però posant el cassette (EGFP i
+puromicina) sota el promotor de Nanog. En aquest cas, va separar els 2
+gens per una seqüència IRES per optimitzar els resultats.
+
+Va aconseguir una reprogramació plena. Els promotors de Oct4 i Nanog
+no estaven metilats. El 20\% dels ratolins quimera van desenvolupar
+càncer ja que el promotor endogen de \textit{myc} tampoc estava metilat.
+
+Sense \textit{myc} la reprogramació no era tant eficient ni tant
+ràpida.
+
+% Induced Pluripotent Stem Cell Lines Derived from Human Somatic Cell
+% Lines
+Va usar LIN28 en comptes de \textit{myc} i lentivirus. Els lentivirus
+de 2a generació són molt més segurs a nivell biològic.
+
+% Imatge diap. 22
+
+\subsubsection{Mecanisme de reprogramació}
+En el cas de la iPSC, la formació de teratomes és deguda a l'activació
+endògena dels gens de pluripotència.
+
+En una cèl·lula somàtica, al final de la reprogramació s'arriba a una
+activació dels gens de pluripotència endògena.
+
+Quan es reprogramen MEF, s'ha d'observar la pèrdua d'expressió de CD44
+i l'aparició d'ICAM1.
+
+Diferents models:
+\begin{itemize}
+\item 2009: procés estocàstic (aleatori)
+\item 2012: procés jeràrquic en què una cèl·lula mostra molta
+  activitat de Sox2.
+\item 2014: Model priviliegiat. Una cèl·lula és la privilegiada per
+  ser reprogramada. La diferència és deguda a que les cèl·lules no
+  s'infecten amb el mateix nombre de virus ni el grau d'integració és
+  homogeni.
+\end{itemize}
+
+\subsection{Mètodes}
+Els mètodes que no usen retrovirus/lentivirus són molt menys
+eficients.
+
+% Taula virus
+
+Per tal que la cèl·lula expressi els 4 factors en nivells similars,
+s'empaqueten junts en un mateix virus.
