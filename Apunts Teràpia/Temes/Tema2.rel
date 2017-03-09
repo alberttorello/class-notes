@@ -1,0 +1,38 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex")
+
+(toc "toc" "    1 \\textit{Adult Stem Cells}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 2 "1" "\\section{\\textit{Adult Stem Cells}}" 188)
+
+(toc "toc" "      1.1 Cèl·lules mare hematopoiètiques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 3 "1.1" "\\subsection{Cèl·lules mare hematopoiètiques}" 2332)
+
+(toc "toc" "      1.2 Cèl·lules mare mesenquimals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 3 "1.2" "\\subsection{Cèl·lules mare mesenquimals}" 2935)
+
+("fig:15" "f" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil "")
+
+(toc "toc" "        1.2.1 Aplicacions terapèutiques de les MSC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 4 "1.2.1" "\\subsubsection{Aplicacions terapèutiques de les MSC}" 7921)
+
+(toc "toc" "          1.2.1.1 Immunomodulació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 5 "1.2.1.1" "\\paragraph{Immunomodulació}" 8097)
+
+(toc "toc" "          1.2.1.2 Reemplaçament cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 5 "1.2.1.2" "\\paragraph{Reemplaçament cel·lular}" 9061)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex")
+))
+

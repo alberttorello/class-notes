@@ -14,17 +14,25 @@
 \contentsline {section}{\numberline {2}\textit {Adult Stem Cells}}{11}{section.2}
 \contentsline {subsection}{\numberline {2.1}C\`el\IeC {\textperiodcentered }lules mare hematopoi\`etiques}{12}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}C\`el\IeC {\textperiodcentered }lules mare mesenquimals}{12}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Aplicacions terap\`eutiques de les MSC}{13}{subsubsection.2.2.1}
-\contentsline {paragraph}{\numberline {2.2.1.1}Immunomodulaci\'o}{13}{paragraph.2.2.1.1}
+\contentsline {subsubsection}{\numberline {2.2.1}Aplicacions terap\`eutiques de les MSC}{14}{subsubsection.2.2.1}
+\contentsline {paragraph}{\numberline {2.2.1.1}Immunomodulaci\'o}{14}{paragraph.2.2.1.1}
 \contentsline {paragraph}{\numberline {2.2.1.2}Reempla\c cament cel\IeC {\textperiodcentered }lular}{14}{paragraph.2.2.1.2}
 \contentsline {section}{\numberline {3}Ter\`apia cel\IeC {\textperiodcentered }lular per malalties coron\`aries}{15}{section.3}
 \contentsline {subsection}{\numberline {3.1}Infart de miocardi}{15}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Estrat\`egies de ter\`apia}{15}{subsection.3.2}
 \contentsline {subsubsection}{\numberline {3.2.1}\'Us de c\`el\IeC {\textperiodcentered }lules de cor}{16}{subsubsection.3.2.1}
 \contentsline {subsubsection}{\numberline {3.2.2}\'Us de HSC}{17}{subsubsection.3.2.2}
-\contentsline {section}{\numberline {4}\textit {induced Pluripotent Stem Cells}}{19}{section.4}
-\contentsline {subsection}{\numberline {4.1}C\`el\IeC {\textperiodcentered }lules som\`atiques vs ESC}{19}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Selecci\'o per G418}{20}{subsection.4.2}
-\contentsline {part}{II\hspace {1em}Ter\`apia G\`enica}{23}{part.2}
-\contentsline {part}{Refer\`encies}{24}{section*.1}
+\contentsline {section}{\numberline {4}\textit {induced Pluripotent Stem Cells}}{18}{section.4}
+\contentsline {subsection}{\numberline {4.1}C\`el\IeC {\textperiodcentered }lules som\`atiques vs ESC}{18}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Reprogramaci\'o cel\IeC {\textperiodcentered }lular}{19}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Selecci\'o per G418}{19}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Reprogramaci\'o parcial}{21}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Mecanisme de reprogramaci\'o}{21}{subsubsection.4.2.3}
+\contentsline {subsection}{\numberline {4.3}M\`etodes}{21}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Caracteritzaci\'o de la pluripot\`encia}{21}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Bancs de c\`el\IeC {\textperiodcentered }lules}{22}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}\'Us d'iPSC}{22}{subsection.4.6}
+\contentsline {section}{\numberline {5}C\`el\IeC {\textperiodcentered }lules mare neurals}{23}{section.5}
+\contentsline {part}{II\hspace {1em}Ter\`apia G\`enica}{24}{part.2}
+\contentsline {part}{Refer\`encies}{25}{section*.1}
 \contentsfinish 

@@ -13,16 +13,28 @@ Hi ha 2 mètodes principals:
 
 Es pot fer:
 \begin{itemize}
-\item \textbf{Radioactivitat:} amb 32-P. Els NTP tenen 3 grups fosfat (gamma, beta, alfa). Quan el NTP s'incorpora en una cadena d'àcids nucleics només queda l'alfa. Per tant, la marca s'ha de situa en alfa.
+\item \textbf{Radioactivitat:} amb 32-P. Els NTP tenen 3 grups fosfat
+  (gamma, beta, alfa). Quan el NTP s'incorpora en una cadena d'àcids
+  nucleics només queda l'alfa. Per tant, la marca s'ha de situa en
+  alfa.
 
-\item \textbf{Sense radioactivitat:} La marca s'introdueix a un C de les bases nitrogenades. El més utilitzat és UTP. Una marca habitual és la biotina (amb afinitat per l'estreptovidina), la digoxigenina (detecció amb anticossos) i Alexa (fluorescent).
+\item \textbf{Sense radioactivitat:} La marca s'introdueix a un C de
+  les bases nitrogenades. El més utilitzat és UTP. Una marca habitual
+  és la biotina (amb afinitat per l'estreptovidina), la digoxigenina
+  (detecció amb anticossos) i Alexa (fluorescent).
 \end{itemize}
 
 \subsubsection{Introducció de marques}
 \begin{enumerate}
-\item \textbf{Nick translation:} Marcar DNA de doble cadena. Es tracta el DNA amb DNasa I. S'usa una polimerasa que tingui activitat exonucleasa 5'->3, com la DNA polimerasa I en forma d'holoenzim (completa).
+\item \textbf{Nick translation:} Marcar DNA de doble cadena. Es tracta
+  el DNA amb DNasa I. S'usa una polimerasa que tingui activitat
+  exonucleasa 5'->3, com la DNA polimerasa I en forma d'holoenzim
+  (completa).
 
-\item \textbf{Primer extension:} Es pot marcar tant DNA doble com simple. Es desnaturalitza el DNA (si és doble). S'utilitzen primers a l'atzar, que són seqüències aleatòries de 6-8 nt que s'uniran a diferents punts de la cadena de DNA
+\item \textbf{Primer extension:} Es pot marcar tant DNA doble com
+  simple. Es desnaturalitza el DNA (si és doble). S'utilitzen primers
+  a l'atzar, que són seqüències aleatòries de 6-8 nt que s'uniran a
+  diferents punts de la cadena de DNA.
 \end{enumerate}
 
 Es pot fer per PCR de manera que s'obté gran quantitat de DNA marcat. El mix de dNTP té un d'ells marcat.
@@ -53,3 +65,68 @@ S'ha d'usar ATP marcat a gamma. Es fa amb la polinucleotidil quinasa.
 \end{itemize}
 
 \subsection{Sondes}
+Una sonda és un fragment de DNA o RNA que s'utilitza per detectar la
+presència de DNA o RNA de seqüència parcial o totalment
+complementària. Les complementarietats parcials generen híbrids molt
+inestables.
+
+\subsubsection{Dot Blot}
+\label{sec:dot-blot}
+En una llibreria amb X colònies, conté un gen d'interès que és similar
+al mateix gen d'un altre organisme. Es pot generar una sonda a partir
+del gen d'aquest 2n organisme per detectar quin clon de la llibreria
+és positiu per aquest gen.
+
+\begin{enumerate}
+\item La colònia es transmet a una membrana de niló (el niló té
+  càrrega positiva i el DNA negatiu).
+\item Es trenquen les colònies i es desnaturalitza el DNA.
+\item Unió del DNA a la membrana per exposició a UV o a calor.
+\item Bloqueig de la membrana per evitar unions inespecífiques.
+\item Desnaturalització de la sonda i aplicació a la membrana.
+\item Rentat de la membrana i revelat de la membrana.
+\end{enumerate}
+
+\subsubsection{Southern Blot}
+\label{sec:southern-blot}
+Es basa en la detecció de seqüències de DNA genòmic o plasmídic.
+\begin{enumerate}
+\item Fragmentació del DNA amb endonucleases + gel d'agarosa
+\item Desnaturalització amb tractaments alcalins (NaOH)
+\item Transferència a un filtre. El tampó difon pel gel d'agarosa fins
+  al filtre, on arrosega el DNA i el fixa.
+\item Bloqueig del filtre i fixa el DNA amb UV.
+\item Hibridació de la sonda.
+\end{enumerate}
+
+\subsubsection{Detecció de sondes}
+\label{sec:deteccio-de-sondes}
+
+\begin{itemize}
+\item Sondes radioactives: Detecció per exposició a una pel·lícula de
+  rajos X
+\item Sondes no radioactives:
+  \begin{itemize}
+  \item Detecció directa
+  \begin{itemize}
+  \item Flurocroms: Visualització al microscopi de fluorescència.
+  \item Peroxidasa: La sonda maracada amb peroxidasa s'hibrida amb un
+    DNA mostra i es visualitza amb la incubació amb luminol, que en
+    degradar-lo genera luminiscència i exposant-lo a una pel·lícula fotogràfica.
+  \end{itemize}
+  \item Detecció indirecta
+    \begin{itemize}
+    \item Sondes marcades amb digoxigenina: La sonda incorpora una
+      marca de digoxigenina i es revela amb anticossos contra la
+      digoxigenina. Els anticossos poden estar associats a un
+      flurocrom o bé enzims (fosfatasa alcalina) o bé usar anticossos
+      secundaris. La fosfatasa alcalina pot generar productes
+      colorimètrics (BCIP) o quimioluminiscents (dioxetan).
+    \item Sondes marcades amb biotina: Es revela amb
+      estreptividina-avidina marcats amb un flurocrom o un enzim. La
+      senyal és més potent ja que la sonda pot tenir diverses marques
+      de biotina. Aquests sistemes poden ser amplificables mitjançant
+      l'ús d'anticossos anti-avidina amb biotina.
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
