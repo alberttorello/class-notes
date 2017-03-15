@@ -1,0 +1,167 @@
+%--------------------------------------------------------
+% Tema 5. Vectors
+%--------------------------------------------------------
+
+\section{Vectors de clonatge}
+\label{sec:vectors-de-clonatge}
+
+\subsection{Requisits dels vectors de clonatge}
+\label{sec:requ-dels-vect}
+
+Han de tenir les següents característiques:
+\begin{itemize}
+\item Penetrar i mantenir-se a la cèl·lula hoste
+\item Replicar-se a la cèl·lula hoste: Ha de tenir un origen de
+  replicació adequat per la cèl·lula hoste. El vector es pot integrar
+  de forma episomal o mantenir-se independent com a forma plasmídica.
+\item Marcador genètic per la seva selecció: Els més utilitzats són
+  els gens de resistència a antibiòtics. Després es suplementa el medi
+  de creixement amb aquest antibiòtic per seleccionar els bacteris que
+  han integrat el plàsmid.
+\end{itemize}
+
+La majoria de vectors són d'origen natural.
+
+Hi ha els següents tipus de vectors:
+\begin{itemize}
+\item Plàsmids
+\item Genoma de bacteriòfags (incloent els còsmids)
+\item Vectors per llevats
+\item Vectors per eucariotes superiors
+\end{itemize}
+
+La capacitat de càrrega d'un plàsmid (mida de l'insert) és de 3-4 kb.
+
+Una característica important són els grups d'incompatibilitat dels
+plàsmids, són plàsmids que tenen el mateix origen de replicació i que
+no poden coexistir en una cèl·lula hoste. Si es volen clonar 2 gens es
+pot fer en tàndem en 1 mateix plàsmid o en 2 plàsmids amb origens de
+replicació diferents.
+
+Hi poden haver diferents còpies del plàsmid en una mateixa cèl·lula:
+hi ha plàsmids \textit{high copy} o \textit{low copy}.
+
+\subsection{Manipulació de plàsmids}
+\label{sec:manip-de-plasm}
+
+\subsubsection{Construcció del plàsmid pBR322}
+\label{sec:constr-del-plasm}
+
+Es va partir del ColE1 i es va extraure l'origen de replicació. Es va
+digerir i es va introduir un cassette de resistència a ampicil·lina
+de R1. Es va introduir un altre cassette de resistència a
+antibiòtics. La idea d'introduir 2 cassettes de resistència és
+diferenciar els clons recombinants si l'insert trunca 1 dels 2
+cassettes.
+
+Es clona un gen dins el vector usant BamHI. Això provoca que es
+trenqui el cassette de resistència a tetraciclina.
+
+La selecció es fa en 2 passos: En 1 placa amb ampicilina i altra amb
+tetraciclina i es plaquegen les colònies en la mateixa
+posició. S'incuben i es mira quines colònies han crescut. Si la
+colònia ha crescut en les 2 plaques, es descarta ja que només hi ha el
+plàsmid nu. S'agafen les colònies que només en crescut en
+ampicil·lina.
+
+\subsubsection{Plàsmid pUC8}
+\label{sec:plasmid-puc8}
+
+Tenen només un gen de resistència. A més, s'ha introduït el gen
+lacZ'. lacZ codfica per la $\beta$-galactosidasa. lacZ' codifica només
+una part de la $\beta$-galactosidasa. Aquesta zona és un polilinker (zona
+de policlonatge) amb moltes dianes de restricció úniques. A 5' es
+col·loca un pLac, que és un promotor fort per afavorir la transcripció
+del gen introduït al polilinker. L'hoste ha de tenir l'altra part de
+la $\beta$-galactosidasa, de manera que entre el plàsmid i l'hoste formin
+l'enzim plenament funcional.
+
+Aquests vectors permeten la selecció de bacteris que tinguin el vector
+i siguin recombinants.
+
+Com que el clonatge de l'insert trunca el lacZ', la selecció es per
+complementació intra-al·lèlica. Quan es transformen les cèl·lules amb
+pUC8, es pot formar l'enzim complet a la cèl·lula hoste. Quan X-Gal es
+trenca per la galactosidasa genera un color blau; i així es poden
+detectar els clons recombinants:
+\begin{itemize}
+\item Si la colònia és de color blau: la galactosidasa hidrolitza
+  X-Gal i per tant no és recombinant (és a dir l'insert no s'ha lligat
+  a la zona polilinker de lacZ').
+
+\item Si la colònia és de color blanc: la galactosidasa no és
+  funcional i per tant l'insert s'ha lligat a la zona polilinker.
+\end{itemize}
+
+pLac és un promotor induïble per IPTG. Així a la placa de cultiu s'ha
+de posar l'antibiòtic (ampicil·lina), X-Gal i IPTG.
+
+\subsubsection{Fagèmids}
+\label{sec:fagemids}
+
+Són plàsmids que tenen seqüències de fags. pEMBL8 té un gen de
+resistència a ampicil·lina, lacZ' i seqüències M13, que permetin
+induir còpies de DNA senzill i puguin ser empaquetades en un fag.
+
+\subsection{Vectors d'expressió}
+\label{sec:vectors-dexpressio}
+
+Els vectors d'expressió tenen un promotor fort, una caixa
+Shine-Dalgarno i la seqüència codificant. Molts vectors tenen
+seqüències terminadores.
+
+Els promotors dels vectors d'expressió poden ser:
+\begin{itemize}
+\item Induïbles: A nivell basal no hi ha expressió. Quan s'introdueix
+  un efector positiu, s'activa l'expressió del gen. Exemple de l'operó
+  Lac induïble per IPTG.
+
+\item Repressibles: A nivell basal hi ha expressió. La introducció
+  d'un efector provoca el silenciament de l'expressió. Exemple de
+  l'operó Trp reprimible per triptòfan.
+\end{itemize}
+
+Quan s'expressen gens heterològament hi poden haver problemes amb la
+traducció (col·locació correcta dels aminoàcids en funció dels
+codons), plegament correcte... Per això es fan proteïnes de fusió. El
+que es fa és clonar l'insert enganxat a un gen bacterià sense alterar
+la pauta de lectura.
+
+\subsection{Vectors derivats del fag $\lambda$}
+\label{sec:vectors-derivats-del}
+
+El genoma del fag $\lambda$ té una regió que no és essencial pel seu
+cicle vital. El genoma de $\lambda$ pot circularitzar perquè té unes
+regions als extrems de cadena senzilla que són complementaris. Aquests
+extrems s'anomenen \textit{cos}. El genoma de $\lambda$ de forma
+episòmica es replica com a cercle rodant de forma concatenada. Un
+enzim de $\lambda$ reconeix les seqüències cos i les talla. El fag $\lambda$
+reconeix els extrems cos i els empaqueta. Els fragments que es poden
+clonar en aquesta regió no essencial han de ser d'unes 3 kb.
+
+Un problema és que els enzims de restricció tenen més de 1 diana al
+genoma de $\lambda$. L'objectiu és limitar les dianes esperant
+mutacions naturals que les eliminin. A més, s'han eliminat els gens no
+essencials.
+
+Hi ha 2 vectors derivats de $\lambda$:
+\begin{itemize}
+\item \textbf{Vectors d'inserció:} S'ha eliminat la zona no essencial i s'ha
+  introduït una diana de restricció. 
+  \begin{itemize}
+  \item $\lambda$gt10 porta una diana
+  EcoRI al gen cI (controla el cicle lisogènic). Els fags que tinguin
+  un insert en cI tindran cicle lític i els que no seguiran un cicle
+  lisogènic. Les calbes transparents suposen que $\lambda$ segueix un
+  cicle lític i per tant són recombinants; llavors es fa un raspat de
+  les calbes i es recupera el fag recombinant. Si hi ha calbes tèrboles,
+  vol dir que no hi ha fag recombinant.
+
+  \item $\lambda$zapIII porta el gen lacZ' amb una diana a
+    l'interior. S'introdueix en un bacteri que porti l'altre lacZ amb
+    X-gal i IPTG. Si les colònies són clares vol dir que el fag és
+    recombinant, si són blaves vol dir que el fag no és recombinant.
+  \end{itemize}
+
+\item \textbf{Vectors de substitució:} 
+\end{itemize}

@@ -1,0 +1,82 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex")
+
+(toc "toc" "    1 Disfuncions del metabolisme glucídic" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 2 "1" "\\section{Disfuncions del metabolisme glucídic}" 208)
+
+("sec:disf-del-metab" "s" "\\subsection{Regulació de la concentració de la glucosa sanguínia}  % Recordatori insulina/glucagó El" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil)
+
+(toc "toc" "      1.1 Regulació de la concentració de la glucosa sanguínia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 3 "1.1" "\\subsection{Regulació de la concentració de la glucosa sanguínia}" 283)
+
+("sec:regulacio-de-la" "s" "% Recordatori insulina/glucagó Els nivells normals de glucosa en sang són de 3,89-5,83 mmols/L (70-1" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil)
+
+(toc "toc" "      1.2 Hiperglucèmies" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 3 "1.2" "\\subsection{Hiperglucèmies}" 490)
+
+("sec:hiperglucemies" "s" "Hi ha 4 tipus d'hiperglucèmia: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil)
+
+(toc "toc" "        1.2.1 Alteracions metabòliques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 4 "1.2.1" "\\subsubsection{Alteracions metabòliques}" 2015)
+
+("sec:alter-metab" "s" "Augmenten els nivells de TAG ja que la LPL és sensible a insulina. Cetoacidosi. El fetge activa la g" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil)
+
+(toc "toc" "        1.2.2 Complicacions" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 4 "1.2.2" "\\subsubsection{Complicacions}" 2595)
+
+("sec:complicacions" "s" "Alteracions de la microvasculatura i la macrovasculatura. Els vasos es malmeten i generen gangrena s" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil)
+
+(toc "toc" "      1.3 Paràmetres clínics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 3 "1.3" "\\subsection{Paràmetres clínics}" 3481)
+
+("sec:parametres-clinics" "s" "\\subsubsection{Glucosa} En medi àcid, la glucosa reacciona amb amines aromàtiques i genera color. \\s" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil)
+
+(toc "toc" "        1.3.1 Glucosa" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 4 "1.3.1" "\\subsubsection{Glucosa}" 3545)
+
+("sec:glucosa" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil "")
+
+(toc "toc" "        1.3.2 Sobrecàrrega oral de glucosa" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 4 "1.3.2" "\\subsubsection{Sobrecàrrega oral de glucosa}" 4725)
+
+("sec:sobrecarrega-oral-de" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil "")
+
+(toc "toc" "        1.3.3 Insulina" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 4 "1.3.3" "\\subsubsection{Insulina}" 6204)
+
+("sec:insulina" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil "")
+
+(toc "toc" "        1.3.4 Glicohemoglobines" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 4 "1.3.4" "\\subsubsection{Glicohemoglobines}" 7133)
+
+("sec:glicohemoglobines" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil "")
+
+(toc "toc" "        1.3.5 Fructosamines" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 4 "1.3.5" "\\subsubsection{Fructosamines}" 7199)
+
+("sec:fructosamines" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil "")
+
+(toc "toc" "        1.3.6 Cossos cetònics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 4 "1.3.6" "\\subsubsection{Cossos cetònics}" 7257)
+
+("sec:cossos-cetonics" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil "")
+
+(toc "toc" "        1.3.7 Glucosa" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 4 "1.3.1" "\\subsubsection{Glucosa}" 3545)
+
+(toc "toc" "      1.4 Hipoglucèmies" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 3 "1.4" "\\subsection{Hipoglucèmies}" 7319)
+
+("sec:hipoglucemies" "s" "\\subsection{Intoleràncies}  " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil)
+
+(toc "toc" "      1.5 Intoleràncies" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil 3 "1.5" "\\subsection{Intoleràncies}" 7374)
+
+("sec:intolerancies" "s" " " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex" nil)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema8.tex")
+))
+

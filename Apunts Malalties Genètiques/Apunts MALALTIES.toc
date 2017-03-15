@@ -7,6 +7,31 @@
 \contentsline {subsection}{\numberline {1.4}Diagn\`ostic}{3}{subsection.1.4}
 \contentsline {subsection}{\numberline {1.5}Malalties monog\`eniques per p\`erdua de funci\'o}{4}{subsection.1.5}
 \contentsline {section}{\numberline {2}Malalties autos\`omiques recessives}{6}{section.2}
-\contentsline {subsection}{\numberline {2.1}Intoler\`ancia heredit\`aria a la galactosa}{6}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Intoler\`ancia a la lactosa}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.1}Intoler\`ancia a la lactosa}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Intoler\`ancia heredit\`aria a la galactosa}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Intoler\`ancia heredit\`aria a la fructosa}{7}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Defici\`encia en 21-hidroxilasa}{8}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Gota}{8}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Malaltia de Pompe}{9}{subsection.2.6}
+\contentsline {section}{\numberline {3}Malalties autos\`omiques dominants}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}S\IeC {\'\i }ndrome de defici\`encia de GLUT1}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Polineuropatia amilod\`optica familiar de tipus I}{12}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}S\IeC {\'\i }ndrome de resist\`encia generalitzada a les hormones tiro\IeC {\@umlaut \i }dals}{12}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Osteog\`enesi imperfecta}{13}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Cribatge neonatal}{13}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Fenilceton\'uria}{13}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Hipotiro\IeC {\@umlaut \i }disme}{14}{subsubsection.3.5.2}
+\contentsline {subsection}{\numberline {3.6}Cribatge en adults}{15}{subsection.3.6}
+\contentsline {section}{\numberline {4}Malalties del genoma mitocondrial}{16}{section.4}
+\contentsline {subsection}{\numberline {4.1}Biologia del DNA mitocondrial}{16}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Mutacions al genoma mitocondrial}{17}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Her\`encia del genoma mitocondrial}{17}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Malalties mitocondrials}{18}{subsection.4.4}
+\contentsline {section}{\numberline {5}Seminari. Lipodistr\`ofies cong\`enites}{19}{section.5}
+\contentsline {subsection}{\numberline {5.1}Lipodistr\`ofies cong\`enites}{20}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Lipodistr\`ofies cong\`enites generalitzades}{20}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Lipodistr\`ofies cong\`enites parcials}{20}{subsubsection.5.1.2}
+\contentsline {subsection}{\numberline {5.2}Bases moleculars de les lipodistr\`ofies cong\`enites generalitzades}{21}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Generalitzades}{21}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Parcials}{21}{subsubsection.5.2.2}
 \contentsfinish 

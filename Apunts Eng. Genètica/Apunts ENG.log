@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  2 MAR 2017 22:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  15 MAR 2017 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -848,37 +848,38 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/chemformula/chemformula.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/02/10 v6878 L3 programming layer (loader) 
+Package: expl3 2017/03/07 v6984 L3 programming layer (loader) 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/02/10 v6878 L3 programming layer (code)
+Package: expl3 2017/03/07 v6984 L3 programming layer (code)
 L3 Module: l3bootstrap 2016/12/28 v6805 L3 Bootstrap code
-L3 Module: l3names 2016/12/28 v6805 L3 Namespace for primitives
-L3 Module: l3basics 2016/12/28 v6805 L3 Basic definitions
-L3 Module: l3expan 2016/12/28 v6805 L3 Argument expansion
-L3 Module: l3tl 2017/02/06 v6842 L3 Token lists
-L3 Module: l3str 2017/01/01 v6809 L3 Strings
-L3 Module: l3seq 2017/02/06 v6842 L3 Sequences and stacks
-L3 Module: l3int 2016/12/28 v6805 L3 Integers
+L3 Module: l3names 2017/02/19 v6962 L3 Namespace for primitives
+L3 Module: l3basics 2017/02/14 v6929 L3 Basic definitions
+L3 Module: l3expan 2017/02/20 v6967 L3 Argument expansion
+L3 Module: l3tl 2017/02/20 v6967 L3 Token lists
+L3 Module: l3str 2017/02/20 v6967 L3 Strings
+L3 Module: l3seq 2017/02/20 v6967 L3 Sequences and stacks
+L3 Module: l3int 2017/02/18 v6949 L3 Integers
 \c_max_int=\count174
 \l_tmpa_int=\count175
 \l_tmpb_int=\count176
 \g_tmpa_int=\count177
 \g_tmpb_int=\count178
-L3 Module: l3quark 2016/12/28 v6805 L3 Quarks
-L3 Module: l3prg 2017/01/01 v6811 L3 Control structures
+L3 Module: l3flag 2017/02/20 v6969 L3 Flags
+L3 Module: l3quark 2017/02/17 v6947 L3 Quarks
+L3 Module: l3prg 2017/02/12 v6906 L3 Control structures
 \g__prg_map_int=\count179
-L3 Module: l3clist 2017/02/06 v6842 L3 Comma separated lists
-L3 Module: l3token 2016/12/28 v6805 L3 Experimental token manipulation
-L3 Module: l3prop 2016/12/28 v6805 L3 Property lists
-L3 Module: l3msg 2016/12/28 v6805 L3 Messages
-L3 Module: l3file 2016/12/28 v6805 L3 File and I/O operations
-\l_iow_line_count_int=\count180
-\l__iow_target_count_int=\count181
-\l__iow_current_line_int=\count182
-\l__iow_current_word_int=\count183
-\l__iow_current_indentation_int=\count184
-L3 Module: l3skip 2017/01/01 v6809 L3 Dimensions and skips
+L3 Module: l3clist 2017/02/20 v6967 L3 Comma separated lists
+L3 Module: l3token 2017/02/20 v6967 L3 Experimental token manipulation
+L3 Module: l3prop 2017/02/12 v6906 L3 Property lists
+L3 Module: l3msg 2017/02/20 v6966 L3 Messages
+L3 Module: l3file 2017/02/20 v6964 L3 File and I/O operations
+\c_log_iow=\count180
+\l_iow_line_count_int=\count181
+\l__iow_line_target_int=\count182
+\l__iow_one_indent_int=\count183
+\l__iow_indent_int=\count184
+L3 Module: l3skip 2017/02/20 v6968 L3 Dimensions and skips
 \c_zero_dim=\dimen286
 \c_max_dim=\dimen287
 \l_tmpa_dim=\dimen288
@@ -897,9 +898,9 @@ L3 Module: l3skip 2017/01/01 v6809 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-L3 Module: l3keys 2017/01/01 v6811 L3 Key-value interfaces
+L3 Module: l3keys 2017/02/12 v6906 L3 Key-value interfaces
 \l_keys_choice_int=\count185
-L3 Module: l3fp 2016/12/28 v6805 L3 Floating points
+L3 Module: l3fp 2017/02/14 v6923 L3 Floating points
 \c__fp_leading_shift_int=\count186
 \c__fp_middle_shift_int=\count187
 \c__fp_trailing_shift_int=\count188
@@ -912,7 +913,7 @@ L3 Module: l3fp 2016/12/28 v6805 L3 Floating points
 \c__fp_rand_size_int=\count195
 \c__fp_rand_four_int=\count196
 \c__fp_rand_eight_int=\count197
-L3 Module: l3sort 2017/02/07 v6847 L3 Sorting functions
+L3 Module: l3sort 2017/02/20 v6967 L3 Sorting functions
 \l__sort_length_int=\count198
 \l__sort_min_int=\count199
 \l__sort_top_int=\count266
@@ -924,13 +925,13 @@ L3 Module: l3sort 2017/02/07 v6847 L3 Sorting functions
 \l__sort_A_int=\count272
 \l__sort_B_int=\count273
 \l__sort_C_int=\count274
-L3 Module: l3box 2016/12/28 v6805 L3 Experimental boxes
+L3 Module: l3box 2017/02/17 v6943 L3 Experimental boxes
 \c_empty_box=\box74
 \l_tmpa_box=\box75
 \l_tmpb_box=\box76
 \g_tmpa_box=\box77
 \g_tmpb_box=\box78
-L3 Module: l3coffins 2016/12/28 v6805 L3 Coffin code layer
+L3 Module: l3coffins 2017/02/12 v6906 L3 Coffin code layer
 \l__coffin_internal_box=\box79
 \l__coffin_internal_dim=\dimen292
 \l__coffin_offset_x_dim=\dimen293
@@ -951,8 +952,9 @@ L3 Module: l3coffins 2016/12/28 v6805 L3 Coffin code layer
 \l__coffin_display_x_dim=\dimen300
 \l__coffin_display_y_dim=\dimen301
 L3 Module: l3color 2016/12/28 v6805 L3 Experimental color support
-L3 Module: l3sys 2017/01/01 v6811 L3 Experimental system/runtime functions
-L3 Module: l3candidates 2017/01/30 v6835 L3 Experimental additions to l3kernel
+L3 Module: l3sys 2017/02/22 v6976 L3 Experimental system/runtime functions
+L3 Module: l3deprecation 2017/02/20 v6966 L3 Deprecation errors
+L3 Module: l3candidates 2017/02/20 v6967 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen302
 \l__box_bottom_dim=\dimen303
 \l__box_left_dim=\dimen304
@@ -969,15 +971,15 @@ L3 Module: l3candidates 2017/01/30 v6835 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen314
 \l__coffin_scaled_total_height_dim=\dimen315
 \l__coffin_scaled_width_dim=\dimen316
-L3 Module: l3luatex 2016/12/28 v6805 L3 Experimental LuaTeX-specific functions
+L3 Module: l3luatex 2017/02/18 v6953 L3 Experimental LuaTeX-specific functions
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2016/12/28 v6805 L3 Experimental driver: PDF mode
+File: l3pdfmode.def 2017/02/18 v6953 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count275
 \l__driver_tmp_box=\box89
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2017/02/10 v6878 L3 Experimental document command parser
+Package: xparse 2017/03/07 v6984 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count276
 \g__xparse_grabber_int=\count277
 \l__xparse_m_args_int=\count278
@@ -985,18 +987,18 @@ Package: xparse 2017/02/10 v6878 L3 Experimental document command parser
 \l__xparse_v_nesting_int=\count280
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2017/02/10 v6878 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2017/03/07 v6984 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
 y
-Package: xtemplate 2017/02/10 v6878 L3 Experimental prototype document function
+Package: xtemplate 2017/03/07 v6984 L3 Experimental prototype document function
 s
 \l__xtemplate_tmp_dim=\dimen317
 \l__xtemplate_tmp_int=\count281
 \l__xtemplate_tmp_muskip=\muskip17
 \l__xtemplate_tmp_skip=\skip70
 )
-Package: xfrac 2017/02/10 v6878 L3 Experimental split-level fractions
+Package: xfrac 2017/03/07 v6984 L3 Experimental split-level fractions
 \l__xfrac_slash_box=\box90
 \l__xfrac_tmp_box=\box91
 \l__xfrac_denominator_bot_sep_dim=\dimen318
@@ -2063,7 +2065,7 @@ LaTeX Info: Redefining \nameref on input line 213.
 \openout9 = `"Apunts ENG.out"'.
 
 
-<Logo.jpg, id=87, 632.3625pt x 438.63875pt>
+<Logo.jpg, id=135, 632.3625pt x 438.63875pt>
 File: Logo.jpg Graphic file (type jpg)
  <use Logo.jpg>
 Package pdftex.def Info: Logo.jpg used on input line 226.
@@ -2100,7 +2102,45 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58 ...part}{II\hspace {1em}Clonatge}{27}{part.2}
+l.70 ...part}{II\hspace {1em}Clonatge}{31}{part.2}
+                                                  
+? 
+LaTeX Font Info:    Try loading font information for OT1+jkp on input line 83.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
+File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
+)
+LaTeX Font Info:    Try loading font information for U+jkpsya on input line 83.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsya.fd
+File: ujkpsya.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 83.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyb.fd
+File: ujkpsyb.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpmia on input line 83.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpmia.fd
+File: ujkpmia.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 83.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
+File: ujkpsyc.fd 2006/08/15 v1.0
+)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 ...ritzaci\'o d'\`acids nucleics}{36}{part.3}
                                                   
 ? 
 
@@ -2110,17 +2150,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...ritzaci\'o d'\`acids nucleics}{28}{part.3}
-                                                  
-? 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.60 ...ns de l'enginyeria gen\`etica}{29}{part.4}
+l.85 ...ns de l'enginyeria gen\`etica}{37}{part.4}
                                                   
 ? 
 )
@@ -2131,138 +2161,114 @@ l.60 ...ns de l'enginyeria gen\`etica}{29}{part.4}
 ier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 \item E
-            lecció del vector: Si el volem propagar en procariotes o eucario...
-[1] [2] <Pictures/fig3.png, id=144, 532.99126pt x 504.88625pt>
-File: Pictures/fig3.png Graphic file (type png)
+l.45 \item E
+            lecció del vector: Si el volem propagar en procariotes o [1]
+[2] <Pictures/fig16.png, id=206, 1014.79124pt x 339.2675pt>
+File: Pictures/fig16.png Graphic file (type png)
 
-<use Pictures/fig3.png>
-Package pdftex.def Info: Pictures/fig3.png used on input line 106.
-(pdftex.def)             Requested size: 234.73524pt x 222.35863pt.
- [3]
-<Pictures/fig4.png, id=158, 605.26125pt x 285.065pt>
+<use Pictures/fig16.png>
+Package pdftex.def Info: Pictures/fig16.png used on input line 104.
+(pdftex.def)             Requested size: 469.47049pt x 156.95534pt.
+ [3 <./Pictures/fig16.png>]
+<Pictures/fig3.png, id=221, 860.21375pt x 225.84375pt>
+File: Pictures/fig3.png Graphic file (type png)
+ <use Pictures/fig3.png>
+Package pdftex.def Info: Pictures/fig3.png used on input line 151.
+(pdftex.def)             Requested size: 234.73524pt x 61.62648pt.
+
+<Pictures/fig4.png, id=222, 605.26125pt x 285.065pt>
 File: Pictures/fig4.png Graphic file (type png)
  <use Pictures/fig4.png>
-Package pdftex.def Info: Pictures/fig4.png used on input line 123.
+Package pdftex.def Info: Pictures/fig4.png used on input line 174.
 (pdftex.def)             Requested size: 234.73524pt x 110.55289pt.
 
-[4 <./Pictures/fig3.png> <./Pictures/fig4.png>]
-<Pictures/fig5.png, id=167, 596.2275pt x 392.46625pt>
+[4 <./Pictures/fig3.png>] <Pictures/fig7.png, id=232, 645.41125pt x 538.01pt>
+File: Pictures/fig7.png Graphic file (type png)
+
+<use Pictures/fig7.png>
+Package pdftex.def Info: Pictures/fig7.png used on input line 209.
+(pdftex.def)             Requested size: 281.68515pt x 234.80414pt.
+ [5 <./Pictures/fig4.png>]
+<Pictures/fig5.png, id=240, 596.2275pt x 392.46625pt>
 File: Pictures/fig5.png Graphic file (type png)
  <use Pictures/fig5.png>
-Package pdftex.def Info: Pictures/fig5.png used on input line 153.
+Package pdftex.def Info: Pictures/fig5.png used on input line 231.
 (pdftex.def)             Requested size: 234.73524pt x 154.51044pt.
 
-<Pictures/fig6.png, id=168, 661.47125pt x 175.65625pt>
+[6 <./Pictures/fig7.png> <./Pictures/fig5.png>]
+<Pictures/fig6.png, id=249, 661.47125pt x 175.65625pt>
 File: Pictures/fig6.png Graphic file (type png)
  <use Pictures/fig6.png>
-Package pdftex.def Info: Pictures/fig6.png used on input line 172.
+Package pdftex.def Info: Pictures/fig6.png used on input line 250.
 (pdftex.def)             Requested size: 234.73524pt x 62.33293pt.
 
-<Pictures/fig7.png, id=169, 645.41125pt x 538.01pt>
-File: Pictures/fig7.png Graphic file (type png)
- <use Pictures/fig7.png>
-Package pdftex.def Info: Pictures/fig7.png used on input line 185.
-(pdftex.def)             Requested size: 281.68515pt x 234.80414pt.
-
-[5 <./Pictures/fig5.png> <./Pictures/fig6.png>]
-LaTeX Font Info:    Try loading font information for OT1+jkp on input line 210.
-
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
-File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
-)
-LaTeX Font Info:    Try loading font information for U+jkpsya on input line 210
-.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsya.fd
-File: ujkpsya.fd 2006/08/15 v1.0
-)
-LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 210
-.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyb.fd
-File: ujkpsyb.fd 2006/08/15 v1.0
-)
-LaTeX Font Info:    Try loading font information for U+jkpmia on input line 210
-.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpmia.fd
-File: ujkpmia.fd 2006/08/15 v1.0
-)
-LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 210
-.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
-File: ujkpsyc.fd 2006/08/15 v1.0
-)
-<Pictures/fig8.png, id=179, 401.5pt x 642.4pt>
+<Pictures/fig8.png, id=250, 401.5pt x 642.4pt>
 File: Pictures/fig8.png Graphic file (type png)
  <use Pictures/fig8.png>
-Package pdftex.def Info: Pictures/fig8.png used on input line 213.
+Package pdftex.def Info: Pictures/fig8.png used on input line 278.
 (pdftex.def)             Requested size: 140.84258pt x 225.35309pt.
 
-<Pictures/fig9.png, id=180, 563.10374pt x 554.07pt>
+<Pictures/fig9.png, id=251, 563.10374pt x 554.07pt>
 File: Pictures/fig9.png Graphic file (type png)
  <use Pictures/fig9.png>
-Package pdftex.def Info: Pictures/fig9.png used on input line 231.
+Package pdftex.def Info: Pictures/fig9.png used on input line 296.
 (pdftex.def)             Requested size: 234.73524pt x 230.9662pt.
 
-[6 <./Pictures/fig7.png> <./Pictures/fig8.png>]
+[7 <./Pictures/fig6.png> <./Pictures/fig8.png>]
 File: Pictures/fig9.png Graphic file (type png)
  <use Pictures/fig9.png>
-Package pdftex.def Info: Pictures/fig9.png used on input line 258.
+Package pdftex.def Info: Pictures/fig9.png used on input line 323.
 (pdftex.def)             Requested size: 234.73524pt x 230.9662pt.
 
-[7 <./Pictures/fig9.png>]
-LaTeX Font Info:    Try loading font information for LGR+jkp on input line 280.
+[8 <./Pictures/fig9.png>]
+LaTeX Font Info:    Try loading font information for LGR+jkp on input line 345.
 
-LaTeX Font Info:    No file LGRjkp.fd. on input line 280.
+LaTeX Font Info:    No file LGRjkp.fd. on input line 345.
 
 
 LaTeX Font Warning: Font shape `LGR/jkp/m/n' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 280.
+(Font)              using `LGR/cmr/m/n' instead on input line 345.
 
-[8] <Pictures/fig11.png, id=197, 504.88625pt x 545.03625pt>
+[9] <Pictures/fig11.png, id=268, 504.88625pt x 545.03625pt>
 File: Pictures/fig11.png Graphic file (type png)
 
 <use Pictures/fig11.png>
-Package pdftex.def Info: Pictures/fig11.png used on input line 317.
+Package pdftex.def Info: Pictures/fig11.png used on input line 382.
 (pdftex.def)             Requested size: 234.73524pt x 253.40598pt.
- [9 <./Pictures/fig11.png>]
-<Pictures/fig1.png, id=204, 306.14375pt x 435.6275pt>
+ [10 <./Pictures/fig11.png>]
+<Pictures/fig1.png, id=275, 306.14375pt x 435.6275pt>
 File: Pictures/fig1.png Graphic file (type png)
  <use Pictures/fig1.png>
-Package pdftex.def Info: Pictures/fig1.png used on input line 370.
+Package pdftex.def Info: Pictures/fig1.png used on input line 435.
 (pdftex.def)             Requested size: 234.73524pt x 334.01837pt.
 
-[10 <./Pictures/fig1.png>]
-<Pictures/fig2.png, id=211, 643.40375pt x 774.895pt>
+[11 <./Pictures/fig1.png>]
+<Pictures/fig2.png, id=283, 643.40375pt x 774.895pt>
 File: Pictures/fig2.png Graphic file (type png)
  <use Pictures/fig2.png>
-Package pdftex.def Info: Pictures/fig2.png used on input line 404.
+Package pdftex.def Info: Pictures/fig2.png used on input line 469.
 (pdftex.def)             Requested size: 328.6279pt x 395.79425pt.
 
-[11] [12 <./Pictures/fig2.png>]) [13] (./Temes/Tema2.tex [14] [15]
+[12] [13 <./Pictures/fig2.png>]) [14] (./Temes/Tema2.tex [15] [16]
 Overfull \hbox (43.6944pt too wide) in paragraph at lines 122--137
  [][] 
  []
 
-<Pictures/fig12.png, id=252, 591.20876pt x 214.8025pt>
+<Pictures/fig12.png, id=323, 591.20876pt x 214.8025pt>
 File: Pictures/fig12.png Graphic file (type png)
 
 <use Pictures/fig12.png>
 Package pdftex.def Info: Pictures/fig12.png used on input line 153.
 (pdftex.def)             Requested size: 328.6279pt x 119.40034pt.
 
-<Pictures/fig13.png, id=253, 657.45625pt x 219.82124pt>
+<Pictures/fig13.png, id=324, 657.45625pt x 219.82124pt>
 File: Pictures/fig13.png Graphic file (type png)
 
 <use Pictures/fig13.png>
 Package pdftex.def Info: Pictures/fig13.png used on input line 161.
 (pdftex.def)             Requested size: 328.6279pt x 109.8768pt.
- [16 <./Pictures/fig12.png>]
-<Pictures/fig14.png, id=260, 655.44875pt x 65.24374pt>
+ [17 <./Pictures/fig12.png>]
+<Pictures/fig14.png, id=332, 655.44875pt x 65.24374pt>
 File: Pictures/fig14.png Graphic file (type png)
 
 <use Pictures/fig14.png>
@@ -2293,58 +2299,73 @@ l.223 \hline
 l.223 \hline
             
 ? 
-[17 <./Pictures/fig13.png> <./Pictures/fig14.png>] [18] [19]
+[18 <./Pictures/fig13.png> <./Pictures/fig14.png>] [19] [20]
 Overfull \hbox (7.1387pt too wide) in paragraph at lines 379--384
 []\T1/jkp/m/n/12 Generació d'-ho-mo-po-lí-mers: S'a-fe-geix un dNTP con-cret i 
 la de-o-xi-nu-cle-o-tid trans-
  []
 
-[20] [21]) [22] (./Temes/S1.tex
-<Pictures/fig15.png, id=309, 1245.65375pt x 649.42625pt>
+[21] [22]) [23] (./Temes/S1.tex
+<Pictures/fig15.png, id=380, 1245.65375pt x 649.42625pt>
 File: Pictures/fig15.png Graphic file (type png)
 
 <use Pictures/fig15.png>
 Package pdftex.def Info: Pictures/fig15.png used on input line 31.
 (pdftex.def)             Requested size: 399.05278pt x 208.04855pt.
- [23 <./Pictures/fig15.png (PNG copy)>] [24] [25])
-[26] [27] [28] [29]
+ [24 <./Pictures/fig15.png (PNG copy)>] [25] [26])
+[27] (./Temes/Tema3.tex [28] [29]) [30] (./Temes/Tema4.tex [31]) [32]
+(./Temes/Tema5.tex [33] [34]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\lambda' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 130.
+
+) [35] [36] [37]
 No file "Apunts ENG".bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 333.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 333.
 (./Apunts ENG.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 333.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 333.
 Package rerunfilecheck Info: File `"Apunts ENG".out' has not changed.
-(rerunfilecheck)             Checksum: 53934799E8CDDB36C7D70E17293E8018;1543.
+(rerunfilecheck)             Checksum: 609E0754910D1A94EF28191F12A1EE4F;2401.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 333.
  ) 
 Here is how much of TeX's memory you used:
- 41392 strings out of 493013
- 761947 string characters out of 6133343
- 1053763 words of memory out of 5000000
- 44160 multiletter control sequences out of 15000+600000
- 146737 words of font info for 102 fonts, out of 8000000 for 9000
+ 41656 strings out of 493013
+ 766443 string characters out of 6133343
+ 1063101 words of memory out of 5000000
+ 44356 multiletter control sequences out of 15000+600000
+ 162506 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,12n,83p,10378b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2016/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}</usr/local/t
+ 54i,12n,83p,10378b,555s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.en
+c}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/201
 6/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2016/texmf-d
 ist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-dist/fonts
-/type1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
-pe1/public/kpfonts/jkpsy.pfb>
-Output written on "Apunts ENG.pdf" (31 pages, 1752177 bytes).
+fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/kpfonts/jkpsy.pfb>
+Output written on "Apunts ENG.pdf" (39 pages, 1808295 bytes).
 PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
- 337 compressed objects within 4 object streams
- 125 named destinations out of 1000 (max. 500000)
- 248 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 561 PDF objects out of 1000 (max. 8388607)
+ 475 compressed objects within 5 object streams
+ 181 named destinations out of 1000 (max. 500000)
+ 349 words of extra memory for PDF output out of 10000 (max. 10000000)
 

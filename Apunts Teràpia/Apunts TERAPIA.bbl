@@ -1,5 +1,25 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citename{Hochedlinger \& Plath, }2009]{Hochedlinger2009}
+{\sc Hochedlinger, Konrad, \& Plath, Kathrin}. 2009.
+\newblock {Epigenetic reprogramming and induced pluripotency.}
+\newblock {\em Development}, {\bf 136}(4), 509--23.
+
+\bibitem[\protect\citename{Maherali {\em et~al.\ }\relax, }2007]{Maherali2007}
+{\sc Maherali, Nimet, Sridharan, Rupa, Xie, Wei, Utikal, Jochen, Eminli, Sarah,
+  Arnold, Katrin, Stadtfeld, Matthias, Yachechko, Robin, Tchieu, Jason,
+  Jaenisch, Rudolf, Plath, Kathrin, \& Hochedlinger, Konrad}. 2007.
+\newblock {Directly Reprogrammed Fibroblasts Show Global Epigenetic Remodeling
+  and Widespread Tissue Contribution}.
+\newblock {\em Cell Stem Cell}, {\bf 1}(1), 55--70.
+
+\bibitem[\protect\citename{Marti {\em et~al.\ }\relax, }2013]{Marti2013}
+{\sc Marti, Merce, Mulero, Lola, Pardo, Cristina, Morera, Cristina, Carrio,
+  Meritxell, Laricchia-Robbio, Leopoldo, {Rodriguez Esteban}, Concepcion, \&
+  {Izpisua Belmonte}, Juan~Carlos}. 2013.
+\newblock {Characterization of pluripotent stem cells}.
+\newblock {\em Nature Protocols}, {\bf 8}(2), 223--253.
+
 \bibitem[\protect\citename{Mitsui {\em et~al.\ }\relax, }2003]{Mitsui2003}
 {\sc Mitsui, Kaoru, Tokuzawa, Yoshimi, Itoh, Hiroaki, Segawa, Kohichi,
   Murakami, Mirei, Takahashi, Kazutoshi, Maruyama, Masayoshi, Maeda, Mitsuyo,
@@ -7,6 +27,28 @@
 \newblock {The homeoprotein Nanog is required for maintenance of pluripotency
   in mouse epiblast and ES cells.}
 \newblock {\em Cell}, {\bf 113}(5), 631--42.
+
+\bibitem[\protect\citename{Nagy, }2000]{Nagy2000}
+{\sc Nagy, Andras}. 2000.
+\newblock {Cre recombinase: The universal reagent for genome tailoring}.
+\newblock {\em Genesis}, {\bf 26}(2), 99--109.
+
+\bibitem[\protect\citename{Okano {\em et~al.\ }\relax, }2013]{Okano2013}
+{\sc Okano, Hideyuki, Nakamura, Masaya, Yoshida, Kenji, Okada, Yohei, Tsuji,
+  Osahiko, Nori, Satoshi, Ikeda, Eiji, Yamanaka, Shinya, \& Miura, Kyoko}.
+  2013.
+\newblock {Steps toward safe cell therapy using induced pluripotent stem
+  cells}.
+\newblock {\em Circulation Research}, {\bf 112}(3), 523--533.
+
+\bibitem[\protect\citename{Spees {\em et~al.\ }\relax, }2003]{Spees2003}
+{\sc Spees, Jeffrey~L, Olson, Scott~D, Ylostalo, Joni, Lynch, Patrick~J, Smith,
+  Jason, Perry, Anthony, Peister, Alexandra, Wang, Meng~Yu, \& Prockop,
+  Darwin~J}. 2003.
+\newblock {Differentiation, cell fusion, and nuclear fusion during ex vivo
+  repair of epithelium by human adult stem cells from bone marrow stroma.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, {\bf 100}(5), 2397--402.
 
 \bibitem[\protect\citename{Takahashi \& Yamanaka, }2006]{Takahashi2006}
 {\sc Takahashi, Kazutoshi, \& Yamanaka, Shinya}. 2006.
@@ -28,5 +70,13 @@
   / 4 but Is Dispensable for Embryonic Stem Cell Self-Renewal and Mouse
   Development}.
 \newblock {\em Molecular and cellular biology}, {\bf 23}(8), 2699--2708.
+
+\bibitem[\protect\citename{Yu {\em et~al.\ }\relax, }2008]{Yu2008}
+{\sc Yu, Junying, Vodyanik, Maxim~A., Smuga-Otto, Kim, Antosiewicz-Bourget,
+  Jessica, Frane, Jennifer~L., Tian, Shulan, Nie, Jeff, Jonsdottir, Gudrun~A.,
+  Ruotti, Victor, Stewart, Ron, Slukvin, Igor~I., \& Thomson, James~A.} 2008.
+\newblock {Induced Pluripotent Stem Cell Lines Derived from Human Somatic
+  Cells}.
+\newblock {\em Science}, {\bf 1917}(2007).
 
 \end{thebibliography}

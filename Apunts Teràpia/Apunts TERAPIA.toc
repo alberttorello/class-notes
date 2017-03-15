@@ -26,13 +26,20 @@
 \contentsline {subsection}{\numberline {4.1}C\`el\IeC {\textperiodcentered }lules som\`atiques vs ESC}{18}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Reprogramaci\'o cel\IeC {\textperiodcentered }lular}{19}{subsection.4.2}
 \contentsline {subsubsection}{\numberline {4.2.1}Selecci\'o per G418}{19}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Reprogramaci\'o parcial}{21}{subsubsection.4.2.2}
-\contentsline {subsubsection}{\numberline {4.2.3}Mecanisme de reprogramaci\'o}{21}{subsubsection.4.2.3}
-\contentsline {subsection}{\numberline {4.3}M\`etodes}{21}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Caracteritzaci\'o de la pluripot\`encia}{21}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Bancs de c\`el\IeC {\textperiodcentered }lules}{22}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}\'Us d'iPSC}{22}{subsection.4.6}
-\contentsline {section}{\numberline {5}C\`el\IeC {\textperiodcentered }lules mare neurals}{23}{section.5}
-\contentsline {part}{II\hspace {1em}Ter\`apia G\`enica}{24}{part.2}
-\contentsline {part}{Refer\`encies}{25}{section*.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Reprogramaci\'o plena}{20}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Mecanisme de reprogramaci\'o}{22}{subsubsection.4.2.3}
+\contentsline {subsection}{\numberline {4.3}Models de reprogramaci\'o}{22}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}M\`etodes}{24}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Caracteritzaci\'o de la pluripot\`encia}{26}{subsection.4.5}
+\contentsline {section}{\numberline {5}C\`el\IeC {\textperiodcentered }lules mare neurals}{28}{section.5}
+\contentsline {subsection}{\numberline {5.1}Proliferaci\'o al SNC}{28}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Zona subventricular}{28}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Gir dentat hipocampal}{29}{subsubsection.5.1.2}
+\contentsline {section}{\numberline {6}Estudis de llinatge cel\IeC {\textperiodcentered }lular}{31}{section.6}
+\contentsline {subsection}{\numberline {6.1}Proliferaci\'o cel\IeC {\textperiodcentered }lular}{31}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Seguiment del llinatge cel\IeC {\textperiodcentered }lular}{31}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Marcadors espec\IeC {\'\i }fics}{31}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Sistema Cre-LoxP}{32}{subsubsection.6.2.2}
+\contentsline {part}{II\hspace {1em}Ter\`apia G\`enica}{34}{part.2}
+\contentsline {part}{Refer\`encies}{35}{section*.1}
 \contentsfinish 

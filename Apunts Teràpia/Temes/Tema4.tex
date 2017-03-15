@@ -70,9 +70,9 @@ nuclèol gran i un citoplasma escàs (C). Si la vora de la colònia està
 molt ben definit, la reprogramació ha anat relativament bé.
 
 \begin{figure}[H]
-  \centering\includegraphics[width=0.85\textwidth]{fig13}
+  \centering\includegraphics[width=0.65\textwidth]{fig13}
   \caption{Generació d'iPSC a partir de cultius de fibroblasts
-    embrionaris I}
+    embrionaris}
   \label{fig:13}
 \end{figure}
 
@@ -101,39 +101,61 @@ La metilació de promotors (en illes CpG, que inactiva promotors) és un marcador
 de reprogramació. Yamanaka usava promotors de CMV, que eren metilats
 molt ràpidament.
 
-\subsubsection{Reprogramació parcial}
-% Directly Reprogrammed Fibroblasts Show Global Epigenetic Remodeling
-% and Widespread Tissue Contribution
-Amb el mateix sistema, introduïen Sox2, Oct4, c-Myc i Klf4 i
-aconseguien una reprogramació parcial.
-
+\subsubsection{Reprogramació plena}
 Van repetir el mateix sistema però posant el cassette (EGFP i
 puromicina) sota el promotor de Nanog. En aquest cas, va separar els 2
-gens per una seqüència IRES per optimitzar els resultats.
+gens per una seqüència IRES per optimitzar els resultats \citep{Maherali2007}.
 
-Va aconseguir una reprogramació plena. Els promotors de Oct4 i Nanog
-no estaven metilats. El 20\% dels ratolins quimera van desenvolupar
-càncer ja que el promotor endogen de \textit{myc} tampoc estava metilat.
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{fig16}
+  \caption{Generació de Nanog-iPSC \citep{Okano2013}}
+  \label{fig:fig16}
+\end{figure}
+
+Els dos promotors, de Nanog i Oct4, que esten metilats en MEF, mostren
+una desmetilació en iPSC de Nanog  i ESC, suggerint una reprogramació
+epigenètica correcta en aquests 2 gens de pluripotència (A). A més, la
+desmetilació del promotor de Nanog succeeix en els híbrids generats per la fusió
+de MEF i iPSC, confirmant que les iPSC mostren una activitat
+reprogramadora i poden induir canvis epigenètics en cèl·lules diferenciades.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.25\textwidth]{fig17}
+  \caption{Estatus de metilació en els clons d'iPSCs \citep{Maherali2007}}
+  \label{fig:fig17}
+\end{figure}
+
+Van raonar que la reprogramació epigenètica de les iPSC hauria de
+resultar en un potencial comparable al de les ESC. La injecció d'iPSC
+derivades de MEF-GFP en blastocists diploides donava lloc a quimeres
+fluorescents. El 20\% dels ratolins quimera van desenvolupar càncer ja
+que el promotor endogen de \textit{myc} tampoc estava metilat.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.50\textwidth]{fig18}
+  \caption{Ratolins quimèrics generats per la injecció d'iPSC en blastocists \citep{Maherali2007}}
+  \label{fig:fig18}
+\end{figure}
 
 Sense \textit{myc} la reprogramació no era tant eficient ni tant
 ràpida.
 
-% Induced Pluripotent Stem Cell Lines Derived from Human Somatic Cell
-% Lines
-Va usar LIN28 en comptes de \textit{myc} i lentivirus. Els lentivirus
+\citeauthor{Yu2008} van usar LIN28 en comptes de \textit{myc} i lentivirus. Els lentivirus
 de 2a generació són molt més segurs a nivell biològic.
-
-% Imatge diap. 22
 
 \subsubsection{Mecanisme de reprogramació}
 En el cas de la iPSC, la formació de teratomes és deguda a l'activació
 endògena dels gens de pluripotència.
 
-En una cèl·lula somàtica, al final de la reprogramació s'arriba a una
-activació dels gens de pluripotència endògena.
-
-Quan es reprogramen MEF, s'ha d'observar la pèrdua d'expressió de CD44
-i l'aparició d'ICAM1.
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{fig19}
+  \caption{Passos per generar iPSC \citep{Hochedlinger2009}}
+  \label{fig:fig19}
+\end{figure}
 
 \subsection{Models de reprogramació}
 \label{sec:models-de-repr}
@@ -149,40 +171,150 @@ Diferents models:
   homogeni.
 \end{itemize}
 
+En una cèl·lula somàtica, al final de la reprogramació s'arriba a una
+activació dels gens de pluripotència endògena.
+
+En les iPSC obtingudes per transducció d'Oct3/4, Sox2, Klf4 i c-Myc
+(OSKM), l'expressió dels factors exògnes hauria de continuar durant
+temps suficient però després silenciada aproximadament al punt del
+compromís de destí cel·lular com a ESC a l'estadi final de
+reprogramació, per generar una iPSC completament reprogramada \cite{Takahashi2016}. 
+
+Aquestes iPSC completament reprogramades mostren totes les
+característiques de les ESC, incloent el desenvolupament complet
+d'embrions tetraploides. Les cèl·lules continuem expressant els 4
+factors exògens mostren algunes característiques d'ESC; com una
+morfologia similar, una proliferació robusta, l'activació de gens de
+pluripotència, la formació de teratomes i la generació de quimeres;
+tot i que aquestes característiques són inferiors a les ESC. A més,
+l'estatus epigenètic conserva traces característiques de cèl·lules
+somàtiques. Per tant, aquestes cèl·lules estaven només parcialment
+programades i per tant es diferenciaven malament. Els experiments
+mostren que una reprogramació completa s'aconsegueix amb un temps de
+cultiu superior. Una altra millora és la introducció de sistemes
+reporters induïts pels promotors endògens d'Oct4 i Nanog, més que
+Fbxo15 per seleccionar les cèl·lules reprogramades. Com que
+l'expressió d'Oct4 i Nanog és posterior a la de Fbxo15, aquest mètode
+es pot utilitzar per seleccionar iPSC més madures o de més qualitat \cite{Takahashi2016}.
+
+A més, s'ha demostrat clarament que l'ambient de cultiu és important
+per una reprogramació exitosa, i la modificació del medi de cultiu pot
+incrementar l'eficiència de la reprogramació. Per exemple, la via
+LIF-STAT3 és molt important per la pluripotència induïda en cèl·lules
+de ratolí \cite{Takahashi2016}.
+
+Quan es reprogramen MEF, s'ha d'observar la pèrdua d'expressió de CD44
+i l'aparició d'ICAM1.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{fig20}
+  \caption{Canvi d'expressió de marcadors durant la reprogramació}
+  \label{fig:fig20}
+\end{figure}
+
+La reprogramació té lloc en 2 fases: \textit{early} i
+\textit{late}. En les cèl·lules somàtiques, els gens somàtics estan
+activats però els gens associats a pluripotència (PAG) estan
+silenciats. A la fase \textit{early} de la reprogramació; els factors
+Oct4, Sox2, Klf4 i c-myc s'uneixen a enhancers i els promotors dels
+gens somàtics i dels \textit{early PAG} no poden accedir als loci dels
+\textit{late PAG}. Només a la fase \textit{late} de la reprogramació
+els factors de pluripotència poden accedir als \textit{late PAG} i
+iniciar la seva expressió. En les iPSC, els factors exògens no
+s'expressen i els \textit{early PAG} i \textit{late PAG}, però no els
+gens somàtics, estan plenament activats \cite{Takahashi2016}. 
+
+A la fase \textit{early} de la reprogramació, els OSKM ocupen molts
+loci, incloent els loci als que no s'uneixen a ESC. En particular, MYC
+s'uneix  a regions amb H3K4me3, que és una marca de cromatina
+oberta. Aquests loci inclouen enhancers i promotors de gens que
+determinen la identitat somàtica de la cèl·lula, i això condueix a un
+silenciament dels gens somàtics. Simultàniament, els OSKM s'uneixen a
+enhancers i després a promotors d'\textit{early PAG}, induint la seva
+expressió. Aquest procés sembla ser estocàstic i molt ineficient,
+degut a la presència de grups metil repressius a les histones, que
+cobreixen molts gens implicats en la inducció de la pluripotència i
+que són responsables de les conformacions tancades de la cromatina
+\cite{Takahashi2016}.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{fig21}
+  \caption{Model per la reprogramació cel·lular}
+  \label{fig:fig21}
+\end{figure}
+
+Aquest obstacle es pot alleugar amb l'ús d'inhibidors d'HDAC, que
+permeten la obertura de la cromatina. No obstant, l'expressió dels
+\textit{late PAG} té lloc en una segona onada i sembla ser molt més
+previsible que succeeixi jeràrquicament. Els OSKM poden accedir als
+loci dels \textit{late PAG}, però no als \textit{early}, de la
+reprogramació. Per tant, sembla que la fase \textit{early} estocàstica
+porta a la generació de cèl·lules parcialment reprogramades, que poden
+entra a una segona fase \textit{late}, més determínistica i jeràrquica
+\cite{Takahashi2016}.
+
 \subsection{Mètodes}
 Els mètodes que no usen retrovirus/lentivirus són molt menys
 eficients.
 
-% Taula virus
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{fig22}
+  \label{fig:fig22}
+\end{figure}
 
 Per tal que la cèl·lula expressi els 4 factors en nivells similars,
 s'empaqueten junts en un mateix virus.
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{fig23}
+  \label{fig:fig23}
+\end{figure}
+
+Un cop les cèl·lules s'han transduït amb els factors OSKM, per aïllar
+les colònies fan falta uns 18-25 dies. Després les miPSC es poden
+manipular com les ESC després del primer passatge. Durant els primers
+3 passatges, els clons d'hiPSC requereixen més temps per créixer prou
+per poder tornar-les a passar. Es necessita 1 mes per establir un
+el cultiu.
+
 \subsection{Caracterització de la pluripotència}
 \label{sec:pluripot}
-
-Per marcar:
+En primer lloc s'han de fer els tests de pluripotència \citep{Marti2013}:
 \begin{itemize}
-\item Endoderma: alpha-fetoproteïna, FoxA2
-\item Mesoderma: ASMA (Smooth muscle actin) i brachyury
-\item Ectoderma: betaIII-tubulina (isoforma de tubulina específica de
+\item Activitat fosfatasa alcalina
+\item Immunodetecció de marcadors de pluripotència: En humans Oct4, Nanog i
+  Sox2; els antígens de keratan sulfat Tra-1-60 and Tra-1-81; i els
+  glicolípids SSEA3 and SSEA4; SSEA1 es pot usar com a control
+  negatiu. En ratolins, Oct4, Nanog, Sox2 i SSEA1.
+\end{itemize}
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.75\textwidth]{fig24}
+  \caption{Immunodetecció de marcadors de pluripotència}
+  \label{fig:fig24}
+\end{figure}
+
+Després, s'immunodetecten marcadors dels 3 fulls embrionaris
+\textit{in vitro} i \textit{in vivo}, és a dir deixant que les
+cèl·lules es diferenciïn:
+\begin{itemize}
+\item Endoderma: $\alpha$-fetoproteïna, FoxA2
+\item Mesoderma: ASMA (\textit{Smooth muscle actin}) i brachyury
+\item Ectoderma: $\beta$III-tubulina (isoforma de tubulina específica de
   neurones), GFAP (astròcits) i Pax6.
 \end{itemize}
 
-\subsection{Bancs de cèl·lules}
-\label{sec:bancs-de-cel.lules}
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.65\textwidth]{fig25}
+  \caption{Immunodetecció de marcadors de pluripotència basats en
+    diferenciació \textit{in vitro}}
+  \label{fig:fig25}
+\end{figure}
 
-% mapa
-
-EL banc espanyol deriva del Banc Europeu d'iPSC. El banc espanyol té
-diferents seus: CMRB, Centro de Investigación Príncipe Felipe, Banco
-Andaluz de células madre, inbiobank.
-
-\subsection{Ús d'iPSC}
-\label{sec:us-dipsc}
-
-Problemes de bioseguretat.
-
-S'estan utilitzant per assajos d'screening farmacològics.
-
-També per teràpia reparadora. 
+Finalment, es fa el cariotip i s'envien al banc d'iPSC.
