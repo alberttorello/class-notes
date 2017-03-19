@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  15 MAR 2017 14:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  19 MAR 2017 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2102,7 +2102,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 ...part}{II\hspace {1em}Clonatge}{31}{part.2}
+l.70 ...part}{II\hspace {1em}Clonatge}{35}{part.2}
                                                   
 ? 
 LaTeX Font Info:    Try loading font information for OT1+jkp on input line 83.
@@ -2140,7 +2140,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84 ...ritzaci\'o d'\`acids nucleics}{36}{part.3}
+l.84 ... dels productes d'expressi\'o}{40}{part.3}
                                                   
 ? 
 
@@ -2150,7 +2150,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.85 ...ns de l'enginyeria gen\`etica}{37}{part.4}
+l.85 ...ns de l'enginyeria gen\`etica}{41}{part.4}
                                                   
 ? 
 )
@@ -2274,47 +2274,42 @@ File: Pictures/fig14.png Graphic file (type png)
 <use Pictures/fig14.png>
 Package pdftex.def Info: Pictures/fig14.png used on input line 168.
 (pdftex.def)             Requested size: 328.6279pt x 32.71138pt.
+ [18 <./Pictures/fig13.png> <./Pictures/fig14.png>]
+<Pictures/fig18.png, id=341, 540.0175pt x 700.6175pt>
+File: Pictures/fig18.png Graphic file (type png)
+ <use Pictures/fig18.png>
+Package pdftex.def Info: Pictures/fig18.png used on input line 277.
+(pdftex.def)             Requested size: 469.47049pt x 609.10468pt.
 
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.223 \hline
-            
-? 
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.223 \hline
-            
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.223 \hline
-            
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.223 \hline
-            
-? 
-[18 <./Pictures/fig13.png> <./Pictures/fig14.png>] [19] [20]
-Overfull \hbox (7.1387pt too wide) in paragraph at lines 379--384
+[19] [20 <./Pictures/fig18.png>]
+<Pictures/fig19.png, id=353, 550.055pt x 782.925pt>
+File: Pictures/fig19.png Graphic file (type png)
+ <use Pictures/fig19.png>
+Package pdftex.def Info: Pictures/fig19.png used on input line 300.
+(pdftex.def)             Requested size: 375.57782pt x 534.59206pt.
+
+[21 <./Pictures/fig19.png>] [22]
+Overfull \hbox (7.1387pt too wide) in paragraph at lines 387--392
 []\T1/jkp/m/n/12 Generació d'-ho-mo-po-lí-mers: S'a-fe-geix un dNTP con-cret i 
 la de-o-xi-nu-cle-o-tid trans-
  []
 
-[21] [22]) [23] (./Temes/S1.tex
-<Pictures/fig15.png, id=380, 1245.65375pt x 649.42625pt>
+[23] <Pictures/fig20.png, id=373, 679.53876pt x 740.7675pt>
+File: Pictures/fig20.png Graphic file (type png)
+
+<use Pictures/fig20.png>
+Package pdftex.def Info: Pictures/fig20.png used on input line 463.
+(pdftex.def)             Requested size: 352.10286pt x 383.82233pt.
+ [24] [25 <./Pictures/fig20.png>]) [26] (./Temes/S1.tex <Pictures/fig15.png, id
+=398, 1245.65375pt x 649.42625pt>
 File: Pictures/fig15.png Graphic file (type png)
 
 <use Pictures/fig15.png>
 Package pdftex.def Info: Pictures/fig15.png used on input line 31.
 (pdftex.def)             Requested size: 399.05278pt x 208.04855pt.
- [24 <./Pictures/fig15.png (PNG copy)>] [25] [26])
-[27] (./Temes/Tema3.tex [28] [29]) [30] (./Temes/Tema4.tex [31]) [32]
-(./Temes/Tema5.tex [33] [34]
+ [27 <./Pictures/fig15.png (PNG copy)>] [28] [29])
+[30] (./Temes/Tema3.tex [31] [32]) [33] (./Temes/Tema4.tex [34]) [35]
+(./Temes/Tema5.tex [36] [37]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 130.
@@ -2327,7 +2322,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 130.
 
-) [35] [36] [37]
+) [38] [39] [40]
 No file "Apunts ENG".bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 333.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 333.
@@ -2335,18 +2330,21 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 333.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 333.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 333.
 Package rerunfilecheck Info: File `"Apunts ENG".out' has not changed.
-(rerunfilecheck)             Checksum: 609E0754910D1A94EF28191F12A1EE4F;2401.
+(rerunfilecheck)             Checksum: 9030D6352AB037A475BD91ABE8A7614E;2411.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 333.
  ) 
 Here is how much of TeX's memory you used:
- 41656 strings out of 493013
- 766443 string characters out of 6133343
+ 41674 strings out of 493013
+ 766764 string characters out of 6133343
  1063101 words of memory out of 5000000
- 44356 multiletter control sequences out of 15000+600000
+ 44368 multiletter control sequences out of 15000+600000
  162506 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,12n,83p,10378b,555s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2362,10 +2360,10 @@ fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texmf-dist/fonts
 /type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
 1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
 ublic/kpfonts/jkpsy.pfb>
-Output written on "Apunts ENG.pdf" (39 pages, 1808295 bytes).
+Output written on "Apunts ENG.pdf" (42 pages, 2143843 bytes).
 PDF statistics:
- 561 PDF objects out of 1000 (max. 8388607)
- 475 compressed objects within 5 object streams
- 181 named destinations out of 1000 (max. 500000)
- 349 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 579 PDF objects out of 1000 (max. 8388607)
+ 484 compressed objects within 5 object streams
+ 184 named destinations out of 1000 (max. 500000)
+ 364 words of extra memory for PDF output out of 10000 (max. 10000000)
 

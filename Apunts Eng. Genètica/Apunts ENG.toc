@@ -37,50 +37,50 @@
 \contentsline {paragraph}{\numberline {2.1.3.2}Digestions de DNA}{18}{paragraph.2.1.3.2}
 \contentsline {paragraph}{\numberline {2.1.3.3}C\`alcul d'unitats d'enzims de restricci\'o}{19}{paragraph.2.1.3.3}
 \contentsline {paragraph}{\numberline {2.1.3.4}Mapes de restricci\'o}{19}{paragraph.2.1.3.4}
-\contentsline {subparagraph}{\numberline {2.1.3.4.1}Problema 2}{19}{subparagraph.2.1.3.4.1}
-\contentsline {subsection}{\numberline {2.2}Enzims modificadors d'\`acids nucleics}{20}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Uni\'o de mol\`ecules de DNA. Lligases}{20}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}Mecanisme d'acci\'o de la lligasa}{20}{subsubsection.2.3.1}
-\contentsline {subsection}{\numberline {2.4}Polimerases}{21}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {2.4.1}DNA polimerases}{22}{subsubsection.2.4.1}
-\contentsline {paragraph}{\numberline {2.4.1.1}DNA polimerasa I}{22}{paragraph.2.4.1.1}
-\contentsline {paragraph}{\numberline {2.4.1.2}DNA polimerasa del bacteri\`ofag T4}{22}{paragraph.2.4.1.2}
-\contentsline {paragraph}{\numberline {2.4.1.3}DNA polimerasa del bacteri\`ofag T7}{22}{paragraph.2.4.1.3}
-\contentsline {paragraph}{\numberline {2.4.1.4}Secuenasa}{22}{paragraph.2.4.1.4}
-\contentsline {paragraph}{\numberline {2.4.1.5}DNA polimerases termoestables}{22}{paragraph.2.4.1.5}
-\contentsline {paragraph}{\numberline {2.4.1.6}Transcriptasa inversa}{23}{paragraph.2.4.1.6}
-\contentsline {subsubsection}{\numberline {2.4.2}RNA polimerases}{23}{subsubsection.2.4.2}
-\contentsline {section}{\numberline {3}Seminari. Aplicacions de la PCR}{24}{section.3}
-\contentsline {subsection}{\numberline {3.1}Bases de la PCR}{24}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Temperatura d'hibridaci\'o}{24}{subsubsection.3.1.1}
-\contentsline {subsection}{\numberline {3.2}Aplicacions de la PCR i RT-PCR}{25}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Clonatge}{25}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Mutag\`enesi dirigida}{25}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Diagn\`ostic}{26}{subsubsection.3.2.3}
-\contentsline {section}{\numberline {4}Estudi de la seq\@umlaut u\`encia d'\`acids nucleics. Marcatge}{28}{section.4}
-\contentsline {subsection}{\numberline {4.1}Marcatge uniforme}{28}{subsection.4.1}
-\contentsline {subsubsection}{\numberline {4.1.1}Introducci\'o de marques}{28}{subsubsection.4.1.1}
-\contentsline {subsection}{\numberline {4.2}Marcatge d'extrems}{29}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Marcatge a l'extrem 3'}{29}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Marcatge a l'extrem 5'}{29}{subsubsection.4.2.2}
-\contentsline {subsection}{\numberline {4.3}Sondes}{29}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}Dot Blot}{29}{subsubsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}Southern Blot}{30}{subsubsection.4.3.2}
-\contentsline {subsubsection}{\numberline {4.3.3}Detecci\'o de sondes}{30}{subsubsection.4.3.3}
-\contentsline {part}{II\hspace {1em}Clonatge}{31}{part.2}
-\contentsline {section}{\numberline {5}Clonatge. Cloning PCR}{31}{section.5}
-\contentsline {subsection}{\numberline {5.1}PCR per clonar}{31}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Clonatge en vectors}{31}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5.2.1}Selecci\'o dels transformants}{32}{subsubsection.5.2.1}
-\contentsline {subsubsection}{\numberline {5.2.2}Transformaci\'o}{32}{subsubsection.5.2.2}
-\contentsline {section}{\numberline {6}Vectors de clonatge}{33}{section.6}
-\contentsline {subsection}{\numberline {6.1}Requisits dels vectors de clonatge}{33}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Manipulaci\'o de pl\`asmids}{33}{subsection.6.2}
-\contentsline {subsubsection}{\numberline {6.2.1}Construcci\'o del pl\`asmid pBR322}{33}{subsubsection.6.2.1}
-\contentsline {subsubsection}{\numberline {6.2.2}Pl\`asmid pUC8}{34}{subsubsection.6.2.2}
-\contentsline {subsubsection}{\numberline {6.2.3}Fag\`emids}{34}{subsubsection.6.2.3}
-\contentsline {subsection}{\numberline {6.3}Vectors d'expressi\'o}{34}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Vectors derivats del fag $\lambda $}{35}{subsection.6.4}
-\contentsline {part}{III\hspace {1em}Caracteritzaci\'o d'\`acids nucleics}{36}{part.3}
-\contentsline {part}{IV\hspace {1em}Aplicacions de l'enginyeria gen\`etica}{37}{part.4}
+\contentsline {subparagraph}{\numberline {2.1.3.4.1}Problema 2}{21}{subparagraph.2.1.3.4.1}
+\contentsline {subsection}{\numberline {2.2}Enzims modificadors d'\`acids nucleics}{22}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Uni\'o de mol\`ecules de DNA. Lligases}{22}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Mecanisme d'acci\'o de la lligasa}{22}{subsubsection.2.3.1}
+\contentsline {subsection}{\numberline {2.4}Polimerases}{23}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}DNA polimerases}{24}{subsubsection.2.4.1}
+\contentsline {paragraph}{\numberline {2.4.1.1}DNA polimerasa I}{24}{paragraph.2.4.1.1}
+\contentsline {paragraph}{\numberline {2.4.1.2}DNA polimerasa del bacteri\`ofag T4}{24}{paragraph.2.4.1.2}
+\contentsline {paragraph}{\numberline {2.4.1.3}DNA polimerasa del bacteri\`ofag T7}{24}{paragraph.2.4.1.3}
+\contentsline {paragraph}{\numberline {2.4.1.4}Secuenasa}{24}{paragraph.2.4.1.4}
+\contentsline {paragraph}{\numberline {2.4.1.5}DNA polimerases termoestables}{24}{paragraph.2.4.1.5}
+\contentsline {paragraph}{\numberline {2.4.1.6}Transcriptasa inversa}{25}{paragraph.2.4.1.6}
+\contentsline {subsubsection}{\numberline {2.4.2}RNA polimerases}{26}{subsubsection.2.4.2}
+\contentsline {section}{\numberline {3}Seminari. Aplicacions de la PCR}{27}{section.3}
+\contentsline {subsection}{\numberline {3.1}Bases de la PCR}{27}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Temperatura d'hibridaci\'o}{27}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Aplicacions de la PCR i RT-PCR}{28}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Clonatge}{28}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Mutag\`enesi dirigida}{28}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Diagn\`ostic}{29}{subsubsection.3.2.3}
+\contentsline {section}{\numberline {4}Estudi de la seq\@umlaut u\`encia d'\`acids nucleics. Marcatge}{31}{section.4}
+\contentsline {subsection}{\numberline {4.1}Marcatge uniforme}{31}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Introducci\'o de marques}{31}{subsubsection.4.1.1}
+\contentsline {subsection}{\numberline {4.2}Marcatge d'extrems}{32}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Marcatge a l'extrem 3'}{32}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Marcatge a l'extrem 5'}{32}{subsubsection.4.2.2}
+\contentsline {subsection}{\numberline {4.3}Sondes}{32}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Dot Blot}{32}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Southern Blot}{33}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Detecci\'o de sondes}{33}{subsubsection.4.3.3}
+\contentsline {part}{II\hspace {1em}Clonatge}{34}{part.2}
+\contentsline {section}{\numberline {5}Clonatge. Cloning PCR}{34}{section.5}
+\contentsline {subsection}{\numberline {5.1}PCR per clonar}{34}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Clonatge en vectors}{34}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Selecci\'o dels transformants}{35}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Transformaci\'o}{35}{subsubsection.5.2.2}
+\contentsline {section}{\numberline {6}Vectors de clonatge}{36}{section.6}
+\contentsline {subsection}{\numberline {6.1}Requisits dels vectors de clonatge}{36}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Manipulaci\'o de pl\`asmids}{36}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Construcci\'o del pl\`asmid pBR322}{36}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Pl\`asmid pUC8}{37}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}Fag\`emids}{37}{subsubsection.6.2.3}
+\contentsline {subsection}{\numberline {6.3}Vectors d'expressi\'o}{37}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Vectors derivats del fag $\lambda $}{38}{subsection.6.4}
+\contentsline {part}{III\hspace {1em}Caracteritzaci\'o dels productes d'expressi\'o}{39}{part.3}
+\contentsline {part}{IV\hspace {1em}Aplicacions de l'enginyeria gen\`etica}{40}{part.4}
 \contentsfinish 
