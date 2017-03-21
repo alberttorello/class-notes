@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  19 MAR 2017 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  20 MAR 2017 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1907,14 +1907,17 @@ Library (tcolorbox): 'tcbbreakable.code.tex' version '4.02'
 \tcb@totallowerbox=\box112
 )
 \c@example=\count365
- (./Apunts ENG.aux)
+ (./Apunts ENG.aux
+
+LaTeX Warning: Label `eq:1' multiply defined.
+
+)
 \openout1 = `"Apunts ENG.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 213.
 LaTeX Font Info:    Try loading font information for OML+jkp on input line 213.
 
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/omljkp.fd
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/omljkp.fd
 File: omljkp.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    ... okay on input line 213.
@@ -2065,7 +2068,7 @@ LaTeX Info: Redefining \nameref on input line 213.
 \openout9 = `"Apunts ENG.out"'.
 
 
-<Logo.jpg, id=135, 632.3625pt x 438.63875pt>
+<Logo.jpg, id=191, 632.3625pt x 438.63875pt>
 File: Logo.jpg Graphic file (type jpg)
  <use Logo.jpg>
 Package pdftex.def Info: Logo.jpg used on input line 226.
@@ -2102,32 +2105,32 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 ...part}{II\hspace {1em}Clonatge}{35}{part.2}
+l.63 ...part}{II\hspace {1em}Clonatge}{30}{part.2}
                                                   
 ? 
-LaTeX Font Info:    Try loading font information for OT1+jkp on input line 83.
+LaTeX Font Info:    Try loading font information for OT1+jkp on input line 76.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
 File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
 )
-LaTeX Font Info:    Try loading font information for U+jkpsya on input line 83.
+LaTeX Font Info:    Try loading font information for U+jkpsya on input line 76.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsya.fd
 File: ujkpsya.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 83.
+LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 76.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyb.fd
 File: ujkpsyb.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+jkpmia on input line 83.
+LaTeX Font Info:    Try loading font information for U+jkpmia on input line 76.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpmia.fd
 File: ujkpmia.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 83.
+LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 76.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
@@ -2140,7 +2143,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84 ... dels productes d'expressi\'o}{40}{part.3}
+l.81 ... dels productes d'expressi\'o}{40}{part.3}
                                                   
 ? 
 
@@ -2150,7 +2153,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.85 ...ns de l'enginyeria gen\`etica}{41}{part.4}
+l.82 ...ns de l'enginyeria gen\`etica}{41}{part.4}
+                                                  
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 ...part}{V\hspace {1em}Seminaris}{42}{part.5}
                                                   
 ? 
 )
@@ -2163,52 +2176,52 @@ ier (name{page.1}) has been already used, duplicate ignored
                    \relax 
 l.45 \item E
             lecció del vector: Si el volem propagar en procariotes o [1]
-[2] <Pictures/fig16.png, id=206, 1014.79124pt x 339.2675pt>
+[2] <Pictures/fig16.png, id=276, 1014.79124pt x 339.2675pt>
 File: Pictures/fig16.png Graphic file (type png)
 
 <use Pictures/fig16.png>
 Package pdftex.def Info: Pictures/fig16.png used on input line 104.
 (pdftex.def)             Requested size: 469.47049pt x 156.95534pt.
  [3 <./Pictures/fig16.png>]
-<Pictures/fig3.png, id=221, 860.21375pt x 225.84375pt>
+<Pictures/fig3.png, id=291, 860.21375pt x 225.84375pt>
 File: Pictures/fig3.png Graphic file (type png)
  <use Pictures/fig3.png>
 Package pdftex.def Info: Pictures/fig3.png used on input line 151.
 (pdftex.def)             Requested size: 234.73524pt x 61.62648pt.
 
-<Pictures/fig4.png, id=222, 605.26125pt x 285.065pt>
+<Pictures/fig4.png, id=292, 605.26125pt x 285.065pt>
 File: Pictures/fig4.png Graphic file (type png)
  <use Pictures/fig4.png>
 Package pdftex.def Info: Pictures/fig4.png used on input line 174.
 (pdftex.def)             Requested size: 234.73524pt x 110.55289pt.
 
-[4 <./Pictures/fig3.png>] <Pictures/fig7.png, id=232, 645.41125pt x 538.01pt>
+[4 <./Pictures/fig3.png>] <Pictures/fig7.png, id=302, 645.41125pt x 538.01pt>
 File: Pictures/fig7.png Graphic file (type png)
 
 <use Pictures/fig7.png>
 Package pdftex.def Info: Pictures/fig7.png used on input line 209.
 (pdftex.def)             Requested size: 281.68515pt x 234.80414pt.
  [5 <./Pictures/fig4.png>]
-<Pictures/fig5.png, id=240, 596.2275pt x 392.46625pt>
+<Pictures/fig5.png, id=310, 596.2275pt x 392.46625pt>
 File: Pictures/fig5.png Graphic file (type png)
  <use Pictures/fig5.png>
 Package pdftex.def Info: Pictures/fig5.png used on input line 231.
 (pdftex.def)             Requested size: 234.73524pt x 154.51044pt.
 
 [6 <./Pictures/fig7.png> <./Pictures/fig5.png>]
-<Pictures/fig6.png, id=249, 661.47125pt x 175.65625pt>
+<Pictures/fig6.png, id=319, 661.47125pt x 175.65625pt>
 File: Pictures/fig6.png Graphic file (type png)
  <use Pictures/fig6.png>
 Package pdftex.def Info: Pictures/fig6.png used on input line 250.
 (pdftex.def)             Requested size: 234.73524pt x 62.33293pt.
 
-<Pictures/fig8.png, id=250, 401.5pt x 642.4pt>
+<Pictures/fig8.png, id=320, 401.5pt x 642.4pt>
 File: Pictures/fig8.png Graphic file (type png)
  <use Pictures/fig8.png>
 Package pdftex.def Info: Pictures/fig8.png used on input line 278.
 (pdftex.def)             Requested size: 140.84258pt x 225.35309pt.
 
-<Pictures/fig9.png, id=251, 563.10374pt x 554.07pt>
+<Pictures/fig9.png, id=321, 563.10374pt x 554.07pt>
 File: Pictures/fig9.png Graphic file (type png)
  <use Pictures/fig9.png>
 Package pdftex.def Info: Pictures/fig9.png used on input line 296.
@@ -2229,21 +2242,21 @@ LaTeX Font Info:    No file LGRjkp.fd. on input line 345.
 LaTeX Font Warning: Font shape `LGR/jkp/m/n' undefined
 (Font)              using `LGR/cmr/m/n' instead on input line 345.
 
-[9] <Pictures/fig11.png, id=268, 504.88625pt x 545.03625pt>
+[9] <Pictures/fig11.png, id=339, 504.88625pt x 545.03625pt>
 File: Pictures/fig11.png Graphic file (type png)
 
 <use Pictures/fig11.png>
 Package pdftex.def Info: Pictures/fig11.png used on input line 382.
 (pdftex.def)             Requested size: 234.73524pt x 253.40598pt.
  [10 <./Pictures/fig11.png>]
-<Pictures/fig1.png, id=275, 306.14375pt x 435.6275pt>
+<Pictures/fig1.png, id=346, 306.14375pt x 435.6275pt>
 File: Pictures/fig1.png Graphic file (type png)
  <use Pictures/fig1.png>
 Package pdftex.def Info: Pictures/fig1.png used on input line 435.
 (pdftex.def)             Requested size: 234.73524pt x 334.01837pt.
 
 [11 <./Pictures/fig1.png>]
-<Pictures/fig2.png, id=283, 643.40375pt x 774.895pt>
+<Pictures/fig2.png, id=354, 643.40375pt x 774.895pt>
 File: Pictures/fig2.png Graphic file (type png)
  <use Pictures/fig2.png>
 Package pdftex.def Info: Pictures/fig2.png used on input line 469.
@@ -2254,35 +2267,35 @@ Overfull \hbox (43.6944pt too wide) in paragraph at lines 122--137
  [][] 
  []
 
-<Pictures/fig12.png, id=323, 591.20876pt x 214.8025pt>
+<Pictures/fig12.png, id=393, 591.20876pt x 214.8025pt>
 File: Pictures/fig12.png Graphic file (type png)
 
 <use Pictures/fig12.png>
 Package pdftex.def Info: Pictures/fig12.png used on input line 153.
 (pdftex.def)             Requested size: 328.6279pt x 119.40034pt.
 
-<Pictures/fig13.png, id=324, 657.45625pt x 219.82124pt>
+<Pictures/fig13.png, id=394, 657.45625pt x 219.82124pt>
 File: Pictures/fig13.png Graphic file (type png)
 
 <use Pictures/fig13.png>
 Package pdftex.def Info: Pictures/fig13.png used on input line 161.
 (pdftex.def)             Requested size: 328.6279pt x 109.8768pt.
  [17 <./Pictures/fig12.png>]
-<Pictures/fig14.png, id=332, 655.44875pt x 65.24374pt>
+<Pictures/fig14.png, id=402, 655.44875pt x 65.24374pt>
 File: Pictures/fig14.png Graphic file (type png)
 
 <use Pictures/fig14.png>
 Package pdftex.def Info: Pictures/fig14.png used on input line 168.
 (pdftex.def)             Requested size: 328.6279pt x 32.71138pt.
  [18 <./Pictures/fig13.png> <./Pictures/fig14.png>]
-<Pictures/fig18.png, id=341, 540.0175pt x 700.6175pt>
+<Pictures/fig18.png, id=411, 540.0175pt x 700.6175pt>
 File: Pictures/fig18.png Graphic file (type png)
  <use Pictures/fig18.png>
 Package pdftex.def Info: Pictures/fig18.png used on input line 277.
 (pdftex.def)             Requested size: 469.47049pt x 609.10468pt.
 
 [19] [20 <./Pictures/fig18.png>]
-<Pictures/fig19.png, id=353, 550.055pt x 782.925pt>
+<Pictures/fig19.png, id=423, 550.055pt x 782.925pt>
 File: Pictures/fig19.png Graphic file (type png)
  <use Pictures/fig19.png>
 Package pdftex.def Info: Pictures/fig19.png used on input line 300.
@@ -2294,60 +2307,117 @@ Overfull \hbox (7.1387pt too wide) in paragraph at lines 387--392
 la de-o-xi-nu-cle-o-tid trans-
  []
 
-[23] <Pictures/fig20.png, id=373, 679.53876pt x 740.7675pt>
+[23] <Pictures/fig20.png, id=443, 679.53876pt x 740.7675pt>
 File: Pictures/fig20.png Graphic file (type png)
 
 <use Pictures/fig20.png>
 Package pdftex.def Info: Pictures/fig20.png used on input line 463.
 (pdftex.def)             Requested size: 352.10286pt x 383.82233pt.
- [24] [25 <./Pictures/fig20.png>]) [26] (./Temes/S1.tex <Pictures/fig15.png, id
-=398, 1245.65375pt x 649.42625pt>
+ [24] [25 <./Pictures/fig20.png>]) [26]
+(./Temes/Tema3.tex [27] [28]) [29] (./Temes/Tema4.tex
+<Pictures/fig21.png, id=504, 479.7925pt x 54.2025pt>
+File: Pictures/fig21.png Graphic file (type png)
+ <use Pictures/fig21.png>
+Package pdftex.def Info: Pictures/fig21.png used on input line 47.
+(pdftex.def)             Requested size: 375.57782pt x 42.42995pt.
+
+[30 <./Pictures/fig21.png>]
+<Pictures/fig22.png, id=518, 352.31625pt x 119.44624pt>
+File: Pictures/fig22.png Graphic file (type png)
+
+<use Pictures/fig22.png>
+Package pdftex.def Info: Pictures/fig22.png used on input line 59.
+(pdftex.def)             Requested size: 375.57782pt x 127.33232pt.
+ <Pictures/fig23.png, id=519, 622.325pt x 343.2825pt>
+File: Pictures/fig23.png Graphic file (type png)
+
+<use Pictures/fig23.png>
+Package pdftex.def Info: Pictures/fig23.png used on input line 67.
+(pdftex.def)             Requested size: 375.57782pt x 207.17583pt.
+ [31 <./Pictures/fig22.png> <./Pictures/fig23.png>])
+[32] (./Temes/Tema5.tex
+Overfull \hbox (0.70027pt too wide) in paragraph at lines 34--39
+[]\T1/jkp/m/n/12 Una ca-rac-te-rís-ti-ca im-por-tant són els \T1/jkp/b/n/12 gru
+ps d'in-com-pa-ti-bi-li-tat \T1/jkp/m/n/12 dels plàs-mids, són plàs-
+ []
+
+<Pictures/fig24.png, id=533, 656.4525pt x 727.71875pt>
+File: Pictures/fig24.png Graphic file (type png)
+
+<use Pictures/fig24.png>
+Package pdftex.def Info: Pictures/fig24.png used on input line 58.
+(pdftex.def)             Requested size: 352.10286pt x 390.3306pt.
+ [33]
+<Pictures/fig25.png, id=539, 657.45625pt x 244.915pt>
+File: Pictures/fig25.png Graphic file (type png)
+ <use Pictures/fig25.png>
+Package pdftex.def Info: Pictures/fig25.png used on input line 68.
+(pdftex.def)             Requested size: 352.10286pt x 131.16835pt.
+
+<Pictures/fig26.png, id=540, 495.8525pt x 690.58pt>
+File: Pictures/fig26.png Graphic file (type png)
+ <use Pictures/fig26.png>
+Package pdftex.def Info: Pictures/fig26.png used on input line 82.
+(pdftex.def)             Requested size: 352.10286pt x 490.37845pt.
+
+[34 <./Pictures/fig24.png> <./Pictures/fig25.png>] [35 <./Pictures/fig26.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 150.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\lambda' on input line 150.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 150.
+
+[36]) [37] (./Temes/Tema6.tex [38]) [39] [40] [41] (./Temes/S1.tex
+<Pictures/fig15.png, id=594, 1245.65375pt x 649.42625pt>
 File: Pictures/fig15.png Graphic file (type png)
 
 <use Pictures/fig15.png>
 Package pdftex.def Info: Pictures/fig15.png used on input line 31.
 (pdftex.def)             Requested size: 399.05278pt x 208.04855pt.
- [27 <./Pictures/fig15.png (PNG copy)>] [28] [29])
-[30] (./Temes/Tema3.tex [31] [32]) [33] (./Temes/Tema4.tex [34]) [35]
-(./Temes/Tema5.tex [36] [37]
+ [42 <./Pictures/fig15.png (PNG copy)>] [43] [44]
+[45]) [46] (./Temes/S2.tex [47] [48]) [49] (./Temes/S3.tex [50]
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 130.
+ []
 
+[51] <Pictures/fig17.png, id=658, 876.27374pt x 766.865pt>
+File: Pictures/fig17.png Graphic file (type png)
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\lambda' on input line 130.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 130.
-
-) [38] [39] [40]
+<use Pictures/fig17.png>
+Package pdftex.def Info: Pictures/fig17.png used on input line 71.
+(pdftex.def)             Requested size: 375.57782pt x 328.6924pt.
+ [52 <./Pictures/fig17.png>]) [53]
 No file "Apunts ENG".bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 333.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 333.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 346.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 346.
 (./Apunts ENG.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 333.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 333.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 346.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 346.
 Package rerunfilecheck Info: File `"Apunts ENG".out' has not changed.
-(rerunfilecheck)             Checksum: 9030D6352AB037A475BD91ABE8A7614E;2411.
+(rerunfilecheck)             Checksum: C31B8A0A16C5EE04F4B731F228CBB20C;3357.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 333.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 346.
  ) 
 Here is how much of TeX's memory you used:
- 41674 strings out of 493013
- 766764 string characters out of 6133343
- 1063101 words of memory out of 5000000
- 44368 multiletter control sequences out of 15000+600000
+ 41812 strings out of 493013
+ 768759 string characters out of 6133343
+ 1063809 words of memory out of 5000000
+ 44433 multiletter control sequences out of 15000+600000
  162506 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,12n,83p,10378b,555s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,12n,83p,10378b,678s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.en
 c}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texl
@@ -2360,10 +2430,10 @@ fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texmf-dist/fonts
 /type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
 1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
 ublic/kpfonts/jkpsy.pfb>
-Output written on "Apunts ENG.pdf" (42 pages, 2143843 bytes).
+Output written on "Apunts ENG.pdf" (55 pages, 2893243 bytes).
 PDF statistics:
- 579 PDF objects out of 1000 (max. 8388607)
- 484 compressed objects within 5 object streams
- 184 named destinations out of 1000 (max. 500000)
- 364 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 763 PDF objects out of 1000 (max. 8388607)
+ 639 compressed objects within 7 object streams
+ 241 named destinations out of 1000 (max. 500000)
+ 511 words of extra memory for PDF output out of 10000 (max. 10000000)
 

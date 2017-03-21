@@ -1,0 +1,30 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex")
+
+(toc "toc" "    1 Introducció a la teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil 2 "1" "\\section{Introducció a la teràpia gènica}" 203)
+
+("sec:intr-la-terap" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil "")
+
+(toc "toc" "    2 Introducció a la teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil 2 "1" "\\section{Introducció a la teràpia gènica}" 203)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex")
+))
+

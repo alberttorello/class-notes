@@ -50,37 +50,58 @@
 \contentsline {paragraph}{\numberline {2.4.1.5}DNA polimerases termoestables}{24}{paragraph.2.4.1.5}
 \contentsline {paragraph}{\numberline {2.4.1.6}Transcriptasa inversa}{25}{paragraph.2.4.1.6}
 \contentsline {subsubsection}{\numberline {2.4.2}RNA polimerases}{26}{subsubsection.2.4.2}
-\contentsline {section}{\numberline {3}Seminari. Aplicacions de la PCR}{27}{section.3}
-\contentsline {subsection}{\numberline {3.1}Bases de la PCR}{27}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Temperatura d'hibridaci\'o}{27}{subsubsection.3.1.1}
-\contentsline {subsection}{\numberline {3.2}Aplicacions de la PCR i RT-PCR}{28}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Clonatge}{28}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Mutag\`enesi dirigida}{28}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Diagn\`ostic}{29}{subsubsection.3.2.3}
-\contentsline {section}{\numberline {4}Estudi de la seq\@umlaut u\`encia d'\`acids nucleics. Marcatge}{31}{section.4}
-\contentsline {subsection}{\numberline {4.1}Marcatge uniforme}{31}{subsection.4.1}
-\contentsline {subsubsection}{\numberline {4.1.1}Introducci\'o de marques}{31}{subsubsection.4.1.1}
-\contentsline {subsection}{\numberline {4.2}Marcatge d'extrems}{32}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Marcatge a l'extrem 3'}{32}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Marcatge a l'extrem 5'}{32}{subsubsection.4.2.2}
-\contentsline {subsection}{\numberline {4.3}Sondes}{32}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}Dot Blot}{32}{subsubsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}Southern Blot}{33}{subsubsection.4.3.2}
-\contentsline {subsubsection}{\numberline {4.3.3}Detecci\'o de sondes}{33}{subsubsection.4.3.3}
-\contentsline {part}{II\hspace {1em}Clonatge}{34}{part.2}
-\contentsline {section}{\numberline {5}Clonatge. Cloning PCR}{34}{section.5}
-\contentsline {subsection}{\numberline {5.1}PCR per clonar}{34}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Clonatge en vectors}{34}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5.2.1}Selecci\'o dels transformants}{35}{subsubsection.5.2.1}
-\contentsline {subsubsection}{\numberline {5.2.2}Transformaci\'o}{35}{subsubsection.5.2.2}
-\contentsline {section}{\numberline {6}Vectors de clonatge}{36}{section.6}
-\contentsline {subsection}{\numberline {6.1}Requisits dels vectors de clonatge}{36}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Manipulaci\'o de pl\`asmids}{36}{subsection.6.2}
-\contentsline {subsubsection}{\numberline {6.2.1}Construcci\'o del pl\`asmid pBR322}{36}{subsubsection.6.2.1}
-\contentsline {subsubsection}{\numberline {6.2.2}Pl\`asmid pUC8}{37}{subsubsection.6.2.2}
-\contentsline {subsubsection}{\numberline {6.2.3}Fag\`emids}{37}{subsubsection.6.2.3}
-\contentsline {subsection}{\numberline {6.3}Vectors d'expressi\'o}{37}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Vectors derivats del fag $\lambda $}{38}{subsection.6.4}
-\contentsline {part}{III\hspace {1em}Caracteritzaci\'o dels productes d'expressi\'o}{39}{part.3}
-\contentsline {part}{IV\hspace {1em}Aplicacions de l'enginyeria gen\`etica}{40}{part.4}
+\contentsline {section}{\numberline {3}Estudi de la seq\@umlaut u\`encia d'\`acids nucleics. Marcatge}{27}{section.3}
+\contentsline {subsection}{\numberline {3.1}Marcatge uniforme}{27}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Introducci\'o de marques}{27}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Marcatge d'extrems}{28}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Marcatge a l'extrem 3'}{28}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Marcatge a l'extrem 5'}{28}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Sondes}{28}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Dot Blot}{28}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Southern Blot}{29}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Detecci\'o de sondes}{29}{subsubsection.3.3.3}
+\contentsline {part}{II\hspace {1em}Clonatge}{30}{part.2}
+\contentsline {section}{\numberline {4}Clonatge. Cloning PCR}{30}{section.4}
+\contentsline {subsection}{\numberline {4.1}PCR per clonar}{30}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Clonatge en vectors}{31}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Selecci\'o dels transformants}{31}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Transformaci\'o}{32}{subsubsection.4.2.2}
+\contentsline {section}{\numberline {5}Vectors de clonatge}{33}{section.5}
+\contentsline {subsection}{\numberline {5.1}Requisits dels vectors de clonatge}{33}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Manipulaci\'o de pl\`asmids}{33}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Construcci\'o del pl\`asmid pBR322}{33}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Pl\`asmid pUC8}{35}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}Fag\`emids}{36}{subsubsection.5.2.3}
+\contentsline {subsection}{\numberline {5.3}Vectors d'expressi\'o}{36}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Vectors derivats del fag $\lambda $}{36}{subsection.5.4}
+\contentsline {section}{\numberline {6}Genoteques}{38}{section.6}
+\contentsline {subsection}{\numberline {6.1}Llibreries gen?miques}{38}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Llibreries de cDNA}{38}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Estrat?gies de selecci? dels clons recombinants}{38}{subsection.6.3}
+\contentsline {part}{III\hspace {1em}Caracteritzaci\'o dels productes d'expressi\'o}{40}{part.3}
+\contentsline {part}{IV\hspace {1em}Aplicacions de l'enginyeria gen\`etica}{41}{part.4}
+\contentsline {part}{V\hspace {1em}Seminaris}{42}{part.5}
+\contentsline {section}{\numberline {7}Seminari. Aplicacions de la PCR}{42}{section.7}
+\contentsline {subsection}{\numberline {7.1}Bases de la PCR}{42}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7.1.1}Temperatura d'hibridaci?}{43}{subsubsection.7.1.1}
+\contentsline {subsection}{\numberline {7.2}Aplicacions de la PCR i RT-PCR}{43}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}Clonatge}{43}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}Mutag?nesi dirigida}{44}{subsubsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.3}Diagn?stic}{44}{subsubsection.7.2.3}
+\contentsline {section}{\numberline {8}Seminari. Seq?enciaci?}{47}{section.8}
+\contentsline {subsection}{\numberline {8.1}M?todes de seq?enciaci?}{47}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8.1.1}M?tode de Maxam-Gilbert}{47}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.2}M?tode de Sanger}{47}{subsubsection.8.1.2}
+\contentsline {subsection}{\numberline {8.2}Seq?enciaci? de genomes}{48}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}Seq?enciaci? a l'atzar}{48}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8.2.2}Seq?enciaci? jer?rquica}{49}{subsubsection.8.2.2}
+\contentsline {subsection}{\numberline {8.3}Nous sistemes de seq?enciaci?}{49}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {8.3.1}Piroseq?enciaci?}{49}{subsubsection.8.3.1}
+\contentsline {section}{\numberline {9}Vectors d'eucariotes}{50}{section.9}
+\contentsline {subsection}{\numberline {9.1}Vectors de llevats}{50}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}YAC}{50}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Estrat\`egia de clonatge amb YACs}{52}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Inconvenients dels YACs}{52}{subsubsection.9.2.2}
+\contentsline {subsection}{\numberline {9.3}Vectors per plantes}{53}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Vectors per mam\IeC {\'\i }fers}{53}{subsection.9.4}
 \contentsfinish 
