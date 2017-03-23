@@ -1,0 +1,78 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
+
+(label-numbers ("sec:hiperl-secund" . 1))
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex")
+
+(toc "toc" "    1 Disfuncions del metabolisme lipídic" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 2 "1" "\\section{Disfuncions del metabolisme lipídic}" 207)
+
+("sec:disf-del-metab" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "      1.1 Conceptes generals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 3 "1.1" "\\subsection{Conceptes generals}" 281)
+
+("sec:conceptes-generals" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.1.1 Tipus de lipoproteïnes, composició i estructura" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.1.1" "\\subsubsection{Tipus de lipoproteïnes, composició i estructura}" 345)
+
+("sec:tipus-de-lipopr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.1.2 Metabolisme de les lipoproteïnes" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.1.2" "\\subsubsection{Metabolisme de les lipoproteïnes}" 1171)
+
+("sec:metabolisme-de-les" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "      1.2 Paràmetres analítics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 3 "1.2" "\\subsection{Paràmetres analítics}" 1254)
+
+("sec:parametres-analitics" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "      1.3 Lipoproteïnrs" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 3 "1.3" "\\subsection{Lipoproteïnrs}" 1323)
+
+(toc "toc" "        1.3.1 Colesterol" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.3.1" "\\subsubsection{Colesterol}" 1378)
+
+("sec:colesterol" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.3.2 Triacilglicerols" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.3.2" "\\subsubsection{Triacilglicerols}" 1430)
+
+("sec:triacilglicerols" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+("sec:lipoproteinrs" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "      1.4 Dislipèmies" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 3 "1.3" "\\subsection{Dislipèmies}" 1495)
+
+("sec:dislipemies" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.3.1 Hiperlipoproteïnèmies primàries" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.3.1" "\\subsubsection{Hiperlipoproteïnèmies primàries}" 1545)
+
+(toc "toc" "        1.3.2 Hiperlipoproteïnèmies secundàries" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.3.2" "\\subsubsection{Hiperlipoproteïnèmies secundàries}" 1581)
+
+("sec:hiperl-prim" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.3.3 Hiperlipoproteïnèmies secundàries" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.3.3" "\\subsubsection{Hiperlipoproteïnèmies secundàries}" 1619)
+
+("sec:hiperl-secund-1" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+("sec:hiperl-secund" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.3.4 Hipolipoproteïnèmies" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.3.4" "\\subsubsection{Hipolipoproteïnèmies}" 1697)
+
+("sec:hipolipoproteinemies" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "    2 Disfuncions del metabolisme lipídic" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 2 "1" "\\section{Disfuncions del metabolisme lipídic}" 207)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex")
+))
+

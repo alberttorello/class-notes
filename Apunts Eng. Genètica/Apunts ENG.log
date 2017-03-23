@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  20 MAR 2017 14:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  21 MAR 2017 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2143,7 +2143,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81 ... dels productes d'expressi\'o}{40}{part.3}
+l.82 ... dels productes d'expressi\'o}{44}{part.3}
                                                   
 ? 
 
@@ -2153,7 +2153,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.82 ...ns de l'enginyeria gen\`etica}{41}{part.4}
+l.83 ...ns de l'enginyeria gen\`etica}{45}{part.4}
                                                   
 ? 
 
@@ -2163,7 +2163,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 ...part}{V\hspace {1em}Seminaris}{42}{part.5}
+l.84 ...part}{V\hspace {1em}Seminaris}{46}{part.5}
                                                   
 ? 
 )
@@ -2360,61 +2360,111 @@ File: Pictures/fig26.png Graphic file (type png)
 Package pdftex.def Info: Pictures/fig26.png used on input line 82.
 (pdftex.def)             Requested size: 352.10286pt x 490.37845pt.
 
-[34 <./Pictures/fig24.png> <./Pictures/fig25.png>] [35 <./Pictures/fig26.png>]
+[34 <./Pictures/fig24.png> <./Pictures/fig25.png>]
+<Pictures/fig27.png, id=549, 575.14874pt x 183.68625pt>
+File: Pictures/fig27.png Graphic file (type png)
+
+<use Pictures/fig27.png>
+Package pdftex.def Info: Pictures/fig27.png used on input line 100.
+(pdftex.def)             Requested size: 352.10286pt x 112.45483pt.
+ [35 <./Pictures/fig26.png>] [36 <./Pictures/fig27.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 150.
+(hyperref)                removing `math shift' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\lambda' on input line 150.
+(hyperref)                removing `\lambda' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 150.
+(hyperref)                removing `math shift' on input line 163.
 
-[36]) [37] (./Temes/Tema6.tex [38]) [39] [40] [41] (./Temes/S1.tex
-<Pictures/fig15.png, id=594, 1245.65375pt x 649.42625pt>
+<Pictures/fig28.png, id=565, 546.04pt x 275.0275pt>
+File: Pictures/fig28.png Graphic file (type png)
+ <use Pictures/fig28.png>
+Package pdftex.def Info: Pictures/fig28.png used on input line 193.
+(pdftex.def)             Requested size: 352.10286pt x 177.3473pt.
+
+[37 <./Pictures/fig28.png>]
+<Pictures/fig29.png, id=574, 523.9575pt x 433.62pt>
+File: Pictures/fig29.png Graphic file (type png)
+ <use Pictures/fig29.png>
+Package pdftex.def Info: Pictures/fig29.png used on input line 215.
+(pdftex.def)             Requested size: 352.10286pt x 291.40388pt.
+
+<Pictures/fig30.png, id=575, 623.32875pt x 289.08pt>
+File: Pictures/fig30.png Graphic file (type png)
+ <use Pictures/fig30.png>
+Package pdftex.def Info: Pictures/fig30.png used on input line 231.
+(pdftex.def)             Requested size: 352.10286pt x 163.29521pt.
+
+[38 <./Pictures/fig29.png> <./Pictures/fig30.png>]
+File: Pictures/fig30.png Graphic file (type png)
+ <use Pictures/fig30.png>
+Package pdftex.def Info: Pictures/fig30.png used on input line 269.
+(pdftex.def)             Requested size: 352.10286pt x 163.29521pt.
+
+<Pictures/fig32.png, id=584, 550.055pt x 637.38126pt>
+File: Pictures/fig32.png Graphic file (type png)
+ <use Pictures/fig32.png>
+Package pdftex.def Info: Pictures/fig32.png used on input line 282.
+(pdftex.def)             Requested size: 352.10286pt x 408.01015pt.
+
+[39]) [40 <./Pictures/fig32.png>] [41] (./Temes/Tema6.tex [42]) [43] [44]
+[45] (./Temes/S1.tex <Pictures/fig15.png, id=627, 1245.65375pt x 649.42625pt>
 File: Pictures/fig15.png Graphic file (type png)
 
 <use Pictures/fig15.png>
 Package pdftex.def Info: Pictures/fig15.png used on input line 31.
 (pdftex.def)             Requested size: 399.05278pt x 208.04855pt.
- [42 <./Pictures/fig15.png (PNG copy)>] [43] [44]
-[45]) [46] (./Temes/S2.tex [47] [48]) [49] (./Temes/S3.tex [50]
+ [46 <./Pictures/fig15.png (PNG copy)>] [47] [48])
+[49] [50] (./Temes/S2.tex [51] [52]
+Overfull \hbox (0.78368pt too wide) in paragraph at lines 107--110
+\T1/jkp/m/n/12 Des-prés s'u-sa un d'a-quests frag-ments com a son-da en Sout-he
+rn Blot des-prés d'haver-
+ []
+
+) [53] (./Temes/S3.tex [54]
 Underfull \hbox (badness 10000) in paragraph at lines 61--63
 
  []
 
-[51] <Pictures/fig17.png, id=658, 876.27374pt x 766.865pt>
+[55] <Pictures/fig17.png, id=692, 876.27374pt x 766.865pt>
 File: Pictures/fig17.png Graphic file (type png)
 
 <use Pictures/fig17.png>
 Package pdftex.def Info: Pictures/fig17.png used on input line 71.
 (pdftex.def)             Requested size: 375.57782pt x 328.6924pt.
- [52 <./Pictures/fig17.png>]) [53]
+ [56 <./Pictures/fig17.png>]) [57]
 No file "Apunts ENG".bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 346.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 346.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
 (./Apunts ENG.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 346.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 346.
-Package rerunfilecheck Info: File `"Apunts ENG".out' has not changed.
-(rerunfilecheck)             Checksum: C31B8A0A16C5EE04F4B731F228CBB20C;3357.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
 
+
+Package rerunfilecheck Warning: File `"Apunts ENG".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Apunts ENG".out':
+(rerunfilecheck)             Before: 47062A04708A22A5B23B49BB6A88219A;3387
+(rerunfilecheck)             After:  2442D154D60DEE930D747B49D40C9FB0;3393.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 346.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
  ) 
 Here is how much of TeX's memory you used:
- 41812 strings out of 493013
- 768759 string characters out of 6133343
- 1063809 words of memory out of 5000000
- 44433 multiletter control sequences out of 15000+600000
+ 41855 strings out of 493013
+ 769433 string characters out of 6133343
+ 1064181 words of memory out of 5000000
+ 44460 multiletter control sequences out of 15000+600000
  162506 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,12n,83p,10378b,678s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2430,10 +2480,10 @@ fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texmf-dist/fonts
 /type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
 1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
 ublic/kpfonts/jkpsy.pfb>
-Output written on "Apunts ENG.pdf" (55 pages, 2893243 bytes).
+Output written on "Apunts ENG.pdf" (59 pages, 3094874 bytes).
 PDF statistics:
- 763 PDF objects out of 1000 (max. 8388607)
- 639 compressed objects within 7 object streams
- 241 named destinations out of 1000 (max. 500000)
- 511 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 797 PDF objects out of 1000 (max. 8388607)
+ 659 compressed objects within 7 object streams
+ 252 named destinations out of 1000 (max. 500000)
+ 536 words of extra memory for PDF output out of 10000 (max. 10000000)
 

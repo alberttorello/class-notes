@@ -69,39 +69,40 @@
 \contentsline {section}{\numberline {5}Vectors de clonatge}{33}{section.5}
 \contentsline {subsection}{\numberline {5.1}Requisits dels vectors de clonatge}{33}{subsection.5.1}
 \contentsline {subsection}{\numberline {5.2}Manipulaci\'o de pl\`asmids}{33}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5.2.1}Construcci\'o del pl\`asmid pBR322}{33}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.1}Pl\`asmid pBR322}{33}{subsubsection.5.2.1}
 \contentsline {subsubsection}{\numberline {5.2.2}Pl\`asmid pUC8}{35}{subsubsection.5.2.2}
 \contentsline {subsubsection}{\numberline {5.2.3}Fag\`emids}{36}{subsubsection.5.2.3}
 \contentsline {subsection}{\numberline {5.3}Vectors d'expressi\'o}{36}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Vectors derivats del fag $\lambda $}{36}{subsection.5.4}
-\contentsline {section}{\numberline {6}Genoteques}{38}{section.6}
-\contentsline {subsection}{\numberline {6.1}Llibreries gen?miques}{38}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Llibreries de cDNA}{38}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Estrat?gies de selecci? dels clons recombinants}{38}{subsection.6.3}
-\contentsline {part}{III\hspace {1em}Caracteritzaci\'o dels productes d'expressi\'o}{40}{part.3}
-\contentsline {part}{IV\hspace {1em}Aplicacions de l'enginyeria gen\`etica}{41}{part.4}
-\contentsline {part}{V\hspace {1em}Seminaris}{42}{part.5}
-\contentsline {section}{\numberline {7}Seminari. Aplicacions de la PCR}{42}{section.7}
-\contentsline {subsection}{\numberline {7.1}Bases de la PCR}{42}{subsection.7.1}
-\contentsline {subsubsection}{\numberline {7.1.1}Temperatura d'hibridaci?}{43}{subsubsection.7.1.1}
-\contentsline {subsection}{\numberline {7.2}Aplicacions de la PCR i RT-PCR}{43}{subsection.7.2}
-\contentsline {subsubsection}{\numberline {7.2.1}Clonatge}{43}{subsubsection.7.2.1}
-\contentsline {subsubsection}{\numberline {7.2.2}Mutag?nesi dirigida}{44}{subsubsection.7.2.2}
-\contentsline {subsubsection}{\numberline {7.2.3}Diagn?stic}{44}{subsubsection.7.2.3}
-\contentsline {section}{\numberline {8}Seminari. Seq?enciaci?}{47}{section.8}
-\contentsline {subsection}{\numberline {8.1}M?todes de seq?enciaci?}{47}{subsection.8.1}
-\contentsline {subsubsection}{\numberline {8.1.1}M?tode de Maxam-Gilbert}{47}{subsubsection.8.1.1}
-\contentsline {subsubsection}{\numberline {8.1.2}M?tode de Sanger}{47}{subsubsection.8.1.2}
-\contentsline {subsection}{\numberline {8.2}Seq?enciaci? de genomes}{48}{subsection.8.2}
-\contentsline {subsubsection}{\numberline {8.2.1}Seq?enciaci? a l'atzar}{48}{subsubsection.8.2.1}
-\contentsline {subsubsection}{\numberline {8.2.2}Seq?enciaci? jer?rquica}{49}{subsubsection.8.2.2}
-\contentsline {subsection}{\numberline {8.3}Nous sistemes de seq?enciaci?}{49}{subsection.8.3}
-\contentsline {subsubsection}{\numberline {8.3.1}Piroseq?enciaci?}{49}{subsubsection.8.3.1}
-\contentsline {section}{\numberline {9}Vectors d'eucariotes}{50}{section.9}
-\contentsline {subsection}{\numberline {9.1}Vectors de llevats}{50}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}YAC}{50}{subsection.9.2}
-\contentsline {subsubsection}{\numberline {9.2.1}Estrat\`egia de clonatge amb YACs}{52}{subsubsection.9.2.1}
-\contentsline {subsubsection}{\numberline {9.2.2}Inconvenients dels YACs}{52}{subsubsection.9.2.2}
-\contentsline {subsection}{\numberline {9.3}Vectors per plantes}{53}{subsection.9.3}
-\contentsline {subsection}{\numberline {9.4}Vectors per mam\IeC {\'\i }fers}{53}{subsection.9.4}
+\contentsline {subsection}{\numberline {5.4}Vectors derivats del fag $\lambda $}{37}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}C\`osmids}{39}{subsubsection.5.4.1}
+\contentsline {section}{\numberline {6}Genoteques}{42}{section.6}
+\contentsline {subsection}{\numberline {6.1}Llibreries gen\`omiques}{42}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Llibreries de cDNA}{42}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Estrat\`egies de selecci\'o dels clons recombinants}{42}{subsection.6.3}
+\contentsline {part}{III\hspace {1em}Caracteritzaci\'o dels productes d'expressi\'o}{44}{part.3}
+\contentsline {part}{IV\hspace {1em}Aplicacions de l'enginyeria gen\`etica}{45}{part.4}
+\contentsline {part}{V\hspace {1em}Seminaris}{46}{part.5}
+\contentsline {section}{\numberline {7}Seminari. Aplicacions de la PCR}{46}{section.7}
+\contentsline {subsection}{\numberline {7.1}Bases de la PCR}{46}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7.1.1}Temperatura d'hibridaci\'o}{47}{subsubsection.7.1.1}
+\contentsline {subsection}{\numberline {7.2}Aplicacions de la PCR i RT-PCR}{47}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}Clonatge}{47}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}Mutag\`enesi dirigida}{48}{subsubsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.3}Diagn\`ostic}{48}{subsubsection.7.2.3}
+\contentsline {section}{\numberline {8}Seminari. Seq\@umlaut uenciaci\'o}{51}{section.8}
+\contentsline {subsection}{\numberline {8.1}M\`etodes de seq\@umlaut uenciaci\'o}{51}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8.1.1}M\`etode de Maxam-Gilbert}{51}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.2}M\`etode de Sanger}{51}{subsubsection.8.1.2}
+\contentsline {subsection}{\numberline {8.2}Seq\@umlaut uenciaci\'o de genomes}{52}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}Seq\@umlaut uenciaci\'o a l'atzar}{52}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8.2.2}Seq\@umlaut uenciaci\'o jer\`arquica}{53}{subsubsection.8.2.2}
+\contentsline {subsection}{\numberline {8.3}Nous sistemes de seq\@umlaut uenciaci\'o}{53}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {8.3.1}Piroseq\@umlaut uenciaci\'o}{53}{subsubsection.8.3.1}
+\contentsline {section}{\numberline {9}Vectors d'eucariotes}{54}{section.9}
+\contentsline {subsection}{\numberline {9.1}Vectors de llevats}{54}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}YAC}{54}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Estrat\`egia de clonatge amb YACs}{56}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Inconvenients dels YACs}{56}{subsubsection.9.2.2}
+\contentsline {subsection}{\numberline {9.3}Vectors per plantes}{57}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Vectors per mam\IeC {\'\i }fers}{57}{subsection.9.4}
 \contentsfinish 
