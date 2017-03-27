@@ -1,0 +1,54 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex")
+
+(toc "toc" "    1 Estratègies de teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 2 "1" "\\section{Estratègies de teràpia gènica}" 201)
+
+("sec:estr-de-terap" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil "")
+
+(toc "toc" "      1.1 Increment d'expressió/addició gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "1.1" "\\subsection{Increment d'expressió/addició gènica}" 268)
+
+("sec:incr-dexpr-genica" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.1.1 Fibrosi quística" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.1.1" "\\subsubsection{Fibrosi quística}" 793)
+
+("sec:fibrosi-quistica" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.1.2 Malaltia de Parkinson" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.1.2" "\\subsubsection{Malaltia de Parkinson}" 2605)
+
+("sec:malalt-de-park" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil "")
+
+(toc "toc" "      1.2 Eliminació de cèl·lules: gens suïcida i activació del sistema immunitari" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "1.2" "\\subsection{Eliminació de cèl·lules: gens suïcida i activació del sistema immunitari}" 350)
+
+("sec:elim-de-cel.l" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil "")
+
+(toc "toc" "      1.3 Inhibició dirigida de l'expressió gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "1.3" "\\subsection{Inhibició dirigida de l'expressió gènica}" 464)
+
+("sec:inhib-dirig-de" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil "")
+
+(toc "toc" "      1.4 Correcció de la mutació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "1.4" "\\subsection{Correcció de la mutació}" 547)
+
+("sec:correccio-de-la" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil "")
+
+(toc "toc" "    2 Estratègies de teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 2 "1" "\\section{Estratègies de teràpia gènica}" 201)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex")
+))
+

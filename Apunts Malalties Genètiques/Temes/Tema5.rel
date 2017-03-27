@@ -1,0 +1,38 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex")
+
+(toc "toc" "    1 Genètica de la obesitat monogènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex" nil 2 "1" "\\section{Genètica de la obesitat monogènica}" 195)
+
+("sec:genetica-de-la" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex" nil "")
+
+(toc "toc" "      1.1 Obesitat monogènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex" nil 3 "1.1" "\\subsection{Obesitat monogènica}" 268)
+
+(toc "toc" "      1.2 Obesitat multifactorial" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex" nil 3 "1.2" "\\subsection{Obesitat multifactorial}" 1203)
+
+("sec:obes-mult" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex" nil "")
+
+("sec:obesitat-monogenica" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex" nil "")
+
+(toc "toc" "    2 Genètica de la obesitat monogènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex" nil 2 "1" "\\section{Genètica de la obesitat monogènica}" 195)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema5.tex")
+))
+

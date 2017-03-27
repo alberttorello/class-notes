@@ -1,0 +1,48 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/")
+
+(label-numbers ("sec:gens-de-seleccio" . 1))
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex")
+
+(toc "toc" "    1 Gens de selecció i gens reporters" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 2 "1" "\\section{Gens de selecció i gens reporters}" 201)
+
+("sec:gens-de-seleccio" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.1 Gens reporters" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 3 "1.1" "\\subsection{Gens reporters}" 275)
+
+("sec:gens-reporters" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil "")
+
+("fig:fig35" "f" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.2 Gens de selecció" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 3 "1.2" "\\subsection{Gens de selecció}" 737)
+
+("sec:gens-de-seleccio-1" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.3 Àcids nucleics usats en teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 3 "1.3" "\\subsection{Àcids nucleics usats en teràpia gènica}" 3268)
+
+("sec:acids-nucleics-usats" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.4  " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 3 "1.4" "\\subsection{}" 3707)
+
+("subsection" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil "")
+
+(toc "toc" "    2 Gens de selecció i gens reporters" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 2 "1" "\\section{Gens de selecció i gens reporters}" 201)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex")
+))
+

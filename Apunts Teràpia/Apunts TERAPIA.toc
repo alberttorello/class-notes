@@ -41,5 +41,14 @@
 \contentsline {subsubsection}{\numberline {6.2.1}Marcadors espec\IeC {\'\i }fics}{31}{subsubsection.6.2.1}
 \contentsline {subsubsection}{\numberline {6.2.2}Sistema Cre-LoxP}{32}{subsubsection.6.2.2}
 \contentsline {part}{II\hspace {1em}Ter\`apia G\`enica}{34}{part.2}
-\contentsline {part}{Refer\`encies}{35}{section*.1}
+\contentsline {section}{\numberline {7}Introducci\'o a la ter\`apia g\`enica}{34}{section.7}
+\contentsline {subsection}{\numberline {7.1}Concepte de ter\`apia g\`enica}{34}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Estrat\`egies de ter\`apia g\`enica}{34}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Aproximacions de la ter\`apia g\`enica}{35}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Vectors de ter\`apia g\`enica}{37}{subsection.7.4}
+\contentsline {section}{\numberline {8}Gens de selecci\'o i gens reporters}{39}{section.8}
+\contentsline {subsection}{\numberline {8.1}Gens reporters}{39}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Gens de selecci\'o}{39}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}\`Acids nucleics usats en ter\`apia g\`enica}{41}{subsection.8.3}
+\contentsline {part}{Refer\`encies}{42}{section*.1}
 \contentsfinish 
