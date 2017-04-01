@@ -15,7 +15,7 @@
 
 (master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
 
-(label-numbers ("sec:hiperl-secund" . 1))
+(label-numbers ("sec:hipolipoproteinemies" . 1) ("sec:hiperl-secund" . 1))
 
 (bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex")
 
@@ -67,7 +67,15 @@
 
 ("sec:hiperl-secund" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
 
-(toc "toc" "        1.3.4 Hipolipoproteïnèmies" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.3.4" "\\subsubsection{Hipolipoproteïnèmies}" 1697)
+("sec:hipolipoproteinemies" "s" "Dins de les hipolipoproteïnèmies primàries: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.3.4 Tractament" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.3.4" "\\subsubsection{Tractament}" 10880)
+
+("sec:tractament" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+("sec:hipolipoproteinemies-1" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.3.5 Hipolipoproteïnèmies" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil 4 "1.3.4" "\\subsubsection{Hipolipoproteïnèmies}" 1697)
 
 ("sec:hipolipoproteinemies" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema9.tex" nil "")
 

@@ -1,0 +1,313 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Apunts TERAPIA.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi t)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Apunts TERAPIA.tex")
+
+(toc "toc" "Part I Teràpia Cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Apunts TERAPIA.tex" nil 0 "Part I" "\\part{Teràpia Cel·lular}" 8727)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex")
+
+(toc "toc" "    1 \\textit{Embrionic Stem Cells}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 2 "1" "\\section{\\textit{Embrionic Stem Cells}}" 192)
+
+(toc "toc" "      1.1 \\textit{Stem Cells}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 3 "1.1" "\\subsection{\\textit{Stem Cells}}" 232)
+
+(toc "toc" "      1.2 Blastocist pre-implantacional" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 3 "1.2" "\\subsection{Blastocist pre-implantacional}" 2581)
+
+(toc "toc" "      1.3 Obtenció de cèl·lules mare embrionàries" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 3 "1.3" "\\subsection{Obtenció de cèl·lules mare embrionàries}" 3393)
+
+("fig:fig5" "f" "Teratomes originats a partir de la inoculació d'ESC derivades de blastocists en ratolins SCID immuno" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil)
+
+(toc "toc" "        1.3.1 Cultiu de ESC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 4 "1.3.1" "\\subsubsection{Cultiu de ESC}" 4456)
+
+("fig:fig6" "f" "Derivació d'hESC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil)
+
+("fig:fig7" "f" "Cos embrioide amb el \\textit{core} hipòxic" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil)
+
+(toc "toc" "      1.4 Marcadors" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 3 "1.4" "\\subsection{Marcadors}" 6944)
+
+(toc "toc" "        1.4.1 Experiments quimera" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 4 "1.4.1" "\\subsubsection{Experiments quimera}" 7592)
+
+("fig:fig4" "f" "Procediment pels experiments quimera" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil)
+
+(toc "toc" "        1.4.2 Validació de la pluripotencialitat" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 4 "1.4.2" "\\subsubsection{Validació de la pluripotencialitat}" 8433)
+
+("fig:fig8" "f" "Immunohistoquímica de diferents marcadors d'ESC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil)
+
+(toc "toc" "        1.4.3 Oct-4" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 4 "1.4.3" "\\subsubsection{Oct-4}" 9531)
+
+("fig:fig1" "f" "Model que il·lustra les conseqüències en la variació dels nivells d'Oct4" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil)
+
+(toc "toc" "        1.4.4 Regulació transcripcional de les ESC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 4 "1.4.4" "\\subsubsection{Regulació transcripcional de les ESC}" 10437)
+
+("fig:fig2" "f" "Mecanisme molecular per la retenció de l'auto-renovació de les ESC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil)
+
+(toc "toc" "      1.5 Manteniment de la pluripotència" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil 3 "1.5" "\\subsection{Manteniment de la pluripotència}" 12567)
+
+("fig:fig9" "f" "Llista dels 24 gens identificats en l'screening inicial" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex" nil)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema1.tex")
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex")
+
+(toc "toc" "    2 \\textit{Adult Stem Cells}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 2 "2" "\\section{\\textit{Adult Stem Cells}}" 188)
+
+(toc "toc" "      2.1 Cèl·lules mare hematopoiètiques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 3 "2.1" "\\subsection{Cèl·lules mare hematopoiètiques}" 2332)
+
+(toc "toc" "      2.2 Cèl·lules mare mesenquimals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 3 "2.2" "\\subsection{Cèl·lules mare mesenquimals}" 2935)
+
+("fig:15" "f" "Regulació de la proliferació per Wnt/beta-catenina" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil)
+
+(toc "toc" "        2.2.1 Aplicacions terapèutiques de les MSC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 4 "2.2.1" "\\subsubsection{Aplicacions terapèutiques de les MSC}" 8153)
+
+(toc "toc" "          2.2.1.1 Immunomodulació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 5 "2.2.1.1" "\\paragraph{Immunomodulació}" 8328)
+
+(toc "toc" "          2.2.1.2 Reemplaçament cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex" nil 5 "2.2.1.2" "\\paragraph{Reemplaçament cel·lular}" 9292)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema2.tex")
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex")
+
+(toc "toc" "    3 Teràpia cel·lular per malalties coronàries" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex" nil 2 "3" "\\section{Teràpia cel·lular per malalties coronàries}" 214)
+
+(toc "toc" "      3.1 Infart de miocardi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex" nil 3 "3.1" "\\subsection{Infart de miocardi}" 268)
+
+(toc "toc" "      3.2 Estratègies de teràpia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex" nil 3 "3.2" "\\subsection{Estratègies de teràpia}" 1389)
+
+("fig:fig10" "f" "Seccions del ventricle d'una rata adulta" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex" nil)
+
+(toc "toc" "        3.2.1 Ús de cèl·lules de cor" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex" nil 4 "3.2.1" "\\subsubsection{Ús de cèl·lules de cor}" 2440)
+
+("fig:fig11" "f" "Anàlisi clonal de cardiomiòcits" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex" nil)
+
+(toc "toc" "        3.2.2 Ús de HSC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex" nil 4 "3.2.2" "\\subsubsection{Ús de HSC}" 2863)
+
+("fig:12" "f" "Injecció de MSC en un cor infartat" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex" nil)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema3.tex")
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex")
+
+(toc "toc" "    4 \\textit{induced Pluripotent Stem Cells}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil 2 "4" "\\section{\\textit{induced Pluripotent Stem Cells}}" 176)
+
+(toc "toc" "      4.1 Cèl·lules somàtiques vs ESC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil 3 "4.1" "\\subsection{Cèl·lules somàtiques vs ESC}" 227)
+
+("fig:fig9" "f" "Llista dels 24 gens identificats en l'screening inicial" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+(toc "toc" "      4.2 Reprogramació cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil 3 "4.2" "\\subsection{Reprogramació cel·lular}" 1351)
+
+(toc "toc" "        4.2.1 Selecció per G418" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil 4 "4.2.1" "\\subsubsection{Selecció per G418}" 1388)
+
+("fig:13" "f" "Generació d'iPSC a partir de cultius de fibroblasts embrionaris" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+("fig:14" "f" "Generació d'iPSC a partir de cultius de fibroblasts embrionaris II" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+(toc "toc" "        4.2.2 Reprogramació plena" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil 4 "4.2.2" "\\subsubsection{Reprogramació plena}" 4850)
+
+("fig:fig16" "f" "Generació de Nanog-iPSC \\citep{Okano2013}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+("fig:fig17" "f" "Estatus de metilació en els clons d'iPSCs \\citep{Maherali2007}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+("fig:fig18" "f" "Ratolins quimèrics generats per la injecció d'iPSC en blastocists \\citep{Maherali2007}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+(toc "toc" "        4.2.3 Mecanisme de reprogramació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil 4 "4.2.3" "\\subsubsection{Mecanisme de reprogramació}" 6659)
+
+("fig:fig19" "f" "Passos per generar iPSC \\citep{Hochedlinger2009}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+(toc "toc" "      4.3 Models de reprogramació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil 3 "4.3" "\\subsection{Models de reprogramació}" 6984)
+
+("sec:models-de-repr" "s" "Diferents models: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+("fig:fig20" "f" "Canvi d'expressió de marcadors durant la reprogramació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+("fig:fig21" "f" "Model per la reprogramació cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+(toc "toc" "      4.4 Mètodes" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil 3 "4.4" "\\subsection{Mètodes}" 11787)
+
+("fig:fig22" "f" "NO MATCH FOR CONTEXT REGEXP" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+("fig:fig23" "f" "NO MATCH FOR CONTEXT REGEXP" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+(toc "toc" "      4.5 Caracterització de la pluripotència" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil 3 "4.5" "\\subsection{Caracterització de la pluripotència}" 12567)
+
+("sec:pluripot" "s" "En primer lloc s'han de fer els tests de pluripotència \\citep{Marti2013}: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+("fig:fig24" "f" "Immunodetecció de marcadors de pluripotència" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+("fig:fig25" "f" "Immunodetecció de marcadors de pluripotència basats en diferenciació \\textit{in vitro}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex" nil)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema4.tex")
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex")
+
+(toc "toc" "    5 Cèl·lules mare neurals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex" nil 2 "5" "\\section{Cèl·lules mare neurals}" 193)
+
+("sec:cel.l-mare-neur" "s" "Hi ha cèl·lules proliferant al cervell. Es van descriure en rata als 70's. El 1979 es va descriure u" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex" nil)
+
+(toc "toc" "      5.1 Proliferació al SNC" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex" nil 3 "5.1" "\\subsection{Proliferació al SNC}" 1537)
+
+("sec:proliferacio-al-snc" "s" "\\subsubsection{Zona subventricular}  La zona subventricular es troba al ventricle lateral. Si es fa " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex" nil)
+
+(toc "toc" "        5.1.1 Zona subventricular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex" nil 4 "5.1.1" "\\subsubsection{Zona subventricular}" 1603)
+
+("sec:zona-subventricular" "s" "La zona subventricular es troba al ventricle lateral. Si es fa un marcatge de cèl·lules proliferativ" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex" nil)
+
+(toc "toc" "        5.1.2 Gir dentat hipocampal" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex" nil 4 "5.1.2" "\\subsubsection{Gir dentat hipocampal}" 2910)
+
+("sec:gir-dent-hipoc" "s" "Són unes 1000 neurones. No es poden aïllar i no passen de 3 setmanes en cultiu ja que es moren. Aque" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex" nil)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema5.tex")
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex")
+
+(toc "toc" "    6 Estudis de llinatge cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil 2 "6" "\\section{Estudis de llinatge cel·lular}" 201)
+
+("sec:estudis-de-llinatge" "s" "\\subsection{Proliferació cel·lular}  S'injecta timidina tritiada a l'animal. Aquesta timidina serà i" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil)
+
+(toc "toc" "      6.1 Proliferació cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil 3 "6.1" "\\subsection{Proliferació cel·lular}" 274)
+
+("sec:prol-cel.l" "s" "S'injecta timidina tritiada a l'animal. Aquesta timidina serà incorporada per les cèl·lules en proli" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil)
+
+(toc "toc" "      6.2 Seguiment del llinatge cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil 3 "6.2" "\\subsection{Seguiment del llinatge cel·lular}" 1017)
+
+("sec:segu-del-llin" "s" "\\subsubsection{Marcadors específics}  Es poden usar marcadors específics d'aquesta població. Es pode" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil)
+
+(toc "toc" "        6.2.1 Marcadors específics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil 4 "6.2.1" "\\subsubsection{Marcadors específics}" 1090)
+
+("sec:marcadors-especifics" "s" "Es poden usar marcadors específics d'aquesta població. Es poden generar animals transgènics que expr" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil)
+
+("fig:fig29" "f" "Sehuiment del llinatge cel·lular amb transgens marcadors específics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil)
+
+(toc "toc" "        6.2.2 Sistema Cre-LoxP" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil 4 "6.2.2" "\\subsubsection{Sistema Cre-LoxP}" 1667)
+
+("sec:sistema-cre-loxp" "s" "Aquest sistema consta de 2 elements: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil)
+
+("fig:fig30" "f" "Manipulació genètica amb el sistema Cre/loxP \\citep{Nagy2000}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil)
+
+("fig:fig31" "f" "NO MATCH FOR CONTEXT REGEXP" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil)
+
+("fig:fig32" "f" "NO MATCH FOR CONTEXT REGEXP" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex" nil)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema6.tex")
+
+(toc "toc" "Part II Teràpia Gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Apunts TERAPIA.tex" nil 0 "Part II" "\\part{Teràpia Gènica}" 10707)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex")
+
+(toc "toc" "    1 Introducció a la teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil 2 "1" "\\section{Introducció a la teràpia gènica}" 199)
+
+("sec:intr-la-terap" "s" "\\subsection{Concepte de teràpia gènica}  S'entén per teràpia gènica una teràpia que té per objectiu " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil)
+
+(toc "toc" "      1.1 Concepte de teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil 3 "1.1" "\\subsection{Concepte de teràpia gènica}" 268)
+
+("sec:concepte-de-terapia" "s" "S'entén per teràpia gènica una teràpia que té per objectiu usar àcids nucleics per tractar malalties" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil)
+
+(toc "toc" "      1.2 Estratègies de teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil 3 "1.2" "\\subsection{Estratègies de teràpia gènica}" 2090)
+
+("sec:estr-de-terap" "s" "Les diferents estratègies de teràpia engloben: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil)
+
+(toc "toc" "      1.3 Aproximacions de la teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil 3 "1.3" "\\subsection{Aproximacions de la teràpia gènica}" 3358)
+
+("sec:aproximacions-de-la" "s" "La teràìa gènica es pot practicar: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil)
+
+("fig:fig33" "f" "Teràpia \\textit{in vivo} i \\textit{ex vivo}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil)
+
+("tab:terapia" "t" "Valoració dels mètodes de teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil)
+
+(toc "toc" "      1.4 Vectors de teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil 3 "1.4" "\\subsection{Vectors de teràpia gènica}" 5953)
+
+("sec:vectors-de-terapia" "s" "No hi ha vectors vírics capaços de carregar un gen humà sencer (promotor + gen; exons i introns). El" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil)
+
+("fig:fig34" "f" "Vectors usats en teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex" nil)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema7.tex")
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex")
+
+(toc "toc" "    2 Gens de selecció i gens reporters" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 2 "2" "\\section{Gens de selecció i gens reporters}" 201)
+
+("sec:gens-de-seleccio" "s" "\\subsection{Gens reporters}  Un gen reporter o un gen marcador és un gen que permet detectar la pres" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil)
+
+(toc "toc" "      2.1 Gens reporters" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 3 "2.1" "\\subsection{Gens reporters}" 275)
+
+("sec:gens-reporters" "s" "Un gen reporter o un gen marcador és un gen que permet detectar la presència del gen. Són informatiu" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil)
+
+("fig:fig35" "f" "Resum dels marcadors genètics més usats" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil)
+
+(toc "toc" "      2.2 Gens de selecció" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 3 "2.2" "\\subsection{Gens de selecció}" 737)
+
+("sec:gens-de-seleccio-1" "s" "Els gens de selecció són gens que poden ser seleccionats, i la selecció pot ser positiva o negativa." "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil)
+
+("fig:fig36" "f" "Via de síntesi i reciclatge de purines" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil)
+
+("fig:fig37" "f" "Via de síntesi i reciclatge de pirimidines" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil)
+
+(toc "toc" "      2.3 Àcids nucleics usats en teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil 3 "2.3" "\\subsection{Àcids nucleics usats en teràpia gènica}" 3292)
+
+("sec:acids-nucleics-usats" "s" "Els àcids nucleics poden ser: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex" nil)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema8.tex")
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex")
+
+(toc "toc" "    3 Estratègies de teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 2 "3" "\\section{Estratègies de teràpia gènica}" 201)
+
+("sec:estr-de-terap" "s" "En general, hi ha 5 estratègies principals: \\begin{enumerate} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "      3.1 Increment d'expressió/addició gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "3.1" "\\subsection{Increment d'expressió/addició gènica}" 573)
+
+("sec:incr-dexpr-genica" "s" "En una determinada malaltia en què hi ha una deficiència d'un producte gènic concret, s'introdueix e" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        3.1.1 Fibrosi quística" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "3.1.1" "\\subsubsection{Fibrosi quística}" 793)
+
+("sec:fibrosi-quistica" "s" "És la malaltia monogènica més prevalent en la població europea. La prevalença de portadors és de 1/2" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        3.1.2 Malaltia de Parkinson" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "3.1.2" "\\subsubsection{Malaltia de Parkinson}" 2605)
+
+("sec:malalt-de-park" "s" "És una malaltia neurodegenerativa progressiva en la que el sistema de neurones dopaminèrgiques de la" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "      3.2 Eliminació de cèl·lules: gens suïcida i activació del sistema immunitari" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "3.2" "\\subsection{Eliminació de cèl·lules: gens suïcida i activació del
+  sistema immunitari}" 4149)
+
+("sec:elim-de-cel.l" "s" "Aquesta estratègia es focalitza en el tractament el càncer. Es pot fer mitjançant la introducció esp" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        3.2.1 Gens suïcida" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "3.2.1" "\\subsubsection{Gens suïcida}" 4634)
+
+("sec:gens-suicida" "s" "S'usa un enzim que participa en les vies de biosíntesi i reciclatge de nucleòsids. Els exemples més " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        3.2.2 Immunomodulació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "3.2.2" "\\subsubsection{Immunomodulació}" 6942)
+
+("sec:immunomodulacio" "s" "Intenta induir una resposta immunològica del propi pacient a les lesions tumorals i metàstasis. S'ha" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "      3.3 Inhibició dirigida de l'expressió gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "3.3" "\\subsection{Inhibició dirigida de l'expressió gènica}" 8670)
+
+("sec:inhib-dirig-de" "s" "\\subsection{Correcció de la mutació}  " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "      3.4 Correcció de la mutació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "3.4" "\\subsection{Correcció de la mutació}" 8753)
+
+("sec:correccio-de-la" "s" " " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex")
+
+("part:correccio-de-la" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Apunts TERAPIA.tex" nil "")
+
+(bib "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/bibterapia.bib")
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Apunts TERAPIA.tex")
+))
+

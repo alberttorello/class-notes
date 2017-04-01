@@ -1,0 +1,40 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/")
+
+(label-numbers ("sec:northern-blot" . 1))
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex")
+
+(toc "toc" "    1 Caracterització de l'expressió gènica: trànscrits" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 2 "1" "\\section{Caracterització de l'expressió gènica: trànscrits}" 177)
+
+("sec:caract-de-lexpr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+
+(toc "toc" "      1.1 Northern Blot" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.1" "\\subsection{Northern Blot}" 562)
+
+(toc "toc" "        1.1.1 Control de l'astringència" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 4 "1.1.1" "\\subsubsection{Control de l'astringència}" 1345)
+
+("sec:contr-de-lastr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+
+(toc "toc" "      1.2 Northern Blot" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.2" "\\subsection{Northern Blot}" 2104)
+
+("sec:northern-blot-1" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+
+("sec:northern-blot" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex")
+))
+

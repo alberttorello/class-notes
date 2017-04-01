@@ -1,0 +1,34 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema6.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema6.tex")
+
+(toc "toc" "    1 Malalties lligades al cromosoma X" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema6.tex" nil 2 "1" "\\section{Malalties lligades al cromosoma X}" 205)
+
+("sec:malalt-llig-al" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema6.tex" nil "")
+
+(toc "toc" "      1.1 Distròfia muscular de Duchenne" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema6.tex" nil 3 "1.1" "\\subsection{Distròfia muscular de Duchenne}" 1050)
+
+("sec:distr-musc-de" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema6.tex" nil "")
+
+(toc "toc" "    2 Malalties lligades al cromosoma X" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema6.tex" nil 2 "1" "\\section{Malalties lligades al cromosoma X}" 205)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema6.tex")
+))
+

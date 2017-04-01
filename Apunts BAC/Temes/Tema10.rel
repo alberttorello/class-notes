@@ -1,0 +1,74 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
+
+(label-numbers ("sec:estudi-de-la" . 1) ("sec:el-fetge" . 1))
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex")
+
+(toc "toc" "    1 El fetge" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 2 "1" "\\section{El fetge}" 181)
+
+("sec:el-fetge" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.1 El fetge" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.1" "\\subsection{El fetge}" 222)
+
+("sec:el-fetge-1" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "        1.1.1 Circulació hepàtica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.1.1" "\\subsubsection{Circulació hepàtica}" 268)
+
+("sec:circulacio-hepatica" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "        1.1.2 Funcions hepàtiques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.1.2" "\\subsubsection{Funcions hepàtiques}" 737)
+
+("sec:funcions-hepatiques" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.2 Estudi de la funció secretora" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.2" "\\subsection{Estudi de la funció secretora}" 1671)
+
+("sec:estudi-de-la" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.3 Producció de bilirrubina - Icterícia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.3" "\\subsection{Producció de bilirrubina - Icterícia}" 1740)
+
+("sec:prod-de-bilirr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.4 Eliminació d'àcids biliars - Obstrucció biliar" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.4" "\\subsection{Eliminació d'àcids biliars - Obstrucció biliar}" 1822)
+
+("sec:elim-dacids-bili" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.5 Estudi de la capacitat detoxificadora" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.3" "\\subsection{Estudi de la capacitat detoxificadora}" 1916)
+
+("sec:estudi-de-la-1" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "        1.3.1 Eliminació de xenobiòtics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.3.1" "\\subsubsection{Eliminació de xenobiòtics}" 1995)
+
+("sec:elim-de-xenob" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.6 Estudi de les capacitats biosintètica i metabòlica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.4" "\\subsection{Estudi de les capacitats biosintètica i metabòlica}" 2065)
+
+("sec:estudi-de-les" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.7 Marcadors sèrics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.5" "\\subsection{Marcadors sèrics}" 2157)
+
+("sec:marcadors-serics" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.8 Alteracions hepàtiques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.6" "\\subsection{Alteracions hepàtiques}" 2218)
+
+("sec:alter-hepat" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "    2 El fetge" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 2 "1" "\\section{El fetge}" 181)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex")
+))
+
