@@ -15,25 +15,43 @@
 
 (master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/")
 
-(label-numbers ("sec:northern-blot" . 1))
+(label-numbers)
 
 (bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex")
 
 (toc "toc" "    1 Caracterització de l'expressió gènica: trànscrits" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 2 "1" "\\section{Caracterització de l'expressió gènica: trànscrits}" 177)
 
-("sec:caract-de-lexpr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+("sec:caract-de-lexpr" "s" "Hi ha diferents tècniques per estudiar els trànscrits: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil)
 
-(toc "toc" "      1.1 Northern Blot" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.1" "\\subsection{Northern Blot}" 562)
+(toc "toc" "      1.1 Southern Blot" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.1" "\\subsection{Southern Blot}" 562)
+
+("subsec:northern-blot" "s" "Abans, però el \\textbf{Southern Blot} es basa en: \\begin{enumerate}[" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil)
 
 (toc "toc" "        1.1.1 Control de l'astringència" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 4 "1.1.1" "\\subsubsection{Control de l'astringència}" 1345)
 
-("sec:contr-de-lastr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+("sec:contr-de-lastr" "s" "L'astringència fa referència al grau d'exigència a la complementarietat entre la diana i la sonda. Q" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil)
 
 (toc "toc" "      1.2 Northern Blot" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.2" "\\subsection{Northern Blot}" 2104)
 
-("sec:northern-blot-1" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+("sec:northern-blot-1" "s" "El \\textbf{Northern Blot} permet transferir RNA d'un gel d'agarosa a una membrana de nitrocel·lulosa" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil)
 
-("sec:northern-blot" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+(toc "toc" "      1.3 Reverse Transcriptase PCR" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.3" "\\subsection{Reverse Transcriptase PCR}" 3306)
+
+("sec:reverse-transcr-pcr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+
+(toc "toc" "      1.4 Hibridació in situ" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.4" "\\subsection{Hibridació in situ}" 4085)
+
+("sec:hibridacio-situ" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+
+(toc "toc" "      1.5 Microxips" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.5" "\\subsection{Microxips}" 5221)
+
+("sec:microxips" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+
+(toc "toc" "      1.6 Estudi de zones reguladores" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.6" "\\subsection{Estudi de zones reguladores}" 5824)
+
+("sec:estudi-de-zones" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil "")
+
+(toc "toc" "      1.7 Reverse Transcriptase PCR" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex" nil 3 "1.3" "\\subsection{Reverse Transcriptase PCR}" 3306)
 
 (eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema7.tex")
 ))
