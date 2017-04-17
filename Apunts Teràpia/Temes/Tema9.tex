@@ -300,9 +300,11 @@ regions d'splicing i evitar que s'hi uneixi l'spliceosoma.
 La RNasa P va contra virus de RNA. RNasa P reconeix certes estructures
 secundàries d'aquests virus i els degrada.
 
-Aquestes estratègies no tenen la mateixa eficiència a tots els teixits i cèl·lules.
+Aquestes estratègies no tenen la mateixa eficiència a tots els teixits
+i cèl·lules.
 
-Els oligos tenen modificacions quimíques que eviten la seva degradació a la cèl·lula.
+Els oligos tenen modificacions quimíques que eviten la seva degradació
+a la cèl·lula.
 
 shRNa i siRNA són 2 cadenes de RNA que difereixen en
 l'estructura. shRNA és una mateixa cadena de RNA plegada sobre si
@@ -328,6 +330,74 @@ LDL.
 Els siRNA es poden introduir per liposomes, immunoliposomes, unit a
 PEG. Es capten via endocitosi.
 
+\subsubsection{Ribozims}
+\label{sec:ribozims}
+Els ribozims són fragments de RNA amb estructura secundària amb
+activitat catalítica. L'estructura és de \textit{hammer-head}, el
+fragment 3' i 5' es pot dissenyar artificalment per dirigir-lo contra un
+transcrit concret. El ribozim es pot dirigir contra un al·lel
+concret, és a dir el transcrit produiït per l'al·lel mutat. Si hi ha
+un sol mismatch no es produeix la catàlisi (hidròlisi de l'enllaç
+fosfodièster).
+
+La mutació P23H a la rodopsina és autosòmica dominant i produeix la
+retinosi pigmentària. Té un efecte de dominància negativa ja que la
+proteïna oligomeritza formant agregats. Es va provar un tractament amb
+ribozims en un model murí de retinosi pigmentària (trasgènic pel gen
+$rod^{P23H}$). El tractament va produir un rescat fenotípic de la
+malaltia.
+
+Les fases clíniques s'han fet en infeccions víriques i càncer. 
+
+% Els morpholinos són el mateix que shRNA??
+
 \subsection{Correcció de la mutació}
 \label{sec:correccio-de-la}
+Aquesta estratègia es planteja per malalties genètiques, principalment
+recessives.
+
+\subsubsection{Correcció al cromosoma}
+\label{sec:corr-al-crom}
+En el cas d'un trencament de doble cadena de DNA poden passar 2 coses:
+\begin{itemize}
+\item \textit{Homology-directed repair}: mediat per Rac51 en eucariotes i RecA
+  en procariotes.
+\item \textit{Non-homology end joining}: Es basa en les proteïnes Ku70
+  en procariotes i en eucariotes Ku70/80.
+\end{itemize}
+
+El primer que es va fer va ser usar nucleases que reconeixen
+seqüències específiques que es trobaven en bacteris com a sistema de
+defensa contra infeccions víriques; com les ZFN (\textit{zinc-finger
+  nucleases}). La seqüència d'aminoàcids de la ZFN determina
+l'especificitat per la seqüència de DNA. El reconeixement es per 1 Aa
+cada 3 bases. Les ZFN fan un nick, de manera que s'ha de fer un dímer
+per aconseguir el tall de doble cadena.
+
+Els TALEN (\textit{transcription activator like-elements nucleases})
+reconeixen d'Aa a nucleòtid i són més precises.
+
+El que es fa en la NHEJ és reclutar activitats \textit{trimming} per
+generar extrems roms al punt de trencament de les cadenes. Aquest
+procediment genera delecions.
+
+Per fer un \textit{knock-in} s'ha d'induir la recombinació
+homòloga. S'ha de posar un DNA donador que envairà les cadenes
+trencades i reparar la zona. Químicament es pot inhibir la via de
+NHEJ.
+
+La HDR permet introduir un gen a la zona de doble tall.
+
+Per generar delecions més grans es generen 2 dianes de tall que
+flanquegin la zona que ens interessa delecionar.
+
+Cal tenir en compte la possible presència de mutacions
+\textit{off-target}.
+
+CRISPR-Cas9 es va trobar en arquees però és molt ubiqu en bacteris. El
+gRNA reconeix la seqüència \textit{target} que adquireix una
+estructura secundària que és reconeguda per una nucleasa
+específica. La nucleasa també requereix d'una seqüència PAM
+(\textit{Protospacer Adjacent Motif}). Cas9 fa un tall de doble
+cadena.
 

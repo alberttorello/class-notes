@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  2 APR 2017 23:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  5 APR 2017 08:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2100,7 +2100,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 ...line {part}{Refer\`encies}{48}{section*.1}
+l.67 ...line {part}{Refer\`encies}{50}{section*.1}
                                                   
 ? 
 )
@@ -2421,8 +2421,8 @@ File: Pictures/fig40.png Graphic file (type png)
 Package pdftex.def Info: Pictures/fig40.png used on input line 95.
 (pdftex.def)             Requested size: 399.05278pt x 258.4944pt.
 
-[43 <./Pictures/fig39.png>] [44 <./Pictures/fig40.png>] [45]) [46] [47]
-(./Apunts TERAPIA.bbl [48]) [49]
+[43 <./Pictures/fig39.png>] [44 <./Pictures/fig40.png>] [45] [46] [47] [48])
+[49] (./Apunts TERAPIA.bbl [50]) [51]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 354.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 354.
  (./Apunts TERAPIA.aux)
@@ -2437,10 +2437,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 354.
  ) 
 Here is how much of TeX's memory you used:
- 41925 strings out of 493013
- 771771 string characters out of 6133343
- 1071647 words of memory out of 5000000
- 44576 multiletter control sequences out of 15000+600000
+ 41937 strings out of 493013
+ 771959 string characters out of 6133343
+ 1071914 words of memory out of 5000000
+ 44581 multiletter control sequences out of 15000+600000
  176655 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,12n,83p,10382b,794s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2457,10 +2457,10 @@ onts/type1/public/kpfonts/jkpmite.pfb></usr/local/texlive/2016/texmf-dist/fonts
 e1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
 blic/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
 kpfonts/jkpmsc8a.pfb>
-Output written on "Apunts TERAPIA.pdf" (51 pages, 9345250 bytes).
+Output written on "Apunts TERAPIA.pdf" (53 pages, 9351345 bytes).
 PDF statistics:
- 739 PDF objects out of 1000 (max. 8388607)
- 587 compressed objects within 6 object streams
- 182 named destinations out of 1000 (max. 500000)
+ 753 PDF objects out of 1000 (max. 8388607)
+ 599 compressed objects within 6 object streams
+ 189 named destinations out of 1000 (max. 500000)
  544 words of extra memory for PDF output out of 10000 (max. 10000000)
 

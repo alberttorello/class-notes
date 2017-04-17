@@ -1,0 +1,78 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex")
+
+(toc "toc" "    1 Caracterització de l'expressió gènica: proteïnes" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 2 "1" "\\section{Caracterització de l'expressió gènica: proteïnes}" 177)
+
+("sec:caract-de-lexpr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.1 Purificació de proteïnes" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 3 "1.1" "\\subsection{Purificació de proteïnes}" 265)
+
+("sec:purif-de-prot" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "        1.1.1 Extracció de proteïnes" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 4 "1.1.1" "\\subsubsection{Extracció de proteïnes}" 330)
+
+("sec:extr-de-prot" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "        1.1.2 Cromatografia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 4 "1.1.1" "\\subsubsection{Cromatografia}" 396)
+
+("sec:cromatografia" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "          1.1.2.1 Cromatografia d'exclusió molecular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 5 "1.1.1.1" "\\paragraph{Cromatografia d'exclusió molecular}" 453)
+
+(toc "toc" "          1.1.2.2 Cromatografia de bescanvi iònic" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 5 "1.1.1.2" "\\paragraph{Cromatografia de bescanvi iònic}" 906)
+
+(toc "toc" "          1.1.2.3 Cromatografia d'afinitat" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 5 "1.1.1.3" "\\paragraph{Cromatografia d'afinitat}" 1338)
+
+(toc "toc" "      1.2 Electroforesi i isoelectroenfoc" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 3 "1.2" "\\subsection{Electroforesi i isoelectroenfoc}" 1824)
+
+("sec:electr-i-isoel" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "        1.2.1 Electroforesi bidimensional" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 4 "1.2.1" "\\subsubsection{Electroforesi bidimensional}" 2466)
+
+("sec:electr-bidim" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.3 Proteòmica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 3 "1.3" "\\subsection{Proteòmica}" 2983)
+
+("sec:proteomica" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.4 Western Blot" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 3 "1.4" "\\subsection{Western Blot}" 3336)
+
+("sec:western-blot" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.5 Dot Blot" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 3 "1.5" "\\subsection{Dot Blot}" 3389)
+
+("sec:dot-blot" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.6 ELISA" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 3 "1.6" "\\subsection{ELISA}" 3434)
+
+("sec:elisa" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.7 Immunodetecció in situ" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 3 "1.7" "\\subsection{Immunodetecció in situ}" 3473)
+
+("sec:immunodeteccio-situ" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(toc "toc" "      1.8 Microxips" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil 3 "1.8" "\\subsection{Microxips}" 3552)
+
+("sec:microxips" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex" nil "")
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/Tema8.tex")
+))
+

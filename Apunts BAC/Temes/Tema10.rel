@@ -1,0 +1,110 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex")
+
+(toc "toc" "    1 El fetge" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 2 "1" "\\section{El fetge}" 181)
+
+("sec:el-fetge" "s" "\\subsection{El fetge}  \\subsubsection{Circulació hepàtica} \\label{sec:circulacio-hepatica} La sang e" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "      1.1 El fetge" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.1" "\\subsection{El fetge}" 222)
+
+("sec:el-fetge-1" "s" "\\subsubsection{Circulació hepàtica}  La sang entra el fetge per la via porta (intestí) i a través de" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "        1.1.1 Circulació hepàtica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.1.1" "\\subsubsection{Circulació hepàtica}" 268)
+
+("sec:circulacio-hepatica" "s" "La sang entra el fetge per la via porta (intestí) i a través de l'artèria hepàtica (sistèmica). Surt" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "        1.1.2 Funcions hepàtiques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.1.2" "\\subsubsection{Funcions hepàtiques}" 737)
+
+("sec:funcions-hepatiques" "s" "La zona periportal i la zona perivenosa tenen diferències metabòliques diferents. El fetge secreta a" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "      1.2 Estudi de la funció excretora" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.2" "\\subsection{Estudi de la funció excretora}" 1685)
+
+("sec:estudi-de-la" "s" "\\subsubsection{Producció de bilirrubina - Icterícia}  La bilirubina és el producte de la degradació " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "        1.2.1 Producció de bilirrubina - Icterícia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.2.1" "\\subsubsection{Producció de bilirrubina - Icterícia}" 1754)
+
+("sec:prod-de-bilirr" "s" "La bilirubina és el producte de la degradació dels grups hemo. L'hemoglobina es destrueix al sistema" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "          1.2.1.1 Determinació de bilirubina" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 5 "1.2.1.1" "\\paragraph{Determinació de bilirubina}" 3870)
+
+(toc "toc" "          1.2.1.2 Icterícia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 5 "1.2.1.2" "\\paragraph{Icterícia}" 4400)
+
+(toc "toc" "        1.2.2 Àcids biliars" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.2.2" "\\subsubsection{Àcids biliars}" 6075)
+
+("sec:acids-biliars" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "        1.2.3 Àcids biliars" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.2.2" "\\subsubsection{Àcids biliars}" 6075)
+
+(toc "toc" "      1.3 Estudi de la capacitat detoxificadora" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.3" "\\subsection{Estudi de la capacitat detoxificadora}" 7127)
+
+("sec:estudi-de-la-1" "s" "\\subsubsection{Eliminació de xenobiòtics}  \\subsection{Estudi de les capacitats biosintètica i metab" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "        1.3.1 Eliminació de xenobiòtics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.3.1" "\\subsubsection{Eliminació de xenobiòtics}" 7206)
+
+("sec:elim-de-xenob" "s" "\\subsection{Estudi de les capacitats biosintètica i metabòlica}  \\subsection{Marcadors sèrics} \\labe" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "      1.4 Estudi de les capacitats biosintètica i metabòlica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.4" "\\subsection{Estudi de les capacitats biosintètica i metabòlica}" 8462)
+
+("sec:estudi-de-les" "s" "\\subsection{Marcadors sèrics}  \\subsection{Alteracions hepàtiques} \\label{sec:alter-hepat} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "        1.4.1 Proteïnes" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.4.1" "\\subsubsection{Proteïnes}" 8553)
+
+("sec:proteines" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "        1.4.2 Lípids i lipoproteïnes" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.4.2" "\\subsubsection{Lípids i lipoproteïnes}" 9085)
+
+("sec:lipids-i-lipopr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "        1.4.3 Aminoàcids i nitrogen amínic" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.4.3" "\\subsubsection{Aminoàcids i nitrogen amínic}" 9581)
+
+("sec:amin-i-nitr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "        1.4.4 Glúcids" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.4.4" "\\subsubsection{Glúcids}" 9807)
+
+("sec:glucids" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.5 Marcadors sèrics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.5" "\\subsection{Marcadors sèrics}" 10046)
+
+("sec:marcadors-serics" "s" "\\subsection{Alteracions hepàtiques}  " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "        1.5.1 Transaminases" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.5.1" "\\subsubsection{Transaminases}" 10106)
+
+("sec:transaminases" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "        1.5.2 Fosfatasa alcalina" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.5.2" "\\subsubsection{Fosfatasa alcalina}" 10722)
+
+("sec:fosfatasa-alcalina" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "        1.5.3 Gamma-glutamil transpeptidasa" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.5.3" "\\subsubsection{Gamma-glutamil transpeptidasa}" 11534)
+
+("sec:gamma-glut-transp" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.6 Alteracions hepàtiques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 3 "1.6" "\\subsection{Alteracions hepàtiques}" 10338)
+
+("sec:alter-hepat" "s" " " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil)
+
+(toc "toc" "        1.6.1 Hepatitis víriques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil 4 "1.6.1" "\\subsubsection{Hepatitis víriques}" 12555)
+
+("sec:hepatitis-viriques" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex" nil "")
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema10.tex")
+))
+

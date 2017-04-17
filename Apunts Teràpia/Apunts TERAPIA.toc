@@ -58,6 +58,11 @@
 \contentsline {subsubsection}{\numberline {9.2.1}Gens su\IeC {\@umlaut \i }cida}{45}{subsubsection.9.2.1}
 \contentsline {subsubsection}{\numberline {9.2.2}Immunomodulaci\'o}{46}{subsubsection.9.2.2}
 \contentsline {subsection}{\numberline {9.3}Inhibici\'o dirigida de l'expressi\'o g\`enica}{47}{subsection.9.3}
-\contentsline {subsection}{\numberline {9.4}Correcci\'o de la mutaci\'o}{47}{subsection.9.4}
-\contentsline {part}{Refer\`encies}{48}{section*.1}
+\contentsline {subsubsection}{\numberline {9.3.1}H\`elix triple}{47}{subsubsection.9.3.1}
+\contentsline {subsubsection}{\numberline {9.3.2}Oligos trampa}{47}{subsubsection.9.3.2}
+\contentsline {subsubsection}{\numberline {9.3.3}Estrat\`egies antisentit}{47}{subsubsection.9.3.3}
+\contentsline {subsubsection}{\numberline {9.3.4}Ribozims}{48}{subsubsection.9.3.4}
+\contentsline {subsection}{\numberline {9.4}Correcci\'o de la mutaci\'o}{48}{subsection.9.4}
+\contentsline {subsubsection}{\numberline {9.4.1}Correcci\'o al cromosoma}{48}{subsubsection.9.4.1}
+\contentsline {part}{Refer\`encies}{50}{section*.1}
 \contentsfinish 

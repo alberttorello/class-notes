@@ -1,0 +1,91 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex")
+
+(toc "toc" "    1 Estratègies de teràpia gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 2 "1" "\\section{Estratègies de teràpia gènica}" 201)
+
+("sec:estr-de-terap" "s" "En termes generals, hi ha 5 estratègies principals: \\begin{enumerate}[" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "      1.1 Increment d'expressió/addició gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "1.1" "\\subsection{Increment d'expressió/addició gènica}" 608)
+
+("sec:incr-dexpr-genica" "s" "En una determinada malaltia en què hi ha una deficiència d'un producte gènic concret, s'introdueix e" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.1.1 Fibrosi quística" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.1.1" "\\subsubsection{Fibrosi quística}" 828)
+
+("sec:fibrosi-quistica" "s" "És la malaltia monogènica més prevalent en la població europea. La prevalença de portadors és de 1/2" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+("fig:fig38" "f" "Mutacions al gen CFTR" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+("fig:fig39" "f" "Classificació de les mutacions, efecte fenotípic i possible teràpia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+("tab:tabfibrosi" "t" "Teràpies per la fibrosi quística" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+("fig:fig40" "f" "Vies d'entrega dels àcids nucleics al pulmó" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.1.2 Malaltia de Parkinson" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.1.2" "\\subsubsection{Malaltia de Parkinson}" 4614)
+
+("sec:malalt-de-park" "s" "És una malaltia neurodegenerativa progressiva en la que el sistema de neurones dopaminèrgiques de la" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "      1.2 Eliminació de cèl·lules: gens suïcida i activació del sistema immunitari" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "1.2" "\\subsection{Eliminació de cèl·lules: gens suïcida i activació del
+  sistema immunitari}" 5928)
+
+("sec:elim-de-cel.l" "s" "Aquesta estratègia es focalitza en el tractament el càncer. Es pot fer mitjançant la introducció esp" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.2.1 Gens suïcida" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.2.1" "\\subsubsection{Gens suïcida}" 6413)
+
+("sec:gens-suicida" "s" "S'usa un enzim que participa en les vies de biosíntesi i reciclatge de nucleòsids. Els exemples més " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.2.2 Immunomodulació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.2.2" "\\subsubsection{Immunomodulació}" 8721)
+
+("sec:immunomodulacio" "s" "Intenta induir una resposta immunològica del propi pacient a les lesions tumorals i metàstasis. S'ha" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "      1.3 Inhibició dirigida de l'expressió gènica" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "1.3" "\\subsection{Inhibició dirigida de l'expressió gènica}" 10490)
+
+("sec:inhib-dirig-de" "s" "Aquesta estratègia pot ser interessant per tractar càncer, infeccions víriques, malalties genètiques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.3.1 Hèlix triple" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.3.1" "\\subsubsection{Hèlix triple}" 11472)
+
+("sec:triple" "s" "Els nucleòtids poden enllaçar més d'1 nucleòtid, és a dir una purina pot fer ponts d'hidrogen amb un" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.3.2 Oligos trampa" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.3.2" "\\subsubsection{Oligos trampa}" 11905)
+
+("sec:oligos-trampa" "s" "Es poden dissenyar oligos que continguin la seqüència consensus d'un factor de transcripció determin" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.3.3 Estratègies antisentit" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.3.3" "\\subsubsection{Estratègies antisentit}" 12315)
+
+("sec:antisentit" "s" "% Taula diap. 5 Es pot incidir sobre l'splicing generant un oligo que hibridi a regions d'splicing i" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.3.4 Ribozims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.3.4" "\\subsubsection{Ribozims}" 13811)
+
+("sec:ribozims" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil "")
+
+(toc "toc" "        1.3.5 Ribozims" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.3.4" "\\subsubsection{Ribozims}" 13811)
+
+(toc "toc" "      1.4 Correcció de la mutació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 3 "1.4" "\\subsection{Correcció de la mutació}" 14736)
+
+("sec:correccio-de-la" "s" " " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil)
+
+(toc "toc" "        1.4.1 Correcció al cromosoma" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil 4 "1.4.1" "\\subsubsection{Correcció al cromosoma}" 14885)
+
+("sec:corr-al-crom" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex" nil "")
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema9.tex")
+))
+

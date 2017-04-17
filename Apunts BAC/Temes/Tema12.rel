@@ -1,0 +1,38 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex")
+
+(toc "toc" "    1 Alteracions del metabolisme de nucleòtids" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex" nil 2 "1" "\\section{Alteracions del metabolisme de nucleòtids}" 214)
+
+("sec:alter-del-metab" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex" nil "")
+
+(toc "toc" "      1.1 Recanvi de nucleòtids" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex" nil 3 "1.1" "\\subsection{Recanvi de nucleòtids}" 295)
+
+("sec:recanvi-de-nucl" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex" nil "")
+
+(toc "toc" "      1.2 Hiperuricèmia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex" nil 3 "1.2" "\\subsection{Hiperuricèmia}" 1429)
+
+("sec:hiperuricemia" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex" nil "")
+
+(toc "toc" "    2 Alteracions del metabolisme de nucleòtids" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex" nil 2 "1" "\\section{Alteracions del metabolisme de nucleòtids}" 214)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema12.tex")
+))
+
