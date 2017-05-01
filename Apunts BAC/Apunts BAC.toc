@@ -121,16 +121,18 @@
 \contentsline {paragraph}{\numberline {7.3.4.4}Marcadors no enzim\`atics}{66}{paragraph.7.3.4.4}
 \contentsline {section}{\numberline {8}Disfuncions del metabolisme gluc\IeC {\'\i }dic}{68}{section.8}
 \contentsline {subsection}{\numberline {8.1}Regulaci\'o de la concentraci\'o de la glucosa sangu\IeC {\'\i }nia}{68}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}Hipergluc\`emies}{68}{subsection.8.2}
-\contentsline {subsubsection}{\numberline {8.2.1}Alteracions metab\`oliques}{69}{subsubsection.8.2.1}
-\contentsline {subsubsection}{\numberline {8.2.2}Complicacions}{69}{subsubsection.8.2.2}
-\contentsline {subsection}{\numberline {8.3}Par\`ametres cl\IeC {\'\i }nics}{69}{subsection.8.3}
-\contentsline {subsubsection}{\numberline {8.3.1}Glucosa}{69}{subsubsection.8.3.1}
-\contentsline {subsubsection}{\numberline {8.3.2}Sobrec\`arrega oral de glucosa (SOG)}{70}{subsubsection.8.3.2}
-\contentsline {subsubsection}{\numberline {8.3.3}Insulina}{70}{subsubsection.8.3.3}
-\contentsline {subsubsection}{\numberline {8.3.4}Glicohemoglobines}{71}{subsubsection.8.3.4}
-\contentsline {subsubsection}{\numberline {8.3.5}Fructosamines}{71}{subsubsection.8.3.5}
-\contentsline {subsubsection}{\numberline {8.3.6}Cossos cet\`onics}{71}{subsubsection.8.3.6}
-\contentsline {subsection}{\numberline {8.4}Hipogluc\`emies}{71}{subsection.8.4}
-\contentsline {subsection}{\numberline {8.5}Intoler\`ancies}{71}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.2}Hipergluc\`emies}{69}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}Alteracions metab\`oliques}{70}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8.2.2}Complicacions}{70}{subsubsection.8.2.2}
+\contentsline {subsection}{\numberline {8.3}Par\`ametres cl\IeC {\'\i }nics}{71}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {8.3.1}Glucosa}{71}{subsubsection.8.3.1}
+\contentsline {subsubsection}{\numberline {8.3.2}Sobrec\`arrega oral de glucosa (SOG)}{71}{subsubsection.8.3.2}
+\contentsline {subsubsection}{\numberline {8.3.3}Insulina}{72}{subsubsection.8.3.3}
+\contentsline {subsubsection}{\numberline {8.3.4}Glicohemoglobines}{73}{subsubsection.8.3.4}
+\contentsline {subsubsection}{\numberline {8.3.5}Fructosamines}{73}{subsubsection.8.3.5}
+\contentsline {subsubsection}{\numberline {8.3.6}Cossos cet\`onics}{73}{subsubsection.8.3.6}
+\contentsline {subsection}{\numberline {8.4}Hipogluc\`emies}{73}{subsection.8.4}
+\contentsline {subsubsection}{\numberline {8.4.1}Fisiol\`ogica}{73}{subsubsection.8.4.1}
+\contentsline {subsubsection}{\numberline {8.4.2}Patol\`ogiques}{73}{subsubsection.8.4.2}
+\contentsline {subsection}{\numberline {8.5}Intoler\`ancies}{74}{subsection.8.5}
 \contentsfinish 

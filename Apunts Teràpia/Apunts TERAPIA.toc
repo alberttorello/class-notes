@@ -50,19 +50,24 @@
 \contentsline {subsection}{\numberline {8.1}Gens reporters}{39}{subsection.8.1}
 \contentsline {subsection}{\numberline {8.2}Gens de selecci\'o}{39}{subsection.8.2}
 \contentsline {subsection}{\numberline {8.3}\`Acids nucleics usats en ter\`apia g\`enica}{41}{subsection.8.3}
-\contentsline {section}{\numberline {9}Estrat\`egies de ter\`apia g\`enica}{42}{section.9}
-\contentsline {subsection}{\numberline {9.1}Increment d'expressi\'o/addici\'o g\`enica}{42}{subsection.9.1}
-\contentsline {subsubsection}{\numberline {9.1.1}Fibrosi qu\IeC {\'\i }stica}{42}{subsubsection.9.1.1}
-\contentsline {subsubsection}{\numberline {9.1.2}Malaltia de Parkinson}{44}{subsubsection.9.1.2}
-\contentsline {subsection}{\numberline {9.2}Eliminaci\'o de c\`el\IeC {\textperiodcentered }lules: gens su\IeC {\@umlaut \i }cida i activaci\'o del sistema immunitari}{45}{subsection.9.2}
-\contentsline {subsubsection}{\numberline {9.2.1}Gens su\IeC {\@umlaut \i }cida}{45}{subsubsection.9.2.1}
-\contentsline {subsubsection}{\numberline {9.2.2}Immunomodulaci\'o}{46}{subsubsection.9.2.2}
-\contentsline {subsection}{\numberline {9.3}Inhibici\'o dirigida de l'expressi\'o g\`enica}{47}{subsection.9.3}
-\contentsline {subsubsection}{\numberline {9.3.1}H\`elix triple}{47}{subsubsection.9.3.1}
-\contentsline {subsubsection}{\numberline {9.3.2}Oligos trampa}{47}{subsubsection.9.3.2}
-\contentsline {subsubsection}{\numberline {9.3.3}Estrat\`egies antisentit}{47}{subsubsection.9.3.3}
-\contentsline {subsubsection}{\numberline {9.3.4}Ribozims}{48}{subsubsection.9.3.4}
-\contentsline {subsection}{\numberline {9.4}Correcci\'o de la mutaci\'o}{48}{subsection.9.4}
-\contentsline {subsubsection}{\numberline {9.4.1}Correcci\'o al cromosoma}{48}{subsubsection.9.4.1}
-\contentsline {part}{Refer\`encies}{50}{section*.1}
+\contentsline {section}{\numberline {9}Estrat\`egies de ter\`apia g\`enica}{43}{section.9}
+\contentsline {subsection}{\numberline {9.1}Increment d'expressi\'o/addici\'o g\`enica}{43}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9.1.1}Fibrosi qu\IeC {\'\i }stica}{43}{subsubsection.9.1.1}
+\contentsline {subsubsection}{\numberline {9.1.2}Malaltia de Parkinson}{45}{subsubsection.9.1.2}
+\contentsline {subsection}{\numberline {9.2}Eliminaci\'o de c\`el\IeC {\textperiodcentered }lules: gens su\IeC {\@umlaut \i }cida i activaci\'o del sistema immunitari}{46}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Gens su\IeC {\@umlaut \i }cida}{46}{subsubsection.9.2.1}
+\contentsline {paragraph}{\numberline {9.2.1.1}Glioblastoma multiforme}{47}{paragraph.9.2.1.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Immunomodulaci\'o}{48}{subsubsection.9.2.2}
+\contentsline {subsection}{\numberline {9.3}Inhibici\'o dirigida de l'expressi\'o g\`enica}{49}{subsection.9.3}
+\contentsline {subsubsection}{\numberline {9.3.1}H\`elix triple}{50}{subsubsection.9.3.1}
+\contentsline {subsubsection}{\numberline {9.3.2}Oligos trampa}{50}{subsubsection.9.3.2}
+\contentsline {subsubsection}{\numberline {9.3.3}Estrat\`egies antisentit}{50}{subsubsection.9.3.3}
+\contentsline {subsubsection}{\numberline {9.3.4}Ribozims}{52}{subsubsection.9.3.4}
+\contentsline {subsection}{\numberline {9.4}Correcci\'o de la mutaci\'o}{52}{subsection.9.4}
+\contentsline {subsubsection}{\numberline {9.4.1}Correcci\'o al cromosoma}{52}{subsubsection.9.4.1}
+\contentsline {subsubsection}{\numberline {9.4.2}Mutacions que afecten splicing}{54}{subsubsection.9.4.2}
+\contentsline {section}{\numberline {10}Models cel\IeC {\textperiodcentered }lulars i animals}{57}{section.10}
+\contentsline {section}{\numberline {11}Gene delivery}{60}{section.11}
+\contentsline {subsection}{\numberline {11.1}M\`etodes de transfecci\'o cel\IeC {\textperiodcentered }lular}{60}{subsection.11.1}
+\contentsline {part}{Refer\`encies}{61}{section*.1}
 \contentsfinish 

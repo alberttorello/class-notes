@@ -16,7 +16,8 @@ En termes generals, hi ha 5 estratègies principals:
 \subsection{Increment d'expressió/addició gènica}
 \label{sec:incr-dexpr-genica}
 En una determinada malaltia en què hi ha una deficiència d'un producte
-gènic concret, s'introdueix el gen correcte per tal que s'expressi.
+gènic concret, l'estratègia consistiria en introduir el gen correcte
+per tal que s'expressi.
 
 \subsubsection{Fibrosi quística}
 \label{sec:fibrosi-quistica}
@@ -24,7 +25,7 @@ gènic concret, s'introdueix el gen correcte per tal que s'expressi.
 prevalença de portadors és de 1/25. En 1/2500 naixements es produeix
 un cas de fibrosi quística.
 
-La mutació al transportador de moc provoca una depleció de moc a les
+La mutació al transportador de clor provoca una depleció de moc a les
 mucoses. Afecta a les mucoses de l'organisme. Es produeixen moltes
 infeccions i s'acumulen macròfags a la zona, fet que provoca la necrosi del teixit.
 
@@ -32,7 +33,7 @@ El gen té 25 kb i codifica per un transportador actiu de clor. El gen
 CFTR s'expressa a totes les glàndules exocrines.
 
 Hi ha mutacions \textit{antisense} (de codons stop) que produeixen
-proteïnes truncades, mutacions \textit{missense}... La $\Delta$F508 és
+proteïnes truncades, mutacions \textit{missense}... La $\Delta F508$ és
 una deleció en pauta que provoca l'acumulació de la proteïna al RER,
 on es destrueix i aquest és l'al·lel més freqüent a Europa.
 
@@ -139,7 +140,9 @@ El vector ideal per teràpia gènica de la malaltia de Parkinson seria aquell que:
 \item Permeti una expressió sostinguda del gen
 \end{itemize}
 
-
+La teràpia gènica amb virus adenoassociats que contenen el gen GDNF en
+animals model de la malaltia de Parkinson i amb vectors que contenen
+el gen AADC s'han demostrat segurs amb una certa eficàcia.
 
 \subsection{Eliminació de cèl·lules: gens suïcida i activació del
   sistema immunitari}
@@ -154,6 +157,11 @@ sistema mitjançant l'administració de pro-droga.
 
 \subsubsection{Gens suïcida}
 \label{sec:gens-suicida}
+Els gens \textbf{suïcida} són gens que incrementen la
+quimiosensibilitat cel·lular, bé perquè són directament toxines o bé
+perquè codifiquen per un enzim que pot transformar un compost
+precursor no tòxic a un metabòlit tòxic.
+
 S'usa un enzim que participa en les vies de biosíntesi i reciclatge de
 nucleòsids. Els exemples més coneguts són:
 \begin{itemize}
@@ -170,21 +178,29 @@ cel·lular, com la linamarasa + linamarina.
 En principi, interessa que presenti efecte de veïnatge (\textit{bystander
 effect}), però l'abast i durada d'aquest efecte és imprevisible.
 
+\paragraph{Glioblastoma multiforme} \hfill \\
 El glioblastoma multiforme és un tumor de cèl·lules glials molt greu. El
 tractament amb cirurgia és molt conservador i normalment tenen lloc
 recaigudes multifocals molt agressives. Per la teràpia, cal tenir en
 compte que les cèl·lules tumorals es divideixen però les neuones no:
 s'usen retrovirus per infectar cèl·lules tumorals ja que són
 replicatives. El gen de la TK d'HSV es pot empaquetar en un
-retrovirus. El retrovirus no s'administra via sistèmia, sinó que
+retrovirus. El retrovirus no s'administra via sistèmica, sinó que
 s'injecta just després de l'exèresi del tumor per eliminar les
 cèl·lules tumorals que quedin. L'eficiència no és total. Uns dies més
 tard, s'administra per via intravenosa ganciclovir, que serà
 fosforilat per la TK d'HSV  que expressin les cèl·lules tumorals. 
 
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.85\textwidth]{fig41}
+  \caption{Teràpia gènica pel glioblastoma multiforme}
+  \label{fig:fig41}
+\end{figure}
+
 Els assajos van mostrar que hi havia més mort cel·lular de la que
 esperaven segons l'eficiència de transfecció. Això és degut a que el
-ganaciclovir trifosforilat passa per gap junctions i altres cèl·lules
+ganaciclovir trifosforilat passa per \textit{gap junctions} i altres cèl·lules
 adquireixin el ganaciclovir trifosforilat. S'han fet assajos en humans
 però l'efecte va ser menor de l'esperat ja que els pacients
 presentaven la malaltia ja multifocal.
@@ -193,13 +209,35 @@ El sistema de la limarinasa és un enzim de la planta de lli que la
 protegeix dels paràsits. Aquest enzim produeix cianur a partir de
 limarina i glucosa. El cianur difon cap a les cèl·lules veïnes ja que
 és un gas. El punt clau és el control de la difusió del cianur
-produït.
+produït \citep{Cortes1998}.
+
+En aquest estudi es va testar l'eficàcia d'aquest sistema en un
+hepatocarcinoma en models murins. L'administració d'adenovirus que
+contenien el gen limarinasa i linamarina al tumor hepàtic resultava en
+una supressió del creixement tumoral comparat amb el grup control
+(A). Una setmana després de la inoculació de l'adenovirus/linamarina,
+el creixement del tumor en el grup tractat es va interrompre. Però, en
+els grups control (Ad-GFP i PBS) els tumors creixien seguint una
+cinètica similar. No hi havia evidència de toxicitat en els animals
+tractats (sense canvis en el pes corporal).
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.85\textwidth]{fig42}
+  \caption{Tractament antitumoral amb Ad-lis i linamarina}
+  \label{fig:fig42}
+\end{figure}
 
 Es poden cultivar MSC del pacient i introduir-hi el gen terapèutic, ja
-que s'infiltren a l'estroma tumoral. Mitjançant l'efecte de veïnatge
-poden eliminar les cèl·lules tumorals properes.
+que s'infiltren a l'estroma tumoral. Mitjançant l'efecte de veïnatge,
+les MSC poden eliminar les cèl·lules tumorals properes.
 
-Les estratègies de cavall de Troia han de ser molt dirigides.
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.85\textwidth]{fig43}
+  \label{fig:fig43}
+\end{figure}
+
 
 \subsubsection{Immunomodulació}
 \label{sec:immunomodulacio}
@@ -220,14 +258,22 @@ S'han explorat diverses alternatives:
 \item Una de les estratègies consisteix en obtenir cèl·lules tumorals
   irradiades del pacient, prèviament transduïdes amb una citoquina
   per a estimular la resposta immune.
+
+\item Una alternativa consisteix en transduir les cèl·lules tumorals
+  amb molècules co-estimuladores, que milloren la presentació
+  d'antígens o que incrementen la resposta immune contra
+  tipus/antígens cel·lulars concrets.
 \end{itemize}
 
 Molt sovint es combina la presentació de neoantígens i activació del
 sistema immunitari.
 
+L'objectiu final seria el desenvolupament d'una vacuna específica
+contra un determinat tipus de cèl·lula tumoral.
+
 S'extreu el tumor del pacient i s'aïllen els limfòcits infiltrats, es
-cultiven amb IL-2. S'infecta el cultiu amb TNF i es seleccionen les
-cèl·lules transfectades i s'injecten al tumor.
+cultiven amb IL-2. S'infecta el cultiu amb virus que continguin el TNF
+i es seleccionen les cèl·lules transfectades i s'injecten al tumor.
 
 La contrapartida són la possible aparició de malalties autoimmunes.
 
@@ -240,8 +286,6 @@ reconèixer antígens com les d'una persona normal. S'aïllen els
 antígens del tumor, s'insereixen en cèl·lules dendrítiques que es
 cultiven amb limfòcits T d'un donant sa compatible. S'expandeixen els
 limfòcits T i finalment s'injecten al pacient.
-
-% Kristensen VN, NEJM 2017, 376 491-493
 
 \subsection{Inhibició dirigida de l'expressió gènica}
 \label{sec:inhib-dirig-de}
@@ -263,7 +307,7 @@ transcripció, a traducció o directament la proteïna:
   \item Híbrid RNA-shRNA (antisentit, RNAi, miRNA)
   \end{itemize}
 
-\item A nivell de proteïna: Aptàmers, són loigos que uneixen
+\item A nivell de proteïna: Aptàmers, són oligos que uneixen
   proteïnes; i intrabodies que són anticossos intracel·lulars.
 \end{itemize}
 
@@ -290,28 +334,28 @@ transcripció, pot ser una bona estratègia.
 
 \subsubsection{Estratègies antisentit}
 \label{sec:antisentit}
-% Taula diap. 5
+Hi ha moltes estratègies antisentit:
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.85\textwidth]{fig44}
+  \label{fig:fig44}
+\end{figure}
 
-Es pot incidir sobre l'splicing generant un oligo que hibridi a
-regions d'splicing i evitar que s'hi uneixi l'spliceosoma.
-
-% Explicar interferència de RNA.
-
-La RNasa P va contra virus de RNA. RNasa P reconeix certes estructures
-secundàries d'aquests virus i els degrada.
-
-Aquestes estratègies no tenen la mateixa eficiència a tots els teixits
-i cèl·lules.
-
-Els oligos tenen modificacions quimíques que eviten la seva degradació
-a la cèl·lula.
+Es pot incidir sobre l'\textit{splicing} generant un oligonucleòtid antisentit que hibridi a
+regions d'splicing i evitar que s'hi uneixi l'spliceosoma. La RNasa H
+destrueix híbrids DNA-RNA i actua a citoplasma. La RNasa P va contra
+virus de RNA. RNasa P reconeix certes estructures secundàries
+d'aquests virus i els degrada. Aquestes estratègies no tenen la
+mateixa eficiència a tots els teixits i cèl·lules. Els oligos
+tenen modificacions quimíques que eviten la seva degradació a la cèl·lula.
 
 shRNa i siRNA són 2 cadenes de RNA que difereixen en
 l'estructura. shRNA és una mateixa cadena de RNA plegada sobre si
 mateixa fent un loop. L'shRNA es fabrica dins la cèl·lula, és a dir
-s'introdueix el gen de shRNA amb un vector.
-
-siRNA s'introdueix directament a la cèl·lula.
+s'introdueix el gen de shRNA amb un vector. El siRNA s'introdueix
+directament a la cèl·lula com a dúplex i reconeguts per Argonaute
+(Ago), una proteïna del complex RISC (\textit{RNA-induced silencing
+  complex}).
 
 Mipomersen és un híbrid ribo-desoxi-ribo (gapmer). Va dirigit contra
 al transcrit d'apoB per fer un KD i reduir indirectament els nivells
@@ -349,8 +393,6 @@ malaltia.
 
 Les fases clíniques s'han fet en infeccions víriques i càncer. 
 
-% Els morpholinos són el mateix que shRNA??
-
 \subsection{Correcció de la mutació}
 \label{sec:correccio-de-la}
 Aquesta estratègia es planteja per malalties genètiques, principalment
@@ -368,14 +410,28 @@ En el cas d'un trencament de doble cadena de DNA poden passar 2 coses:
 
 El primer que es va fer va ser usar nucleases que reconeixen
 seqüències específiques que es trobaven en bacteris com a sistema de
-defensa contra infeccions víriques; com les ZFN (\textit{zinc-finger
+defensa contra infeccions víriques; com les \textbf{ZFN} (\textit{zinc-finger
   nucleases}). La seqüència d'aminoàcids de la ZFN determina
 l'especificitat per la seqüència de DNA. El reconeixement es per 1 Aa
 cada 3 bases. Les ZFN fan un nick, de manera que s'ha de fer un dímer
 per aconseguir el tall de doble cadena.
 
-Els TALEN (\textit{transcription activator like-elements nucleases})
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.85\textwidth]{fig45}
+    \caption{Vies de reparació d'un trencament de doble cadena}
+  \label{fig:fig45}
+\end{figure}
+
+Els \textbf{TALEN} (\textit{transcription activator like-elements nucleases})
 reconeixen d'Aa a nucleòtid i són més precises.
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.85\textwidth]{fig46}
+    \caption{Estructura de les nucleases per \textit{genome editing}}
+  \label{fig:fig46}
+\end{figure}
 
 El que es fa en la NHEJ és reclutar activitats \textit{trimming} per
 generar extrems roms al punt de trencament de les cadenes. Aquest
@@ -386,7 +442,8 @@ homòloga. S'ha de posar un DNA donador que envairà les cadenes
 trencades i reparar la zona. Químicament es pot inhibir la via de
 NHEJ.
 
-La HDR permet introduir un gen a la zona de doble tall.
+La HDR permet introduir un gen (o seqüència qualsevol) a la zona de
+doble tall.
 
 Per generar delecions més grans es generen 2 dianes de tall que
 flanquegin la zona que ens interessa delecionar.
@@ -394,10 +451,63 @@ flanquegin la zona que ens interessa delecionar.
 Cal tenir en compte la possible presència de mutacions
 \textit{off-target}.
 
-CRISPR-Cas9 es va trobar en arquees però és molt ubiqu en bacteris. El
+\textbf{CRISPR-Cas9} es va trobar en arquees però és molt ubiqu en bacteris. El
 gRNA reconeix la seqüència \textit{target} que adquireix una
 estructura secundària que és reconeguda per una nucleasa
 específica. La nucleasa també requereix d'una seqüència PAM
 (\textit{Protospacer Adjacent Motif}). Cas9 fa un tall de doble
 cadena.
 
+La modificació generada per CRISPR in vivo és que la reparació per
+NHEJ/HDR no es controla. El sistema per defecte és el NHEJ.
+
+La primera teràpia gènica en humans es va fer el 2015 amb TALEN's ex
+vivo en un pacient amb leucèmia.
+
+PD-1/PD-L1 és un regulador negatiu del sistema immunitari. Les
+cèl·lules canceroses expressen PD-L1 per passar desaparcebudes pel
+sistema immune. L'estratègia és fer un KO de PD-1 a les cèl·lules
+immunitàries. PD-1 és un receptor de limfòcits T o B.
+
+\subsubsection{Mutacions que afecten splicing}
+\label{sec:mutac-que-afect}
+Les mutacions que afecten l'\textit{splicing} poden sorgir en:
+\begin{itemize}
+\item Mutació puntual en un intró que genera un lloc donador
+  d'splicing. Es pot generar un oligo que cobreixi aquesta zona per
+  tal que l'splicing tingui lloc correctament.
+
+\item Llocs ESE o ESS (\textit{enhancer} o \textit{silencer}
+  d'splicing en exonss)
+\end{itemize}
+
+Les estratègies amb oligonucleòtids per corregir splicing no són 100\%
+eficients, és a dir milloren tots els trànscrits però sí que tenen una
+eficàcia terapèutica. L'oligo pot ser DNA o RNA i modificat.
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.85\textwidth]{fig47}
+  \label{fig:fig47}
+\end{figure}
+
+L'expansió de regions repetitives a 3'-UTR provoca que s'hi uneixin
+més factors de l'habitual i es deplecionin en altres transcrits. Es
+poden dissenyar oligos que tapin aquestes zones.
+
+CP290 és una malaltia recessiva endèmia a zones d'Holanda. Hi ha la
+incorporació d'un pseudo-exó.
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.85\textwidth]{fig48}
+  \label{fig:fig48}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+    \includegraphics[width=0.85\textwidth]{fig49}
+    \caption{Correction of aberrant CEP290 mRNAs by AONs
+      (Allele-specific oligonucleotides).}
+  \label{fig:fig49}
+\end{figure}
