@@ -1,0 +1,48 @@
+%--------------------------------------------------------
+% Tema 9. Expressió heteròloga de gens i sistemes de mutagènesi dirigida
+%--------------------------------------------------------
+\section{Expressió heteròloga de gens i sistemes de mutagènesi dirigida}
+\label{sec:expr-heter-de}
+
+\subsection{Proteïnes de fusió}
+\label{sec:proteines-de-fusio}
+
+La GST es situa entre el promotor i el MCS. La GST (que és bacteriana) evita que el bacteri degradi la proteïna que es vol expressar i permet purificar-la de manera ràpida amb una cromatografia d'afinitat amb glutatió. La GST és una proteïna intracel·lular. El MCS té una diana per trombina, que permetrà separar la GST de la proteïna expressada.
+
+El sistema His6 consisteix en l'addició d'una cua d'Hys upstream del MCS. Les proteïnes de fusió es poden purificar amb columnes de níquel.
+
+Per expressar proteïnes de secreció, s'ha d'afegir un pèptid senyal. Els bacteris tenen 3 sistemes de secreció: directament, per reconeixement del pèptid senyal a través del complex pullulanasa.
+
+En el cas de pEZZ, utilitza dominis del tipus immunoglobulina. Es purifica a través del lacZ.
+
+\subsection{Problemes amb l'expressió a \textit{E. coli}}
+\label{sec:probl-amb-lexpr}
+
+Hi pot haver:
+\begin{itemize}
+\item \textbf{Poca quantitat de RNA}
+  \begin{itemize}
+  \item Baix nivell de transcripció: provar un canvi de promotor
+  \item Manca d'estabilitat del transcrit: allargar cua de poliA
+  \end{itemize}
+
+\item \textbf{Problemes amb la traducció}
+  \begin{itemize}
+  \item Bloqueig del ribosome binding site degut a la formació d'estructures secundàries.
+  \item Triplets anteriors a AUG: si són codons stop o UAU, CUU) no es tradueix.
+  \item Triplets posteriors: seqüències riques en A i U provoquen que el ribosoma ho interpreti com un terminador.
+  \item Presència d'aminoàcids rars: aminoàcids que els bacteris utilitzen poc. Es pot solucionar afegint aquests aminoàcids al medi de cultiu.
+  \item Ús esbiaixat de codons.
+  \end{itemize}
+
+\item \textbf{Problemes amb la proteïna}
+  \begin{itemize}
+  \item Inestabilitat de la proteïna: ús de soques deficients en proteases.
+  \item Plegaments incorrectes: es pot solucionar co-transformant amb xaperones o utilitzant cèl·lules eucariotes.
+  \item Manca de processament post-traduccional: ús de cèl·lules eucariotes.
+  \item Formació de cossos d'inclusió: es pot solucionar modificant la temperatura, el temps d'inducció, el medi de cultiu o fer servir una altra soca d'\textit{E. coli}. També es pot incloure tags de fusió de secreció o delecionar els extrems amino i carboxi de la proteïna.
+  \end{itemize}
+\end{itemize}
+
+LLEVATS:
+Inclou un gen de selecció Leu.

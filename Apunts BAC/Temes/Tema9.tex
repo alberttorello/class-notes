@@ -1,285 +1,582 @@
 %------------------------------------------------------------------------------
-% Tema 9. Disfuncions del metabolisme lipÃ­dic
+% Tema 9. Disfuncions del metabolisme lipídic
 %------------------------------------------------------------------------------
-\section{Disfuncions del metabolisme lipÃ­dic}
+\section{Disfuncions del metabolisme lipídic}
 \label{sec:disf-del-metab}
 
 \subsection{Conceptes generals}
 \label{sec:conceptes-generals}
 
-\subsubsection{Tipus de lipoproteÃ¯nes, composiciÃ³ i estructura}
+\subsubsection{Tipus de lipoproteïnes, composició i estructura}
 \label{sec:tipus-de-lipopr}
+Les lipoproteïnes són heteroproteïnes que estan formades per
+apoproteïnes i lípids. Presenten fosfolípids i colesterol lliure en la
+seva superfície hidròfila, en contacte amb el medi aquós. La seva
+composició proteica és variable segons el tipus de lipoproteïna. En el
+nucli poden transportar qualsevol tipus de lípids i depenent del tipus
+de lipoproteïna, presentaran una proporció més elevada d'un tipus de
+lípid respecte un altre tipus.
 
-% Posar taula de composiciÃ³
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\textwidth]{fig29}
+\caption{Apoproteïnes principals}
+\label{fig29}
+\end{figure}
 
-Les VLDL i els QM es buiden de la mateixa manera, amb la LPL. Les LDL
-i QM romanents estan enriquits en colesterol. El colesterol de les LDL
-Ã©s endogen i s'exporta als teixits. Els QM romanents van al fetge.
-
-Les apoproteÃ¯nes tenen funcions estructurals, metabÃ²liques,
-reconeixement de receptors celÂ·lulars.
-
-L'embolcall estÃ  format per apoproteÃ¯nes, fosfolÃ­pids en forma de
-monocapa i colesterol lliure. El nucli estÃ  format per Ã¨sters de
-colesterol, TAG.
-
-% Taula apoproteÃ¯nes
-
-ApoB estÃ  codificat per 1 gen que expressa 2 transcrits: apoB48
-s'expressa a intestÃ­ (proteÃ¯na curta generada per splicing alternatiu)
+ApoB està codificat per 1 gen que expressa 2 transcrits: apoB48
+s'expressa a intestí (proteïna curta generada per splicing alternatiu)
 i apoB100 expressa a fetge. ApoB100 s'uneix al receptor de LDL per la
 part C-terminal.
 
+Hi ha 5 tipus de lipoproteïnes principals:
+\begin{enumerate}[label=\itembolasrojas{\arabic*}]
+\item \textbf{Quilomicrons:} Són les més grans i els que tenen menor densitat i
+  mobilitat electroforètica. El seu component lipídic representa el
+  99\% de la seva estructura i el seu component proteic, l'1\%
+  (apoB-48, apoE i apoC-II). Transporten majoritàriament TAG, que
+  representen el 89\% de la seva composició. També transporten
+  colesterol i èsters de colesterol (5\%) i fosfolípids (5\%).
 
-\subsubsection{Metabolisme de les lipoproteÃ¯nes}
+\item \textbf{VLDL:} Són de menor dimensió i tenen major densitat i
+  mobilitat electroforètica respecte els quilomicrons. El seu
+  component lipídic representa el 90\% de la seva estructura i el seu
+  component proteic el 10\% (apoC-II, apoE i apoB-100). Transporten
+  majoritàriament TAG (50\%). També transporten colesterol i èsters de
+  colesterol (20\%) i fosfolípids (20\%).
+
+\item \textbf{IDL:} Són VLDL romanents. Transporten colesterol i
+  èsters de colesterol al fetge.
+
+\item \textbf{LDL:} Són de menor dimensió i tenen major densitat i
+  mobilitat electroforètica respecte els VLDL. El seu component
+  lipídic representa el 80\% de la seva estructura i el seu component
+  proteic el 20\% (apoB- 100). Transporten majoritàriament colesterol
+  i èsters de colesterol (45\%). També transporten TAG (10\%) i
+  fosfolípids (25\%).
+
+\item \textbf{HDL:} Són els més petits i els que tenen major densitat
+  i mobilitat electroforètica: El seu component lipídic representa el
+  55\% de la seva estructura i el seu component proteic, el 45\%
+  (apoA, apoD i LCAT). Transporten majoritàriament colesterol i èsters
+  de colesterol (20\%). També transporten TAG (5\%) i fosfolípids
+  (30\%).  
+\end{enumerate}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1\textwidth]{fig30}
+\caption{Principals tipus de lipoproteïnes plasmàtiques}
+\label{fig30}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{ccc}
+\hline 
+\textbf{\textsc{Receptor}} & \textbf{\textsc{Lligand}} & \textbf{\textsc{Reconeix}}\tabularnewline
+\hline 
+\hline 
+LDLR & LDL, QMr, IDL & apoB100/apoE\tabularnewline
+LRP & QMr/IDL & apoE/LPL, LH\tabularnewline
+VLDLR & VLDL/IDL & apoE\tabularnewline
+HDLR & HDL & apoA-I\tabularnewline
+Scavenger & LDL-ox & \tabularnewline
+\hline 
+\end{tabular}
+  \caption{Receptors de lipoproteïnes}
+  \label{tab:tab_lipoprot}
+\end{table}
+
+\subsubsection{Metabolisme de les lipoproteïnes}
 \label{sec:metabolisme-de-les}
+Els enzims relacionats amb el metabolisme de les lipoproteïnes són:
+\begin{itemize}
+\item \textbf{Enzims lipolítics:}
+  \begin{itemize}
+  \item Lipoprotein Lipase (LPL)
+  \item Hepatic triglyceride lipase (HTGL/LH)
+  \end{itemize}
+\item \textbf{Enzims de transferència de lípids:}
+  \begin{itemize}
+  \item Lecithin cholesterol acyl transferase (LCAT)
+  \item Acyl-CoA: cholesterol acyl transferase (ACAT)
+  \item Cholesteryl ester transfer protein (CEPT)
+  \item Phospholipid transfer protein (PLTP)
+  \item Microsomal TAG transfer protein (MTP)
+  \end{itemize}
+\end{itemize}
+
+\paragraph{Via exògena} \hfill \\
+Els QM són sintetitzats al REL dels enteròcits i traslladats
+posteriorment a la circulació sanguínia a través del sistema limfàtic,
+que desemboca a la vena subclàvia esquerra. La seva maduració es
+produeix en el torrent sanguini gràcies a l'HDL. La seva funció
+principal és transportar els TAG dietaris al teixit adipós, teixit
+muscular cardíac i esquelètic (combustible) i teixit mamari (en etapa
+de lactància); però bona part dels triglicèrids són transportats als
+adipòcits per ser emmagatzemats en vacúols lipídics.
+
+Els QM poden lliurar la major part dels TAG als altres teixits gràcies
+a la apoC- II, que reconeix i activa la lipoproteïna lipasa (LPL) que
+es troba en els capil·lars dels teixits abans esmentats. La LPL
+(càrrega positiva) es troba al llum del capil·lar penjant de les
+cèl·lules endotelials d'un sulfat d'heparan (càrrega
+negativa). Hidrolitza els TAG en 3 A.G i glicerol. Els NEFA seran
+transportats a l'interior de les cèl·lules del teixit corresponent a
+través de l'albúmina.
+
+Els QM residuals o romanents (que encara contenen colesterol, apoE,
+apoB-48 i pocs TAG) es mobilitzen a través del torrent sanguini fins
+al fetge. Receptors hepàtics (LRP) s'uneixen a apoE i faciliten la
+seva captació per endocitosi (endocitosi facilitada per receptor).
+
+\paragraph{Via endògena} \hfill \\
+Els VLDL són sintetitzats en el REL dels hepatòcits, procés que
+succeeix quan la dieta conté més àcids grassos dels que són necessaris
+o hi ha excés de glúcids, que permeten la formació de TAG, que
+s'empaqueten amb apoproteïnes especifiques formant les VLDL. Contenen
+apoB-100, les 3 apoC, apoE, colesterol i èsters de colesterol.
+
+Els VLDL transporten majoritàriament TAG lliurant els seus àcids
+grassos al múscul (esquelètic i cardíac), on són consumits com a
+combustible i al teixit adipós, on es reconverteixen en TAG i
+s'emmagatzemen. El mecanisme de lliurament és el mateix que el dels
+quilomicrons (apoC- II i LPL).
+
+La pèrdua dels TAG converteix part de les VLDL en VLDL residuals (IDL)
+i en LDL. Les IDL són captats per receptors hepàtics (LRP) que
+s'uneixen a apoE, facilitant l'endocitosi (endocitosi facilitada per
+receptor).
+
+Els LDL són formats a partir dels VLDL. Són molt riques en colesterol
+i èsters de colesterol i només contenen apoB-100. Transporten el
+colesterol a teixits extrahepàtics, però també part de les LDL torna
+al fetge.
+
+Cada partícula de LDL conté apoB-100, que és reconeguda pels receptors
+de LDL (glucoproteïnes integrals de membrana) que es troben en les
+cèl·lules que necessiten captar colesterol. La unió del LDL al seu
+receptor inicia l'endocitosi, que porta la LDL i el seu receptor
+associat a l'interior de la cèl·lula en un endosoma.
+
+L'endosoma es fusiona amb un lisosoma, que conté enzims que
+hidrolitzen els èsters de colesterol i l'apoB-100, alliberant àcids
+grassos, colesterol i aminoàcids al citosol. El receptor de LDL no es
+degradada i torna a la superfície de la membrana. Quan la cèl·lula té
+suficient colesterol, s'atura la síntesi del receptor de
+LDL. L'apoB-100 també està present en VLDL, però el seu domini d'unió
+al receptor de LDL no és accessible fins que es converteix en LDL, que
+l'exposa.
+
+El colesterol que entra a les cèl·lules per aquesta via pot
+incorporar-se a les membranes o ser re-esterificat per l'ACAT
+(acil-CoA-colesterol acil transferasa) per ser emmagatzemat en petites
+vacúols lipídics.
+
+Els HDL, quan són madurs, participen en el metabolisme de les altres
+lipoproteïnes ja que interaccionen amb elles cedint o agafant
+apoproteïnes, modificant-les. També cedeixen èsters de colesterol i a
+vegades agafen TAG. Contenen apoA-I, apoA-II, apoD i LCAT (també
+contenen apoE i apoC-II, que seran transferides a QM i VLDL). La
+síntesi pot ser tant al fetge com a l'intestí.
+
+Els HDL madurs, a través de la PTEC (proteïna de transferència
+d'èsters de colesterol) cedeixen apoE i apoC-II als quilomicrons i
+VLDL naixents, madurant-los i capten d'ells, TAG (tot a favor de
+gradient). També cedeixen èsters de colesterol a les LDL, VLDL i QM.
 
 
+\paragraph{Transport revers de colesterol} \hfill \\
+La síntesi de les HDL comença al fetge o a l'intestí, on es produeix
+l'acoblament de les apoproteïnes, la LCAT, fosfolípids i colesterol,
+formant el precursor de HDL (forma discoïdal). L'HDL immadur
+interacciona amb la membrana de teixits extrahepàtics, enriquint-se en
+colesterol. Aquesta captació pot ser passiva (interacció apoA-I amb
+receptor SR-BI de cèl·lules riques en colesterol, moviment passiu del
+colesterol cap a l'HDL) o facilitada per la interacció d'apoA-I amb
+els receptors ABCA1 d'una cèl·lula rica en colesterol. A continuació,
+la LCAT esterifica el colesterol en èsters de colesterol, provocant la
+maduració de l'HDL (forma esfèrica). L'HDL madur interactuarà amb les
+altres lipoproteïnes i finalment, descarregarà el colesterol als
+hepatòcits, que també tenen receptors SR-B1 (les glàndules adrenals
+també en tenen), que seran reconegudes per l'apoA-I.
 
-\subsection{ParÃ metres analÃ­tics}
+
+\subsection{Paràmetres analítics}
 \label{sec:parametres-analitics}
-En cas d'una dislipÃ¨mia (alteraciÃ³ dels nivells de lÃ­pids circulants),
-en primer lloc s'ha de confirmar amb 2 analÃ­tiques separades per un
-interval de 2 setmanes. Es descarten possibles causes secundÃ ries,
+
+\subsubsection{Aterosclerosi}
+\label{sec:aterosclerosi}
+L'arteriosclerosi és un procés patològic habitualment anomenat
+enduriment de les artèries, normalment degut a l'envelliment,
+enduriment i degeneració de les parets de les artèries esdevingut amb
+els anys, tot i que també pot afectar persones relativament joves,
+degut a algunes malalties i a alteracions que afecten els teixits de
+la part interna de la paret arterial.
+
+L'aterosclerosi és un procés patològic que es caracteritza per
+l'acumulació d'una substància cèria (fonamentalment colesterol
+esterificat) que es denomina placa d'ateroma als vasos
+sanguinis. Aquesta provoca alteracions cel·lulars patològiques. El
+colesterol s'acumula quan la suma del colesterol sintetitzat i
+l'obtingut per la dieta supera els requeriments per la síntesi
+d'esteroides, sals biliars i membranes.
+
+La placa d'ateroma està formada per colesterol, productes de rebuig,
+cèl·lules, calci i fibrina. La paret de l'artèria s'engrosseix i perd
+la seva elasticitat, podent arribar a obstruir l'artèria totalment.
+
+L'aterosclerosi està lligada a nivells elevats de colesterol en sang,
+i especialment als nivells elevats de colesterol associats a
+LDLs. Existeix una correlació elevada aterosclerosi-[LDL].
+
+Les LDL són molt susceptibles a l'alteració, a l'oxidació, i quan
+resten molt de temps en sang (ja que n'hi ha en excés i no són
+captades), són més susceptibles d'alterar-se.
+
+La formació de plaques segueix 3 etapes:
+\begin{enumerate}[\bf 1)]
+\item \textbf{Etapa primerenca d'inclusió lipídica.} Les LDL que
+  contenen grups acil gras parcialment oxidats s'adhereixen i acumulen
+  a la matriu extracel·lular de les cèl·lules epitelials que
+  recobreixen les artèries. Llavors, els monòcits circulants es
+  diferencien a macròfags i capten les LDL oxidades, així com el
+  colesterol que contenen. El procés de captació és per endocitosi
+  mitjançada per receptor escombriaire (scavenger) SR-A1. Es generen
+  regions amb acumulacions de LDL i macròfags, que no poden limitar la
+  quantitat de LDL oxidada ja que SR-A1 no està regulat negativament
+  per LDL, i amb l'acumulació creixent de colesterol lliure i èsters
+  de colesterol al seu interior fa que esdevinguin cèl·lules
+  espumoses. A mesura que l'excés de colesterol s'acumula a les
+  cèl·lules espumoses i les seves membranes, experimenten apoptosi.
+
+\item \textbf{Progressió.} Arriba un moment en què l'acumulació de
+  cèl·lules espumoses és excessiu, es malmet la matriu extracel·lular
+  i es desencadena una reordenació cel·lular de les fibres musculars
+  llises, que acaben formant un teixit cicatritzant tot envoltant les
+  acumulacions de cèl·lules espumoses. Durant llargs període de temps,
+  els processos inflamatoris i d'embolcallament descrits segueixen
+  transcorrent i les artèries estan cada cop més col·lapsades. Quan el
+  múscul llis ha envoltat l'acumulació cel·lular anòmala, el conjunt
+  rep el nom de placa d'ateroma (que és una placa ateroscleròtica).
+
+\item \textbf{Oclusió.} El creixement progressiu de la placa pot
+  acabar provocant el desenvolupament d'un trombe plaquetari, que té
+  el perill de taponar el vas.
+\end{enumerate}
+
+De tant en tant, una placa es pot trencar i quedar alliberada del seu
+lloc de formació, transportant-se a través de la sang fins una regió
+més estreta d'una artèria cerebral o del cor, fet que dóna lloc a un
+ictus o un atac de cor.
+
+L'aterosclerosi és una malaltia lenta i progressiva, però de vegades
+té el potencial de progressar ràpidament. El cor i l'encèfal són els
+principals perjudicats per la falta d'irrigació, ja que són teixits
+amb un metabolisme oxidatiu intens, on cal una aportació constant
+d'oxigen.
+
+Quan l'obstrucció d'una o més artèries coronàries afecta més del 75\%
+de la llum és quan la malaltia comença a donar símptomes. El flux
+insuficient de la sang cap al múscul cardíac a causa de l'estretament
+de l'artèria coronària pot causar dolor de pit, l'\textbf{angina de
+  pit}.
+
+Quan l'obstrucció és completa o gairebé, es causa un dany irreversible
+al múscul cardíac. Un \textbf{infart de miocardi} té un grau
+d'afectació (necrosi) determinat per la recuperació del flux de sang a
+la musculatura esquelètica afectada.
+
+Si hi ha una obstrucció completa o gairebé dels vasos encefàlics, el
+dany és irreversible i té lloc un \textbf{ictus}. Tot depèn del temps
+que duri la hipòxia al teixit afectat; com més temps, pitjor pronòstic
+de recuperació i major extensió de necrosi.
+
+\subsubsection{Dislipèmia}
+\label{sec:dislipemia}
+
+Es diferencien 2 condicions:
+\begin{itemize}
+\item Dislipèmia: terme general, que caracteritza qualsevol alteració
+  del nivell de lípids en sang (tant increment com descens dels
+  nivells).
+
+\item Hiperlipèmies: alteracions patològiques del metabolisme lipídic
+  que duen a un increment de la concentració de lípids a la sang.
+\end{itemize}
+
+En cas d'una dislipèmia (alteració dels nivells de lípids circulants),
+en primer lloc s'ha de confirmar amb 2 analítiques separades per un
+interval de 2 setmanes. Es descarten possibles causes secundàries,
 com:
 \begin{itemize}
-\item Diabetis (glucÃ¨mia)
+\item Diabetis (glucèmia)
 \item Hepatopaties (transaminases)
-\item HipotiroÃ¯disme (TSH)
-\item SÃ­ndrome nefrÃ²tic (proteÃ¯nÃºria)
-\item ParaproteÃ¯nes (electroforesi del plasma)
+\item Hipotiroïdisme (TSH)
+\item Síndrome nefròtic (proteïnúria)
+\item Paraproteïnes (electroforesi del plasma)
 \end{itemize}
 
-Si no hi ha causes secundÃ ries, s'ha d'establir el diagnÃ²stic
-fenotÃ­pic i genÃ¨tic de les diferents dislipÃ¨mies primÃ ries.
+Si no hi ha causes secundàries, s'ha d'establir el diagnòstic
+fenotípic i genètic de les diferents dislipèmies primàries.
 
-La separaciÃ³ de les lipoproteÃ¯nes es pot fer mitjanÃ§ant:
+La separació de les lipoproteïnes es pot fer mitjançant:
 \begin{itemize}
-\item CentrifugaciÃ³ seqÃ¼encial o en gradient de densitat. La via mÃ©s
-  rÃ pida Ã©s fer una ultracentrifugaciÃ³ en gradient de densitat de
+\item \textbf{Centrifugació seqüencial o en gradient de densitat.} La via més
+  ràpida és fer una ultracentrifugació en gradient de densitat de
   sacarosa. Permet obtenir les fraccions i analitzar-les per separat.
 
-\item Electroforesi: DÃ³na una imatge general del perfil de
-  lipoproteÃ¯nes. Es fa en agarosa o acetat de celÂ·lulosa. La mobilitat
-  de les lipoproteÃ¯nes ve determinada per la quanitat de proteÃ¯na. Les
-  que migren menys sÃ³n les mÃ©s grans i amb menys proteÃ¯na (QM).
+\item \textbf{Electroforesi:} Dóna una imatge general del perfil de
+  lipoproteïnes. Es fa en agarosa o acetat de cel·lulosa. La mobilitat
+  de les lipoproteïnes ve determinada per la quantitat de proteïna. Les
+  que migren menys són les més grans i amb menys proteïna (QM).
 \end{itemize}
 
-TambÃ© es mira l'aspecte del plasma reposat 12h a 4ÂºC:
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\textwidth]{fig31}
+\caption{Separació de les lipoproteïnes}
+\label{fig31}
+\end{figure}
+
+També es mira l'aspecte del plasma reposat 12h a 4ºC:
 \begin{itemize}
-\item 1r tub dislipÃ¨mia: Les partÃ­cules que suren sÃ³n poc
-  denses, sÃ³n QM. ColoraciÃ³ blanquinosa associada a
-  TAG. HipertriacilgliceridÃ¨mia d'origen exogen.
+\item 1r tub dislipèmia: Les partícules que suren són poc
+  denses, són QM. Coloració blanquinosa associada a
+  TAG. Hipertriacilgliceridèmia d'origen exogen.
 
-\item 2n tub dislipÃ¨mia: Tenen TAG lligats a
-  VLDL. HipertriacilgliceridÃ¨mia d'origen endogen.
+\item 2n tub dislipèmia: Tenen TAG lligats a
+  VLDL. Hipertriacilgliceridèmia d'origen endogen.
 
-\item 3r tub displipÃ¨mia: HipertriacilgliceridÃ¨mia combinada.
+\item 3r tub displipèmia: Hipertriacilgliceridèmia combinada.
 \end{itemize}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\textwidth]{fig32}
+\caption{Característiques de les lipoproteïnes}
+\label{fig32}
+\end{figure}
  
-\subsubsection{LipoproteÃ¯nes}
+\subsubsection{Lipoproteïnes}
 \label{sec:lipoproteines}
-Al sÃ¨rum del pacient s'afegeix PEG, concavalina o dextrÃ  per
-precipitar les proteÃ¯nes que continguin apoA i apoB. Es poden usar
-anticossos. DesprÃ©s de centrifugar, al sobrenedant queda el colesterol
+Al sèrum del pacient s'afegeix PEG, concavalina o dextrà per
+precipitar les proteïnes que continguin apoA i apoB. Es poden usar
+anticossos. Després de centrifugar, al sobrenedant queda el colesterol
 HDL i al pellet les LDL i VLDL. 
 
 Normalment, es determina el colesterol HDL i al LDL es calcula amb una
-fÃ³rmula basada en les determinacions anteriors. El mÃ¨tode de
+fórmula basada en les determinacions anteriors. El mètode de
 Friedewald no es pot aplicar si hi ha QM presents en sang. Es
-considera que l'error en determinar el colesterol de VLDL Ã©s superior
-al comÃ¨s per una relaciÃ³ matemÃ tica. Per tant, es quantifiquen els TAG
-en VLDL i es calcula la quantitat de colesterol en VLDL. Friedewald no
-es pot aplicar quan hi ha QM en plasma i quan es supera el rang normal
-de TAG (300 mg/dL) o en disbetalipoproteÃ¯nÃ¨mies.
+considera que l'error en determinar el colesterol de VLDL és superior
+al comès per una relació matemàtica. 
+
+\begin{equation}
+  \label{eq:1}
+  Colesterol \ LDL \ (mM) \ = Col.Total - Col.HDL - \frac{[TAG]}{2,2}
+\end{equation}
+
+Si s'utilitza mg/dL, la relació VLDL/TAG és 0,2
+
+Per tant, es quantifiquen els TAG en VLDL i es calcula la quantitat de
+colesterol en VLDL. Friedewald no es pot aplicar quan hi ha QM en
+plasma i quan es supera el rang normal de TAG (300 mg/dL) o en
+disbetalipoproteïnèmies.
 
 \subsubsection{Colesterol}
 \label{sec:colesterol}
 Informa de la quantitat de colesterol total del plasma. Els valors
-normals estan al voltant de 200-220 nm. Hi ha diferents mÃ¨todes:
+normals estan al voltant de 200-220 nm. Hi ha diferents mètodes:
 \begin{itemize}
-\item \textbf{MÃ¨tode de Liebermann-Burchard (quÃ­mic):} Ã‰s el mÃ¨tode de
-  referÃ¨ncia. Ã‰s una reacciÃ³ del colesterol amb Ã cid acÃ¨tic i
-  sulfÃºric. Es produeix un cromogen degut a la modificaciÃ³ de
+\item \textbf{Mètode de Liebermann-Burchard (químic):} És el mètode de
+  referència. És una reacció del colesterol amb àcid acètic i
+  sulfúric. Es produeix un cromogen degut a la modificació de
   l'hidroxil i es pot llegir a 620 nm (groc).
 
-\item \textbf{MÃ¨tode enzimÃ tic (reacciÃ³ de Trinder):} Ã‰s el mÃ©s usat en
-  clÃ­nica. DÃ³na un cromogen vermell a 500 nm. Es reacciona el
+\item \textbf{Mètode enzimàtic (reacció de Trinder):} És el més usat en
+  clínica. Dóna un cromogen vermell a 500 nm. Es reacciona el
   colesterol amb colesterol esterasa per generar colesterol lliure,
-  colesterol oxidasa que genera perÃ²xid d'hidrogen i finalment amb
-  peroxidasa. La reacciÃ³ amb peroxidasa Ã©s comuna a moltes
+  colesterol oxidasa que genera peròxid d'hidrogen i finalment amb
+  peroxidasa. La reacció amb peroxidasa és comuna a moltes
   determinacions.
 
-\item \textbf{QuÃ­mica seca}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{fig33}
+\label{fig33}
+\end{figure}
+
+\item \textbf{Química seca}
 \end{itemize}
 
 \subsubsection{Triacilglicerols}
 \label{sec:triacilglicerols}
-Hi ha 2 mÃ¨todes de determinaciÃ³:
+Hi ha 2 mètodes de determinació:
 \begin{itemize}
-\item \textbf{MÃ¨tode quÃ­mic:} ExtracciÃ³ de lÃ­pids del plasma amb cloroform,
-  saponificaciÃ³ i quantificaciÃ³ del glicerol alliberat (s'oxida fins a
-  formiat amb iodat sÃ²dic i desprÃ©s es fa reaccionar amb Ã cid
-  cromotrÃ²pic â€“ coloraciÃ³ rosa â€“ i lectura a 570 nm).
+\item \textbf{Mètode químic:} Extracció de lípids del plasma amb cloroform,
+  saponificació i quantificació del glicerol alliberat (s'oxida fins a
+  formiat amb iodat sòdic i després es fa reaccionar amb àcid
+  cromotròpic ? coloració rosa ? i lectura a 570 nm).
 
-\item \textbf{MÃ¨tode enzimÃ tic:}
+\item \textbf{Mètode enzimàtic:}
 \end{itemize}
 
-% Posar valors de referÃ¨ncia
+% Posar valors de referència
 
-\subsection{DislipÃ¨mies}
+\subsection{Dislipèmies}
 \label{sec:dislipemies}
-Segons el patrÃ³ electroforÃ¨tic i l'aspecte del plasma es poden
-classificar les difents hiperlipÃ¨mies. La OMS ha establert 5 grans
-classes d'hiperlipÃ¨mies:
+Segons el patró electroforètic i l'aspecte del plasma es poden
+classificar les diferents hiperlipèmies. La OMS ha establert 5 grans
+classes d'hiperlipèmies:
 \begin{enumerate}[label=\itembolasrojas{\arabic*}]
-\item Tipus I. QuilomicronÃ¨mia familiar. Hu ha una banda en
+\item Tipus I. Quilomicronèmia familiar. Hu ha una banda en
   origen. Alteracions en TAG d'origen exogen.
 
-\item Tipus II. HipercolesterolÃ¨mia:
+\item Tipus II. Hipercolesterolèmia:
   \begin{enumerate}[a)]
   \item Tipus IIa: Presenta plasma normal, l'electroforesi mostra una
-    banda beta mol marcada, LDL i colesterol. Risc cardiovasular
+    banda beta mol marcada, LDL i colesterol. Risc cardiovascular
     associat.
-  \item Tipus IIb: Plasma blanquinÃ³s. TAG augmentats d'origen
-    endogen. Bandes beta i pre-beta (LDL i VLDL). HipertrigliceridÃ¨mia
-    i hipercolesterolÃ¨mia.
+  \item Tipus IIb: Plasma blanquinós. TAG augmentats d'origen
+    endogen. Bandes beta i pre-beta (LDL i VLDL). Hipertrigliceridèmia
+    i hipercolesterolèmia.
   \end{enumerate}
 
-\item Tipus III: Plasma tÃ¨rbol i amb un sobrenedant
-  blanquinÃ³s. L'electroforesi no diferencia la beta i la
-  pre-beta. S'anomena disbetalipoproteÃ¯nÃ¨mia. ExpressiÃ³ en homozigosi
-  d'un alÂ·lel de l'apoE (apoE2) tenen predisposiciÃ³ a
-  disbetalipoproteÃ¯nÃ¨mia, nomÃ©s un 1\% dels homozigots generen
-  disbetalipoproteÃ¯nÃ¨mia. S'acumulen IDL i QMr, aixÃ² explica la
-  continuÃ¯tat de bandes pre beta io beta.
+\item Tipus III: Plasma tèrbol i amb un sobrenedant
+  blanquinós. L'electroforesi no diferencia la beta i la
+  pre-beta. S'anomena disbetalipoproteïnèmia. Expressió en homozigosi
+  d'un al·lel de l'apoE (apoE2) tenen predisposició a
+  disbetalipoproteïnèmia, només un 1\% dels homozigots generen
+  disbetalipoproteïnèmia. S'acumulen IDL i QMr, això explica la
+  continuïtat de bandes pre beta io beta.
 
-\item Tipus IV: Plasma tÃ¨rbol i increment de VLDL.
+\item Tipus IV: Plasma tèrbol i increment de VLDL.
 
-\item Tipus V: Plasma tÃ¨rbol i sobrenedant blanquinÃ³s. Apareixen molts
+\item Tipus V: Plasma tèrbol i sobrenedant blanquinós. Apareixen molts
   QM i VLDL.
 \end{enumerate}
 
-Les tipus II i IV sÃ³n bastant comuns en la poblaciÃ³.
+Les tipus II i IV són bastant comuns en la població.
 
-\subsubsection{HiperlipoproteÃ¯nÃ¨mies primÃ ries}
+\subsubsection{Hiperlipoproteïnèmies primàries}
 \label{sec:hiperl-prim}
 %% Taula
 
 \begin{itemize}
-\item \textbf{QuilomicronÃ¨mia familiar:} Els nens amb dÃ¨ficit en LPL no podran
-  processar QM. Es manifesta a la lactÃ ncia ja que la llet materna tÃ©
-  un contingut important en TAG. S'han de donar Ã cids grassos de
-  cadena mitja i curta (no van per QM) i Ã cids grassos essencials. El
-  dÃ¨ficit en apoC2 es tracta amb infusions de plasma ric en
-  apoC2. apoC2 estÃ  implicada en el reconeixement de la LPL. Pot
+\item \textbf{Quilomicronèmia familiar:} Els nens amb dèficit en LPL no podran
+  processar QM. Es manifesta a la lactància ja que la llet materna té
+  un contingut important en TAG. S'han de donar àcids grassos de
+  cadena mitja i curta (no van per QM) i àcids grassos essencials. El
+  dèficit en apoC2 es tracta amb infusions de plasma ric en
+  apoC2. apoC2 està implicada en el reconeixement de la LPL. Pot
   ocasionar pancreatitis. No hi ha risc cardiovascular.
 
-\item \textbf{HipercolesterolÃ¨mia familiar:} Mutacions al receptor de LDL o
-  apoB. El receptor de LDL Ã©s un gen al qual s'han descrit moltes
-  mutacions. Arg3500->Gln3500 Ã©s endÃ¨mica a SuÃ¯ssa. TambÃ© hi pot haver
-  un augment de la sÃ­ntesi d'apoB100. Es manifesten cutÃ niament amb
+\item \textbf{Hipercolesterolèmia familiar:} Mutacions al receptor de LDL o
+  apoB. El receptor de LDL és un gen al qual s'han descrit moltes
+  mutacions. Arg3500->Gln3500 és endèmica a Suïssa. També hi pot haver
+  un augment de la síntesi d'apoB100. Es manifesten cutàniament amb
   xantomes...
 
-\item \textbf{DisbetalipoproteÃ¯nÃ¨mia familiar:} 1/10.000 manifesta
-  aquesta dislipÃ¨mia. Hi ha factors ambientals que influeixen en la
-  seva manifestaciÃ³. EstÃ  afectada la uniÃ³ amb LRP, Ã©s a dir la
-  retirada de QMr, IDL, beta-VLDL. Les beta-VLDL tenen menys TAG perÃ²
-  mÃ©s contingut en colesterol. Hi ha hipertrigliceridÃ¨mia. Es pot
-  mirar la relaciÃ³ $\dfrac{TAG}{colesterol}$, si Ã©s 5 els resultats
-  sÃ³n normals perÃ² si Ã©s inferior a 3,33 es sospita de
-  disbetalipoproteÃ¯nÃ¨mia familiar. Presenten xantomes, sobrepÃ¨s,
-  intolerÃ ncia a la glucosa.
+\item \textbf{Disbetalipoproteïnèmia familiar:} 1/10.000 manifesta
+  aquesta dislipèmia. Hi ha factors ambientals que influeixen en la
+  seva manifestació. Està afectada la unió amb LRP, és a dir la
+  retirada de QMr, IDL, beta-VLDL. Les beta-VLDL tenen menys TAG però
+  més contingut en colesterol. Hi ha hipertrigliceridèmia. Es pot
+  mirar la relació $\dfrac{TAG}{colesterol}$, si és 5 els resultats
+  són normals però si és inferior a 3,33 es sospita de
+  disbetalipoproteïnèmia familiar. Presenten xantomes, sobrepès,
+  intolerància a la glucosa.
 
-\item HipertrigliceridÃ¨mia familiar: No s'associa a un genotip
-  concret. La de tipus IV Ã©s molt comÃº. Es manifesta com a obesitat i
-  intolerÃ ncia a la glucosa.
+\item Hipertrigliceridèmia familiar: No s'associa a un genotip
+  concret. La de tipus IV és molt comú. Es manifesta com a obesitat i
+  intolerància a la glucosa.
 \end{itemize}
 
-El dÃ¨ficit de LCAT (LCAT esterifica colesterol lliure dels teixits i
+El dèficit de LCAT (LCAT esterifica colesterol lliure dels teixits i
 el carrega a HDL). Es manifesta com un increment de colesterol lliure
 i aterosclerosi prematura.
 
 Aquests fenotips evolucionen amb el temps.
 
-\subsubsection{HiperlipoproteÃ¯nÃ¨mies secundÃ ries}
+\subsubsection{Hiperlipoproteïnèmies secundàries}
 \label{sec:hiperl-secund}
-HiperlipoproteÃ¯nÃ¨mies provocades per altres malalties.
+Hiperlipoproteïnèmies provocades per altres malalties.
 
 % Taula
 
 \begin{itemize}
-\item La colestasi Ã©s una obstrucciÃ³ de les vies biliars. Hi ha un reflux de
-bilis cap al fetge i desprÃ©s cap a circulaciÃ³ sistÃ¨mica. La bilis a la
-sang s'associa a lipoproteÃ¯nes. Apareixen lipoproteÃ¯nes X riques en
-colesterol, pobres en apo, riques en albÃºmina, migren cap al
-cÃ tode. La lipoproteÃ¯na X Ã©s la bilis empaquetada com a
-lipoproteÃ¯na. TambÃ© apareix colesterol lliure. La lipoproteÃ¯na X estÃ 
-formada per un 90\% per lÃ­pids i colesterol lliure i la resta Ã©s 
-albÃºmina i apoC i migren cap al cÃ tode (negatiu).
+\item La colèstasi és una obstrucció de les vies biliars. Hi ha un reflux de
+bilis cap al fetge i després cap a circulació sistèmica. La bilis a la
+sang s'associa a lipoproteïnes. Apareixen lipoproteïnes X riques en
+colesterol, pobres en apo, riques en albúmina, migren cap al
+càtode. La lipoproteïna X és la bilis empaquetada com a
+lipoproteïna. També apareix colesterol lliure. La lipoproteïna X està
+formada per un 90\% per lípids i colesterol lliure i la resta és 
+albúmina i apoC i migren cap al càtode (negatiu).
 
-\item L'hipotiroÃ¯disme es manifesta amb un increment de colesterol circulant
-ja que el LDLR estÃ  regulat per hormones tiroÃ¯dals.
+\item L'hipotiroïdisme es manifesta amb un increment de colesterol circulant
+ja que el LDLR està regulat per hormones tiroïdals.
 
-\item El sÃ­ndrome nefrÃ²tic genera un increment de colesterol.
+\item El síndrome nefròtic genera un increment de colesterol.
 
-\item La lipoproteÃ¯na a Ã©s una lipoproteÃ¯na normal que es troba
-circulant. La composiciÃ³ Ã©s molt similar a la LDL. apoB100 presenta un
-pont disulfur amb una serina proteasa de dominis KRINGLE 4 i 5. SÃ³n
-molt similars als del plasminogen. La lipoproteÃ¯na a no tÃ© activitat
-serina proteasa activa perÃ² pot competir amb el plasminogen i inhibir
-la seva funciÃ³ (deficiÃ¨ncia de fibrinÃ²lisi). L'excÃ©s de lipoproteÃ¯na a
-provoca problemes a la fibrinÃ²lisi i hipercolesterolÃ¨mia ja que no Ã©s
-reconeguda pel LDLR. La terÃ pia Ã©s la convencional per
-hipercolesterolÃ¨mia.
+\item La lipoproteïna a és una lipoproteïna normal que es troba
+circulant. La composició és molt similar a la LDL. apoB100 presenta un
+pont disulfur amb una serina proteasa de dominis KRINGLE 4 i 5. Són
+molt similars als del plasminogen. La lipoproteïna a no té activitat
+serina proteasa activa però pot competir amb el plasminogen i inhibir
+la seva funció (deficiència de fibrinòlisi). L'excés de lipoproteïna a
+provoca problemes a la fibrinòlisi i hipercolesterolèmia ja que no és
+reconeguda pel LDLR. La teràpia és la convencional per
+hipercolesterolèmia.
 \end{itemize}
 
 
-\subsubsection{HipolipoproteÃ¯nÃ¨mies}
+\subsubsection{Hipolipoproteïnèmies}
 \label{sec:hipolipoproteinemies}
-Dins de les hipolipoproteÃ¯nÃ¨mies primÃ ries:
+Dins de les hipolipoproteïnèmies primàries:
 \begin{itemize}
 \item \textbf{HDL afectades:}
   \begin{itemize}
-  \item AnalfalipoproteÃ¯nÃ¨mia (manca de HDL): No es retira colesterol
-    dels teixits ni pas a LDL. SÃ­ntesi defectuosa d'apoAI.
+  \item Analfalipoproteïnèmia (manca de HDL): No es retira colesterol
+    dels teixits ni pas a LDL. Síntesi defectuosa d'apoAI.
  
-  \item Malaltia de Tangier: HipercolesterolÃ¨mia amb dipÃ²sits de
+  \item Malaltia de Tangier: Hipercolesterolèmia amb dipòsits de
     colesterol als teixits. Defecte a ABCA1, transportador de
-    colesterol cap a fora de les cÃ¨lÂ·lules. Les HDL interaccionen amb
+    colesterol cap a fora de les cèl·lules. Les HDL interaccionen amb
     ABCA1 per recollir el colesterol sobrant. Es va descobrir a l'illa
     de Tangier degut a l'efecte fundador.
   \end{itemize}
 
 \item \textbf{LDL afectades:}
   \begin{itemize}
-  \item AbetalipoproteÃ¯nÃ¨mia: MutaciÃ³ en el gen MTP autosÃ²mica
-    recessiva. MTP Ã©s el \textit{Microsomal TAG transfer protein}. No
-    es formen QM ni VLDL. Hi ha un dÃ¨ficit de vitamines
-    liposolubles. Hi ha hipercolesterolÃ¨mia i absÃ¨ncia total d'apoB100
+  \item Abetalipoproteïnèmia: Mutació en el gen MTP autosòmica
+    recessiva. MTP és el \textit{Microsomal TAG transfer protein}. No
+    es formen QM ni VLDL. Hi ha un dèficit de vitamines
+    liposolubles. Hi ha hipercolesterolèmia i absència total d'apoB100
     en plasma.
 
-  \item HipobetalipoproteÃ¯nÃ¨mia: La mutaciÃ³ al gen apoB Ã©s autosÃ²mica
-    dominant que genera una forma truncada d'apoB100. La sÃ­ntesi de
-    LDL estÃ  molt afectada, la de VLDL i QM no tant.
+  \item Hipobetalipoproteïnèmia: La mutació al gen apoB és autosòmica
+    dominant que genera una forma truncada d'apoB100. La síntesi de
+    LDL està molt afectada, la de VLDL i QM no tant.
   \end{itemize}
 
-\item Malaltia d'Anderson: Malaltia de retenciÃ³ de QM. Es detecta en
-  nadons ja que la llet materna Ã©s rica en lÃ­pids. Hi ha un defecte en
+\item Malaltia d'Anderson: Malaltia de retenció de QM. Es detecta en
+  nadons ja que la llet materna és rica en lípids. Hi ha un defecte en
   la sortida de QM a limfa.
 \end{itemize}
 
 \subsubsection{Tractament}
 \label{sec:tractament}
 
-Diverses estratÃ¨gies:
+Diverses estratègies:
 \begin{itemize}
 \item Estatines: Inhibidor dl'HMG-CoA-reductasa
-\item Resines segrestadores d'Ã cids biliars
-\item Fibrats: Activen la LPL i afavoreixen la oxidaciÃ³ d'Ã cids
+\item Resines segrestadores d'àcids biliars
+\item Fibrats: Activen la LPL i afavoreixen la oxidació d'àcids
   grassos al fetge.
-\item Nicotina: Inhibeix la lipÃ²lisi al teixit adipÃ³s i la sortida de
+\item Nicotina: Inhibeix la lipòlisi al teixit adipós i la sortida de
   TAG al fetge.
 \item Omega 3: Actuen sobre l'ACAT (esterifica colesterol a les
-  cÃ¨lÂ·lules) i activa SREBP permetent la sÃ­ntesi de nous LDLR.
+  cèl·lules) i activa SREBP permetent la síntesi de nous LDLR.
 \end{itemize}

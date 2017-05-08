@@ -1,0 +1,39 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex")
+
+(toc "toc" "    1 Imprinting i malalties relacionades" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex" nil 2 "1" "\\section{Imprinting i malalties relacionades}" 208)
+
+("sec:impr-i-malalt" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.1 Imprinting" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex" nil 3 "1.1" "\\subsection{Imprinting}" 281)
+
+("sec:imprinting" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex" nil "")
+
+(toc "toc" "      1.2 Síndrome de Beckwith-Wiedemann " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex" nil 3 "1.2" "\\subsection{Síndrome de Beckwith-Wiedemann
+}" 2648)
+
+("sec:sindrome-de-beckwith" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex" nil "")
+
+(toc "toc" "    2 Imprinting i malalties relacionades" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex" nil 2 "1" "\\section{Imprinting i malalties relacionades}" 208)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema10.tex")
+))
+

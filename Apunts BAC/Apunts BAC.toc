@@ -123,16 +123,35 @@
 \contentsline {subsection}{\numberline {8.1}Regulaci\'o de la concentraci\'o de la glucosa sangu\IeC {\'\i }nia}{68}{subsection.8.1}
 \contentsline {subsection}{\numberline {8.2}Hipergluc\`emies}{69}{subsection.8.2}
 \contentsline {subsubsection}{\numberline {8.2.1}Alteracions metab\`oliques}{70}{subsubsection.8.2.1}
-\contentsline {subsubsection}{\numberline {8.2.2}Complicacions}{70}{subsubsection.8.2.2}
-\contentsline {subsection}{\numberline {8.3}Par\`ametres cl\IeC {\'\i }nics}{71}{subsection.8.3}
-\contentsline {subsubsection}{\numberline {8.3.1}Glucosa}{71}{subsubsection.8.3.1}
-\contentsline {subsubsection}{\numberline {8.3.2}Sobrec\`arrega oral de glucosa (SOG)}{71}{subsubsection.8.3.2}
-\contentsline {subsubsection}{\numberline {8.3.3}Insulina}{72}{subsubsection.8.3.3}
-\contentsline {subsubsection}{\numberline {8.3.4}Glicohemoglobines}{73}{subsubsection.8.3.4}
-\contentsline {subsubsection}{\numberline {8.3.5}Fructosamines}{73}{subsubsection.8.3.5}
-\contentsline {subsubsection}{\numberline {8.3.6}Cossos cet\`onics}{73}{subsubsection.8.3.6}
-\contentsline {subsection}{\numberline {8.4}Hipogluc\`emies}{73}{subsection.8.4}
-\contentsline {subsubsection}{\numberline {8.4.1}Fisiol\`ogica}{73}{subsubsection.8.4.1}
-\contentsline {subsubsection}{\numberline {8.4.2}Patol\`ogiques}{73}{subsubsection.8.4.2}
-\contentsline {subsection}{\numberline {8.5}Intoler\`ancies}{74}{subsection.8.5}
+\contentsline {subsubsection}{\numberline {8.2.2}Complicacions}{71}{subsubsection.8.2.2}
+\contentsline {subsection}{\numberline {8.3}Par\`ametres cl\IeC {\'\i }nics}{72}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {8.3.1}Glucosa}{72}{subsubsection.8.3.1}
+\contentsline {subsubsection}{\numberline {8.3.2}Sobrec\`arrega oral de glucosa (SOG)}{72}{subsubsection.8.3.2}
+\contentsline {subsubsection}{\numberline {8.3.3}Insulina}{73}{subsubsection.8.3.3}
+\contentsline {subsubsection}{\numberline {8.3.4}Glicohemoglobines}{74}{subsubsection.8.3.4}
+\contentsline {subsubsection}{\numberline {8.3.5}Fructosamines}{75}{subsubsection.8.3.5}
+\contentsline {subsubsection}{\numberline {8.3.6}Microalbumin\'uria}{75}{subsubsection.8.3.6}
+\contentsline {subsubsection}{\numberline {8.3.7}Cossos cet\`onics}{75}{subsubsection.8.3.7}
+\contentsline {subsection}{\numberline {8.4}Hipogluc\`emies}{76}{subsection.8.4}
+\contentsline {subsubsection}{\numberline {8.4.1}Fisiol\`ogica}{76}{subsubsection.8.4.1}
+\contentsline {subsubsection}{\numberline {8.4.2}Patol\`ogiques}{76}{subsubsection.8.4.2}
+\contentsline {subsection}{\numberline {8.5}Intoler\`ancies}{77}{subsection.8.5}
+\contentsline {section}{\numberline {9}Disfuncions del metabolisme lip\IeC {\'\i }dic}{78}{section.9}
+\contentsline {subsection}{\numberline {9.1}Conceptes generals}{78}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9.1.1}Tipus de lipoprote\IeC {\@umlaut \i }nes, composici\'o i estructura}{78}{subsubsection.9.1.1}
+\contentsline {subsubsection}{\numberline {9.1.2}Metabolisme de les lipoprote\IeC {\@umlaut \i }nes}{79}{subsubsection.9.1.2}
+\contentsline {paragraph}{\numberline {9.1.2.1}Via ex\`ogena}{80}{paragraph.9.1.2.1}
+\contentsline {paragraph}{\numberline {9.1.2.2}Via end\`ogena}{80}{paragraph.9.1.2.2}
+\contentsline {paragraph}{\numberline {9.1.2.3}Transport revers de colesterol}{81}{paragraph.9.1.2.3}
+\contentsline {subsection}{\numberline {9.2}Par\`ametres anal\IeC {\'\i }tics}{82}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Aterosclerosi}{82}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Dislip\`emia}{83}{subsubsection.9.2.2}
+\contentsline {subsubsection}{\numberline {9.2.3}Lipoprote\IeC {\@umlaut \i }nes}{85}{subsubsection.9.2.3}
+\contentsline {subsubsection}{\numberline {9.2.4}Colesterol}{85}{subsubsection.9.2.4}
+\contentsline {subsubsection}{\numberline {9.2.5}Triacilglicerols}{85}{subsubsection.9.2.5}
+\contentsline {subsection}{\numberline {9.3}Dislip\`emies}{86}{subsection.9.3}
+\contentsline {subsubsection}{\numberline {9.3.1}Hiperlipoprote\IeC {\@umlaut \i }n\`emies prim\`aries}{86}{subsubsection.9.3.1}
+\contentsline {subsubsection}{\numberline {9.3.2}Hiperlipoprote\IeC {\@umlaut \i }n\`emies secund\`aries}{87}{subsubsection.9.3.2}
+\contentsline {subsubsection}{\numberline {9.3.3}Hipolipoprote\IeC {\@umlaut \i }n\`emies}{87}{subsubsection.9.3.3}
+\contentsline {subsubsection}{\numberline {9.3.4}Tractament}{88}{subsubsection.9.3.4}
 \contentsfinish 

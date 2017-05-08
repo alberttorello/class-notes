@@ -1,0 +1,40 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex")
+
+(toc "toc" "    1 Gene delivery" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex" nil 2 "1" "\\section{Gene delivery}" 186)
+
+("sec:gene-delivery" "s" "Els vectors vírics són més eficients i com que tenen tropisme això permet la direcció del virus cap " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex" nil)
+
+(toc "toc" "      1.1 Mètodes de transfecció cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex" nil 3 "1.1" "\\subsection{Mètodes de transfecció cel·lular}" 636)
+
+("sec:metod-de-transf" "s" "\\subsection{} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex" nil)
+
+(toc "toc" "      1.2 Entrega el gen in vivo" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex" nil 3 "1.2" "\\subsection{Entrega el gen in vivo}" 2185)
+
+("sec:entrega-el-gen" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex" nil "")
+
+(toc "toc" "      1.3  " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex" nil 3 "1.2" "\\subsection{}" 711)
+
+(toc "toc" "      1.4  " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex" nil 3 "1.2" "\\subsection{}" 711)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema11.tex")
+))
+
