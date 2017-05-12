@@ -1,0 +1,78 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex")
+
+(toc "toc" "    1 Control dels electròlits i l'aigua" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 2 "1" "\\section{Control dels electròlits i l'aigua}" 208)
+
+("sec:contr-dels-electr" "s" "%% Recordatori aigua i compartiments corporals Els ions principals són: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil)
+
+(toc "toc" "      1.1 Regulació de l'osmolalitat" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 3 "1.1" "\\subsection{Regulació de l'osmolalitat}" 805)
+
+("sec:regul-de-losm" "s" "\\subsubsection{Hipotàlem}  Si falta líquid, l'hipotàlem ens genera la sensació de set. Controla la p" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil)
+
+(toc "toc" "        1.1.1 Hipotàlem" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 4 "1.1.1" "\\subsubsection{Hipotàlem}" 872)
+
+("sec:hipotalem" "s" "Si falta líquid, l'hipotàlem ens genera la sensació de set. Controla la pèrdua d'aigua mitjançant la" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil)
+
+(toc "toc" "        1.1.2 Renina-angiotensina-aldosterona" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 4 "1.1.2" "\\subsubsection{Renina-angiotensina-aldosterona}" 1309)
+
+("sec:renina-angi-aldost" "s" "Si falta aigua, baixa la pressió i això ho detecta el glomèrul; també hi pot haver una estimulació s" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil)
+
+(toc "toc" "        1.1.3 Pèptid natriurètic atrial" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 4 "1.1.3" "\\subsubsection{Pèptid natriurètic atrial}" 1979)
+
+("sec:pept-natr-atri" "s" "Augmenta volum LEC, puja la pressió però disminueix la osmolalitat. El PNA augmenta la velocitat de " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil)
+
+(toc "toc" "      1.2 Alteracions hidroelectrolítiques" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 3 "1.2" "\\subsection{Alteracions hidroelectrolítiques}" 2282)
+
+("sec:alter-hidr" "s" "\\subsubsection{Aigua}  La retenció d'aigua és visible per l'aparició d'edemes. La pèrdua d'aigua s'i" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil)
+
+(toc "toc" "        1.2.1 Aigua" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 4 "1.2.1" "\\subsubsection{Aigua}" 2352)
+
+("sec:aigua" "s" "La retenció d'aigua és visible per l'aparició d'edemes. La pèrdua d'aigua s'intueix per senyals de d" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil)
+
+(toc "toc" "        1.2.2 Sodi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 4 "1.2.2" "\\subsubsection{Sodi}" 2602)
+
+("sec:sodi" "s" "Es determina fent servir elèctrodes selectius o espectrofotometria de flama. \\paragraph{Hiponatrèmia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil)
+
+(toc "toc" "          1.2.2.1 Hiponatrèmia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 5 "1.2.2.1" "\\paragraph{Hiponatrèmia}" 2718)
+
+(toc "toc" "          1.2.2.2 Hipernatrèmia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 5 "1.2.2.2" "\\paragraph{Hipernatrèmia}" 4564)
+
+(toc "toc" "        1.2.3 Potassi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 4 "1.2.3" "\\subsubsection{Potassi}" 6295)
+
+("sec:potassi" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil "")
+
+(toc "toc" "          1.2.3.1 Hipopotassèmia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 5 "1.2.3.1" "\\paragraph{Hipopotassèmia}" 6713)
+
+(toc "toc" "          1.2.3.2 Hiperpotassèmia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 5 "1.2.3.2" "\\paragraph{Hiperpotassèmia}" 7581)
+
+(toc "toc" "        1.2.4 Clor" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 4 "1.2.4" "\\subsubsection{Clor}" 8078)
+
+("sec:clor" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil "")
+
+(toc "toc" "          1.2.4.1 Hipoclorèmia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 5 "1.2.4.1" "\\paragraph{Hipoclorèmia}" 8156)
+
+(toc "toc" "          1.2.4.2 Hiperclorèmia" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 5 "1.2.4.2" "\\paragraph{Hiperclorèmia}" 8448)
+
+(toc "toc" "        1.2.5 Potassi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex" nil 4 "1.2.3" "\\subsubsection{Potassi}" 6295)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema16.tex")
+))
+

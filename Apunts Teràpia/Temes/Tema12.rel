@@ -1,0 +1,120 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/")
+
+(label-numbers ("sec:hidroporacio" . 1))
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex")
+
+(toc "toc" "    1 Vectors no virals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 2 "1" "\\section{Vectors no virals}" 190)
+
+("sec:vectors-no-virals" "s" "Es treballa normalment amb plasmidid però també es fan servir siRNA o oligonucleòtids. \\subsection{C" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil)
+
+(toc "toc" "      1.1 Captació cel·lular de DNA nu" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 3 "1.1" "\\subsection{Captació cel·lular de DNA nu}" 337)
+
+("sec:capt-cel.l-de" "s" "S'usa DNA nu quan el cDNA és massa gran o bé quan la utilització de virus implica complicacions immu" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil)
+
+(toc "toc" "      1.2 Mètodes químics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 3 "1.2" "\\subsection{Mètodes químics}" 3778)
+
+("sec:metodes-quimics" "s" "Aquests mètodes comprenen: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil)
+
+(toc "toc" "        1.2.1 Liposomes catiònics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 4 "1.2.1" "\\subsubsection{Liposomes catiònics}" 4110)
+
+("sec:liposomes-cationics" "s" "Les membranes cel·lulars tenen una gran quantitat de càrregues negatives degut a la presència de fos" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil)
+
+(toc "toc" "          1.2.1.1 Estructura" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.1.1" "\\paragraph{Estructura}" 5783)
+
+(toc "toc" "          1.2.1.2 Captació cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.1.2" "\\paragraph{Captació cel·lular}" 7166)
+
+(toc "toc" "          1.2.1.3 Aplicacions \\textit{in vitro}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.1.3" "\\paragraph{Aplicacions \\textit{in vitro}}" 7776)
+
+(toc "toc" "          1.2.1.4 Aplicacions \\textit{in vivo}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.1.4" "\\paragraph{Aplicacions \\textit{in vivo}}" 8375)
+
+(toc "toc" "        1.2.2 Polications" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 4 "1.2.2" "\\subsubsection{Polications}" 9013)
+
+("sec:polications" "s" "Els polications poden ser polímers lineals, brancats o dendrímers amb pesos moleculars que tenen mid" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil)
+
+(toc "toc" "          1.2.2.1 Captació cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.2.1" "\\paragraph{Captació cel·lular}" 9675)
+
+(toc "toc" "          1.2.2.2 Aplicacions \\textit{in vitro}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.2.2" "\\paragraph{Aplicacions \\textit{in vitro}}" 10513)
+
+(toc "toc" "          1.2.2.3 Aplicacions \\textit{in vivo}" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.2.3" "\\paragraph{Aplicacions \\textit{in vivo}}" 10928)
+
+(toc "toc" "          1.2.2.4 Polications biodegradables" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.2.4" "\\paragraph{Polications biodegradables}" 11441)
+
+(toc "toc" "        1.2.3 Pèptids de penetració cel·lular" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 4 "1.2.3" "\\subsubsection{Pèptids de penetració cel·lular}" 12149)
+
+("sec:pept-de-penetr" "s" "Els CPPs són pèptids de 7 a 30 aminoàcids, solubles en aigua, polibàsics o polibàsics i en part hidr" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil)
+
+(toc "toc" "          1.2.3.1 Mecanismes de captació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.3.1" "\\paragraph{Mecanismes de captació}" 14298)
+
+(toc "toc" "          1.2.3.2 Aplicació in vitro" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.3.2" "\\paragraph{Aplicació in vitro}" 15079)
+
+(toc "toc" "          1.2.3.3 Aplicació in vivo" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.3.3" "\\paragraph{Aplicació in vivo}" 15288)
+
+(toc "toc" "        1.2.4 Vectors proteics modulars multifuncionals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 4 "1.2.4" "\\subsubsection{Vectors proteics modulars multifuncionals}" 15764)
+
+("sec:vect-prot-modul" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil "")
+
+(toc "toc" "          1.2.4.1 Mecanismes de captació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.2.3.1" "\\paragraph{Mecanismes de captació}" 14298)
+
+(toc "toc" "      1.3 Mètodes físics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 3 "1.3" "\\subsection{Mètodes físics}" 17034)
+
+("sec:metodes-fisics" "s" " " "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil)
+
+(toc "toc" "      1.4 Hidroporació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 3 "1.4" "\\subsection{Hidroporació}" 17272)
+
+("sec:hidroporacio" "s" "El sistema utilitza la força física generada per la injecció ràpida d'un gran volum de solució que c" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil)
+
+(toc "toc" "        1.4.1 Electroporació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 4 "1.4.1" "\\subsubsection{Electroporació}" 18881)
+
+("sec:electroporacio" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil "")
+
+(toc "toc" "          1.4.1.1 Aplicació in vitro" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.4.1.1" "\\paragraph{Aplicació in vitro}" 19686)
+
+(toc "toc" "          1.4.1.2 Aplicació in vivo" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.4.1.2" "\\paragraph{Aplicació in vivo}" 20561)
+
+(toc "toc" "        1.4.2 Magnetofecció" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 4 "1.4.2" "\\subsubsection{Magnetofecció}" 21139)
+
+("sec:magnetofeccio" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil "")
+
+(toc "toc" "        1.4.3 Sonoporació" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 4 "1.4.3" "\\subsubsection{Sonoporació}" 22653)
+
+("sec:sonoporacio" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil "")
+
+(toc "toc" "          1.4.3.1 Micro(nano)bombolles" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.4.3.1" "\\paragraph{Micro(nano)bombolles}" 24490)
+
+(toc "toc" "          1.4.3.2 Micro(nano)partícules biodegradables" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.4.3.2" "\\paragraph{Micro(nano)partícules biodegradables}" 24779)
+
+(toc "toc" "          1.4.3.3 Aplicació in vitro" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.4.3.3" "\\paragraph{Aplicació in vitro}" 25157)
+
+(toc "toc" "          1.4.3.4 Aplicació in vivo" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.4.3.4" "\\paragraph{Aplicació in vivo}" 25379)
+
+(toc "toc" "        1.4.4 Làser" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 4 "1.4.4" "\\subsubsection{Làser}" 25755)
+
+("sec:laser" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil "")
+
+(toc "toc" "          1.4.4.1 Transfecció òptica (optoinjecció)" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.4.4.1" "\\paragraph{Transfecció òptica (optoinjecció)}" 26186)
+
+(toc "toc" "          1.4.4.2 Aplicació in vitro" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil 5 "1.4.4.2" "\\paragraph{Aplicació in vitro}" 26685)
+
+("sec:hidroporacio-1" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil "")
+
+("sec:hidroporacio" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex" nil "")
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Teràpia/Temes/Tema12.tex")
+))
+

@@ -150,8 +150,31 @@
 \contentsline {subsubsection}{\numberline {9.2.4}Colesterol}{85}{subsubsection.9.2.4}
 \contentsline {subsubsection}{\numberline {9.2.5}Triacilglicerols}{85}{subsubsection.9.2.5}
 \contentsline {subsection}{\numberline {9.3}Dislip\`emies}{86}{subsection.9.3}
-\contentsline {subsubsection}{\numberline {9.3.1}Hiperlipoprote\IeC {\@umlaut \i }n\`emies prim\`aries}{86}{subsubsection.9.3.1}
-\contentsline {subsubsection}{\numberline {9.3.2}Hiperlipoprote\IeC {\@umlaut \i }n\`emies secund\`aries}{87}{subsubsection.9.3.2}
-\contentsline {subsubsection}{\numberline {9.3.3}Hipolipoprote\IeC {\@umlaut \i }n\`emies}{87}{subsubsection.9.3.3}
-\contentsline {subsubsection}{\numberline {9.3.4}Tractament}{88}{subsubsection.9.3.4}
+\contentsline {subsubsection}{\numberline {9.3.1}Hiperlipoprote\IeC {\@umlaut \i }n\`emies prim\`aries}{88}{subsubsection.9.3.1}
+\contentsline {subsubsection}{\numberline {9.3.2}Hiperlipoprote\IeC {\@umlaut \i }n\`emies secund\`aries}{89}{subsubsection.9.3.2}
+\contentsline {subsubsection}{\numberline {9.3.3}Hipolipoprote\IeC {\@umlaut \i }n\`emies}{89}{subsubsection.9.3.3}
+\contentsline {subsubsection}{\numberline {9.3.4}Tractament}{90}{subsubsection.9.3.4}
+\contentsline {section}{\numberline {10}El fetge}{91}{section.10}
+\contentsline {subsection}{\numberline {10.1}El fetge}{91}{subsection.10.1}
+\contentsline {subsubsection}{\numberline {10.1.1}Circulaci\'o hep\`atica}{91}{subsubsection.10.1.1}
+\contentsline {subsubsection}{\numberline {10.1.2}Funcions hep\`atiques}{91}{subsubsection.10.1.2}
+\contentsline {subsection}{\numberline {10.2}Estudi de la funci\'o excretora}{91}{subsection.10.2}
+\contentsline {subsubsection}{\numberline {10.2.1}Producci\'o de bilirrubina - Icter\IeC {\'\i }cia}{91}{subsubsection.10.2.1}
+\contentsline {paragraph}{\numberline {10.2.1.1}Determinaci\'o de bilirubina}{93}{paragraph.10.2.1.1}
+\contentsline {paragraph}{\numberline {10.2.1.2}Icter\IeC {\'\i }cia}{93}{paragraph.10.2.1.2}
+\contentsline {subsubsection}{\numberline {10.2.2}\`Acids biliars}{94}{subsubsection.10.2.2}
+\contentsline {subsection}{\numberline {10.3}Estudi de la capacitat detoxificadora}{95}{subsection.10.3}
+\contentsline {subsubsection}{\numberline {10.3.1}Eliminaci\'o de xenobi\`otics}{95}{subsubsection.10.3.1}
+\contentsline {subsection}{\numberline {10.4}Estudi de les capacitats biosint\`etica i metab\`olica}{95}{subsection.10.4}
+\contentsline {subsubsection}{\numberline {10.4.1}Prote\IeC {\@umlaut \i }nes}{95}{subsubsection.10.4.1}
+\contentsline {subsubsection}{\numberline {10.4.2}L\IeC {\'\i }pids i lipoprote\IeC {\@umlaut \i }nes}{96}{subsubsection.10.4.2}
+\contentsline {subsubsection}{\numberline {10.4.3}Amino\`acids i nitrogen am\IeC {\'\i }nic}{96}{subsubsection.10.4.3}
+\contentsline {subsubsection}{\numberline {10.4.4}Gl\'ucids}{96}{subsubsection.10.4.4}
+\contentsline {subsection}{\numberline {10.5}Marcadors s\`erics}{96}{subsection.10.5}
+\contentsline {subsubsection}{\numberline {10.5.1}Transaminases}{96}{subsubsection.10.5.1}
+\contentsline {subsubsection}{\numberline {10.5.2}Fosfatasa alcalina}{97}{subsubsection.10.5.2}
+\contentsline {subsubsection}{\numberline {10.5.3}$\gamma $-glutamil transpeptidasa}{97}{subsubsection.10.5.3}
+\contentsline {subsubsection}{\numberline {10.5.4}5'-nucleotidasa}{97}{subsubsection.10.5.4}
+\contentsline {subsection}{\numberline {10.6}Alteracions hep\`atiques}{98}{subsection.10.6}
+\contentsline {subsubsection}{\numberline {10.6.1}Hepatitis v\IeC {\'\i }riques}{98}{subsubsection.10.6.1}
 \contentsfinish 

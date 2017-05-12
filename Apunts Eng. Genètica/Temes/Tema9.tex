@@ -4,18 +4,29 @@
 \section{Expressió heteròloga de gens i sistemes de mutagènesi dirigida}
 \label{sec:expr-heter-de}
 
-\subsection{Proteïnes de fusió}
+\subsection{Expressió heteròloga}
+\label{sec:expressio-heterologa}
+
+\subsubsection{Proteïnes de fusió}
 \label{sec:proteines-de-fusio}
 
-La GST es situa entre el promotor i el MCS. La GST (que és bacteriana) evita que el bacteri degradi la proteïna que es vol expressar i permet purificar-la de manera ràpida amb una cromatografia d'afinitat amb glutatió. La GST és una proteïna intracel·lular. El MCS té una diana per trombina, que permetrà separar la GST de la proteïna expressada.
+La GST es situa entre el promotor i el MCS. La GST (que és bacteriana)
+evita que el bacteri degradi la proteïna que es vol expressar i permet
+purificar-la de manera ràpida amb una cromatografia d'afinitat amb
+glutatió. La GST és una proteïna intracel·lular. El MCS té una diana
+per trombina, que permetrà separar la GST de la proteïna expressada.
 
-El sistema His6 consisteix en l'addició d'una cua d'Hys upstream del MCS. Les proteïnes de fusió es poden purificar amb columnes de níquel.
+El sistema His6 consisteix en l'addició d'una cua d'Hys upstream del
+MCS. Les proteïnes de fusió es poden purificar amb columnes de níquel.
 
-Per expressar proteïnes de secreció, s'ha d'afegir un pèptid senyal. Els bacteris tenen 3 sistemes de secreció: directament, per reconeixement del pèptid senyal a través del complex pullulanasa.
+Per expressar proteïnes de secreció, s'ha d'afegir un pèptid
+senyal. Els bacteris tenen 3 sistemes de secreció: directament, per
+reconeixement del pèptid senyal a través del complex pullulanasa.
 
-En el cas de pEZZ, utilitza dominis del tipus immunoglobulina. Es purifica a través del lacZ.
+En el cas de pEZZ, utilitza dominis del tipus immunoglobulina. Es
+purifica a través del lacZ.
 
-\subsection{Problemes amb l'expressió a \textit{E. coli}}
+\subsubsection{Problemes amb l'expressió a \textit{E. coli}}
 \label{sec:probl-amb-lexpr}
 
 Hi pot haver:
@@ -28,21 +39,84 @@ Hi pot haver:
 
 \item \textbf{Problemes amb la traducció}
   \begin{itemize}
-  \item Bloqueig del ribosome binding site degut a la formació d'estructures secundàries.
-  \item Triplets anteriors a AUG: si són codons stop o UAU, CUU) no es tradueix.
-  \item Triplets posteriors: seqüències riques en A i U provoquen que el ribosoma ho interpreti com un terminador.
-  \item Presència d'aminoàcids rars: aminoàcids que els bacteris utilitzen poc. Es pot solucionar afegint aquests aminoàcids al medi de cultiu.
+  \item Bloqueig del ribosome binding site degut a la formació
+    d'estructures secundàries.
+  \item Triplets anteriors a AUG: si són codons stop o UAU, CUU) no es
+    tradueix.
+  \item Triplets posteriors: seqüències riques en A i U provoquen que
+    el ribosoma ho interpreti com un terminador.
+  \item Presència d'aminoàcids rars: aminoàcids que els bacteris
+    utilitzen poc. Es pot solucionar afegint aquests aminoàcids al
+    medi de cultiu.
   \item Ús esbiaixat de codons.
   \end{itemize}
 
 \item \textbf{Problemes amb la proteïna}
   \begin{itemize}
   \item Inestabilitat de la proteïna: ús de soques deficients en proteases.
-  \item Plegaments incorrectes: es pot solucionar co-transformant amb xaperones o utilitzant cèl·lules eucariotes.
+  \item Plegaments incorrectes: es pot solucionar co-transformant amb
+    xaperones o utilitzant cèl·lules eucariotes.
   \item Manca de processament post-traduccional: ús de cèl·lules eucariotes.
-  \item Formació de cossos d'inclusió: es pot solucionar modificant la temperatura, el temps d'inducció, el medi de cultiu o fer servir una altra soca d'\textit{E. coli}. També es pot incloure tags de fusió de secreció o delecionar els extrems amino i carboxi de la proteïna.
+  \item Formació de cossos d'inclusió: es pot solucionar modificant la
+    temperatura, el temps d'inducció, el medi de cultiu o fer servir
+    una altra soca d'\textit{E. coli}. També es pot incloure tags de
+    fusió de secreció o delecionar els extrems amino i carboxi de la
+    proteïna.
   \end{itemize}
 \end{itemize}
 
-LLEVATS:
-Inclou un gen de selecció Leu.
+\subsubsection{Expressió heteròloga en llevats}
+\label{sec:expr-heter-en}
+
+Inclou un gen de selecció Leu. Es fan servir llevats deficitaris en la
+síntesi de Leu; de manera que només els llevats que adquireixen el
+vector sobreviuen en un medi auxotròfic per Leu.
+
+L'ús de llevats permet clonar fragments més grans de DNA.
+
+S'han desenvolupat YAC, que tenen el mateix comportament genètic i
+admenten fragments de DNA molt més grans. Presenten centròmer,
+telòmers. Porta origen de replicació bacterià i gen de resistència a
+ampicil·lina per si de cas es vol mantenir en bacteris.
+
+Clonació de la insulina: es va clonar primer la cadena B del genoma
+humà, després la cadena A i es van clonar les 2 en vectors diferents i
+transformar en 2 cultius diferents. Els bacteris degradaven la
+proteïna i es va decidir fusionar amb la beta-gal. La proteïna es
+tallava amb bromur de cianogen i es separaven les cadenes A i B, i
+mesclant les 2 cadenes en condicions adequades feien els ponts
+disulfur i s'obtenia insulina funcional. Quan la insulina s'injecta al
+múscul, difon lentament cap a la sang; però al múscul s'agregava i
+cristal·litzava. Es van identificar els aminoàcids que interaccionaven
+per cristal·litzar i es van canviar per Asp sense canviar la funció de
+la insulina.
+
+\subsection{Mutagènesi dirigida}
+\label{sec:mutagenesi-dirigida}
+
+\subsubsection{Heterodúplex}
+\label{sec:heteroduplex}
+Es clona un gen en un vector amb origen f1, s'activa f1 i quan es
+replica, es genera un plasmidi de cadena senzilla i es fa un primer
+que inclogui la mutació que es vol introduir.  Llavors queda un
+heterodúplex (1 cadena normal i l'altra mutada). Quan el bacteri
+repliqui el plàsmid hi haurà 2 poblacions: 1 amb el plasmidi normal i
+l'altre el plasmidi mutat.
+
+La selecció es fa amb l'ús de 2 primers en la mutació i un plàsmid amb
+el gen ampR mutat. El primer contindrà la mutació corregida, de manera
+que el plàsmid que contingui la mutació serà resistent a ampicil·lina
+i el plàsmid no mutat no s'amplificarà en els bacteris.
+
+\subsubsection{Reemplaçament de cassette}
+\label{sec:reempl-de-cass}
+
+
+La versió actual és per PCR amb megaprimer. Es dissenya un primer que
+hibridi a la zona on es vol introduir la mutació i que contingui
+aquests mutació (primer mutagènic). Es dissenya un altre primer a
+l'extrem més proper i es fa una PCR amb els 2 primers.
+
+La cadena curta resultant que conté la mutació es fa servir com a
+megaprimer, que anellarà a un extrem i es fa servir un primer de
+l'altre extrem per amplificar tot el gen.
