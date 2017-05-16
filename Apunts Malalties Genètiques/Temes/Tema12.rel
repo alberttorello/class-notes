@@ -1,0 +1,30 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex")
+
+(toc "toc" "    1 Defectes del tancament del tub neural" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 2 "1" "\\section{Defectes del tancament del tub neural}" 210)
+
+("sec:defect-del-tanc" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "    2 Defectes del tancament del tub neural" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 2 "1" "\\section{Defectes del tancament del tub neural}" 210)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex")
+))
+

@@ -1,0 +1,46 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex")
+
+(toc "toc" "    1 Hormones i ronyó" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 2 "1" "\\section{Hormones i ronyó}" 190)
+
+("sec:hormones-i-ronyo" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+
+(toc "toc" "      1.1 Neurohipòfisi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 3 "1.1" "\\subsection{Neurohipòfisi}" 306)
+
+("sec:neurohipofisi" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+
+(toc "toc" "        1.1.1 Hipofunció neurohiposifiària" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 4 "1.1.1" "\\subsubsection{Hipofunció neurohiposifiària}" 1238)
+
+("sec:hipof-neur" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+
+(toc "toc" "        1.1.2 Hiperfuncióneurohiposifiària" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 4 "1.1.2" "\\subsubsection{Hiperfuncióneurohiposifiària}" 2220)
+
+("sec:hiperf" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+
+(toc "toc" "      1.2 Glàndules suprarrenals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 3 "1.2" "\\subsection{Glàndules suprarrenals}" 2909)
+
+("sec:gland-supr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+
+(toc "toc" "    2 Hormones i ronyó" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 2 "1" "\\section{Hormones i ronyó}" 190)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex")
+))
+

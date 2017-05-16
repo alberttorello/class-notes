@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.27)  21 MAR 2017 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.17)  14 MAY 2017 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -31,7 +31,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
@@ -292,7 +292,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -455,7 +455,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enitdp@description=\count124
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pstricks/pstricks.sty
-Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
+Package: pstricks 2017/03/17 v0.63 LaTeX wrapper for `PSTricks' (RN,HV)
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
@@ -555,7 +555,7 @@ erarithmetics.code.tex)))
 )
 \psLoopIndex=\count143
 
-`PSTricks' v2.71  <2016/12/23> (tvz)
+`PSTricks' v2.72  <2017/04/06> (tvz)
 \pst@dima=\dimen160
 \pst@dimb=\dimen161
 \pst@dimc=\dimen162
@@ -601,10 +601,10 @@ erarithmetics.code.tex)))
 \sh@wgridYunit=\dimen183
 \pst@shift=\dimen184
 )
-File: pstricks.tex 2016/12/23 v2.71 `PSTricks' (tvz,hv)
+File: pstricks.tex 2017/04/06 v2.72 `PSTricks' (tvz,hv)
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pst-fp.tex)
-File: pst-fp.tex 2016/12/23 v2.71 `PST-fp' (hv)
+File: pst-fp.tex 2017/04/06 v2.72 `PST-fp' (hv)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
@@ -848,38 +848,21 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/chemformula/chemformula.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/03/07 v6984 L3 programming layer (loader) 
+Package: expl3 2017/04/01 L3 programming layer (loader) 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/03/07 v6984 L3 programming layer (code)
-L3 Module: l3bootstrap 2016/12/28 v6805 L3 Bootstrap code
-L3 Module: l3names 2017/02/19 v6962 L3 Namespace for primitives
-L3 Module: l3basics 2017/02/14 v6929 L3 Basic definitions
-L3 Module: l3expan 2017/02/20 v6967 L3 Argument expansion
-L3 Module: l3tl 2017/02/20 v6967 L3 Token lists
-L3 Module: l3str 2017/02/20 v6967 L3 Strings
-L3 Module: l3seq 2017/02/20 v6967 L3 Sequences and stacks
-L3 Module: l3int 2017/02/18 v6949 L3 Integers
+Package: expl3 2017/04/01 L3 programming layer (code)
 \c_max_int=\count174
 \l_tmpa_int=\count175
 \l_tmpb_int=\count176
 \g_tmpa_int=\count177
 \g_tmpb_int=\count178
-L3 Module: l3flag 2017/02/20 v6969 L3 Flags
-L3 Module: l3quark 2017/02/17 v6947 L3 Quarks
-L3 Module: l3prg 2017/02/12 v6906 L3 Control structures
 \g__prg_map_int=\count179
-L3 Module: l3clist 2017/02/20 v6967 L3 Comma separated lists
-L3 Module: l3token 2017/02/20 v6967 L3 Experimental token manipulation
-L3 Module: l3prop 2017/02/12 v6906 L3 Property lists
-L3 Module: l3msg 2017/02/20 v6966 L3 Messages
-L3 Module: l3file 2017/02/20 v6964 L3 File and I/O operations
 \c_log_iow=\count180
 \l_iow_line_count_int=\count181
 \l__iow_line_target_int=\count182
 \l__iow_one_indent_int=\count183
 \l__iow_indent_int=\count184
-L3 Module: l3skip 2017/02/20 v6968 L3 Dimensions and skips
 \c_zero_dim=\dimen286
 \c_max_dim=\dimen287
 \l_tmpa_dim=\dimen288
@@ -898,9 +881,7 @@ L3 Module: l3skip 2017/02/20 v6968 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-L3 Module: l3keys 2017/02/12 v6906 L3 Key-value interfaces
 \l_keys_choice_int=\count185
-L3 Module: l3fp 2017/02/14 v6923 L3 Floating points
 \c__fp_leading_shift_int=\count186
 \c__fp_middle_shift_int=\count187
 \c__fp_trailing_shift_int=\count188
@@ -913,7 +894,6 @@ L3 Module: l3fp 2017/02/14 v6923 L3 Floating points
 \c__fp_rand_size_int=\count195
 \c__fp_rand_four_int=\count196
 \c__fp_rand_eight_int=\count197
-L3 Module: l3sort 2017/02/20 v6967 L3 Sorting functions
 \l__sort_length_int=\count198
 \l__sort_min_int=\count199
 \l__sort_top_int=\count266
@@ -925,13 +905,11 @@ L3 Module: l3sort 2017/02/20 v6967 L3 Sorting functions
 \l__sort_A_int=\count272
 \l__sort_B_int=\count273
 \l__sort_C_int=\count274
-L3 Module: l3box 2017/02/17 v6943 L3 Experimental boxes
 \c_empty_box=\box74
 \l_tmpa_box=\box75
 \l_tmpb_box=\box76
 \g_tmpa_box=\box77
 \g_tmpb_box=\box78
-L3 Module: l3coffins 2017/02/12 v6906 L3 Coffin code layer
 \l__coffin_internal_box=\box79
 \l__coffin_internal_dim=\dimen292
 \l__coffin_offset_x_dim=\dimen293
@@ -951,10 +929,6 @@ L3 Module: l3coffins 2017/02/12 v6906 L3 Coffin code layer
 \l__coffin_display_offset_dim=\dimen299
 \l__coffin_display_x_dim=\dimen300
 \l__coffin_display_y_dim=\dimen301
-L3 Module: l3color 2016/12/28 v6805 L3 Experimental color support
-L3 Module: l3sys 2017/02/22 v6976 L3 Experimental system/runtime functions
-L3 Module: l3deprecation 2017/02/20 v6966 L3 Deprecation errors
-L3 Module: l3candidates 2017/02/20 v6967 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen302
 \l__box_bottom_dim=\dimen303
 \l__box_left_dim=\dimen304
@@ -971,15 +945,14 @@ L3 Module: l3candidates 2017/02/20 v6967 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen314
 \l__coffin_scaled_total_height_dim=\dimen315
 \l__coffin_scaled_width_dim=\dimen316
-L3 Module: l3luatex 2017/02/18 v6953 L3 Experimental LuaTeX-specific functions
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2017/02/18 v6953 L3 Experimental driver: PDF mode
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count275
 \l__driver_tmp_box=\box89
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2017/03/07 v6984 L3 Experimental document command parser
+Package: xparse 2017/04/01 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count276
 \g__xparse_grabber_int=\count277
 \l__xparse_m_args_int=\count278
@@ -987,18 +960,17 @@ Package: xparse 2017/03/07 v6984 L3 Experimental document command parser
 \l__xparse_v_nesting_int=\count280
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2017/03/07 v6984 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2017/04/01 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
 y
-Package: xtemplate 2017/03/07 v6984 L3 Experimental prototype document function
-s
+Package: xtemplate 2017/04/01 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen317
 \l__xtemplate_tmp_int=\count281
 \l__xtemplate_tmp_muskip=\muskip17
 \l__xtemplate_tmp_skip=\skip70
 )
-Package: xfrac 2017/03/07 v6984 L3 Experimental split-level fractions
+Package: xfrac 2017/04/01 L3 Experimental split-level fractions
 \l__xfrac_slash_box=\box90
 \l__xfrac_tmp_box=\box91
 \l__xfrac_denominator_bot_sep_dim=\dimen318
@@ -1011,12 +983,12 @@ Package: xfrac 2017/03/07 v6984 L3 Experimental split-level fractions
 .................................................
 . xtemplate info: "declare-object-type"
 . 
-. Declaring object type 'xfrac' taking 3 argument(s) on line 84.
+. Declaring object type 'xfrac' taking 3 argument(s) on line 80.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sfrac with sig. 'omom' on line 423.
+. Defining command \sfrac with sig. 'omom' on line 419.
 .................................................
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
@@ -1039,7 +1011,7 @@ File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
 \pgfarrowwidth=\dimen325
 \pgfarrowlinewidth=\dimen326
 )
-Package: chemformula 2016/08/21 v4.15c typeset chemical compounds and reactions
+Package: chemformula 2017/03/23 v4.15e typeset chemical compounds and reactions
  (CN)
 \l__chemformula_tmpa_dim=\dimen327
 \l__chemformula_tmpb_dim=\dimen328
@@ -1088,170 +1060,170 @@ Package: chemformula 2016/08/21 v4.15c typeset chemical compounds and reactions
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \charrow with sig. 'mO{}O{}' on line 824.
+. Defining command \charrow with sig. 'mO{}O{}' on line 823.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \NewChemArrow with sig. 'mm' on line 897.
+. Defining command \NewChemArrow with sig. 'mm' on line 896.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareChemArrow with sig. 'mm' on line 905.
+. Defining command \DeclareChemArrow with sig. 'mm' on line 904.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \RenewChemArrow with sig. 'mm' on line 912.
+. Defining command \RenewChemArrow with sig. 'mm' on line 911.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ProvideChemArrow with sig. 'mm' on line 922.
+. Defining command \ProvideChemArrow with sig. 'mm' on line 921.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ShowChemArrow with sig. 'm' on line 932.
+. Defining command \ShowChemArrow with sig. 'm' on line 931.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ch with sig. 'O{}m' on line 1208.
+. Defining command \ch with sig. 'O{}m' on line 1176.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \chcpd with sig. 'O{}m' on line 1230.
+. Defining command \chcpd with sig. 'O{}m' on line 1198.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \chname with sig. 'R(){}R(){}' on line 1308.
+. Defining command \chname with sig. 'R(){}R(){}' on line 1276.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \NewChemCompoundProperty with sig. 'mm' on line 1393.
+. Defining command \NewChemCompoundProperty with sig. 'mm' on line 1361.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \RenewChemCompoundProperty with sig. 'mm' on line 1396.
+. Defining command \RenewChemCompoundProperty with sig. 'mm' on line 1364.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ProvideChemCompoundProperty with sig. 'mm' on line 1399.
+. Defining command \ProvideChemCompoundProperty with sig. 'mm' on line 1367.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareChemCompoundProperty with sig. 'mm' on line 1402.
+. Defining command \DeclareChemCompoundProperty with sig. 'mm' on line 1370.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \RemoveChemCompoundProperty with sig. 'm' on line 1405.
+. Defining command \RemoveChemCompoundProperty with sig. 'm' on line 1373.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \NewChemBond with sig. 'mm' on line 1603.
+. Defining command \NewChemBond with sig. 'mm' on line 1571.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ProvideChemBond with sig. 'mm' on line 1606.
+. Defining command \ProvideChemBond with sig. 'mm' on line 1574.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareChemBond with sig. 'mm' on line 1609.
+. Defining command \DeclareChemBond with sig. 'mm' on line 1577.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \RenewChemBond with sig. 'mm' on line 1612.
+. Defining command \RenewChemBond with sig. 'mm' on line 1580.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \NewChemBondAlias with sig. 'mm' on line 1615.
+. Defining command \NewChemBondAlias with sig. 'mm' on line 1583.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareChemBondAlias with sig. 'mm' on line 1618.
+. Defining command \DeclareChemBondAlias with sig. 'mm' on line 1586.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ShowChemBond with sig. 'm' on line 1621.
+. Defining command \ShowChemBond with sig. 'm' on line 1589.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \bond with sig. 'm' on line 1624.
+. Defining command \bond with sig. 'm' on line 1592.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \chstoich with sig. 'm' on line 2223.
+. Defining command \chstoich with sig. 'm' on line 2191.
 .................................................
 \l__chemformula_additions_symbol_space_skip=\skip76
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \NewChemAdditionSymbol with sig. 'mmm' on line 2729.
+. Defining command \NewChemAdditionSymbol with sig. 'mmm' on line 2697.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ProvideChemAdditionSymbol with sig. 'mmm' on line 2738.
+. Defining command \ProvideChemAdditionSymbol with sig. 'mmm' on line 2706.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \RenewChemAdditionSymbol with sig. 'mmm' on line 2747.
+. Defining command \RenewChemAdditionSymbol with sig. 'mmm' on line 2715.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareChemAdditionSymbol with sig. 'mmm' on line 2750.
+. Defining command \DeclareChemAdditionSymbol with sig. 'mmm' on line 2718.
 .................................................
 \l__chemformula_plus_space_skip=\skip77
 \l__chemformula_minus_space_skip=\skip78
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \NewChemSymbol with sig. 'mm' on line 2795.
+. Defining command \NewChemSymbol with sig. 'mm' on line 2763.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ProvideChemSymbol with sig. 'mm' on line 2801.
+. Defining command \ProvideChemSymbol with sig. 'mm' on line 2769.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \RenewChemSymbol with sig. 'mm' on line 2808.
+. Defining command \RenewChemSymbol with sig. 'mm' on line 2776.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareChemSymbol with sig. 'mm' on line 2811.
+. Defining command \DeclareChemSymbol with sig. 'mm' on line 2779.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \chlewis with sig. 'O{}mm' on line 3366.
+. Defining command \chlewis with sig. 'O{}mm' on line 3334.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setchemformula with sig. 'm' on line 3371.
+. Defining command \setchemformula with sig. 'm' on line 3339.
 .................................................
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/texshade/texshade.sty
@@ -1370,7 +1342,7 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 File: block.tss 2016/03/15
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
@@ -1416,42 +1388,42 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 \Hy@pagecounter=\count328
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count329
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `hyperindex' set `true' on input line 4362.
-Package hyperref Info: Option `linktocpage' set `true' on input line 4362.
-Package hyperref Info: Hyper figures OFF on input line 4486.
-Package hyperref Info: Link nesting OFF on input line 4491.
-Package hyperref Info: Hyper index ON on input line 4494.
-Package hyperref Info: Plain pages OFF on input line 4501.
-Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4374.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4735.
+Package hyperref Info: Bookmarks ON on input line 4751.
 \c@Hy@tempcnt=\count330
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip20
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5088.
+LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen364
 \Fld@menulength=\count331
 \Field@Width=\dimen365
 \Fld@charsize=\dimen366
-Package hyperref Info: Hyper figures OFF on input line 6342.
-Package hyperref Info: Link nesting OFF on input line 6347.
-Package hyperref Info: Hyper index ON on input line 6350.
-Package hyperref Info: backreferencing OFF on input line 6357.
-Package hyperref Info: Link coloring OFF on input line 6362.
-Package hyperref Info: Link coloring with OCG OFF on input line 6367.
-Package hyperref Info: PDF/A mode OFF on input line 6372.
-LaTeX Info: Redefining \ref on input line 6412.
-LaTeX Info: Redefining \pageref on input line 6416.
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
 \Hy@abspage=\count332
 \c@Item=\count333
 \c@Hfootnote=\count334
@@ -1460,7 +1432,7 @@ LaTeX Info: Redefining \pageref on input line 6416.
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
 \Fld@listcount=\count335
 \c@bookmark@seq@number=\count336
 
@@ -1909,6 +1881,15 @@ Library (tcolorbox): 'tcbbreakable.code.tex' version '4.02'
 \c@example=\count365
  (./Apunts ENG.aux
 
+LaTeX Warning: Label `sec:caract-de-lexpr' multiply defined.
+
+
+LaTeX Warning: Label `sec:dot-blot' multiply defined.
+
+
+LaTeX Warning: Label `sec:microxips' multiply defined.
+
+
 LaTeX Warning: Label `eq:1' multiply defined.
 
 )
@@ -2068,7 +2049,7 @@ LaTeX Info: Redefining \nameref on input line 213.
 \openout9 = `"Apunts ENG.out"'.
 
 
-<Logo.jpg, id=191, 632.3625pt x 438.63875pt>
+<Logo.jpg, id=260, 632.3625pt x 438.63875pt>
 File: Logo.jpg Graphic file (type jpg)
  <use Logo.jpg>
 Package pdftex.def Info: Logo.jpg used on input line 226.
@@ -2147,13 +2128,21 @@ l.82 ... dels productes d'expressi\'o}{44}{part.3}
                                                   
 ? 
 
+Overfull \hbox (3.7721pt too wide) in paragraph at lines 84--93
+ []|\T1/jkp/m/n/10.95 Southern Blot| --- []45[]  \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/
+m/n/10.95 Northern Blot| --- []46[] \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 Rev
+erse Trans-crip-ta-se PCR| --- []47[] \TS1/jkp/m/n/10.95 ˆ |\T1/jkp/m/n/10.95 H
+ibridació
+ []
+
+
 ! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 ...ns de l'enginyeria gen\`etica}{45}{part.4}
+l.111 ...s de l'enginyeria gen\`etica}{60}{part.4}
                                                   
 ? 
 
@@ -2163,65 +2152,65 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84 ...part}{V\hspace {1em}Seminaris}{46}{part.5}
+l.112 ...art}{V\hspace {1em}Seminaris}{61}{part.5}
                                                   
 ? 
-)
+[1])
 \tf@toc=\write10
 \openout10 = `"Apunts ENG.toc"'.
 
- [1] (./Temes/Tema1.texpdfTeX warning (ext4): destination with the same identif
+ [2] (./Temes/Tema1.texpdfTeX warning (ext4): destination with the same identif
 ier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.45 \item E
             lecció del vector: Si el volem propagar en procariotes o [1]
-[2] <Pictures/fig16.png, id=276, 1014.79124pt x 339.2675pt>
+[2] <Pictures/fig16.png, id=367, 1014.79124pt x 339.2675pt>
 File: Pictures/fig16.png Graphic file (type png)
 
 <use Pictures/fig16.png>
 Package pdftex.def Info: Pictures/fig16.png used on input line 104.
 (pdftex.def)             Requested size: 469.47049pt x 156.95534pt.
  [3 <./Pictures/fig16.png>]
-<Pictures/fig3.png, id=291, 860.21375pt x 225.84375pt>
+<Pictures/fig3.png, id=382, 860.21375pt x 225.84375pt>
 File: Pictures/fig3.png Graphic file (type png)
  <use Pictures/fig3.png>
 Package pdftex.def Info: Pictures/fig3.png used on input line 151.
 (pdftex.def)             Requested size: 234.73524pt x 61.62648pt.
 
-<Pictures/fig4.png, id=292, 605.26125pt x 285.065pt>
+<Pictures/fig4.png, id=383, 605.26125pt x 285.065pt>
 File: Pictures/fig4.png Graphic file (type png)
  <use Pictures/fig4.png>
 Package pdftex.def Info: Pictures/fig4.png used on input line 174.
 (pdftex.def)             Requested size: 234.73524pt x 110.55289pt.
 
-[4 <./Pictures/fig3.png>] <Pictures/fig7.png, id=302, 645.41125pt x 538.01pt>
+[4 <./Pictures/fig3.png>] <Pictures/fig7.png, id=393, 645.41125pt x 538.01pt>
 File: Pictures/fig7.png Graphic file (type png)
 
 <use Pictures/fig7.png>
 Package pdftex.def Info: Pictures/fig7.png used on input line 209.
 (pdftex.def)             Requested size: 281.68515pt x 234.80414pt.
  [5 <./Pictures/fig4.png>]
-<Pictures/fig5.png, id=310, 596.2275pt x 392.46625pt>
+<Pictures/fig5.png, id=400, 596.2275pt x 392.46625pt>
 File: Pictures/fig5.png Graphic file (type png)
  <use Pictures/fig5.png>
 Package pdftex.def Info: Pictures/fig5.png used on input line 231.
 (pdftex.def)             Requested size: 234.73524pt x 154.51044pt.
 
 [6 <./Pictures/fig7.png> <./Pictures/fig5.png>]
-<Pictures/fig6.png, id=319, 661.47125pt x 175.65625pt>
+<Pictures/fig6.png, id=409, 661.47125pt x 175.65625pt>
 File: Pictures/fig6.png Graphic file (type png)
  <use Pictures/fig6.png>
 Package pdftex.def Info: Pictures/fig6.png used on input line 250.
 (pdftex.def)             Requested size: 234.73524pt x 62.33293pt.
 
-<Pictures/fig8.png, id=320, 401.5pt x 642.4pt>
+<Pictures/fig8.png, id=410, 401.5pt x 642.4pt>
 File: Pictures/fig8.png Graphic file (type png)
  <use Pictures/fig8.png>
 Package pdftex.def Info: Pictures/fig8.png used on input line 278.
 (pdftex.def)             Requested size: 140.84258pt x 225.35309pt.
 
-<Pictures/fig9.png, id=321, 563.10374pt x 554.07pt>
+<Pictures/fig9.png, id=411, 563.10374pt x 554.07pt>
 File: Pictures/fig9.png Graphic file (type png)
  <use Pictures/fig9.png>
 Package pdftex.def Info: Pictures/fig9.png used on input line 296.
@@ -2242,21 +2231,21 @@ LaTeX Font Info:    No file LGRjkp.fd. on input line 345.
 LaTeX Font Warning: Font shape `LGR/jkp/m/n' undefined
 (Font)              using `LGR/cmr/m/n' instead on input line 345.
 
-[9] <Pictures/fig11.png, id=339, 504.88625pt x 545.03625pt>
+[9] <Pictures/fig11.png, id=428, 504.88625pt x 545.03625pt>
 File: Pictures/fig11.png Graphic file (type png)
 
 <use Pictures/fig11.png>
 Package pdftex.def Info: Pictures/fig11.png used on input line 382.
 (pdftex.def)             Requested size: 234.73524pt x 253.40598pt.
  [10 <./Pictures/fig11.png>]
-<Pictures/fig1.png, id=346, 306.14375pt x 435.6275pt>
+<Pictures/fig1.png, id=436, 306.14375pt x 435.6275pt>
 File: Pictures/fig1.png Graphic file (type png)
  <use Pictures/fig1.png>
 Package pdftex.def Info: Pictures/fig1.png used on input line 435.
 (pdftex.def)             Requested size: 234.73524pt x 334.01837pt.
 
 [11 <./Pictures/fig1.png>]
-<Pictures/fig2.png, id=354, 643.40375pt x 774.895pt>
+<Pictures/fig2.png, id=443, 643.40375pt x 774.895pt>
 File: Pictures/fig2.png Graphic file (type png)
  <use Pictures/fig2.png>
 Package pdftex.def Info: Pictures/fig2.png used on input line 469.
@@ -2267,35 +2256,35 @@ Overfull \hbox (43.6944pt too wide) in paragraph at lines 122--137
  [][] 
  []
 
-<Pictures/fig12.png, id=393, 591.20876pt x 214.8025pt>
+<Pictures/fig12.png, id=484, 591.20876pt x 214.8025pt>
 File: Pictures/fig12.png Graphic file (type png)
 
 <use Pictures/fig12.png>
 Package pdftex.def Info: Pictures/fig12.png used on input line 153.
 (pdftex.def)             Requested size: 328.6279pt x 119.40034pt.
 
-<Pictures/fig13.png, id=394, 657.45625pt x 219.82124pt>
+<Pictures/fig13.png, id=485, 657.45625pt x 219.82124pt>
 File: Pictures/fig13.png Graphic file (type png)
 
 <use Pictures/fig13.png>
 Package pdftex.def Info: Pictures/fig13.png used on input line 161.
 (pdftex.def)             Requested size: 328.6279pt x 109.8768pt.
  [17 <./Pictures/fig12.png>]
-<Pictures/fig14.png, id=402, 655.44875pt x 65.24374pt>
+<Pictures/fig14.png, id=492, 655.44875pt x 65.24374pt>
 File: Pictures/fig14.png Graphic file (type png)
 
 <use Pictures/fig14.png>
 Package pdftex.def Info: Pictures/fig14.png used on input line 168.
 (pdftex.def)             Requested size: 328.6279pt x 32.71138pt.
  [18 <./Pictures/fig13.png> <./Pictures/fig14.png>]
-<Pictures/fig18.png, id=411, 540.0175pt x 700.6175pt>
+<Pictures/fig18.png, id=501, 540.0175pt x 700.6175pt>
 File: Pictures/fig18.png Graphic file (type png)
  <use Pictures/fig18.png>
 Package pdftex.def Info: Pictures/fig18.png used on input line 277.
 (pdftex.def)             Requested size: 469.47049pt x 609.10468pt.
 
 [19] [20 <./Pictures/fig18.png>]
-<Pictures/fig19.png, id=423, 550.055pt x 782.925pt>
+<Pictures/fig19.png, id=513, 550.055pt x 782.925pt>
 File: Pictures/fig19.png Graphic file (type png)
  <use Pictures/fig19.png>
 Package pdftex.def Info: Pictures/fig19.png used on input line 300.
@@ -2307,7 +2296,7 @@ Overfull \hbox (7.1387pt too wide) in paragraph at lines 387--392
 la de-o-xi-nu-cle-o-tid trans-
  []
 
-[23] <Pictures/fig20.png, id=443, 679.53876pt x 740.7675pt>
+[23] <Pictures/fig20.png, id=533, 679.53876pt x 740.7675pt>
 File: Pictures/fig20.png Graphic file (type png)
 
 <use Pictures/fig20.png>
@@ -2315,20 +2304,20 @@ Package pdftex.def Info: Pictures/fig20.png used on input line 463.
 (pdftex.def)             Requested size: 352.10286pt x 383.82233pt.
  [24] [25 <./Pictures/fig20.png>]) [26]
 (./Temes/Tema3.tex [27] [28]) [29] (./Temes/Tema4.tex
-<Pictures/fig21.png, id=504, 479.7925pt x 54.2025pt>
+<Pictures/fig21.png, id=593, 479.7925pt x 54.2025pt>
 File: Pictures/fig21.png Graphic file (type png)
  <use Pictures/fig21.png>
 Package pdftex.def Info: Pictures/fig21.png used on input line 47.
 (pdftex.def)             Requested size: 375.57782pt x 42.42995pt.
 
 [30 <./Pictures/fig21.png>]
-<Pictures/fig22.png, id=518, 352.31625pt x 119.44624pt>
+<Pictures/fig22.png, id=608, 352.31625pt x 119.44624pt>
 File: Pictures/fig22.png Graphic file (type png)
 
 <use Pictures/fig22.png>
 Package pdftex.def Info: Pictures/fig22.png used on input line 59.
 (pdftex.def)             Requested size: 375.57782pt x 127.33232pt.
- <Pictures/fig23.png, id=519, 622.325pt x 343.2825pt>
+ <Pictures/fig23.png, id=609, 622.325pt x 343.2825pt>
 File: Pictures/fig23.png Graphic file (type png)
 
 <use Pictures/fig23.png>
@@ -2341,27 +2330,27 @@ Overfull \hbox (0.70027pt too wide) in paragraph at lines 34--39
 ps d'in-com-pa-ti-bi-li-tat \T1/jkp/m/n/12 dels plàs-mids, són plàs-
  []
 
-<Pictures/fig24.png, id=533, 656.4525pt x 727.71875pt>
+<Pictures/fig24.png, id=623, 656.4525pt x 727.71875pt>
 File: Pictures/fig24.png Graphic file (type png)
 
 <use Pictures/fig24.png>
 Package pdftex.def Info: Pictures/fig24.png used on input line 58.
 (pdftex.def)             Requested size: 352.10286pt x 390.3306pt.
  [33]
-<Pictures/fig25.png, id=539, 657.45625pt x 244.915pt>
+<Pictures/fig25.png, id=629, 657.45625pt x 244.915pt>
 File: Pictures/fig25.png Graphic file (type png)
  <use Pictures/fig25.png>
 Package pdftex.def Info: Pictures/fig25.png used on input line 68.
 (pdftex.def)             Requested size: 352.10286pt x 131.16835pt.
 
-<Pictures/fig26.png, id=540, 495.8525pt x 690.58pt>
+<Pictures/fig26.png, id=630, 495.8525pt x 690.58pt>
 File: Pictures/fig26.png Graphic file (type png)
  <use Pictures/fig26.png>
 Package pdftex.def Info: Pictures/fig26.png used on input line 82.
 (pdftex.def)             Requested size: 352.10286pt x 490.37845pt.
 
 [34 <./Pictures/fig24.png> <./Pictures/fig25.png>]
-<Pictures/fig27.png, id=549, 575.14874pt x 183.68625pt>
+<Pictures/fig27.png, id=640, 575.14874pt x 183.68625pt>
 File: Pictures/fig27.png Graphic file (type png)
 
 <use Pictures/fig27.png>
@@ -2380,20 +2369,20 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 163.
 
-<Pictures/fig28.png, id=565, 546.04pt x 275.0275pt>
+<Pictures/fig28.png, id=655, 546.04pt x 275.0275pt>
 File: Pictures/fig28.png Graphic file (type png)
  <use Pictures/fig28.png>
 Package pdftex.def Info: Pictures/fig28.png used on input line 193.
 (pdftex.def)             Requested size: 352.10286pt x 177.3473pt.
 
 [37 <./Pictures/fig28.png>]
-<Pictures/fig29.png, id=574, 523.9575pt x 433.62pt>
+<Pictures/fig29.png, id=664, 523.9575pt x 433.62pt>
 File: Pictures/fig29.png Graphic file (type png)
  <use Pictures/fig29.png>
 Package pdftex.def Info: Pictures/fig29.png used on input line 215.
 (pdftex.def)             Requested size: 352.10286pt x 291.40388pt.
 
-<Pictures/fig30.png, id=575, 623.32875pt x 289.08pt>
+<Pictures/fig30.png, id=665, 623.32875pt x 289.08pt>
 File: Pictures/fig30.png Graphic file (type png)
  <use Pictures/fig30.png>
 Package pdftex.def Info: Pictures/fig30.png used on input line 231.
@@ -2405,85 +2394,106 @@ File: Pictures/fig30.png Graphic file (type png)
 Package pdftex.def Info: Pictures/fig30.png used on input line 269.
 (pdftex.def)             Requested size: 352.10286pt x 163.29521pt.
 
-<Pictures/fig32.png, id=584, 550.055pt x 637.38126pt>
+<Pictures/fig32.png, id=674, 550.055pt x 637.38126pt>
 File: Pictures/fig32.png Graphic file (type png)
  <use Pictures/fig32.png>
 Package pdftex.def Info: Pictures/fig32.png used on input line 282.
 (pdftex.def)             Requested size: 352.10286pt x 408.01015pt.
 
 [39]) [40 <./Pictures/fig32.png>] [41] (./Temes/Tema6.tex [42]) [43] [44]
-[45] (./Temes/S1.tex <Pictures/fig15.png, id=627, 1245.65375pt x 649.42625pt>
+(./Temes/Tema7.tex [45] [46] [47] [48]
+<Pictures/fig33.png, id=748, 469.755pt x 157.58875pt>
+File: Pictures/fig33.png Graphic file (type png)
+ <use Pictures/fig33.png>
+Package pdftex.def Info: Pictures/fig33.png used on input line 245.
+(pdftex.def)             Requested size: 375.57782pt x 125.9942pt.
+
+[49 <./Pictures/fig33.png>]
+<Pictures/fig34.png, id=758, 786.94pt x 557.08125pt>
+File: Pictures/fig34.png Graphic file (type png)
+ <use Pictures/fig34.png>
+Package pdftex.def Info: Pictures/fig34.png used on input line 296.
+(pdftex.def)             Requested size: 375.57782pt x 265.87439pt.
+)
+[50 <./Pictures/fig34.png>] (./Temes/Tema8.tex
+Overfull \hbox (1.70415pt too wide) in paragraph at lines 51--53
+[]\T1/jkp/m/n/12 Sonicador: uti-lit-za ul-tra-sons amb fre-qüèn-cia d'u-na 50 k
+Hz, que des-tru-ei-xen cèl\TS1/jkp/m/n/12 ·\T1/jkp/m/n/12 lules
+ []
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+[]\T1/jkp/m/n/12 Propietats mag-nè-ti-
+ []
+
+[52] [53] [54] [55] [56] [57] [58]) [59] [60] (./Temes/S1.tex
+<Pictures/fig15.png, id=828, 1245.65375pt x 649.42625pt>
 File: Pictures/fig15.png Graphic file (type png)
 
 <use Pictures/fig15.png>
 Package pdftex.def Info: Pictures/fig15.png used on input line 31.
 (pdftex.def)             Requested size: 399.05278pt x 208.04855pt.
- [46 <./Pictures/fig15.png (PNG copy)>] [47] [48])
-[49] [50] (./Temes/S2.tex [51] [52]
+ [61 <./Pictures/fig15.png (PNG copy)>] [62] [63])
+[64] [65] (./Temes/S2.tex [66] [67]
 Overfull \hbox (0.78368pt too wide) in paragraph at lines 107--110
 \T1/jkp/m/n/12 Des-prés s'u-sa un d'a-quests frag-ments com a son-da en Sout-he
 rn Blot des-prés d'haver-
  []
 
-) [53] (./Temes/S3.tex [54]
+) [68] (./Temes/S3.tex [69]
 Underfull \hbox (badness 10000) in paragraph at lines 61--63
 
  []
 
-[55] <Pictures/fig17.png, id=692, 876.27374pt x 766.865pt>
+[70] <Pictures/fig17.png, id=894, 876.27374pt x 766.865pt>
 File: Pictures/fig17.png Graphic file (type png)
 
 <use Pictures/fig17.png>
 Package pdftex.def Info: Pictures/fig17.png used on input line 71.
 (pdftex.def)             Requested size: 375.57782pt x 328.6924pt.
- [56 <./Pictures/fig17.png>]) [57]
+ [71 <./Pictures/fig17.png>]) [72]
 No file "Apunts ENG".bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 384.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 384.
 (./Apunts ENG.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 384.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 384.
+Package rerunfilecheck Info: File `"Apunts ENG".out' has not changed.
+(rerunfilecheck)             Checksum: 97738E715A088A296760E4EB1158BA52;4635.
 
-
-Package rerunfilecheck Warning: File `"Apunts ENG".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Apunts ENG".out':
-(rerunfilecheck)             Before: 47062A04708A22A5B23B49BB6A88219A;3387
-(rerunfilecheck)             After:  2442D154D60DEE930D747B49D40C9FB0;3393.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 384.
  ) 
 Here is how much of TeX's memory you used:
- 41855 strings out of 493013
- 769433 string characters out of 6133343
- 1064181 words of memory out of 5000000
- 44460 multiletter control sequences out of 15000+600000
- 162506 words of font info for 142 fonts, out of 8000000 for 9000
+ 42049 strings out of 493013
+ 772900 string characters out of 6133343
+ 1068329 words of memory out of 5000000
+ 44569 multiletter control sequences out of 15000+600000
+ 178196 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,12n,83p,10378b,678s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.en
-c}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+ 54i,12n,83p,10378b,792s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2016/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive/2016/texm
-f-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texmf-dist/fonts
-/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
-ublic/kpfonts/jkpsy.pfb>
-Output written on "Apunts ENG.pdf" (59 pages, 3094874 bytes).
+ive/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbit8a.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/kpfonts/jkpbsc8a.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/kpfonts/jkpsy.pfb>
+Output written on "Apunts ENG.pdf" (75 pages, 3335034 bytes).
 PDF statistics:
- 797 PDF objects out of 1000 (max. 8388607)
- 659 compressed objects within 7 object streams
- 252 named destinations out of 1000 (max. 500000)
- 536 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1017 PDF objects out of 1200 (max. 8388607)
+ 854 compressed objects within 9 object streams
+ 324 named destinations out of 1000 (max. 500000)
+ 694 words of extra memory for PDF output out of 10000 (max. 10000000)
 
