@@ -1,0 +1,30 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S6.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S6.tex")
+
+(toc "toc" "    1 Interferència d'RNA" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S6.tex" nil 2 "1" "\\section{Interferència d'RNA}" 151)
+
+("sec:interferencia-drna" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S6.tex" nil "")
+
+(toc "toc" "    2 Interferència d'RNA" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S6.tex" nil 2 "1" "\\section{Interferència d'RNA}" 151)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Eng. Genètica/Temes/S6.tex")
+))
+

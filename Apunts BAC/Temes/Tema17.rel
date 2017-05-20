@@ -19,27 +19,45 @@
 
 (bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex")
 
-(toc "toc" "    1 Hormones i ronyó" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 2 "1" "\\section{Hormones i ronyó}" 190)
+(toc "toc" "    1 Control hormonal: neurohipòfisi i suprarrenals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 2 "1" "\\section{Control hormonal: neurohipòfisi i suprarrenals}" 219)
 
-("sec:hormones-i-ronyo" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+("sec:hormones-i-ronyo" "s" "\\subsection{Neurohipòfisi}  L'hipotàlem sintetitza la vasopressina i la oxitocina. Circulen al siste" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil)
 
 (toc "toc" "      1.1 Neurohipòfisi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 3 "1.1" "\\subsection{Neurohipòfisi}" 306)
 
-("sec:neurohipofisi" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+("sec:neurohipofisi" "s" "L'hipotàlem sintetitza la vasopressina i la oxitocina. Circulen al sistema nerviós amb proteïnes de " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil)
 
 (toc "toc" "        1.1.1 Hipofunció neurohiposifiària" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 4 "1.1.1" "\\subsubsection{Hipofunció neurohiposifiària}" 1238)
 
-("sec:hipof-neur" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+("sec:hipof-neur" "s" "Pot ser deguda a un dany de les cèl·lules, a una obstrucció de la secreció... Es produeix un dèficit" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil)
 
-(toc "toc" "        1.1.2 Hiperfuncióneurohiposifiària" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 4 "1.1.2" "\\subsubsection{Hiperfuncióneurohiposifiària}" 2220)
+(toc "toc" "        1.1.2 Hiperfunció neurohiposifiària" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 4 "1.1.2" "\\subsubsection{Hiperfunció neurohiposifiària}" 2220)
 
-("sec:hiperf" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+("sec:hiperf" "s" "També s'anomena síndrome de secreció inapropiada d'ADH (SSIADH). Pot ser degut a: \\begin{itemize} " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil)
 
 (toc "toc" "      1.2 Glàndules suprarrenals" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 3 "1.2" "\\subsection{Glàndules suprarrenals}" 2909)
 
-("sec:gland-supr" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil "")
+("sec:gland-supr" "s" "Està regulada per l'eix hipotàlem-adenohipòfisi. %% Completar \\subsubsection{Mineralocorticoides}  L" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil)
 
-(toc "toc" "    2 Hormones i ronyó" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 2 "1" "\\section{Hormones i ronyó}" 190)
+(toc "toc" "        1.2.1 Mineralocorticoides" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 4 "1.2.1" "\\subsubsection{Mineralocorticoides}" 3034)
+
+("sec:mineralocorticoides" "s" "La més important és l'aldosterona. La desoxicorticosterona i la corticosterona tenen una activitat s" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil)
+
+(toc "toc" "          1.2.1.1 Hiperaldosteronisme" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 5 "1.2.1.1" "\\paragraph{Hiperaldosteronisme}" 4992)
+
+(toc "toc" "          1.2.1.2 Hipoaldosteronisme" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 5 "1.2.1.2" "\\paragraph{Hipoaldosteronisme}" 6318)
+
+(toc "toc" "        1.2.2 Glucocorticoides" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 4 "1.2.2" "\\subsubsection{Glucocorticoides}" 6829)
+
+("sec:glucocorticoides" "s" "Es sintetitza a partir del colesterol. ACTH activa la síntesi de colesterol i pregnenolona. Presente" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil)
+
+(toc "toc" "          1.2.2.1 Hiperplàsia suprarenal congènita" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 5 "1.2.2.1" "\\paragraph{Hiperplàsia suprarenal congènita}" 9115)
+
+(toc "toc" "          1.2.2.2 Hiperplàsia suprarenal congènita" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 5 "1.2.2.1" "\\paragraph{Hiperplàsia suprarenal congènita}" 9115)
+
+(toc "toc" "        1.2.3 Catecolamines" "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil 4 "1.2.3" "\\subsubsection{Catecolamines}" 9898)
+
+("sec:catecolamines" "s" " " "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex" nil)
 
 (eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts BAC/Temes/Tema17.tex")
 ))
