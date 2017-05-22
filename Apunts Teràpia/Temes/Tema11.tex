@@ -4,6 +4,16 @@
 \section{Gene delivery}
 \label{sec:gene-delivery}
 
+Els avantatges de la teràpia cel·lular és que l'entrega del gen pot
+ser local i sostinguda. L'expressió del gen pot ser regulada i la
+proteïna es processa de manera correcta. És adequada per productes
+gènics intracel·lulars (RNA i proteïnes). Aquesta teràpia pot
+necessitar només una dosi.
+
+Ara bé, els vectors virals que es poden utilitzar poden tenir efectes
+indesitjats i hi hagut molts assajos clínics fallits. Els vectors no
+virals tenen una eficiència molt baixa.
+
 Els vectors vírics són més eficients i com que tenen tropisme això
 permet la direcció del virus cap a un tipus cel·lular diana concret.
 
@@ -15,6 +25,65 @@ cel·lular.
 
 \subsection{Mètodes de transfecció cel·lular}
 \label{sec:metod-de-transf}
+
+Alguns àcids nucleics són efectius en el citosol: mRNAs sintètics
+(modificats químicament) codificants de proteïna; oligonucleòtids
+antisentit; siRNAs o miRNAs.
+
+El DNA codificant ha d'assolir el nucli per la seva
+transcripció. Entre ells, el DNA codificant de proteïna o el DNA
+codificant de RNA antisentit: shRNA i pri-miRNAmimics.
+
+la síntesi de RNA química no enzimàtica normalment només produeix RNA
+que són 40-80 nucleòtids de llarg. Els RNA es poden produir \textit{in vitro}
+utilitzant una reacció de transcripció enzimàtica a partir d'una
+plantilla de plasmidi de DNA lineal catalitzada per una RNA polimerasa
+T7, SP6 o T3.
+
+En la seva forma més simple, el mRNAs està format pel transgèn
+d'interès flanquejat per seqüències curtes 5 'i 3' no codificants amb
+una estructura de caputxa 5 'terminal i una cua poli 3' terminal (A).
+
+Les mRNA sintètics modificats són transcrits \textit{in vitro}
+utilitzant un conjunt de diversos anàlegs de nucleòtids (sols o
+combinat) durant el procés de transcripció. Exhibeixen propietats
+farmacocinètiques millorades en termes d'estabilitat (augment de la
+resistència a les nucleases) i la disminució de la immunogenicitat.
+
+El mRNA es lliura dins de les cèl·lules on es converteix per la
+maquinària de traducció cel·lular en la proteïna codificada.
+
+\begin{itemize}
+\item \textbf{Oligonucleòtids antisentit:} DNA de cadena senzilla (12-15
+  nucleòtids). Formen dímers per complementarietat de seqüència amb
+  el mRNA diana endogen que condueix a la seva degradació o al bloqueig
+  de la traducció. Actuen preferentment en el citoplasma i poden
+  actuar de nucli.
+
+\item \textbf{RNA d'interferència (siRNA):} Molècules de RN de doble
+  cadena (25 bp). Una de les cadenes és complementària a un mRNA diana
+  endogen. Els siRNA típicament s'uneixen perfectament al seu mRNA
+  diana. El complex entre el RISC amb un siRNA unit reconeix molècules
+  de mRNA complementaris i les degrada. Els siRNAs actuen al citoplasma.
+
+\item \textbf{premi-RNAs o mi-RNA mímics:} Molècules petites de doble
+  cadena de RNA químicament modificades. Es dissenyen per imitar
+  molècules madures de miRNA endògenes i per regular l'alça la seva
+  funcionalitat.
+
+\item \textbf{Anti-miARN (inhibidors de miARN):} Molècules de RNA de cadena
+  simple petites i químicament modificades. Estan dissenyats per
+  apuntar molècules de mi-RNA individuals i fer-hi KD.
+\end{itemize}
+
+Per aconseguir una bona transfecció cal:
+\begin{enumerate}
+\item El fragment de DNA d'interès: cDNA i regió 5' reguladora
+  adequada.
+\item Sistema d'expressió del cDNA
+\item Bon mètode de transfecció
+\item Bon sistema de detecció de l'efecte.
+\end{enumerate}
 
 El fragment de DNA d'interès  ha de tenir un cDNA i una regió 5'
 reguladora. El promotor del gen pot ser:
@@ -28,7 +97,8 @@ La transfecció pot ser:
 \begin{itemize}
 \item \textbf{Transitòria:} El transgen transfectat no passa a les cèl·lules
   filles ja que no està inserit al genoma. L'expressió del transgen es
-  dona en un període de temps curt (48 h).
+  dona en un període de temps curt (48 h). Cal una expressió alta i un
+  elevat nombre de cèl·lules transfectades.
 \item \textbf{Estable:} El transgen s'expressa de manera estable i es retén
   durant la divisió cel·lular. El transgen es pot integrar de manera
   aleatòria o per recombinació o bé mantenir-lo com a episoma. Cal un
@@ -42,7 +112,9 @@ La transfecció es pot dur a terme per:
   \item Fosfat càlcic: es formen precipitats de DNA amb fosfat
 i clorur de calci, i seguit d'un xoc osmòtic amb glicerol s'apliquen
 els cristalls sobre el cultiu.
-  \item Polímers: El DEAE-dextran també necessita un xoc osmòtic.
+  \item Polímers: El DEAE-dextran també necessita un xoc osmòtic. Pot
+    ser tòxica per alguns tipus cel·lulars. Provoca canvis morfològics
+    i en cèl·lules adherides presenta un 25-75\% de mortalitat.
   \item Lipídics: permeten la transfecció de molts tipus
 cel·lulars.
   \end{itemize}
@@ -57,9 +129,61 @@ cel·lulars.
   \end{itemize}
 \end{itemize}
 
-\subsection{Entrega el gen in vivo}
+\subsection{Vectors virals}
+\label{sec:vectors-virals}
+
+Un virus és un biosistema elemental que empaqueta àcids nucleics (DNA
+o RNA de cadena doble o simple) i interacciona amb cèl·lules hostes.
+
+Els vectors vírics són virus deficients. Se'ls ha eliminat una part o
+tot el seu genoma (si és possible) per evitar que completin el cicle
+de vida en qualsevol cèl·lula hoste.
+
+Els gens virals eliminats, si són indispensables, són proporcionats de
+manera separada (en trans) mitjançant cèl·lules empaquetadores
+cultivades a l'laboratori (p.ex. clons HEK-293). En aquestes cèl·lules
+es sintetitzen els àcids nucleics virals i s'encapsiden formant
+partícules víriques.
+
+Els vectors vírics porten inserit el gen d'interès a transferir
+flanquejat pels mínims elements de DNA / RNA necessaris per replicar o
+retrotranscribir l'àcid nucleic, empaquetat en la càpside proteica.
+
+Quan s'utilitzen virus \textit{in vitro} s'han de tenir en compte el
+tropisme, l'entrada a nucli de cèl·lules quiescents, l'eficiència de
+transducció i si el virus és integratiu o no. Es fan servir ja sigui
+per sobreexpressar gens o inhibir l'expressió d'un gen endogen.
+
+\subsection{Entrega del gen in vivo}
 \label{sec:entrega-el-gen}
+
+Una via d'administració eficient pot millora l'eficiència de
+transfecció al teixit diana. Es pot administrar local o sistèmicament:
+\begin{enumerate}[a)]
+\item Via intranasal o intratraqueal
+\item Via vaginal
+\item Injecció intratumoral
+\item Injecció ocular directa
+\item Injecció directa al cervell o infusió directa als ventricles
+\item Entrega dinàmica a un teixit aïllat
+\item Injecció per catèter a una vena
+\item Subcutània
+\item Intramuscular
+\item Intraperitoneal
+\end{enumerate}
 
 Els vectors han de ser capaços de transfectar les cèl·lules diana i no
 activar la resposta immunitària.
 
+Cal tenir en compte la farmacocinètica (propietats de distribució de
+substàncies administrades en un organisme viu):
+\begin{itemize}
+\item Alliberament de la forma farmacèutica.
+\item Absorció: Moviment des del lloc d'administració (no sistèmica)
+  fins a la circulació sanguínia.
+\item Distribució: Difusió o transferència des de l'espai
+  intravascular a l'espai extravascular (teixits).
+\item Metabolisme: Conversió química o transformació en compostos
+  fàcilment eliminables.
+\item Excreció: Eliminació del compost o metabòlits de l'organisme.
+\end{itemize}

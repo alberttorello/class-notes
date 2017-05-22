@@ -69,5 +69,79 @@
 \contentsline {section}{\numberline {10}Models cel\IeC {\textperiodcentered }lulars i animals}{57}{section.10}
 \contentsline {section}{\numberline {11}Gene delivery}{60}{section.11}
 \contentsline {subsection}{\numberline {11.1}M\`etodes de transfecci\'o cel\IeC {\textperiodcentered }lular}{60}{subsection.11.1}
-\contentsline {part}{Refer\`encies}{61}{section*.1}
+\contentsline {subsection}{\numberline {11.2}Vectors virals}{62}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Entrega del gen in vivo}{62}{subsection.11.3}
+\contentsline {section}{\numberline {12}Vectors no virals}{64}{section.12}
+\contentsline {subsection}{\numberline {12.1}Captaci\'o cel\IeC {\textperiodcentered }lular de DNA nu}{64}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}M\`etodes qu\IeC {\'\i }mics}{65}{subsection.12.2}
+\contentsline {subsubsection}{\numberline {12.2.1}Liposomes cati\`onics}{66}{subsubsection.12.2.1}
+\contentsline {paragraph}{\numberline {12.2.1.1}Estructura}{67}{paragraph.12.2.1.1}
+\contentsline {paragraph}{\numberline {12.2.1.2}Captaci\'o cel\IeC {\textperiodcentered }lular}{68}{paragraph.12.2.1.2}
+\contentsline {paragraph}{\numberline {12.2.1.3}Aplicacions \textit {in vitro}}{68}{paragraph.12.2.1.3}
+\contentsline {paragraph}{\numberline {12.2.1.4}Aplicacions \textit {in vivo}}{69}{paragraph.12.2.1.4}
+\contentsline {subsubsection}{\numberline {12.2.2}Polications}{69}{subsubsection.12.2.2}
+\contentsline {paragraph}{\numberline {12.2.2.1}Captaci\'o cel\IeC {\textperiodcentered }lular}{69}{paragraph.12.2.2.1}
+\contentsline {paragraph}{\numberline {12.2.2.2}Aplicacions \textit {in vitro}}{70}{paragraph.12.2.2.2}
+\contentsline {paragraph}{\numberline {12.2.2.3}Aplicacions \textit {in vivo}}{70}{paragraph.12.2.2.3}
+\contentsline {paragraph}{\numberline {12.2.2.4}Polications biodegradables}{71}{paragraph.12.2.2.4}
+\contentsline {subsubsection}{\numberline {12.2.3}P\`eptids de penetraci\'o cel\IeC {\textperiodcentered }lular}{71}{subsubsection.12.2.3}
+\contentsline {paragraph}{\numberline {12.2.3.1}Mecanismes de captaci\'o}{72}{paragraph.12.2.3.1}
+\contentsline {paragraph}{\numberline {12.2.3.2}Aplicaci\'o \textit {in vitro}}{73}{paragraph.12.2.3.2}
+\contentsline {paragraph}{\numberline {12.2.3.3}Aplicaci\'o \textit {in vivo}}{73}{paragraph.12.2.3.3}
+\contentsline {subsubsection}{\numberline {12.2.4}Vectors proteics modulars multifuncionals}{74}{subsubsection.12.2.4}
+\contentsline {subsection}{\numberline {12.3}M\`etodes f\IeC {\'\i }sics}{75}{subsection.12.3}
+\contentsline {subsubsection}{\numberline {12.3.1}Hidroporaci\'o}{75}{subsubsection.12.3.1}
+\contentsline {subsubsection}{\numberline {12.3.2}Electroporaci\'o}{76}{subsubsection.12.3.2}
+\contentsline {paragraph}{\numberline {12.3.2.1}Aplicaci\'o \textit {in vitro}}{76}{paragraph.12.3.2.1}
+\contentsline {paragraph}{\numberline {12.3.2.2}Aplicaci\'o \textit {in vivo}}{77}{paragraph.12.3.2.2}
+\contentsline {subsubsection}{\numberline {12.3.3}Magnetofecci\'o}{77}{subsubsection.12.3.3}
+\contentsline {paragraph}{\numberline {12.3.3.1}Aplicaci\'o \textit {in vitro}}{77}{paragraph.12.3.3.1}
+\contentsline {paragraph}{\numberline {12.3.3.2}Aplicaci\'o \textit {in vivo}}{77}{paragraph.12.3.3.2}
+\contentsline {subsubsection}{\numberline {12.3.4}Sonoporaci\'o}{78}{subsubsection.12.3.4}
+\contentsline {paragraph}{\numberline {12.3.4.1}Micro(nano)bombolles}{78}{paragraph.12.3.4.1}
+\contentsline {paragraph}{\numberline {12.3.4.2}Micro(nano)part\IeC {\'\i }cules biodegradables}{78}{paragraph.12.3.4.2}
+\contentsline {paragraph}{\numberline {12.3.4.3}Aplicaci\'o \textit {in vitro}}{78}{paragraph.12.3.4.3}
+\contentsline {paragraph}{\numberline {12.3.4.4}Aplicaci\'o \textit {in vivo}}{79}{paragraph.12.3.4.4}
+\contentsline {subsubsection}{\numberline {12.3.5}L\`aser}{79}{subsubsection.12.3.5}
+\contentsline {paragraph}{\numberline {12.3.5.1}Transfecci\'o \`optica (optoinjecci\'o)}{79}{paragraph.12.3.5.1}
+\contentsline {paragraph}{\numberline {12.3.5.2}Aplicaci\'o \textit {in vitro}}{79}{paragraph.12.3.5.2}
+\contentsline {paragraph}{\numberline {12.3.5.3}Ones de xoc indu\IeC {\@umlaut \i }des per l\`aser}{79}{paragraph.12.3.5.3}
+\contentsline {paragraph}{\numberline {12.3.5.4}Aplicabilitat \textit {in vitro}}{80}{paragraph.12.3.5.4}
+\contentsline {paragraph}{\numberline {12.3.5.5}Aplicabilitat \textit {in vivo}}{80}{paragraph.12.3.5.5}
+\contentsline {subsubsection}{\numberline {12.3.6}Microprojectils. Pistoles de DNA}{80}{subsubsection.12.3.6}
+\contentsline {paragraph}{\numberline {12.3.6.1}Aplicabilitat \textit {in vivo}}{80}{paragraph.12.3.6.1}
+\contentsline {subsubsection}{\numberline {12.3.7}Microinjecci\'o}{81}{subsubsection.12.3.7}
+\contentsline {paragraph}{\numberline {12.3.7.1}Aplicabilitat \textit {in vitro}}{81}{paragraph.12.3.7.1}
+\contentsline {section}{\numberline {13}Barreres cel\IeC {\textperiodcentered }lulars}{82}{section.13}
+\contentsline {subsection}{\numberline {13.1}Entrega sist\`emica i barreres extracel\IeC {\textperiodcentered }lulars}{82}{subsection.13.1}
+\contentsline {subsubsection}{\numberline {13.1.1}Metabolisme sist\`emic}{82}{subsubsection.13.1.1}
+\contentsline {paragraph}{\numberline {13.1.1.1}Endonucleases s\`eriques}{82}{paragraph.13.1.1.1}
+\contentsline {paragraph}{\numberline {13.1.1.2}Agregaci\'o amb prote\IeC {\@umlaut \i }nes s\`eriques}{83}{paragraph.13.1.1.2}
+\contentsline {paragraph}{\numberline {13.1.1.3}Agregaci\'o amb c\`el\IeC {\textperiodcentered }lules sangu\IeC {\'\i }nies i fagocitosi}{83}{paragraph.13.1.1.3}
+\contentsline {paragraph}{\numberline {13.1.1.4}Excreci\'o renal}{83}{paragraph.13.1.1.4}
+\contentsline {subsubsection}{\numberline {13.1.2}Barreres extracel\IeC {\textperiodcentered }lulars}{84}{subsubsection.13.1.2}
+\contentsline {paragraph}{\numberline {13.1.2.1}Endoteli}{84}{paragraph.13.1.2.1}
+\contentsline {paragraph}{\numberline {13.1.2.2}Membranes}{85}{paragraph.13.1.2.2}
+\contentsline {paragraph}{\numberline {13.1.2.3}Mucus}{85}{paragraph.13.1.2.3}
+\contentsline {subsection}{\numberline {13.2}Interacci\'o cel\IeC {\textperiodcentered }lular}{85}{subsection.13.2}
+\contentsline {subsubsection}{\numberline {13.2.1}Cobertura sense lligand}{85}{subsubsection.13.2.1}
+\contentsline {subsubsection}{\numberline {13.2.2}Cobertura amb lligand}{85}{subsubsection.13.2.2}
+\contentsline {subsection}{\numberline {13.3}Captaci\'o}{86}{subsection.13.3}
+\contentsline {subsubsection}{\numberline {13.3.1}Fusi\'o amb la membrana}{86}{subsubsection.13.3.1}
+\contentsline {subsubsection}{\numberline {13.3.2}Endocitosi}{86}{subsubsection.13.3.2}
+\contentsline {paragraph}{\numberline {13.3.2.1}Endocitosi mitjan\c cada per receptor}{87}{paragraph.13.3.2.1}
+\contentsline {paragraph}{\numberline {13.3.2.2}Fagocitosi}{87}{paragraph.13.3.2.2}
+\contentsline {paragraph}{\numberline {13.3.2.3}Macropinocitosi}{88}{paragraph.13.3.2.3}
+\contentsline {subsubsection}{\numberline {13.3.3}P\`eptids de penetraci\'o cel\IeC {\textperiodcentered }lular}{88}{subsubsection.13.3.3}
+\contentsline {subsection}{\numberline {13.4}Sortida de l'endosoma i estabilitat al citoplasma}{89}{subsection.13.4}
+\contentsline {subsubsection}{\numberline {13.4.1}Alliberament de les ves\IeC {\'\i }cules endoc\IeC {\'\i }tiques}{89}{subsubsection.13.4.1}
+\contentsline {subsubsection}{\numberline {13.4.2}Mobilitat i estabilitat dels \`acids nucleics lliures en el citoplasma}{90}{subsubsection.13.4.2}
+\contentsline {subsection}{\numberline {13.5}Transport nuclear}{90}{subsection.13.5}
+\contentsline {subsubsection}{\numberline {13.5.1}Mitosi}{90}{subsubsection.13.5.1}
+\contentsline {subsubsection}{\numberline {13.5.2}Importaci\'o nuclear}{90}{subsubsection.13.5.2}
+\contentsline {subsubsection}{\numberline {13.5.3}Exportaci\'o nuclear}{93}{subsubsection.13.5.3}
+\contentsline {section}{\numberline {14}Vectors virals}{94}{section.14}
+\contentsline {subsection}{\numberline {14.1}Introducci\'o}{94}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Adenovirus}{95}{subsection.14.2}
+\contentsline {part}{Refer\`encies}{96}{section*.1}
 \contentsfinish 

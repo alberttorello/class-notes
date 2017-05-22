@@ -1,7 +1,6 @@
 %--------------------------------------------------------
 % S3. Vectors d'eucariotes
 %--------------------------------------------------------
-
 \section{Vectors d'eucariotes}
 \label{sec:vectors-deucariotes}
 
@@ -58,7 +57,8 @@ D'aquesta manera:
 
 Això, però, ens suposa un problema, ja que el tRNA de SUP4 farà que qualsevol codó STOP normal no tingui el seu ús habitual; les cèl·lules seguiran sent viables però les proteïnes tindran una longitud major.
 
-\subsubsection{Estratègia de clonatge amb YACs} \hfill \\
+\subsubsection{Estratègia de clonatge amb YACs}
+S'utilitzen diverses soques:
 \begin{itemize}
 \item \textbf{Soca AB1380:} contenen URA3, TRP1 i ade2.1. L'al·lel ade2.1 provoca un bloqueig en la síntesi de l'adenina, causant un cúmul de pigment vermell a la cèl·lula. És suprimible per SUP4.
 \item \textbf{pYAC:} contenen URA3, TRP1 i SUP4.
@@ -82,7 +82,85 @@ Amb l'ús d'altres vectors, com BACs o PACs, perdem capacitat, però el quimerisme
 
 \subsection{Vectors per plantes}
 \label{sec:vectors-de-plantes}
-Els vector de plantes i animals es basen en genomes vírics. Els vectors derivats del plàsmid Ti. \textit{Agrobacterium tumefaciens} transfereix el plàsmid a la cèl·lula de la planta i després el plàsmid s'integra al genoma de la planta. S'indueix la proliferació cel·lular i s'activa la síntesi de compostos que són d'aliment per \textit{A. tumefaciens}. El problema és que Ti és molt gran i és molt complicat clonar un fragment. El que s'ha fet és dividir el plàmid en 2: una part que conté les funcions del plàsmid i un altre que conté les regions per transferir el gen a la planta.
+
+Encara que no hi ha plasmidis d'origen naturalconeguts en plantes superiors, un plasmidi bacterià, el plasmidi Ti d'\textit{Agrobacterium tumefaciens}, és de gran importància. \textit{A. tumefaciens} és un microorganisme del sòl que causa la malaltia d'agalla de la corona a moltes espècies de plantes dicotiledònies. L'agalla de la corona es produeix quan una ferida en el plançó permet a \textit{A. tumefaciens} envair la planta. Després de la infecció dels bacteris causen una proliferació cancerosa del teixit de la tija a la regió de la corona.
+
+La capacitat de causar la malaltia agalla de la corona està associat amb la presència del plasmidi Ti (inductor de tumors) dins de la cèl·lula bacteriana. Aquest és un plasmidi gran (més gran que 200 kb) que porta nombrosos gens implicats en el procés infecciós. Una característica del plasmidi Ti és que, després de la infecció, part de la molècula s'integra en el DNA cromosòmic de la planta. Aquest segment, anomenat el T-DNA, és d'entre 15 i 30 kb de grandària, depenent de la soca. Es manté en una forma estable a la cèl·lula vegetal i es passa a les cèl·lules filles com una part integral dels cromosomes. No obstant això, la característica més notable del plasmidi Ti és que el T-DNA conté vuit o més gens que s'expressen en la cèl·lula vegetal i són responsables de les propietats canceroses de les cèl·lules transformades. Aquests gens també dirigeixen la síntesi de compostos inusuals, anomenats opines, que els bacteris utilitzen com a nutrients.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\textwidth]{fig38}
+\caption{Mecanisme del plàsmid Ti}
+\label{fig:fig38}
+\end{figure}
+
+Es van adonar molt ràpidament que el plasmidi Ti podria ser utilitzat per transportar nous gens en cèl·lules de plantes. Tot el que caldria seria inserir els nous gens en el T-DNA i després el bacteri podria fer el treball dur de la seva integració en el DNA cromosòmic de la planta. A la pràctica això ha demostrat ser una proposició difícil, principalment a causa de la gran grandària del plasmidi Ti, que fa la manipulació de la molècula molt difícil.
+
+El principal problema és, per descomptat, que un lloc de restricció únic és una impossibilitat amb un plasmidi de 200 kb de grandària. S'han de desenvolupar noves estratègies per a la inserció d'un nou ADN en el plasmidi. Dos d'ells són d'ús general:
+\begin{itemize}
+\item L'estratègia de \textbf{vector binari} es basa en l'observació que el T-DNA no ha d'estar unit físicament a la resta del plasmidi Ti. Un sistema de dos plasmidi, amb el T-DNA en una molècula relativament petita, i la resta del plasmidi en forma normal, és igual d'eficaç en la transformació de cèl·lules vegetals. De fet, algunes soques d'\textit{A tumefaciens}, i agrobacteris relacionats, tenen sistemes de plasmidis binaris naturals. El plasmidi T-DNA és prou petit per tenir un lloc de restricció únic i per ser manipulat usant tècniques estàndard.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{fig39}
+\label{fig:fig39}
+\end{figure}
+
+\item L'estratègia de \textbf{co-integració}  utilitza un plasmidi totalment nou, basat
+en un vector d'\textit{E coli}, però que porta una petita porció de T-DNA. La homologia entre la nova molècula i el plasmidi Ti vol dir que si tots dos són presents en la mateixa cèl·lula d'\textit{A. tumefaciens}, la recombinació pot integrar el plasmidi d'\textit{E. coli} a la regió de T-DNA. Per tant, el gen a clonar s'insereix en un lloc de restricció únic al petit plasmidi d'\textit{E coli}, s'introdueix en cèl·lules d'\textit{A. tumefaciens} que porten un plasmidi Ti, i el procés de recombinació natural porta integrar el nou gen en el T-DNA. La infecció de la planta condueix a la inserció del nou gen, juntament amb la resta de la T-DNA, en els cromosomes de la planta.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6\textwidth]{fig40}
+\label{fig:fig40}
+\end{figure}
+
+\end{itemize}
+
+Una planta madura regenerada a partir de cèl·lules transformades contindrà el gen clonat en cada cèl·lula i passarà el gen clonat a la seva descendència. No obstant això, la regeneració d'una planta transformada pot ocórrer només si el vector Ti ha estat "desarmat" de manera que les cèl·lules transformades no mostren propietats canceroses. El \textit{disarming} és possible perquè els gens del càncer, tots els quals es troben en el T-DNA, no són necessaris per al procés infecciós, la infectivitat es controla principalment per la regió de virulència del plasmidi Ti. De fet, les úniques parts del T-DNA que estan implicades en la infecció són dues seqüències de 25 pb repetides que es troben en les regions esquerra i dret de la zona integrada en el DNA de la planta. Qualsevol DNA situat entre aquestes dues seqüències de repetició serà tractat com "T-DNA" i es transfereix a la planta. Per tant, és possible eliminar tots els gens del càncer del T-DNA normal, i reemplaçar amb un nou conjunt de gens, sense pertorbar el procés d'infecció.
+
+Un bon nombre de vectors de clonació Ti desarmats estan disponibles, sent el vector binari pBIN19 un exemple típic. Les vores de T-DNA esquerre i dret presents en aquest vector flanquegen una còpia del gen lacZ ', que conté un MCS, i un gen de resistència a kanamicina que funciona després de la integració de les seqüències del vector en el cromosoma de la planta. Les manipulacions inicials que resulten en la inserció del gen a clonar en pBIN19 es duen a terme en \textit{E. coli}, la molècula d'pBIN19 recombinant correcta es transfeix a \textit{A. tumefaciens} i d'allí a la planta. Les cèl·lules vegetals transformades es seleccionen cultivant en placa sobre medi d'agar que conté kanamicina.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{fig41}
+\label{fig:fig41}
+\end{figure}
+
+La transferència gènica directa fa ús de DNA plasmídic superenrotllat, possiblement un plasmidi bacterià simple, en el qual s'ha inserit un marcador apropiat seleccionable (per exemple, un gen de resistència a kanamicina) i el gen per ser clonat. La biolística s'utilitza amb freqüència per introduir el plasmidi de DNA en embrions de plantes, però si les espècies de plantes presenten regeneració a partir de protoplasts o cèl·lules individuals hi ha altres estratègies més eficients que la biolística.
+
+Un mètode implica la resuspensió dels protoplasts en una solució viscosa de glicol de polietilè, un polímer carregat negativament que es va pensar per precipitar el DNA sobre les superfícies dels protoplasts i per induir la captació per endocitosi.
+
+\subsection{Vectors per a insectes}
+\label{sec:vectors-per-insectes}
+
+La mosca de la fruita, \textit{Drosophila melanogaster}, ha estat i segueix sent un dels organismes model més importants utilitzats pels biòlegs.
+
+El desenvolupament de vectors de clonació per a \textit{Drosophila} ha pres una ruta diferent a la que va seguir amb bacteris, llevats, plantes i mamífers. Sense plasmidis coneguts a \textit{Drosophila} i encara que són susceptibles a la infecció amb virus, aquests no s'han utilitzat com a base per a la clonació en vectors. En lloc d'això, la clonació en \textit{Drosophila} fa ús d'un transposó anomenat  element P.
+
+Els transposons són comuns en tots els tipus d'organismes. Són peces curtes de DNA (en general menys de 10 kb de longitud) que es poden moure des d'una posició a una altra en els cromosomes d'una cèl·lula. Els elements P, que són un dels diversos tipus de transposó en \textit{Drosophila}, són de 2,9 kb de longitud i contenen tres gens flanquejats per seqüències de repetició invertides curtes a cada extrem de l'element. Els gens codifiquen per a la transposasa, l'enzim que porta a terme el procés de transposició, i les repeticions invertides formen les seqüències de reconeixement que permeten a l'enzim per identificar els dos extrems del transposó inserit.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{fig42}
+\caption{Elements P de \textit{Drosophila}}
+\label{fig:fig42}
+\end{figure}
+
+A més de moure's d'un lloc a un altre dins d'un únic cromosoma, els elements P també poden saltar entre els cromosomes, o entre un plasmidi que porta un element P i un dels cromosomes de la mosca. Aquesta última és la clau per a l'ús dels elements P com a vectors de clonació. El vector és un plasmidi que porta dos elements P, un dels quals conté el lloc d'inserció per el DNA que es clona. La inserció del nou DNA en aquest element P resulta en la interrupció del seu gen de latransposasa, de manera que aquest element és inactiu. Per tant, el segon element P portat pel plasmidi és un que té una versió intacta del gen de la transposasa. Idealment, aquest segon element no ha de ser en si mateix transferit als cromosomes de \textit{Drosophila}, pel que té les seves "ales tallades": les seves repeticions invertides s'eliminen de manera que la transposasa no el reconeix com un element real P. Una vegada que el gen a clonar s'ha inserit en el vector, el DNA plasmídic es microinjecta en embrions de mosca de la fruita. La transposasa de l'element P d'ales retallades dirigeix ??la transferència de l'element P modificat en un dels cromosomes de la mosca de la fruita. Si això passa dins d'un nucli germinal, llavors la mosca adulta que es desenvolupa a partir de l'embrió portarà còpies del gen clonat en totes les seves cèl·lules.
 
 \subsection{Vectors per mamífers}
 \label{sec:vectors-per-mamifers}
+
+Durant molts anys es va pensar que els virus podrien arribar a ser la clau per a la clonació en mamífers. Aquesta expectativa ha estat realitzada només parcialment. El primer experiment de clonació que implicava cèl·lules de mamífer es va dur a terme el 1979 amb un vector basat en virus de simi 40 (SV40). Aquest virus és capaç d'infectar a diverses espècies de mamífers, seguint un cicle lític en alguns amfitrions i un cicle lisogènic en d'altres. El genoma és de 5,2 kb de grandària i conté dos conjunts de gens, els gens "early", expressades d'hora en el cicle d'infecció i que codifiquen per proteïnes implicades en la replicació del DNA viral, i els gens "late", que codifiquen per proteïnes de la càpside viral. SV40 pateix del mateix problema que $\lambda$ i caulimovirus de plantes, en què les limitacions d'embalatge limiten la quantitat de DNA nou que es pot inserir en el genoma. La clonació amb SV40 implica la substitució d'un o més dels gens existents amb el DNA a clonar. En l'experiment original un segment de la regió del gen tard es va reemplaçar, però la substitució del gen ``early'' és també una opció.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{fig43}
+\caption{SV40 com a vector de clonació en mamífers}
+\label{fig:fig43}
+\end{figure}
+
+Una de les raons per les que els vectors virals no s'han generalitzat en la clonació de gens de mamífer és perquè es va descobrir en la dècada de 1990 que la manera més eficaç de transferir nous gens en cèl·lules de mamífers és per microinjecció. Encara que un procediment difícil de dur a terme, la microinjecció de plasmidis bacterians, o còpies de DNA lineals de gens, en nuclis de mamífers han resultat en el DNA inserit en els cromosomes, possiblement com a múltiples còpies en tàndem. Aquest procediment és generalment vist com el més satisfactori que l'ús d'un vector viral, ja que evita la possibilitat que el DNA viral infecti les cèl·lules i causi defectes d'un tipus o un altre.
+
+La microinjecció de DNA és la base per a la creació d'un animal transgènic, un que conté un gen clonat en totes les seves cèl·lules. Un ratolí transgènic pot ser generat per microinjecció d'una cèl·lula ou fertilitzada que posteriorment es van cultivar \textit{in vitro} durant diverses divisions cel·lulars i després s'implanta en una mare receptora. Alternativament, es pot utilitzar una cèl·lula (ES) mare embrionària. Aquestes s'obtenen a partir d'un embrió primerenci, a diferència de la majoria de cèl·lules de mamífer, són pluripotents. Després de la microinjecció, la cèl·lula ES es col·loca de nou en un embrió que s'implanta en la mare receptora. El ratolí resultant és una quimera, que comprèn una barreja de cèl·lules modificades i no modificades, ja que l'embrió que rep la cèl·lula ES també conté un nombre de cèl·lules ordinàries. Els ratolins no quimèrics, que contenen el gen clonat en totes les seves cèl·lules, s'obtenen per permetre que la quimera es reprodueixi, i alguns de la descendència es derivarà d'òvuls que contenen el gen clonat.
