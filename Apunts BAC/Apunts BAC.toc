@@ -121,60 +121,202 @@
 \contentsline {paragraph}{\numberline {7.3.4.4}Marcadors no enzim\`atics}{66}{paragraph.7.3.4.4}
 \contentsline {section}{\numberline {8}Disfuncions del metabolisme gluc\IeC {\'\i }dic}{68}{section.8}
 \contentsline {subsection}{\numberline {8.1}Regulaci\'o de la concentraci\'o de la glucosa sangu\IeC {\'\i }nia}{68}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}Hipergluc\`emies}{69}{subsection.8.2}
-\contentsline {subsubsection}{\numberline {8.2.1}Alteracions metab\`oliques}{70}{subsubsection.8.2.1}
-\contentsline {subsubsection}{\numberline {8.2.2}Complicacions}{71}{subsubsection.8.2.2}
-\contentsline {subsection}{\numberline {8.3}Par\`ametres cl\IeC {\'\i }nics}{72}{subsection.8.3}
-\contentsline {subsubsection}{\numberline {8.3.1}Glucosa}{72}{subsubsection.8.3.1}
-\contentsline {subsubsection}{\numberline {8.3.2}Sobrec\`arrega oral de glucosa (SOG)}{72}{subsubsection.8.3.2}
-\contentsline {subsubsection}{\numberline {8.3.3}Insulina}{73}{subsubsection.8.3.3}
-\contentsline {subsubsection}{\numberline {8.3.4}Glicohemoglobines}{74}{subsubsection.8.3.4}
-\contentsline {subsubsection}{\numberline {8.3.5}Fructosamines}{75}{subsubsection.8.3.5}
-\contentsline {subsubsection}{\numberline {8.3.6}Microalbumin\'uria}{75}{subsubsection.8.3.6}
-\contentsline {subsubsection}{\numberline {8.3.7}Cossos cet\`onics}{75}{subsubsection.8.3.7}
-\contentsline {subsection}{\numberline {8.4}Hipogluc\`emies}{76}{subsection.8.4}
-\contentsline {subsubsection}{\numberline {8.4.1}Fisiol\`ogica}{76}{subsubsection.8.4.1}
-\contentsline {subsubsection}{\numberline {8.4.2}Patol\`ogiques}{76}{subsubsection.8.4.2}
-\contentsline {subsection}{\numberline {8.5}Intoler\`ancies}{77}{subsection.8.5}
-\contentsline {section}{\numberline {9}Disfuncions del metabolisme lip\IeC {\'\i }dic}{78}{section.9}
-\contentsline {subsection}{\numberline {9.1}Conceptes generals}{78}{subsection.9.1}
-\contentsline {subsubsection}{\numberline {9.1.1}Tipus de lipoprote\IeC {\@umlaut \i }nes, composici\'o i estructura}{78}{subsubsection.9.1.1}
-\contentsline {subsubsection}{\numberline {9.1.2}Metabolisme de les lipoprote\IeC {\@umlaut \i }nes}{79}{subsubsection.9.1.2}
-\contentsline {paragraph}{\numberline {9.1.2.1}Via ex\`ogena}{80}{paragraph.9.1.2.1}
-\contentsline {paragraph}{\numberline {9.1.2.2}Via end\`ogena}{80}{paragraph.9.1.2.2}
-\contentsline {paragraph}{\numberline {9.1.2.3}Transport revers de colesterol}{81}{paragraph.9.1.2.3}
-\contentsline {subsection}{\numberline {9.2}Par\`ametres anal\IeC {\'\i }tics}{82}{subsection.9.2}
-\contentsline {subsubsection}{\numberline {9.2.1}Aterosclerosi}{82}{subsubsection.9.2.1}
-\contentsline {subsubsection}{\numberline {9.2.2}Dislip\`emia}{83}{subsubsection.9.2.2}
-\contentsline {subsubsection}{\numberline {9.2.3}Lipoprote\IeC {\@umlaut \i }nes}{85}{subsubsection.9.2.3}
-\contentsline {subsubsection}{\numberline {9.2.4}Colesterol}{85}{subsubsection.9.2.4}
-\contentsline {subsubsection}{\numberline {9.2.5}Triacilglicerols}{85}{subsubsection.9.2.5}
-\contentsline {subsection}{\numberline {9.3}Dislip\`emies}{86}{subsection.9.3}
-\contentsline {subsubsection}{\numberline {9.3.1}Hiperlipoprote\IeC {\@umlaut \i }n\`emies prim\`aries}{88}{subsubsection.9.3.1}
-\contentsline {subsubsection}{\numberline {9.3.2}Hiperlipoprote\IeC {\@umlaut \i }n\`emies secund\`aries}{89}{subsubsection.9.3.2}
-\contentsline {subsubsection}{\numberline {9.3.3}Hipolipoprote\IeC {\@umlaut \i }n\`emies}{89}{subsubsection.9.3.3}
-\contentsline {subsubsection}{\numberline {9.3.4}Tractament}{90}{subsubsection.9.3.4}
-\contentsline {section}{\numberline {10}El fetge}{91}{section.10}
-\contentsline {subsection}{\numberline {10.1}El fetge}{91}{subsection.10.1}
-\contentsline {subsubsection}{\numberline {10.1.1}Circulaci\'o hep\`atica}{91}{subsubsection.10.1.1}
-\contentsline {subsubsection}{\numberline {10.1.2}Funcions hep\`atiques}{91}{subsubsection.10.1.2}
-\contentsline {subsection}{\numberline {10.2}Estudi de la funci\'o excretora}{91}{subsection.10.2}
-\contentsline {subsubsection}{\numberline {10.2.1}Producci\'o de bilirrubina - Icter\IeC {\'\i }cia}{91}{subsubsection.10.2.1}
-\contentsline {paragraph}{\numberline {10.2.1.1}Determinaci\'o de bilirubina}{93}{paragraph.10.2.1.1}
-\contentsline {paragraph}{\numberline {10.2.1.2}Icter\IeC {\'\i }cia}{93}{paragraph.10.2.1.2}
-\contentsline {subsubsection}{\numberline {10.2.2}\`Acids biliars}{94}{subsubsection.10.2.2}
-\contentsline {subsection}{\numberline {10.3}Estudi de la capacitat detoxificadora}{95}{subsection.10.3}
-\contentsline {subsubsection}{\numberline {10.3.1}Eliminaci\'o de xenobi\`otics}{95}{subsubsection.10.3.1}
-\contentsline {subsection}{\numberline {10.4}Estudi de les capacitats biosint\`etica i metab\`olica}{95}{subsection.10.4}
-\contentsline {subsubsection}{\numberline {10.4.1}Prote\IeC {\@umlaut \i }nes}{95}{subsubsection.10.4.1}
-\contentsline {subsubsection}{\numberline {10.4.2}L\IeC {\'\i }pids i lipoprote\IeC {\@umlaut \i }nes}{96}{subsubsection.10.4.2}
-\contentsline {subsubsection}{\numberline {10.4.3}Amino\`acids i nitrogen am\IeC {\'\i }nic}{96}{subsubsection.10.4.3}
-\contentsline {subsubsection}{\numberline {10.4.4}Gl\'ucids}{96}{subsubsection.10.4.4}
-\contentsline {subsection}{\numberline {10.5}Marcadors s\`erics}{96}{subsection.10.5}
-\contentsline {subsubsection}{\numberline {10.5.1}Transaminases}{96}{subsubsection.10.5.1}
-\contentsline {subsubsection}{\numberline {10.5.2}Fosfatasa alcalina}{97}{subsubsection.10.5.2}
-\contentsline {subsubsection}{\numberline {10.5.3}$\gamma $-glutamil transpeptidasa}{97}{subsubsection.10.5.3}
-\contentsline {subsubsection}{\numberline {10.5.4}5'-nucleotidasa}{97}{subsubsection.10.5.4}
-\contentsline {subsection}{\numberline {10.6}Alteracions hep\`atiques}{98}{subsection.10.6}
-\contentsline {subsubsection}{\numberline {10.6.1}Hepatitis v\IeC {\'\i }riques}{98}{subsubsection.10.6.1}
+\contentsline {subsubsection}{\numberline {8.1.1}Metabolisme de la glucosa}{68}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.2}Entrada de glucosa a la c\`el\IeC {\textperiodcentered }lula}{69}{subsubsection.8.1.2}
+\contentsline {subsubsection}{\numberline {8.1.3}Regulaci\'o de l'homeostasi de la glucosa}{69}{subsubsection.8.1.3}
+\contentsline {subsection}{\numberline {8.2}Hipergluc\`emia}{71}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}Diabetis}{71}{subsubsection.8.2.1}
+\contentsline {paragraph}{\numberline {8.2.1.1}Diabetis mellitus de tipus 1}{72}{paragraph.8.2.1.1}
+\contentsline {paragraph}{\numberline {8.2.1.2}Diabetis mellitus de tipus 2}{72}{paragraph.8.2.1.2}
+\contentsline {paragraph}{\numberline {8.2.1.3}Diabetis mellitus gestacional}{73}{paragraph.8.2.1.3}
+\contentsline {paragraph}{\numberline {8.2.1.4}Diabetis mellitus d'altres tipus}{73}{paragraph.8.2.1.4}
+\contentsline {subsubsection}{\numberline {8.2.2}Estadis pre-diab\`etics}{74}{subsubsection.8.2.2}
+\contentsline {subsubsection}{\numberline {8.2.3}Criteris diagn\`ostics de la diabetis mellitus}{74}{subsubsection.8.2.3}
+\contentsline {subsubsection}{\numberline {8.2.4}Simptomatologia cl\IeC {\'\i }nica}{75}{subsubsection.8.2.4}
+\contentsline {paragraph}{\numberline {8.2.4.1}Complicacions agudes de la diabetis}{75}{paragraph.8.2.4.1}
+\contentsline {paragraph}{\numberline {8.2.4.2}Complicacions cr\`oniques de la diabetis}{76}{paragraph.8.2.4.2}
+\contentsline {subsection}{\numberline {8.3}Par\`ametres cl\IeC {\'\i }nics}{77}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {8.3.1}M\`etodes qu\IeC {\'\i }mics}{77}{subsubsection.8.3.1}
+\contentsline {subsubsection}{\numberline {8.3.2}M\`etodes enzim\`atics}{77}{subsubsection.8.3.2}
+\contentsline {paragraph}{\numberline {8.3.2.1}Variabilitat pre-metrol\`ogica}{78}{paragraph.8.3.2.1}
+\contentsline {subsubsection}{\numberline {8.3.3}Sobrec\`arrega oral de glucosa}{79}{subsubsection.8.3.3}
+\contentsline {subsubsection}{\numberline {8.3.4}Resposta a insulina}{80}{subsubsection.8.3.4}
+\contentsline {subsubsection}{\numberline {8.3.5}Glicohemoglobina}{82}{subsubsection.8.3.5}
+\contentsline {paragraph}{\numberline {8.3.5.1}Determinaci\'o de les glicohemoglobines}{83}{paragraph.8.3.5.1}
+\contentsline {subsubsection}{\numberline {8.3.6}Fructosamines}{83}{subsubsection.8.3.6}
+\contentsline {subsubsection}{\numberline {8.3.7}Microalbumin\'uria}{84}{subsubsection.8.3.7}
+\contentsline {subsubsection}{\numberline {8.3.8}Cossos cet\`onics}{84}{subsubsection.8.3.8}
+\contentsline {subsection}{\numberline {8.4}Hipogluc\`emia}{86}{subsection.8.4}
+\contentsline {subsubsection}{\numberline {8.4.1}Hipogluc\`emies fisiol\`ogiques}{87}{subsubsection.8.4.1}
+\contentsline {paragraph}{\numberline {8.4.1.1}Hipogluc\`emia en dej\'u}{87}{paragraph.8.4.1.1}
+\contentsline {paragraph}{\numberline {8.4.1.2}Hipogluc\`emia post-prandial}{88}{paragraph.8.4.1.2}
+\contentsline {subsubsection}{\numberline {8.4.2}Hipogluc\`emies patol\`ogiques}{88}{subsubsection.8.4.2}
+\contentsline {subsection}{\numberline {8.5}Alteracions en el metabolisme de la fructosa i la galactosa}{89}{subsection.8.5}
+\contentsline {subsubsection}{\numberline {8.5.1}Altres alteracions}{90}{subsubsection.8.5.1}
+\contentsline {subsection}{\numberline {8.6}Intoler\`ancies}{91}{subsection.8.6}
+\contentsline {section}{\numberline {9}Disfuncions del metabolisme lip\IeC {\'\i }dic}{92}{section.9}
+\contentsline {subsection}{\numberline {9.1}Conceptes generals}{92}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9.1.1}Tipus de lipoprote\IeC {\@umlaut \i }nes, composici\'o i estructura}{92}{subsubsection.9.1.1}
+\contentsline {subsubsection}{\numberline {9.1.2}Metabolisme de les lipoprote\IeC {\@umlaut \i }nes}{93}{subsubsection.9.1.2}
+\contentsline {paragraph}{\numberline {9.1.2.1}Via ex\`ogena}{94}{paragraph.9.1.2.1}
+\contentsline {paragraph}{\numberline {9.1.2.2}Via end\`ogena}{94}{paragraph.9.1.2.2}
+\contentsline {paragraph}{\numberline {9.1.2.3}Transport revers de colesterol}{95}{paragraph.9.1.2.3}
+\contentsline {subsection}{\numberline {9.2}Par\`ametres anal\IeC {\'\i }tics}{96}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Aterosclerosi}{96}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Dislip\`emia}{97}{subsubsection.9.2.2}
+\contentsline {subsubsection}{\numberline {9.2.3}Lipoprote\IeC {\@umlaut \i }nes}{99}{subsubsection.9.2.3}
+\contentsline {subsubsection}{\numberline {9.2.4}Colesterol}{99}{subsubsection.9.2.4}
+\contentsline {subsubsection}{\numberline {9.2.5}Triacilglicerols}{99}{subsubsection.9.2.5}
+\contentsline {subsection}{\numberline {9.3}Dislip\`emies}{100}{subsection.9.3}
+\contentsline {subsubsection}{\numberline {9.3.1}Hiperlipoprote\IeC {\@umlaut \i }n\`emies prim\`aries}{102}{subsubsection.9.3.1}
+\contentsline {subsubsection}{\numberline {9.3.2}Hiperlipoprote\IeC {\@umlaut \i }n\`emies secund\`aries}{103}{subsubsection.9.3.2}
+\contentsline {subsubsection}{\numberline {9.3.3}Hipolipoprote\IeC {\@umlaut \i }n\`emies}{104}{subsubsection.9.3.3}
+\contentsline {subsubsection}{\numberline {9.3.4}Tractament}{105}{subsubsection.9.3.4}
+\contentsline {section}{\numberline {10}El fetge}{106}{section.10}
+\contentsline {subsection}{\numberline {10.1}El fetge}{106}{subsection.10.1}
+\contentsline {subsubsection}{\numberline {10.1.1}Circulaci\'o hep\`atica}{106}{subsubsection.10.1.1}
+\contentsline {subsubsection}{\numberline {10.1.2}Funcions hep\`atiques}{106}{subsubsection.10.1.2}
+\contentsline {subsection}{\numberline {10.2}Estudi de la funci\'o excretora}{106}{subsection.10.2}
+\contentsline {subsubsection}{\numberline {10.2.1}Producci\'o de bilirrubina - Icter\IeC {\'\i }cia}{106}{subsubsection.10.2.1}
+\contentsline {subsubsection}{\numberline {10.2.2}Metabolisme de la bilirrubina}{107}{subsubsection.10.2.2}
+\contentsline {subsubsection}{\numberline {10.2.3}Determinaci\'o de la bilirubina}{108}{subsubsection.10.2.3}
+\contentsline {subsubsection}{\numberline {10.2.4}Icter\IeC {\'\i }cia}{109}{subsubsection.10.2.4}
+\contentsline {subsection}{\numberline {10.3}Estudi de la funci\'o excretora. \`Acids biliars}{110}{subsection.10.3}
+\contentsline {subsubsection}{\numberline {10.3.1}Producci\'o d'\`acids biliars}{111}{subsubsection.10.3.1}
+\contentsline {subsubsection}{\numberline {10.3.2}Circuit dels \`acids biliars}{111}{subsubsection.10.3.2}
+\contentsline {paragraph}{\numberline {10.3.2.1}Comprovaci\'o}{111}{paragraph.10.3.2.1}
+\contentsline {paragraph}{\numberline {10.3.2.2}Causes}{112}{paragraph.10.3.2.2}
+\contentsline {paragraph}{\numberline {10.3.2.3}Tractament}{112}{paragraph.10.3.2.3}
+\contentsline {subsubsection}{\numberline {10.3.3}Determinaci\'o dels \`acids biliars}{112}{subsubsection.10.3.3}
+\contentsline {subsection}{\numberline {10.4}Estudi de la capacitat detoxificadora. Xenobi\`otics.}{112}{subsection.10.4}
+\contentsline {subsubsection}{\numberline {10.4.1}Mesura de l'eliminaci\'o dels xenobi\`otics}{112}{subsubsection.10.4.1}
+\contentsline {subsection}{\numberline {10.5}Estudi de les capacitats biosint\`etiques i metab\`oliques}{113}{subsection.10.5}
+\contentsline {subsubsection}{\numberline {10.5.1}Prote\IeC {\@umlaut \i }nes}{113}{subsubsection.10.5.1}
+\contentsline {subsubsection}{\numberline {10.5.2}L\IeC {\'\i }pids i lipoprote\IeC {\@umlaut \i }nes}{113}{subsubsection.10.5.2}
+\contentsline {subsubsection}{\numberline {10.5.3}Amino\`acids i nitrogen am\IeC {\'\i }nic}{114}{subsubsection.10.5.3}
+\contentsline {subsubsection}{\numberline {10.5.4}Gl\'ucids}{114}{subsubsection.10.5.4}
+\contentsline {subsubsection}{\numberline {10.5.5}Marcadors s\`erics}{114}{subsubsection.10.5.5}
+\contentsline {paragraph}{\numberline {10.5.5.1}Transaminases}{114}{paragraph.10.5.5.1}
+\contentsline {paragraph}{\numberline {10.5.5.2}Fosfatasa alcalina (ALP o FAL)}{115}{paragraph.10.5.5.2}
+\contentsline {paragraph}{\numberline {10.5.5.3}$\gamma $-glutamil transpeptidasa}{116}{paragraph.10.5.5.3}
+\contentsline {subsection}{\numberline {10.6}Alteracions hep\`atiques}{116}{subsection.10.6}
+\contentsline {subsubsection}{\numberline {10.6.1}Hepatitis}{116}{subsubsection.10.6.1}
+\contentsline {subsubsection}{\numberline {10.6.2}Cirrosi}{116}{subsubsection.10.6.2}
+\contentsline {subsubsection}{\numberline {10.6.3}Col\`estasi}{116}{subsubsection.10.6.3}
+\contentsline {subsubsection}{\numberline {10.6.4}Hepatoma}{116}{subsubsection.10.6.4}
+\contentsline {subsubsection}{\numberline {10.6.5}Hepatitis v\IeC {\'\i }riques}{117}{subsubsection.10.6.5}
+\contentsline {section}{\numberline {11}Aparell digestiu}{118}{section.11}
+\contentsline {subsection}{\numberline {11.1}Malabsorci\'o}{118}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Secrecions bucals}{119}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Secrecions g\`astriques}{119}{subsection.11.3}
+\contentsline {subsubsection}{\numberline {11.3.1}Alteracions g\`astriques}{121}{subsubsection.11.3.1}
+\contentsline {subsubsection}{\numberline {11.3.2}Estudi de la funci\'o g\`astrica}{122}{subsubsection.11.3.2}
+\contentsline {subsection}{\numberline {11.4}Secrecions intestinals}{123}{subsection.11.4}
+\contentsline {subsubsection}{\numberline {11.4.1}Estudi de la funci\'o pancre\`atica}{124}{subsubsection.11.4.1}
+\contentsline {paragraph}{\numberline {11.4.1.1}Amilasa}{125}{paragraph.11.4.1.1}
+\contentsline {paragraph}{\numberline {11.4.1.2}Lipasa}{126}{paragraph.11.4.1.2}
+\contentsline {paragraph}{\numberline {11.4.1.3}Tripsina}{127}{paragraph.11.4.1.3}
+\contentsline {paragraph}{\numberline {11.4.1.4}Quimiotripsina}{127}{paragraph.11.4.1.4}
+\contentsline {paragraph}{\numberline {11.4.1.5}Proves funcionals}{127}{paragraph.11.4.1.5}
+\contentsline {subsubsection}{\numberline {11.4.2}Estudi de la funci\'o intestinal}{128}{subsubsection.11.4.2}
+\contentsline {paragraph}{\numberline {11.4.2.1}Magnituds bioqu\IeC {\'\i }miques i proves funcionals}{129}{paragraph.11.4.2.1}
+\contentsline {subparagraph}{\numberline {11.4.2.1.1}Absorci\'o de gl\'ucids}{129}{subparagraph.11.4.2.1.1}
+\contentsline {subparagraph}{\numberline {11.4.2.1.2}Absorci\'o de prote\IeC {\@umlaut \i }nes/amino\`acids}{129}{subparagraph.11.4.2.1.2}
+\contentsline {subparagraph}{\numberline {11.4.2.1.3}Absorci\'o de l\IeC {\'\i }pids}{129}{subparagraph.11.4.2.1.3}
+\contentsline {section}{\numberline {12}Alteracions del metabolisme de nucle\`otids}{131}{section.12}
+\contentsline {subsection}{\numberline {12.1}Recanvi de nucle\`otids}{131}{subsection.12.1}
+\contentsline {subsubsection}{\numberline {12.1.1}Vies de recuperaci\'o i s\IeC {\'\i }ntesi \textit {de novo}}{131}{subsubsection.12.1.1}
+\contentsline {subsubsection}{\numberline {12.1.2}Formaci\'o d'\`acid \'uric}{132}{subsubsection.12.1.2}
+\contentsline {subsubsection}{\numberline {12.1.3}Eliminaci\'o d'\`acid \'uric}{133}{subsubsection.12.1.3}
+\contentsline {subsection}{\numberline {12.2}Hiperuric\`emia}{133}{subsection.12.2}
+\contentsline {subsubsection}{\numberline {12.2.1}Detecci\'o d'\`acid \'uric}{135}{subsubsection.12.2.1}
+\contentsline {section}{\numberline {13}Funci\'o tiro\IeC {\@umlaut \i }dal}{137}{section.13}
+\contentsline {subsection}{\numberline {13.1}Regulaci\'o de la unci\'o tiro\IeC {\@umlaut \i }dal}{137}{subsection.13.1}
+\contentsline {subsubsection}{\numberline {13.1.1}S\IeC {\'\i }ntesi d'hormones tiro\IeC {\@umlaut \i }dals}{137}{subsubsection.13.1.1}
+\contentsline {subsubsection}{\numberline {13.1.2}Transport per s\`erum}{138}{subsubsection.13.1.2}
+\contentsline {subsubsection}{\numberline {13.1.3}Desiodaci\'o}{139}{subsubsection.13.1.3}
+\contentsline {subsection}{\numberline {13.2}Hipertiro\IeC {\@umlaut \i }disme}{139}{subsection.13.2}
+\contentsline {subsubsection}{\numberline {13.2.1}Causes d'hipertiro\IeC {\@umlaut \i }disme}{140}{subsubsection.13.2.1}
+\contentsline {subsubsection}{\numberline {13.2.2}Diagn\`ostic}{140}{subsubsection.13.2.2}
+\contentsline {subsubsection}{\numberline {13.2.3}Diagn\`ostic}{140}{subsubsection.13.2.3}
+\contentsline {subsection}{\numberline {13.3}Hipotiro\IeC {\@umlaut \i }disme}{140}{subsection.13.3}
+\contentsline {subsubsection}{\numberline {13.3.1}Causes d'hipotiro\IeC {\@umlaut \i }disme}{141}{subsubsection.13.3.1}
+\contentsline {subsubsection}{\numberline {13.3.2}Tractament}{141}{subsubsection.13.3.2}
+\contentsline {subsection}{\numberline {13.4}Marcadors cl\IeC {\'\i }nics}{141}{subsection.13.4}
+\contentsline {subsection}{\numberline {13.5}M\`etodes immunol\`ogics}{142}{subsection.13.5}
+\contentsline {subsubsection}{\numberline {13.5.1}Immunodifusi\'o en gel}{142}{subsubsection.13.5.1}
+\contentsline {subsubsection}{\numberline {13.5.2}Aglutinaci\'o}{142}{subsubsection.13.5.2}
+\contentsline {subsubsection}{\numberline {13.5.3}Immunoprecipitaci\'o}{143}{subsubsection.13.5.3}
+\contentsline {subsubsection}{\numberline {13.5.4}ELISA}{143}{subsubsection.13.5.4}
+\contentsline {section}{\numberline {14}Estudi de la funci\'o renal}{145}{section.14}
+\contentsline {subsection}{\numberline {14.1}Anatomia i fisiologia renal}{145}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Par\`ametres bioqu\IeC {\'\i }mics}{148}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}Patologies renals}{149}{subsection.14.3}
+\contentsline {subsubsection}{\numberline {14.3.1}Glomerulonefritis}{149}{subsubsection.14.3.1}
+\contentsline {subsubsection}{\numberline {14.3.2}Tubulopaties}{149}{subsubsection.14.3.2}
+\contentsline {subsubsection}{\numberline {14.3.3}Acid\'uria tubular renal}{150}{subsubsection.14.3.3}
+\contentsline {subsubsection}{\numberline {14.3.4}Diabetis ins\IeC {\'\i }pida nefrog\`enica}{150}{subsubsection.14.3.4}
+\contentsline {subsubsection}{\numberline {14.3.5}Insufici\`encia renal aguda o cr\`onica}{150}{subsubsection.14.3.5}
+\contentsline {subsection}{\numberline {14.4}An\`alisi d'orina}{151}{subsection.14.4}
+\contentsline {subsubsection}{\numberline {14.4.1}Recollida de l'especimen}{151}{subsubsection.14.4.1}
+\contentsline {subsubsection}{\numberline {14.4.2}Valoraci\'o de l'esp\`ecimen}{152}{subsubsection.14.4.2}
+\contentsline {subsubsection}{\numberline {14.4.3}Proves f\IeC {\'\i }siques}{152}{subsubsection.14.4.3}
+\contentsline {paragraph}{\numberline {14.4.3.1}Color}{152}{paragraph.14.4.3.1}
+\contentsline {paragraph}{\numberline {14.4.3.2}Olor}{153}{paragraph.14.4.3.2}
+\contentsline {paragraph}{\numberline {14.4.3.3}Terbolesa}{153}{paragraph.14.4.3.3}
+\contentsline {paragraph}{\numberline {14.4.3.4}Volum}{153}{paragraph.14.4.3.4}
+\contentsline {paragraph}{\numberline {14.4.3.5}Densitat i osmolalitat}{154}{paragraph.14.4.3.5}
+\contentsline {subsubsection}{\numberline {14.4.4}Proves qu\IeC {\'\i }miques}{155}{subsubsection.14.4.4}
+\contentsline {paragraph}{\numberline {14.4.4.1}Prote\IeC {\@umlaut \i }nes}{155}{paragraph.14.4.4.1}
+\contentsline {paragraph}{\numberline {14.4.4.2}Glucosa}{156}{paragraph.14.4.4.2}
+\contentsline {paragraph}{\numberline {14.4.4.3}Cetones}{157}{paragraph.14.4.4.3}
+\contentsline {paragraph}{\numberline {14.4.4.4}Hemoglobina}{157}{paragraph.14.4.4.4}
+\contentsline {paragraph}{\numberline {14.4.4.5}Bilirubina}{157}{paragraph.14.4.4.5}
+\contentsline {paragraph}{\numberline {14.4.4.6}Urobilinogen}{158}{paragraph.14.4.4.6}
+\contentsline {paragraph}{\numberline {14.4.4.7}\`Acid \'uric}{158}{paragraph.14.4.4.7}
+\contentsline {paragraph}{\numberline {14.4.4.8}Urea}{159}{paragraph.14.4.4.8}
+\contentsline {paragraph}{\numberline {14.4.4.9}Creatinina}{159}{paragraph.14.4.4.9}
+\contentsline {subsubsection}{\numberline {14.4.5}Examen del sediment urinari}{160}{subsubsection.14.4.5}
+\contentsline {paragraph}{\numberline {14.4.5.1}Eritr\`ocits}{160}{paragraph.14.4.5.1}
+\contentsline {paragraph}{\numberline {14.4.5.2}Leuc\`ocits}{160}{paragraph.14.4.5.2}
+\contentsline {paragraph}{\numberline {14.4.5.3}C\`el\IeC {\textperiodcentered }lules epitelials}{160}{paragraph.14.4.5.3}
+\contentsline {paragraph}{\numberline {14.4.5.4}Cilindres}{160}{paragraph.14.4.5.4}
+\contentsline {paragraph}{\numberline {14.4.5.5}Cristalls}{161}{paragraph.14.4.5.5}
+\contentsline {section}{\numberline {15}Control del pH en el medi intern}{162}{section.15}
+\contentsline {subsection}{\numberline {15.1}Control del pH}{162}{subsection.15.1}
+\contentsline {subsection}{\numberline {15.2}Fonts d'\`acids}{162}{subsection.15.2}
+\contentsline {subsection}{\numberline {15.3}Fonts de bases i consum de protons}{163}{subsection.15.3}
+\contentsline {subsection}{\numberline {15.4}Tampons fisiol\`ogics}{163}{subsection.15.4}
+\contentsline {subsubsection}{\numberline {15.4.1}Amortidor \`acid carb\`onic/bicarbonat}{164}{subsubsection.15.4.1}
+\contentsline {subsubsection}{\numberline {15.4.2}Amortidor fosfat}{166}{subsubsection.15.4.2}
+\contentsline {subsubsection}{\numberline {15.4.3}Prote\IeC {\@umlaut \i }nes intracel\IeC {\textperiodcentered }lulars}{167}{subsubsection.15.4.3}
+\contentsline {subsubsection}{\numberline {15.4.4}Hemoglobina}{167}{subsubsection.15.4.4}
+\contentsline {subsubsection}{\numberline {15.4.5}Amortidor ossi}{167}{subsubsection.15.4.5}
+\contentsline {subsection}{\numberline {15.5}Mecanismes de compensaci\'o del pH}{167}{subsection.15.5}
+\contentsline {subsubsection}{\numberline {15.5.1}Mecanismes metab\`olics}{168}{subsubsection.15.5.1}
+\contentsline {subsubsection}{\numberline {15.5.2}Mecanismes respiratoris}{168}{subsubsection.15.5.2}
+\contentsline {subsubsection}{\numberline {15.5.3}Mecanismes renals}{168}{subsubsection.15.5.3}
+\contentsline {subsection}{\numberline {15.6}Alteracions de l'equilibri \`acid-base}{169}{subsection.15.6}
+\contentsline {subsubsection}{\numberline {15.6.1}Acidosi metab\`olica}{170}{subsubsection.15.6.1}
+\contentsline {subsubsection}{\numberline {15.6.2}Alcalosi metab\`olica}{171}{subsubsection.15.6.2}
+\contentsline {subsubsection}{\numberline {15.6.3}Acidosi respirat\`oria}{173}{subsubsection.15.6.3}
+\contentsline {subsubsection}{\numberline {15.6.4}Alcalosi respirat\`oria}{174}{subsubsection.15.6.4}
+\contentsline {section}{\numberline {16}Control dels electr\`olits i l'aigua}{175}{section.16}
+\contentsline {subsection}{\numberline {16.1}Aigua i ions corporals}{175}{subsection.16.1}
+\contentsline {subsection}{\numberline {16.2}Regulaci\'o de l'osmolalitat}{175}{subsection.16.2}
+\contentsline {subsubsection}{\numberline {16.2.1}Hipot\`alem}{175}{subsubsection.16.2.1}
+\contentsline {subsubsection}{\numberline {16.2.2}Renina-angiotensina-aldosterona}{176}{subsubsection.16.2.2}
+\contentsline {subsubsection}{\numberline {16.2.3}P\`eptid natriur\`etic atrial}{176}{subsubsection.16.2.3}
+\contentsline {subsection}{\numberline {16.3}Alteracions hidroelectrol\IeC {\'\i }tiques}{176}{subsection.16.3}
+\contentsline {subsubsection}{\numberline {16.3.1}Aigua}{176}{subsubsection.16.3.1}
+\contentsline {subsubsection}{\numberline {16.3.2}Sodi}{177}{subsubsection.16.3.2}
+\contentsline {paragraph}{\numberline {16.3.2.1}Hiponatr\`emia}{177}{paragraph.16.3.2.1}
+\contentsline {paragraph}{\numberline {16.3.2.2}Hipernatr\`emia}{178}{paragraph.16.3.2.2}
+\contentsline {subsubsection}{\numberline {16.3.3}Potassi}{179}{subsubsection.16.3.3}
+\contentsline {paragraph}{\numberline {16.3.3.1}Hipopotass\`emia}{179}{paragraph.16.3.3.1}
+\contentsline {paragraph}{\numberline {16.3.3.2}Hiperpotass\`emia}{179}{paragraph.16.3.3.2}
+\contentsline {subsubsection}{\numberline {16.3.4}Clor}{180}{subsubsection.16.3.4}
+\contentsline {paragraph}{\numberline {16.3.4.1}Hipoclor\`emia}{180}{paragraph.16.3.4.1}
+\contentsline {paragraph}{\numberline {16.3.4.2}Hiperclor\`emia}{180}{paragraph.16.3.4.2}
+\contentsline {subsection}{\numberline {16.4}Determinacions anal\IeC {\'\i }tiques}{180}{subsection.16.4}
 \contentsfinish 

@@ -69,6 +69,8 @@ formada per 252 capsòmers creant una simetria T25. Es distingeixen 2
 tipus diferents de capsòmers: hexó, que té sis costats (és a dir, 6
 càpsomers) i pentó que té cinc costats (5 capsòmers).
 
+\subsubsection{Infecció}
+\label{sec:infeccio}
 L'entrada és mitjançant el receptor CAR (\textit{coxsackie virus  and
   adenovirus receptor}) o el CD46. El domini knob interacciona amb CAR
 i les integrines interaccionen amb la base del pentó. Es forma una
@@ -78,34 +80,342 @@ a l'espai nuclear. Fase early i late separades per la replicació del
 virus.
 
 Un cop es produeixen les proteïnes late, es formen els virions i
-s'alliberen a l'exterior. Tot el procés dura entre 36 i 48h.
+s'alliberen a l'exterior. Tot el procés dura entre 36 i 48h. 
 
 E1A codifica per factors transcripcionals i per una proteïna que fa
 entrar la cèl·lula en fase S. E1B codifica per proteïnes que cooperen
 amb E1A per induir creixement cel·lular. E1A i E1B s'eliminen quan
 s'usen adenovirus com a vectors per teràpia. Perd la capacitat de
-replicació. Es col·loca el cDNA al genoma de l'adenovirus i es posa
-tot sota el control d'un promotor fort. Això s'introdueix en cèl·lules
-empaquetadores: contenen gens de la replicació que s'han eliminat al
-vector.
+replicació. E1A bloqueja pRb, allibera E2F i permet l'entrada a la
+fase S, activant la transcripció de molts gens virals. E1B s'uneix a
+p53 i en promou la degradació, inhibeix l'estabilització de p53 per
+E2F1 i bloqueja l'apoptosi. E4 silencia els promotors dels gens diana
+de p53.
 
-El tropisme es pot modificar mitjançant el domini knob, canviant el
-serotip. Es poden fer quimeres amb altres proteïnes (d'altres
-virus). Es poden introduir adaptadors.
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{fig80}
+\label{fig80}
+\end{figure}
 
-Es poden modificar els Ad amb polímers per disminuir la
-immunogenicitat, també es pot fer amb pèptids o lligands naturals o
-directament amb modificació genètica.
+\subsubsection{Modulació del tropisme}
+\label{sec:modul-del-trop}
+La diana del virus es pot millorar (és a dir que sigui més específic
+pel tipus cel·lular al qual volem dirigir la teràpia) actuant a 2
+nivells:
+\begin{itemize}
+\item Modificacions de la càpside: A través de modificacions del
+  genoma o actuant directament sobre la partícula viral. Es modifica
+  la càpsida per tal que no sigui segrestat per altres teixits, com el
+  fetge; per exemple.
+  \begin{itemize}
+  \item Eliminació de l'especificitat per CAR
+  \item Deleció de l'especificitat del factor X i del complement
+  \item Ús de polímers sintètics, per disminuir la immunogenicitat del
+    virus.
+  \item Anticossos: Es pot unir un anticòs anti-knob amb FGF, de
+    manera que vagi a FGFR.
+  \end{itemize}
+\item Ús de promotors específics per dirigir l'expressió del transgen
+  a un tipus cel·lular/teixit concret. Aquests promotors poden ser
+  induïbles per factors de transcripció sobreexpressats en tumors,
+  p.e.
+  \begin{itemize}
+  \item Els gens poden ser activadors de profàrmacs, i així es poden
+    activar de forma específica al teixit diana.
+  \item Incorporació genètica de lligands: A la fibra es pot introduir
+    un domini RGD que reconeix integrines. Les integrines es troben
+    sobreexpressades en alguns tumors. Alguns Ad se'ls incorpora
+    hialuronidasa per tal que degradi la matriu i el virus es pugui
+    expandir per la matriu.
+  \item Fusió de proteïnes virals amb adaptadors que reconeguin
+    proteïnes de membrana cel·lulars específiques.
+  \item Substitució genètica de la fibra.
+  \item Modificació genètica del domini knob.
+  \end{itemize}
+\end{itemize}
 
-Es pot unir un anticòs anti-knob amb FGF, de manera que vagi a
-FGFR. Es pot col·locar també el transgen sota el control d'un promotor
-expressat en tumors perquè només s'expressi en cèl·lules canceroses.
-
-Els gens poden ser activadors de profàrmacs, i així es poden activar
-de forma específica al teixit diana.
-
+\subsubsection{\textit{Conditionally-replicative adenovirus} (CRADs)}
+\label{sec:cond-repl-aden}
 Es poden fer virus que només repliquin en cèl·lules tumorals, és a dir
 que només lisen cèl·lules tumorals. Efecte d'amplificació. Aquests
 virus són oncolítics. Si s'eliminen E1A i E1B, el virus no es pot
 replicar en una cèl·lula normal però en una cèl·lula tumoral sí que
-pot replicar ja que tenen desregulat p53 i E2F1.
+pot replicar ja que tenen desregulat p53 i E2F1. Com que els virus
+circularien per la sang, actuarien en possibles metàstasis.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{fig81}
+\label{fig81}
+\end{figure}
+
+\subsubsection{Obtenció i producció de vectors adenovirals}
+\label{sec:obtencio-i-produccio}
+Es col·loca el cDNA al genoma de l'adenovirus i es posa
+tot sota el control d'un promotor fort. Això s'introdueix en cèl·lules
+empaquetadores: contenen gens de la replicació que s'han eliminat al
+vector.
+
+Es té un vector de transferència amb el transgen i es fa una doble
+transfecció amb un vector que conté tot el genoma viral. A la cèl·lula
+els vectors recombinaran homòlogament (els vectors incorporen 2 braços
+d'homologia). S'incorpora un gen de resistència a kanamicina per
+seleccionar les cèl·lules transfectades. Després s'introdueix en
+cèl·lules empaquetadores que contenen els gens eliminats dels virus i
+es deixen cultivar fins a la màxima confluència. Es fan cicles de
+congelació-descongelació per lisar les cèl·lules i es purifiquen per
+centrifugació i ultracentrifugació amb gradient de CsCl.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.65\textwidth]{fig82}
+\label{fig82}
+\end{figure}
+
+\subsection{Virus adenoassociats}
+\label{sec:adenovirus-1}
+Són dependovirus petits, de 30 nm de càpside
+icosaèdrica. El virus helper pot ser Ad, HSV, CMV... El genoma de AAV (4,8 kb)
+és de ssDNA i es compon de dos marcs de lectura oberts, Rep i
+Cap, flanquejats per dues repeticions terminals invertides de 145
+bp. Aquestes seqüències invertides permeten la síntesi de la cadena de
+DNA complementària. Rep i Cap es tradueixen per produir
+múltiples proteïnes diferents (Rep78, Rep68, Rep52, Rep40 - necessàries
+per al cicle de vida d'AAV; VP1, VP2, VP3 - proteïnes de la
+càpside). 
+
+Els virus interaccionen amb el receptor i entren per endocitosi
+mitjançada per vesícules de clatrina. L'endosoma baixa el pH i el
+virus surt. Després transloquen cap al nucli. Poden infectar cèl·lules
+en divisió o quiescents.
+
+Hi ha fins a 13 serotips d'AAV:
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\textwidth]{fig83}
+\label{fig83}
+\end{figure}
+
+Com a part del seu cicle lisogènic, els AAV salvatges s'integren al
+genoma hoste en un lloc específic al cromosoma 19 humà. Com que és un
+virus incompetent per a la replicació, l'AAV no pot entrar en el cicle
+lític sense ajuda. Un altre virus, tal com adenovirus o virus herpes
+simplex, o un agent genotòxic, com la radiació UV o hidroxiurea, és
+necessari per a l'activació cicle lític.
+
+Quan s'utilitza un AAV recombinant (rAAV) per a fins d'investigació, la
+proteïna Rep es subministra en un altre plàsmid, eliminant la capacitat de
+rAAV d'integrar-se al cromosoma 19. En el seu lloc, el genoma d'rAAV
+es processa típicament en un episoma de doble cadena circular a través
+de la síntesi de doble cadena. Aquests episomes poden concatenar-se.
+
+Els episomes són molt diferents de les partícules virals
+produïdes durant un cicle lític. Els episomes poden desenvolupar una
+organització tipus cromatina i persistir en les cèl·lules que no
+es divideixen per un llarg període d'anys sense danyar la cèl·lula hoste. En
+contrast, les partícules virals produïdes durant un cicle lític
+s'alliberen ràpidament a través de la lisi cel·lular. L'estabilitat
+episomal permet l'expressió del transgen a llarg termini en les
+cèl·lules que no es divideixen i és un avantatge clau dels rAAV.
+
+\subsubsection{Modificació del tropisme}
+\label{sec:modif-del-trop}
+El direccionament aprofita el tropisme natural dels virus; p.e l'AAV-8
+va al fetge. Les modificacions poden ser genètiques o indirectes:
+\begin{itemize}
+\item Modificació indirecta amb molècules \textit{linker:} Anticòs
+  biespecífic, que reconeix per una part el virus i per l'altra el
+  receptor cel·lular; proteïnes unides a streptavidina...
+
+\item Modificació directa de proteïnes de la càpside:
+  \begin{itemize}
+  \item VP1 mutant pel lligand del receptor de serpines. La FVLI
+    incrementa 15 vegades en una línia cel·lular d'epiteli pulmonar.
+  \item VP2 mutant per una expansió de 10 aminoàcids del lligand del
+    receptor de serpines incrementa 62 vegades en la mateixa línia
+    cel·lular.
+  \end{itemize}
+\end{itemize}
+
+\subsubsection{Producció d'adenoassociats}
+\label{sec:prod-daden}
+Quan es construeix un plasmidi de transferència de AAV, el
+transgèn es col·loca entre les dues ITRS, i Rep i Cap es subministren
+en un plasmidi diferent.
+
+A més de Rep i Cap, els AAV requereixen un plasmidi auxiliar que conté
+els gens d'adenovirus. Aquests gens (E4, E2a i VA) intervenen la
+replicació de AAV. El plasmidi de transferència, Rep / Cap, i el
+plasmidi auxiliar són transfectats en cèl·lules HEK293, que contenen
+el gen d'adenovirus E1 +, per produir partícules de AAV
+infeccioses. Rep / Cap i els gens auxiliars d'adenovirus també es
+poden combinar en un únic plasmidi.
+
+Es transfecten en cèl·lules empaquetadores i es produeixen els
+virus. Es purifiquen els virus amb gradients de densitat o columnes
+d'afinitat.
+
+L'inconvenient dels AAV és que no admeten transgens massa grans ja
+que el seu genoma no és massa gran.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\textwidth]{fig84}
+\label{fig84}
+\end{figure}
+
+\subsection{Retrovirus}
+\label{sec:retrovirus}
+Són virus RNA de cadena simple i embolcallats. Es poden dividir en:
+\begin{itemize}
+\item Orthoretrovirinae
+  \begin{itemize}
+  \item Alpharetrovirus
+  \item Betaretrovirus
+  \item Deltaretrovirus
+  \item Epsilonretrovirus
+  \item Gammaretrovirus
+Aquests són virus inductors de tumors.
+\item Lentivirus: VIH
+  \end{itemize}
+
+\item Spumaretrovirinae: Spumaretrovirus
+\end{itemize}
+
+ Els retrovirus es poden separar en:
+\begin{itemize}
+\item Genoma simple: Gammaretrovirus, infecten cèl·lules
+  replicatives. Són integratius. Contenen només els típics gens gag,
+  pol i env.
+\item Genoma complex: lentivirus. A més dels 3 gens anteriors,
+  incorporen gens no estructurals que fan funcions reguladores del
+  cicle del virus o funcions auxiliars.
+\end{itemize}
+
+Dins de la càpside del retrovirus hi ha la integrasa, la proteasa i la
+retrotranscriptasa.
+
+\subsubsection{Oncoretrovirus}
+\label{sec:oncoretrovirus}
+Són virus amb un genoma de 7-12 kb i uns virions de 80-100 nm.
+
+Entren per fusió de membranes. Es produeix la retrotranscripció del
+RNA i el direccionament a nucli. Integració al genoma de l'hoste i no és
+específica. Pot donar lloc a mutagènesi insercional.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\textwidth]{fig85}
+\label{fig85}
+\end{figure}
+
+S'eliminen els 3 gens i allà s'introdueix el transgen. Es conserva la
+senyal d'empaquetament. Es transfecten els gens gag/pol/env però per
+separat i evitar recombinacions que generin un virus salvatge.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\textwidth]{fig86}
+\label{fig86}
+\end{figure}
+
+\subsubsection{Lentivirus}
+\label{sec:lentivirus}
+Són virus ssRNA embolcallats que poden infectar cèl·lules replicatives
+i diferenciades. No infecten cèl·lules en G0 quiescents.
+
+La gp120 del virus interacciona amb CD4 i els co-receptors CCR5 i
+CXCR4. Es poden quedar latents durant molt de temps.
+
+Entren per fusió de membranes. Entra la càpside a la cèl·lula i
+s'allibera el RNA. Retrotranscripció. Entrada a nucli i integració al
+genoma.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{fig87}
+\label{fig87}
+\end{figure}
+
+Al llarg dels anys s'han anat desenvolupant diferents versions de
+vectors lentivirals per transduir cèl·lules, ja sigui \textit{in
+  vitro} o pel seu ús en teràpia. Així, hi ha diferents generacions de
+lentivirus:
+
+\begin{itemize}
+\item 1ra generació: Gens env delecionats.
+\item 2na generació: Tenentots els gens auxiliars reguladors delecionats.
+\item 3ra generació: Només contenen gag i pol. Es proporciona rev en
+  un altre plàsmid.
+\end{itemize}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{fig88}
+\label{fig88}
+\end{figure}
+
+S'usen lentivirus per transduir shRNA, per inhibir específicament un
+gen concret.
+
+\subsection{Exemples}
+\label{sec:exemples}
+Les fites de la teràpia gènica són:
+\begin{itemize}
+\item 1928: Griffith descriu el principi de transformació.
+\item 1944: Avery, MacLeod i McCartu descriuen que la transformació és
+  deguda a la transferència de DNA.
+\item 1952: Lederberg descriu la transducció.
+\item 1953; Watson i Crick descriuen la doble hèlix de DNA.
+\item 1961: Temin descobreix que una mutació genètica com a resultat
+  d'una infecció viral es pot heretar.
+\item 1962: Szybalski fa la primera transfecció en línies cel·lulars
+  animals.
+\item 1968: Rogers i Pfuderer demostren la transferència gènica amb
+  virus.
+\item 1989: Rosenberg fa el primer assaig de transferència gènica en
+  humans.
+\item 1990: Teràpia gènica en pacients amb deficiència d'ADA.
+\item 1999: Mort de Jesse Gelsinger.
+\item 2009: Un assaig clínic de teràpia gènica arriba a la fase III a
+  la Unió Europea.
+\item 2012: La EMA recomana el primer producte de teràpia gènica.
+\end{itemize}
+
+\subsubsection{Immunodeficiències primàries}
+\label{sec:immun-prim}
+El 1990 va començar el primer assaig de teràpia gènica, en aquest cas
+amb malalts de SCID (severe combined immunodeficiency) per un dèficit
+d'ADA (adenosina desaminasa). El tractament es basava en la
+modificicació genètica amb gammaretrovirus de limfòcits T i el
+posterior tractament autòleg.
+
+El 1992 va sortir un altre assaig clínic per SCID però degut a un
+dèficit de IL-2. Es basava en el transplantament autòleg de HSC
+modificades amb la cadena gamma de la IL-2 en un vector
+retroviral. Dels 20 pacients tractats, 5 van desenvolupar leucèmia
+entre 2 i 5 anys després.
+
+El 1999 es va provar amb l'administració \textit{in vivo} de vectors
+adenovirals atenuats per tractar el dèficit d'ornitina
+transcarbamilasa. En aquest cas, el pacient Jesse Gelsinger va morir degut a una
+resposta exacerbada del sistema immunitari 4 dies després de rebre el
+tractament. La investigació de la FDA va concloure que el procés
+pre-clínic va ser incomplet i es van ignorar efectes adversos. A més,
+l'estat del fetge de Jesse Gelsinger no el feien apte per participar
+en aquest estudi.
+
+La gencidine és el primer tractament de teràpia gènica autoritzat per
+ús clínic, en aquest cas a la Xina. Es basa en un adenovirus que
+expressa p53 i es va aprovar pel càncer de cèl·lules escamoses i
+s'administra per via intratumoral. S'han tractat més de 10000 pacients
+i no s'han reportat efectes secundaris. Els efectes terapèutics són
+encara controvertits.
+
+El Glybera és el primer tractament per usar a la UE. Restableix
+l'enzim LPL (processa quilomicrons). S'administra per via
+intramuscular 60 vegades a les cames.
+
+Es basa en un AAV1 amb genoma del 2.
