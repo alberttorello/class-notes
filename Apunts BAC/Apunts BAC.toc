@@ -319,4 +319,41 @@
 \contentsline {paragraph}{\numberline {16.3.4.1}Hipoclor\`emia}{180}{paragraph.16.3.4.1}
 \contentsline {paragraph}{\numberline {16.3.4.2}Hiperclor\`emia}{180}{paragraph.16.3.4.2}
 \contentsline {subsection}{\numberline {16.4}Determinacions anal\IeC {\'\i }tiques}{180}{subsection.16.4}
+\contentsline {section}{\numberline {17}Control hormonal: neurohip\`ofisi i suprarrenals}{182}{section.17}
+\contentsline {subsection}{\numberline {17.1}Neurohip\`ofisi}{182}{subsection.17.1}
+\contentsline {subsubsection}{\numberline {17.1.1}Hipofunci\'o neurohiposifi\`aria}{182}{subsubsection.17.1.1}
+\contentsline {subsubsection}{\numberline {17.1.2}Hiperfunci\'o neurohiposifi\`aria}{183}{subsubsection.17.1.2}
+\contentsline {subsection}{\numberline {17.2}Gl\`andules suprarrenals}{183}{subsection.17.2}
+\contentsline {subsubsection}{\numberline {17.2.1}Mineralocorticoides}{184}{subsubsection.17.2.1}
+\contentsline {paragraph}{\numberline {17.2.1.1}Hiperaldosteronisme}{184}{paragraph.17.2.1.1}
+\contentsline {paragraph}{\numberline {17.2.1.2}Hipoaldosteronisme}{185}{paragraph.17.2.1.2}
+\contentsline {subsubsection}{\numberline {17.2.2}Glucocorticoides}{186}{subsubsection.17.2.2}
+\contentsline {paragraph}{\numberline {17.2.2.1}S\IeC {\'\i }ndrome de Cushing}{187}{paragraph.17.2.2.1}
+\contentsline {paragraph}{\numberline {17.2.2.2}Insufici\`encia suprarenal}{188}{paragraph.17.2.2.2}
+\contentsline {paragraph}{\numberline {17.2.2.3}Hiperpl\`asia suparenal cong\`enita}{188}{paragraph.17.2.2.3}
+\contentsline {subsubsection}{\numberline {17.2.3}Catecolamines}{189}{subsubsection.17.2.3}
+\contentsline {paragraph}{\numberline {17.2.3.1}Hipofunci\'o}{190}{paragraph.17.2.3.1}
+\contentsline {paragraph}{\numberline {17.2.3.2}Hiperfunci\'o}{190}{paragraph.17.2.3.2}
+\contentsline {section}{\numberline {18}Metabolisme ossi}{191}{section.18}
+\contentsline {subsection}{\numberline {18.1}Metabolisme del calci}{191}{subsection.18.1}
+\contentsline {subsubsection}{\numberline {18.1.1}Regulaci\'o del calci plasm\`atic}{191}{subsubsection.18.1.1}
+\contentsline {subsection}{\numberline {18.2}Metabolisme del fosfat}{192}{subsection.18.2}
+\contentsline {subsection}{\numberline {18.3}Metabolisme del magnesi}{192}{subsection.18.3}
+\contentsline {subsection}{\numberline {18.4}Mineralitzaci\'o \`ossia}{193}{subsection.18.4}
+\contentsline {subsection}{\numberline {18.5}Marcadors bioqu\IeC {\'\i }mics}{193}{subsection.18.5}
+\contentsline {subsubsection}{\numberline {18.5.1}Fosfatasa alcalina}{194}{subsubsection.18.5.1}
+\contentsline {subsubsection}{\numberline {18.5.2}Osteocalcina}{194}{subsubsection.18.5.2}
+\contentsline {subsubsection}{\numberline {18.5.3}Col\`agen}{195}{subsubsection.18.5.3}
+\contentsline {subsubsection}{\numberline {18.5.4}Fosfatasa \`acida}{195}{subsubsection.18.5.4}
+\contentsline {subsubsection}{\numberline {18.5.5}Calci en la orina/Creatinina}{195}{subsubsection.18.5.5}
+\contentsline {subsubsection}{\numberline {18.5.6}Hidroxiprolina en la orina}{196}{subsubsection.18.5.6}
+\contentsline {subsubsection}{\numberline {18.5.7}Fosfat\'uria}{196}{subsubsection.18.5.7}
+\contentsline {subsection}{\numberline {18.6}Patologies}{196}{subsection.18.6}
+\contentsline {subsubsection}{\numberline {18.6.1}Hipercalc\`emia}{196}{subsubsection.18.6.1}
+\contentsline {subsubsection}{\numberline {18.6.2}Hiperparatiro\IeC {\@umlaut \i }disme}{197}{subsubsection.18.6.2}
+\contentsline {subsubsection}{\numberline {18.6.3}Hipocalc\`emia}{197}{subsubsection.18.6.3}
+\contentsline {subsubsection}{\numberline {18.6.4}Hipercalci\'uria sense hipercalc\`emia}{198}{subsubsection.18.6.4}
+\contentsline {subsubsection}{\numberline {18.6.5}Hipofosfat\`emia}{198}{subsubsection.18.6.5}
+\contentsline {subsubsection}{\numberline {18.6.6}Hiperfosfat\`emia}{199}{subsubsection.18.6.6}
+\contentsline {subsubsection}{\numberline {18.6.7}Hipomagnes\`emia}{199}{subsubsection.18.6.7}
 \contentsfinish 
