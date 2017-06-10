@@ -1,0 +1,85 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex")
+
+(toc "toc" "    1 Defectes del tancament del tub neural" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 2 "1" "\\section{Defectes del tancament del tub neural}" 210)
+
+("sec:defect-del-tanc" "s" "\\subsection{El tub neural} Els defectes del tub neural són obertures de la medul·la espinal o del ce" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil)
+
+(toc "toc" "      1.1 El tub neural" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 3 "1.1" "\\subsection{El tub neural}" 287)
+
+("sec:el-tub-neural" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "      1.2 Defectes del tub neural" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 3 "1.2" "\\subsection{Defectes del tub neural}" 1015)
+
+("sec:defectes-del-tub" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+("tab:ntd" "t" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "      1.3 Caràcters multifactorials" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 3 "1.3" "\\subsection{Caràcters multifactorials}" 2636)
+
+("sec:caract-mult" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "        1.3.1 Model poligènic d'herència de caràcters quantitatius" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 4 "1.3.1" "\\subsubsection{Model poligènic d'herència de caràcters quantitatius}" 4025)
+
+("sec:model-polig-dher" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "        1.3.2 Model del llindar" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 4 "1.3.2" "\\subsubsection{Model del llindar}" 5538)
+
+("sec:model-del-llindar" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "      1.4 Factors genètics de risc per NTD" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 3 "1.4" "\\subsection{Factors genètics de risc per NTD}" 8027)
+
+("sec:factors-genetics-de" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "        1.4.1 Estudis de bessons" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 4 "1.3.3" "\\subsubsection{Estudis de bessons}" 8303)
+
+("sec:estudis-de-bessons" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "        1.3.4 Associació de NTDs amb algunes síndromes monogènics" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 4 "1.3.4" "\\subsubsection{Associació de NTDs amb algunes síndromes monogènics}" 9681)
+
+("sec:associacio-de-ntds" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "        1.3.5 Cromosomopaties" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 4 "1.3.5" "\\subsubsection{Cromosomopaties}" 10050)
+
+("sec:cromosomopaties" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "      1.4 Factors ambientals de risc per NTD" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 3 "1.4" "\\subsection{Factors ambientals de risc per NTD}" 10213)
+
+("sec:fact-ambi-de" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "      1.5 Factors genètics pels NTD relacionats amb el metabolisme del folat" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 3 "1.5" "\\subsection{Factors genètics pels NTD relacionats amb el metabolisme
+  del folat}" 12752)
+
+("sec:fact-genet-pels" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "        1.5.1 Metabolisme del folat i enzims implicats" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 4 "1.5.1" "\\subsubsection{Metabolisme del folat i enzims implicats}" 12845)
+
+("sec:metab-del-folat" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "        1.5.2 Folat i homocisteïna" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 4 "1.5.2" "\\subsubsection{Folat i homocisteïna}" 13311)
+
+("sec:folat-i-homocisteina" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil "")
+
+(toc "toc" "      1.6 El tub neural" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex" nil 3 "1.1" "\\subsection{El tub neural}" 287)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema12.tex")
+))
+

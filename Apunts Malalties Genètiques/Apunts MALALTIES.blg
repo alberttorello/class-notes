@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Apunts MALALTIES.aux
+The style file: authordate3.bst
+Database file #1: bibmalalties.bib
+You've used 22 entries,
+            2453 wiz_defined-function locations,
+            744 strings with 13728 characters,
+and the built_in function-call counts, 12518 in all, are:
+= -- 936
+> -- 1013
+< -- 70
++ -- 323
+- -- 323
+* -- 1382
+:= -- 2208
+add.period$ -- 88
+call.type$ -- 22
+change.case$ -- 136
+chr.to.int$ -- 22
+cite$ -- 22
+duplicate$ -- 352
+empty$ -- 723
+format.name$ -- 338
+if$ -- 2359
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 22
+newline$ -- 113
+num.names$ -- 66
+pop$ -- 115
+preamble$ -- 1
+purify$ -- 158
+quote$ -- 0
+skip$ -- 342
+stack$ -- 0
+substring$ -- 768
+swap$ -- 66
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 176
+warning$ -- 0
+while$ -- 85
+width$ -- 0
+write$ -- 288

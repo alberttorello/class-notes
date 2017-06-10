@@ -38,7 +38,89 @@
 \contentsline {subsubsection}{\numberline {4.2.2}Parcials}{42}{subsubsection.4.2.2}
 \contentsline {section}{\numberline {5}Malalties del genoma mitocondrial}{43}{section.5}
 \contentsline {subsection}{\numberline {5.1}Biologia del DNA mitocondrial}{43}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Mutacions al genoma mitocondrial}{44}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Her\`encia del genoma mitocondrial}{44}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Malalties mitocondrials}{45}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.2}Mutacions al genoma mitocondrial}{45}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Her\`encia del genoma mitocondrial}{45}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Malalties mitocondrials}{47}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Malalties per deleci\'o}{47}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Malalties per mutaci\'o puntual}{48}{subsubsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.3}Deplecions}{49}{subsubsection.5.4.3}
+\contentsline {subsection}{\numberline {5.5}Tractament de les malalties mitocondrials}{53}{subsection.5.5}
+\contentsline {section}{\numberline {6}Gen\`etica de la obesitat monog\`enica}{55}{section.6}
+\contentsline {subsection}{\numberline {6.1}Obesitat}{55}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Obesitat monog\`enica}{56}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Obesitat multifactorial}{57}{subsection.6.3}
+\contentsline {section}{\numberline {7}Malalties recessives lligades al cromosoma X}{59}{section.7}
+\contentsline {subsection}{\numberline {7.1}Malalties lligades al sexe}{59}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Distr\`ofia muscular de Duchenne}{59}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Patr\'o d'her\`encia de la distr\`ofia muscular de Duchenne}{59}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}El gen DMD}{60}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}La prote\IeC {\@umlaut \i }na distrofina}{61}{subsection.7.5}
+\contentsline {subsubsection}{\numberline {7.5.1}Complex DPC}{63}{subsubsection.7.5.1}
+\contentsline {subsection}{\numberline {7.6}Mutacions a DMD}{64}{subsection.7.6}
+\contentsline {subsubsection}{\numberline {7.6.1}Tipus de mutacions}{65}{subsubsection.7.6.1}
+\contentsline {subsection}{\numberline {7.7}Diagn\`ostic gen\`etic}{66}{subsection.7.7}
+\contentsline {subsection}{\numberline {7.8}An\`alisi de lligament}{67}{subsection.7.8}
+\contentsline {section}{\numberline {8}Malalties dominants lligades al cromosoma X}{70}{section.8}
+\contentsline {subsection}{\numberline {8.1}S\IeC {\'\i }ndrome de l'X fr\`agil}{70}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8.1.1}FRAXA}{70}{subsubsection.8.1.1}
+\contentsline {subsection}{\numberline {8.2}Gen FMR1}{71}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}Pre-mutaci\'o}{72}{subsubsection.8.2.1}
+\contentsline {subsection}{\numberline {8.3}Mecanismes d'expansi\'o/inestabilitat}{73}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}La prote\IeC {\@umlaut \i }na FMRP}{73}{subsection.8.4}
+\contentsline {section}{\numberline {9}Heterogene\IeC {\@umlaut \i }tat g\`enica. Retinitis pigmentosa}{76}{section.9}
+\contentsline {subsection}{\numberline {9.1}Retinitis pigmentosa}{76}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Cerca de gens implicats en la retinitis pigmentosa}{76}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Fototransducci\'o}{77}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Gens implicats en retinitis pigmentosa}{78}{subsubsection.9.2.2}
+\contentsline {section}{\numberline {10}Malalties cromos\`omiques}{80}{section.10}
+\contentsline {subsection}{\numberline {10.1}Els cromosomes}{80}{subsection.10.1}
+\contentsline {subsubsection}{\numberline {10.1.1}Cariotip}{81}{subsubsection.10.1.1}
+\contentsline {subsection}{\numberline {10.2}Aberracions cromos\`omiques}{81}{subsection.10.2}
+\contentsline {subsubsection}{\numberline {10.2.1}Aneuplo\IeC {\@umlaut \i }dia}{82}{subsubsection.10.2.1}
+\contentsline {subsubsection}{\numberline {10.2.2}Disomia uniparental}{82}{subsubsection.10.2.2}
+\contentsline {subsection}{\numberline {10.3}Aberracions estructurals}{82}{subsection.10.3}
+\contentsline {subsubsection}{\numberline {10.3.1}Delecions}{83}{subsubsection.10.3.1}
+\contentsline {subsubsection}{\numberline {10.3.2}Inversions}{83}{subsubsection.10.3.2}
+\contentsline {subsubsection}{\numberline {10.3.3}Cromosoma en anell}{83}{subsubsection.10.3.3}
+\contentsline {subsubsection}{\numberline {10.3.4}Translocacions}{83}{subsubsection.10.3.4}
+\contentsline {paragraph}{\numberline {10.3.4.1}Translocacions rec\IeC {\'\i }proques}{84}{paragraph.10.3.4.1}
+\contentsline {paragraph}{\numberline {10.3.4.2}Translocacions Robertsonianes}{84}{paragraph.10.3.4.2}
+\contentsline {paragraph}{\numberline {10.3.4.3}Translocacions insercionals}{85}{paragraph.10.3.4.3}
+\contentsline {subsubsection}{\numberline {10.3.5}Isocromosomes}{85}{subsubsection.10.3.5}
+\contentsline {subsection}{\numberline {10.4}S\IeC {\'\i }ndrome de Down}{85}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.5}S\IeC {\'\i }ndrome d'Edwards}{87}{subsection.10.5}
+\contentsline {subsection}{\numberline {10.6}S\IeC {\'\i }ndrome de Pateau}{87}{subsection.10.6}
+\contentsline {subsection}{\numberline {10.7}S\IeC {\'\i }ndromde de Klinefelter}{87}{subsection.10.7}
+\contentsline {subsection}{\numberline {10.8}S\IeC {\'\i }ndrome de Turner}{88}{subsection.10.8}
+\contentsline {subsection}{\numberline {10.9}Non-sense mediated RNA decay}{88}{subsection.10.9}
+\contentsline {section}{\numberline {11}Imprinting i malalties relacionades}{92}{section.11}
+\contentsline {subsection}{\numberline {11.1}\textit {Imprinting}}{92}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Si?ndrome de Beckwith-Wiedemann}{93}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}S\IeC {\'\i }ndrome de Prader-Willi i Angelman}{96}{subsection.11.3}
+\contentsline {subsubsection}{\numberline {11.3.1}Gen UBE3A}{97}{subsubsection.11.3.1}
+\contentsline {subsubsection}{\numberline {11.3.2}S\IeC {\'\i }ndrome de Prader-Willi}{98}{subsubsection.11.3.2}
+\contentsline {section}{\numberline {12}Cerca d'un gen per exoma. Opitz C i Bohring-Opitz}{102}{section.12}
+\contentsline {subsection}{\numberline {12.1}El s\IeC {\'\i }ndrome d'Opitz-C i Bohring-Opitz}{102}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Metodologia}{102}{subsection.12.2}
+\contentsline {subsection}{\numberline {12.3}Resultats}{102}{subsection.12.3}
+\contentsline {subsubsection}{\numberline {12.3.1}Estudi dels gens candidats}{102}{subsubsection.12.3.1}
+\contentsline {section}{\numberline {13}Defectes del tancament del tub neural}{104}{section.13}
+\contentsline {subsection}{\numberline {13.1}El tub neural}{104}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}Defectes del tub neural}{105}{subsection.13.2}
+\contentsline {subsection}{\numberline {13.3}Car\`acters multifactorials}{106}{subsection.13.3}
+\contentsline {subsubsection}{\numberline {13.3.1}Model polig\`enic d'her\`encia de car\`acters quantitatius}{107}{subsubsection.13.3.1}
+\contentsline {subsubsection}{\numberline {13.3.2}Model del llindar}{107}{subsubsection.13.3.2}
+\contentsline {subsection}{\numberline {13.4}NTD gen\`etic}{108}{subsection.13.4}
+\contentsline {subsubsection}{\numberline {13.4.1}Estudis de bessons}{108}{subsubsection.13.4.1}
+\contentsline {subsubsection}{\numberline {13.4.2}Associaci\'o de NTDs amb algunes s\IeC {\'\i }ndromes monog\`enics}{109}{subsubsection.13.4.2}
+\contentsline {subsubsection}{\numberline {13.4.3}Cromosomopaties}{109}{subsubsection.13.4.3}
+\contentsline {subsection}{\numberline {13.5}Factors ambientals de risc per NTD}{109}{subsection.13.5}
+\contentsline {subsection}{\numberline {13.6}Factors gen\`etics pels NTD relacionats amb el folat}{110}{subsection.13.6}
+\contentsline {subsubsection}{\numberline {13.6.1}Metabolisme del folat i enzims implicats}{110}{subsubsection.13.6.1}
+\contentsline {subsubsection}{\numberline {13.6.2}Folat i homociste\IeC {\@umlaut \i }na}{111}{subsubsection.13.6.2}
+\contentsline {section}{\numberline {14}Osteoporosi}{112}{section.14}
+\contentsline {subsection}{\numberline {14.1}Factors per la susceptibilitat a la osteoporosi}{112}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Implicaci\'o de polimorfismes del promotor del gen COLIA1 en la osteoporosi}{113}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}An\`alisis de tot el genoma}{113}{subsection.14.3}
+\contentsline {part}{Refer\`encies}{114}{section*.1}
 \contentsfinish 

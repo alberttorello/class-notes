@@ -1,0 +1,43 @@
+;; RefTeX parse info file
+;; File: /Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex
+;; User: alberttorelloperez (Albert Torelló Pérez)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/")
+
+(label-numbers)
+
+(bof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex")
+
+(toc "toc" "    1 Osteoporosi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex" nil 2 "1" "\\section{Osteoporosi}" 184)
+
+("sec:osteoporosi" "s" "La osteoporosi és una malaltia multifactorial (múltiples gens i variables ambientals). Sembla ser qu" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex" nil)
+
+(toc "toc" "      1.1 Factors per la susceptibilitat a la osteoporosi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex" nil 3 "1.1" "\\subsection{Factors per la susceptibilitat a la osteoporosi}" 1226)
+
+("sec:factors-per-la" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex" nil "")
+
+(toc "toc" "      1.2 Implicació de polimorfismes del promotor del gen COLIA1 en la osteoporosi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex" nil 3 "1.2" "\\subsection{Implicació de polimorfismes del promotor del gen COLIA1 en
+  la osteoporosi}" 2020)
+
+("sec:impl-de-polim" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex" nil "")
+
+(toc "toc" "      1.3 Anàlisis de tot el genoma" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex" nil 3 "1.3" "\\subsection{Anàlisis de tot el genoma}" 2896)
+
+("sec:analisis-de-tot" "s" nil "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex" nil "")
+
+(toc "toc" "      1.4 Factors per la susceptibilitat a la osteoporosi" "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex" nil 3 "1.1" "\\subsection{Factors per la susceptibilitat a la osteoporosi}" 1226)
+
+(eof "/Users/alberttorelloperez/Documents/Class Notes/Apunts Malalties Genètiques/Temes/Tema13.tex")
+))
+
